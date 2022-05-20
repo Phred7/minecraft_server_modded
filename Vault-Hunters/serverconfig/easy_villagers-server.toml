@@ -39,17 +39,17 @@
 	trade_cooldown = 20
 
 [villager]
-	#If villagers should make sounds while in the players inventory
-	inventory_sounds = true
-	#How frequent a villager block should make a villager sound
-	#Lower values mean more frequent sounds
-	#Range: > 1
-	sound_amount = 20
 	#If the trade cycling button should be enabled
 	trade_cycling = true
 	#If the villager reputation should be the same for every player
 	#This affects the prices of cured/converted villagers and the prices of the auto trader
 	universal_reputation = true
+	#How frequent a villager block should make a villager sound
+	#Lower values mean more frequent sounds
+	#Range: > 1
+	sound_amount = 20
+	#If villagers should make sounds while in the players inventory
+	inventory_sounds = true
 
 [incubator]
 	#The speed at which the incubator ages the villagers
