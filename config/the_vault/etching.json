@@ -1,0 +1,132 @@
+{
+  "ETCHINGS": {
+    "NONE": {
+      "weight": 1,
+      "minValue": 1,
+      "maxValue": 2,
+      "lore": "yes",
+      "effectText": "yes",
+      "color": 5636095
+    },
+    "DRAGON": {
+      "weight": 6,
+      "minValue": 12,
+      "maxValue": 24,
+      "lore": "yes",
+      "effectText": "+50% Damage and grants Elytra Wings",
+      "color": 5636095
+    },
+    "ZOD": {
+      "weight": 2,
+      "minValue": 26,
+      "maxValue": 64,
+      "lore": "yes",
+      "effectText": "Makes all armour pieces indestructible",
+      "color": 13158600
+    },
+    "NINJA": {
+      "weight": 10,
+      "minValue": 7,
+      "maxValue": 16,
+      "lore": "yes",
+      "effectText": "+30% Parry and +10% Parry Cap",
+      "color": 5046445
+    },
+    "GOLEM": {
+      "weight": 10,
+      "minValue": 7,
+      "maxValue": 16,
+      "lore": "yes",
+      "effectText": "+20% Resistance Cap",
+      "color": 4029206
+    },
+    "RIFT": {
+      "weight": 5,
+      "minValue": 14,
+      "maxValue": 28,
+      "lore": "yes",
+      "effectText": "+50% Cooldown Reduction, applied on top of regular Cooldown Reduction and surpasses caps",
+      "color": 4029393
+    },
+    "CARAPACE": {
+      "weight": 6,
+      "minValue": 10,
+      "maxValue": 20,
+      "lore": "yes",
+      "effectText": "+50% Absorption Heart Cap",
+      "color": 4039156
+    },
+    "DIVINITY": {
+      "weight": 5,
+      "minValue": 14,
+      "maxValue": 36,
+      "lore": "yes",
+      "effectText": "Grants immunity to all curses",
+      "color": 4046406
+    },
+    "DRYAD": {
+      "weight": 2,
+      "minValue": 18,
+      "maxValue": 36,
+      "lore": "yes",
+      "effectText": "+10 Hearts",
+      "color": 4046461
+    },
+    "BLOOD": {
+      "weight": 4,
+      "minValue": 12,
+      "maxValue": 28,
+      "lore": "yes",
+      "effectText": "+200% Damage",
+      "color": 12386304
+    },
+    "VAMPIRE": {
+      "weight": 10,
+      "minValue": 7,
+      "maxValue": 16,
+      "lore": "yes",
+      "effectText": "+5% Life Leech",
+      "color": 12386427
+    },
+    "TREASURE": {
+      "weight": 5,
+      "minValue": 18,
+      "maxValue": 64,
+      "lore": "yes",
+      "effectText": "+200% Chest Rarity",
+      "color": 12451707
+    },
+    "ASSASSIN": {
+      "weight": 4,
+      "minValue": 7,
+      "maxValue": 16,
+      "lore": "yes",
+      "effectText": "+40% Fatal Strike Chance",
+      "color": 13930844
+    },
+    "PHOENIX": {
+      "weight": 2,
+      "minValue": 14,
+      "maxValue": 28,
+      "lore": "yes",
+      "effectText": "Respawn and reset inventory on death in a vault",
+      "color": 16739386
+    },
+    "DREAM": {
+      "weight": 5,
+      "minValue": 16,
+      "maxValue": 48,
+      "lore": "yes",
+      "effectText": "+50% Damage, +2 Haste, +10% Resistance, +10% Parry, +25% Chest Rarity",
+      "color": 16773120
+    },
+    "PORCUPINE": {
+      "weight": 10,
+      "minValue": 12,
+      "maxValue": 32,
+      "lore": "yes",
+      "effectText": "+40% Thorns Chance, +100% Thorns Damage",
+      "color": 3093151
+    }
+  }
+}

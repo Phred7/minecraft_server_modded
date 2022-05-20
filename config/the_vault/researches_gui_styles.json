@@ -1,0 +1,384 @@
+{
+  "styles": {
+    "More Chests": {
+      "x": 10,
+      "y": 0,
+      "frameType": "RECTANGULAR",
+      "u": 0,
+      "v": 16
+    },
+    "Pretty Pipes": {
+      "x": 60,
+      "y": 0,
+      "frameType": "RECTANGULAR",
+      "u": 0,
+      "v": 32
+    },
+    "RFTools Storage": {
+      "x": 10,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "u": 0,
+      "v": 48
+    },
+    "Refined Storage": {
+      "x": 60,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "u": 0,
+      "v": 64
+    },
+    "Applied Energistics": {
+      "x": 110,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "u": 0,
+      "v": 80
+    },
+    "Drawers": {
+      "x": 110,
+      "y": 0,
+      "frameType": "RECTANGULAR",
+      "u": 0,
+      "v": 96
+    },
+    "Mekanism QIO": {
+      "x": 10,
+      "y": 80,
+      "frameType": "RECTANGULAR",
+      "u": 0,
+      "v": 112
+    },
+    "Vault Looter": {
+      "x": 60,
+      "y": 80,
+      "frameType": "RECTANGULAR",
+      "u": 0,
+      "v": 128
+    },
+    "Furniture": {
+      "x": 200,
+      "y": 0,
+      "frameType": "RECTANGULAR",
+      "u": 96,
+      "v": 16
+    },
+    "Decorator": {
+      "x": 250,
+      "y": 0,
+      "frameType": "RECTANGULAR",
+      "u": 96,
+      "v": 32
+    },
+    "More Lights": {
+      "x": 300,
+      "y": 0,
+      "frameType": "RECTANGULAR",
+      "u": 96,
+      "v": 48
+    },
+    "Chef": {
+      "x": 200,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "u": 96,
+      "v": 64
+    },
+    "Test Dummies": {
+      "x": 250,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "u": 96,
+      "v": 80
+    },
+    "Fairy Lights": {
+      "x": 300,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "u": 96,
+      "v": 96
+    },
+    "Easy Villagers": {
+      "x": 10,
+      "y": 160,
+      "frameType": "RECTANGULAR",
+      "u": 32,
+      "v": 16
+    },
+    "SNAD": {
+      "x": 60,
+      "y": 160,
+      "frameType": "RECTANGULAR",
+      "u": 32,
+      "v": 32
+    },
+    "Quarry": {
+      "x": 110,
+      "y": 160,
+      "frameType": "RECTANGULAR",
+      "u": 32,
+      "v": 48
+    },
+    "Digital Miner": {
+      "x": 10,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "u": 32,
+      "v": 64
+    },
+    "Garden Cloche": {
+      "x": 60,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "u": 32,
+      "v": 80
+    },
+    "Mining Gadgets": {
+      "x": 110,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "u": 32,
+      "v": 96
+    },
+    "Mob Spawners": {
+      "x": 10,
+      "y": 240,
+      "frameType": "RECTANGULAR",
+      "u": 32,
+      "v": 112
+    },
+    "Laser Mining": {
+      "x": 60,
+      "y": 240,
+      "frameType": "RECTANGULAR",
+      "u": 32,
+      "v": 128
+    },
+    "Phytogenic Insulator": {
+      "x": 110,
+      "y": 240,
+      "frameType": "RECTANGULAR",
+      "u": 176,
+      "v": 208
+    },
+    "Create": {
+      "x": 200,
+      "y": 160,
+      "frameType": "RECTANGULAR",
+      "u": 48,
+      "v": 16
+    },
+    "Mekanism": {
+      "x": 250,
+      "y": 160,
+      "frameType": "RECTANGULAR",
+      "u": 48,
+      "v": 32
+    },
+    "Thermal Expansion": {
+      "x": 300,
+      "y": 160,
+      "frameType": "RECTANGULAR",
+      "u": 48,
+      "v": 48
+    },
+    "Industrial Foregoing": {
+      "x": 200,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "u": 48,
+      "v": 64
+    },
+    "Immersive Engineering": {
+      "x": 250,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "u": 48,
+      "v": 80
+    },
+    "Engineers Decor": {
+      "x": 300,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "u": 48,
+      "v": 96
+    },
+    "Iron Furnaces": {
+      "x": 200,
+      "y": 240,
+      "frameType": "RECTANGULAR",
+      "u": 48,
+      "v": 112
+    },
+    "RFTools Base": {
+      "x": 250,
+      "y": 240,
+      "frameType": "RECTANGULAR",
+      "u": 48,
+      "v": 128
+    },
+    "Automatic Genius": {
+      "x": 300,
+      "y": 240,
+      "frameType": "RECTANGULAR",
+      "u": 114,
+      "v": 192
+    },
+    "Flux Networks": {
+      "x": 390,
+      "y": 0,
+      "frameType": "RECTANGULAR",
+      "u": 64,
+      "v": 16
+    },
+    "Powah": {
+      "x": 440,
+      "y": 0,
+      "frameType": "RECTANGULAR",
+      "u": 64,
+      "v": 32
+    },
+    "RFTools Power": {
+      "x": 490,
+      "y": 0,
+      "frameType": "RECTANGULAR",
+      "u": 64,
+      "v": 48
+    },
+    "Mekanism Generators": {
+      "x": 390,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "u": 64,
+      "v": 64
+    },
+    "Xnet": {
+      "x": 390,
+      "y": 160,
+      "frameType": "RECTANGULAR",
+      "u": 80,
+      "v": 16
+    },
+    "Modular Routers": {
+      "x": 440,
+      "y": 160,
+      "frameType": "RECTANGULAR",
+      "u": 80,
+      "v": 32
+    },
+    "Dark Utilities": {
+      "x": 490,
+      "y": 160,
+      "frameType": "RECTANGULAR",
+      "u": 80,
+      "v": 48
+    },
+    "Waystones": {
+      "x": 390,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "u": 80,
+      "v": 64
+    },
+    "Torch Master": {
+      "x": 440,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "u": 80,
+      "v": 80
+    },
+    "Trashcans": {
+      "x": 490,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "u": 80,
+      "v": 96
+    },
+    "Elevators": {
+      "x": 390,
+      "y": 240,
+      "frameType": "RECTANGULAR",
+      "u": 80,
+      "v": 112
+    },
+    "RFTools Utility": {
+      "x": 440,
+      "y": 240,
+      "frameType": "RECTANGULAR",
+      "u": 80,
+      "v": 128
+    },
+    "Dimensional Storage": {
+      "x": 490,
+      "y": 240,
+      "frameType": "RECTANGULAR",
+      "u": 80,
+      "v": 144
+    },
+    "Building Gadgets": {
+      "x": 200,
+      "y": 320,
+      "frameType": "RECTANGULAR",
+      "u": 16,
+      "v": 16
+    },
+    "Botania": {
+      "x": 250,
+      "y": 320,
+      "frameType": "RECTANGULAR",
+      "u": 16,
+      "v": 32
+    },
+    "Jetpacks": {
+      "x": 300,
+      "y": 320,
+      "frameType": "RECTANGULAR",
+      "u": 16,
+      "v": 48
+    },
+    "Backpacks": {
+      "x": 200,
+      "y": 360,
+      "frameType": "RECTANGULAR",
+      "u": 16,
+      "v": 64
+    },
+    "Danks": {
+      "x": 250,
+      "y": 360,
+      "frameType": "RECTANGULAR",
+      "u": 16,
+      "v": 80
+    },
+    "Extendo Arm": {
+      "x": 300,
+      "y": 360,
+      "frameType": "RECTANGULAR",
+      "u": 16,
+      "v": 96
+    },
+    "Powerful Arrows": {
+      "x": 200,
+      "y": 400,
+      "frameType": "RECTANGULAR",
+      "u": 16,
+      "v": 112
+    },
+    "Vault Blacksmith": {
+      "x": 250,
+      "y": 400,
+      "frameType": "RECTANGULAR",
+      "u": 16,
+      "v": 128
+    },
+    "Vault Powerups": {
+      "x": 300,
+      "y": 400,
+      "frameType": "RECTANGULAR",
+      "u": 16,
+      "v": 144
+    }
+    
+  }
+    
+}

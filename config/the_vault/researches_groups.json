@@ -1,0 +1,126 @@
+{
+  "groups": {
+    "Storage": {
+      "title": "Storage",
+      "research": [
+        "More Chests",
+        "Pretty Pipes",
+        "RFTools Storage",
+        "Refined Storage",
+        "Applied Energistics",
+        "Drawers",
+        "Mekanism QIO",
+        "Vault Looter"
+      ],
+      "globalCostIncrease": 0.5,
+      "groupCostIncrease": {
+        "Storage": 2.0,
+        "Power": 1.0
+      }
+    },
+    "VaultUtils": {
+      "title": "Utilities",
+      "research": [
+        "Backpacks",
+        "Building Gadgets",
+        "Botania",
+        "Jetpacks",
+        "Danks",
+        "Extendo Arm",
+        "Powerful Arrows",
+        "Vault Blacksmith",
+        "Vault Powerups"
+      ],
+      "globalCostIncrease": 0.5,
+      "groupCostIncrease": {
+        "VaultUtils": 2.0
+      }
+    },
+    "Farming": {
+      "title": "Farming",
+      "research": [
+        "Easy Villagers",
+        "SNAD",
+        "Quarry",
+        "Digital Miner",
+        "Garden Cloche",
+        "Mining Gadgets",
+        "Mob Spawners",
+        "Laser Mining",
+        "Phytogenic Insulator"
+      ],
+      "globalCostIncrease": 0.5,
+      "groupCostIncrease": {
+        "Farming": 2.0,
+        "Processing": 1.0
+      }
+    },
+    "Processing": {
+      "title": "Processing",
+      "research": [
+        "Create",
+        "Mekanism",
+        "Thermal Expansion",
+        "Industrial Foregoing",
+        "Immersive Engineering",
+        "Engineers Decor",
+        "Iron Furnaces",
+        "RFTools Base",
+        "Automatic Genius"
+      ],
+      "globalCostIncrease": 0.5,
+      "groupCostIncrease": {
+        "Processing": 2.0,
+        "Farming": 1.0
+      }
+    },
+    "Power": {
+      "title": "Power",
+      "research": [
+        "Flux Networks",
+        "Powah",
+        "RFTools Power",
+        "Mekanism Generators"
+      ],
+      "globalCostIncrease": 0.5,
+      "groupCostIncrease": {
+        "Power": 4.0,
+        "Farming": 1.0,
+        "Storage": 1.0,
+        "Processing": 1.0
+      }
+    },
+    "Base": {
+      "title": "Base",
+      "research": [
+        "Xnet",
+        "Dark Utilities",
+        "Waystones",
+        "Torch Master",
+        "Trashcans",
+        "Elevators",
+        "RFTools Utility",
+        "Dimensional Storage",
+        "Modular Routers"
+      ],
+      "globalCostIncrease": 0.5,
+      "groupCostIncrease": {
+        "Base": 1.0
+      }
+    },
+    "Decoration": {
+      "title": "Decoration",
+      "research": [
+        "Furniture",
+        "Decorator",
+        "More Lights",
+        "Chef",
+        "Test Dummies",
+        "Fairy Lights"
+      ],
+      "globalCostIncrease": -1.0,
+      "groupCostIncrease": {
+      }
+    }
+  }
+}

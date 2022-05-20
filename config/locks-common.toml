@@ -1,0 +1,12 @@
+#Chance to generate a random lock on every new chest during world generation. Set to 0 to disable
+#Range: 0.0 ~ 1.0
+"Generation Chance" = 0.75
+#The minimum amount of pins on every generated lock (inclusive)
+#Range: 1 ~ 30
+"Min Generated Lock Length" = 5
+#The maximum amount of pins on every generated lock (exclusive)
+#Range: 1 ~ 30
+"Max Generated Lock Length" = 9
+#Randomize lock IDs and combinations when loading them from a structure file. Randomization works just like during world generation
+"Randomize Loaded Locks" = false
+

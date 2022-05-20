@@ -1,0 +1,483 @@
+{
+  "EFFECT_AURAS": [
+    {
+      "effect": {
+        "effect": "minecraft:regeneration",
+        "amplifier": 1,
+        "type": "icon_only",
+        "operator": "add",
+        "cost": 0,
+        "levelRequirement": 0
+      },
+      "name": "Regeneration1",
+      "displayName": "Regeneration 1",
+      "description": "Grants an aura of Regeneration +1",
+      "iconPath": "the_vault:textures/entity/aura/aura_regeneration.png",
+      "radius": 5.0
+    },
+    {
+      "effect": {
+        "effect": "minecraft:regeneration",
+        "amplifier": 2,
+        "type": "icon_only",
+        "operator": "add",
+        "cost": 0,
+        "levelRequirement": 0
+      },
+      "name": "Regeneration2",
+      "displayName": "Regeneration 2",
+      "description": "Grants an aura of Regeneration +2",
+      "iconPath": "the_vault:textures/entity/aura/aura_regeneration.png",
+      "radius": 5.0
+    },
+    {
+      "effect": {
+        "effect": "minecraft:luck",
+        "amplifier": 1,
+        "type": "icon_only",
+        "operator": "add",
+        "cost": 0,
+        "levelRequirement": 0
+      },
+      "name": "Luck1",
+      "displayName": "Luck",
+      "description": "Grants an aura of Luck +1",
+      "iconPath": "the_vault:textures/entity/aura/aura_lucky.png",
+      "radius": 5.0
+    },
+    {
+      "effect": {
+        "effect": "minecraft:luck",
+        "amplifier": 2,
+        "type": "icon_only",
+        "operator": "add",
+        "cost": 0,
+        "levelRequirement": 0
+      },
+      "name": "Luck2",
+      "displayName": "Luck 2",
+      "description": "Grants an aura of Luck +2",
+      "iconPath": "the_vault:textures/entity/aura/aura_lucky_2.png",
+      "radius": 5.0
+    },
+    {
+      "effect": {
+        "effect": "minecraft:haste",
+        "amplifier": 1,
+        "type": "icon_only",
+        "operator": "add",
+        "cost": 0,
+        "levelRequirement": 0
+      },
+      "name": "Haste1",
+      "displayName": "Haste 1",
+      "description": "Grants an aura of Haste +1",
+      "iconPath": "the_vault:textures/entity/aura/aura_haste.png",
+      "radius": 5.0
+    },
+    {
+      "effect": {
+        "effect": "minecraft:haste",
+        "amplifier": 2,
+        "type": "icon_only",
+        "operator": "add",
+        "cost": 0,
+        "levelRequirement": 0
+      },
+      "name": "Haste2",
+      "displayName": "Haste 2",
+      "description": "Grants an aura of Haste +2",
+      "iconPath": "the_vault:textures/entity/aura/aura_haste_2.png",
+      "radius": 5.0
+    },
+    {
+      "effect": {
+        "effect": "minecraft:speed",
+        "amplifier": 1,
+        "type": "icon_only",
+        "operator": "add",
+        "cost": 0,
+        "levelRequirement": 0
+      },
+      "name": "Speed1",
+      "displayName": "Speed 1",
+      "description": "Grants an aura of Speed +1",
+      "iconPath": "the_vault:textures/entity/aura/aura_speed.png",
+      "radius": 5.0
+    },
+    {
+      "effect": {
+        "effect": "minecraft:speed",
+        "amplifier": 2,
+        "type": "icon_only",
+        "operator": "add",
+        "cost": 0,
+        "levelRequirement": 0
+      },
+      "name": "Speed2",
+      "displayName": "Speed 2",
+      "description": "Grants an aura of Speed +2",
+      "iconPath": "the_vault:textures/entity/aura/aura_speed_2.png",
+      "radius": 5.0
+    },
+    {
+      "effect": {
+        "effect": "minecraft:strength",
+        "amplifier": 1,
+        "type": "icon_only",
+        "operator": "add",
+        "cost": 0,
+        "levelRequirement": 0
+      },
+      "name": "Strength1",
+      "displayName": "Strength 1",
+      "description": "Grants an aura of Strength",
+      "iconPath": "the_vault:textures/entity/aura/aura_strength.png",
+      "radius": 5.0
+    },
+    {
+      "effect": {
+        "effect": "minecraft:strength",
+        "amplifier": 1,
+        "type": "icon_only",
+        "operator": "add",
+        "cost": 0,
+        "levelRequirement": 0
+      },
+      "name": "Strength2",
+      "displayName": "Strength 2",
+      "description": "Grants an aura of Strength +2",
+      "iconPath": "the_vault:textures/entity/aura/aura_strength_2.png",
+      "radius": 5.0
+    },
+    {
+      "effect": {
+        "effect": "minecraft:saturation",
+        "amplifier": 1,
+        "type": "icon_only",
+        "operator": "add",
+        "cost": 0,
+        "levelRequirement": 0
+      },
+      "name": "Saturation",
+      "displayName": "Saturation",
+      "description": "Grants an aura of Saturation",
+      "iconPath": "the_vault:textures/entity/aura/aura_saturation.png",
+      "radius": 5.0
+    }
+  ],
+  "PARRY_AURAS": [
+    {
+      "additionalParryChance": 0.02,
+      "name": "Parry2",
+      "displayName": "Parry 2%",
+      "description": "Players in aura have +2% Parry",
+      "iconPath": "the_vault:textures/entity/aura/aura_parry.png",
+      "radius": 5.0
+    },
+    {
+      "additionalParryChance": 0.04,
+      "name": "Parry4",
+      "displayName": "Parry 4%",
+      "description": "Players in aura have +4% Parry",
+      "iconPath": "the_vault:textures/entity/aura/aura_parry_4.png",
+      "radius": 5.0
+    },
+    {
+      "additionalParryChance": 0.06,
+      "name": "Parry6",
+      "displayName": "Parry 6%",
+      "description": "Players in aura have +6% Parry",
+      "iconPath": "the_vault:textures/entity/aura/aura_parry_6.png",
+      "radius": 5.0
+    },
+    {
+      "additionalParryChance": 0.08,
+      "name": "Parry8",
+      "displayName": "Parry 8%",
+      "description": "Players in aura have +8% Parry",
+      "iconPath": "the_vault:textures/entity/aura/aura_parry_8.png",
+      "radius": 5.0
+    },
+    {
+      "additionalParryChance": 0.1,
+      "name": "Parry10",
+      "displayName": "Parry 10%",
+      "description": "Players in aura have +10% Parry",
+      "iconPath": "the_vault:textures/entity/aura/aura_parry_10.png",
+      "radius": 5.0
+    }
+  ],
+  "RESISTANCE_AURAS": [
+    {
+      "additionalResistance": 0.02,
+      "name": "Resistance2",
+      "displayName": "Resistance 2%",
+      "description": "Players in aura have +2% Resistance",
+      "iconPath": "the_vault:textures/entity/aura/aura_resistance.png",
+      "radius": 5.0
+    },
+    {
+      "additionalResistance": 0.04,
+      "name": "Resistance4",
+      "displayName": "Resistance 4%",
+      "description": "Players in aura have +4% Resistance",
+      "iconPath": "the_vault:textures/entity/aura/aura_resistance_4.png",
+      "radius": 5.0
+    },
+    {
+      "additionalResistance": 0.06,
+      "name": "Resistance6",
+      "displayName": "Resistance 6%",
+      "description": "Players in aura have +6% Resistance",
+      "iconPath": "the_vault:textures/entity/aura/aura_resistance_6.png",
+      "radius": 5.0
+    },
+    {
+      "additionalResistance": 0.08,
+      "name": "Resistance8",
+      "displayName": "Resistance 8%",
+      "description": "Players in aura have +8% Resistance",
+      "iconPath": "the_vault:textures/entity/aura/aura_resistance_8.png",
+      "radius": 5.0
+    },
+    {
+      "additionalResistance": 0.1,
+      "name": "Resistance10",
+      "displayName": "Resistance 10%",
+      "description": "Players in aura have +10% Resistance",
+      "iconPath": "the_vault:textures/entity/aura/aura_resistance_10.png",
+      "radius": 5.0
+    }
+  ],
+  "TAUNT_AURAS": [
+    {
+      "tauntInterval": 100,
+      "name": "Taunt1",
+      "displayName": "Taunt 1",
+      "description": "Periodically taunts enemies nearby",
+      "iconPath": "the_vault:textures/entity/aura/aura_taunt.png",
+      "radius": 8.0
+    },
+    {
+      "tauntInterval": 60,
+      "name": "Taunt2",
+      "displayName": "Taunt 2",
+      "description": "Periodically taunts enemies nearby",
+      "iconPath": "the_vault:textures/entity/aura/aura_taunt_2.png",
+      "radius": 10.0
+    },
+    {
+      "tauntInterval": 40,
+      "name": "Taunt3",
+      "displayName": "Taunt 3",
+      "description": "Periodically taunts enemies nearby",
+      "iconPath": "the_vault:textures/entity/aura/aura_taunt_3.png",
+      "radius": 12.0
+    }
+  ],
+  "MOB_EFFECT_AURAS": [
+    {
+      "effect": "minecraft:slowness",
+      "amplifier": 1,
+      "name": "Mob_Slowness1",
+      "displayName": "Slowness 1",
+      "description": "Applies Slowness 1 to enemies in its radius",
+      "iconPath": "the_vault:textures/entity/aura/aura_slowness.png",
+      "radius": 8.0
+    },
+    {
+      "effect": "minecraft:slowness",
+      "amplifier": 2,
+      "name": "Mob_Slowness2",
+      "displayName": "Slowness 2",
+      "description": "Applies Slowness 2 to enemies in its radius",
+      "iconPath": "the_vault:textures/entity/aura/aura_slowness_2.png",
+      "radius": 8.0
+    },
+    {
+      "effect": "minecraft:slowness",
+      "amplifier": 3,
+      "name": "Mob_Slowness3",
+      "displayName": "Slowness 3",
+      "description": "Applies Slowness 3 to enemies in its radius",
+      "iconPath": "the_vault:textures/entity/aura/aura_slowness_3.png",
+      "radius": 8.0
+    },
+    {
+      "effect": "minecraft:weakness",
+      "amplifier": 1,
+      "name": "Mob_Weakness1",
+      "displayName": "Weakness 1",
+      "description": "Applies Weakness 1 to enemies in its radius",
+      "iconPath": "the_vault:textures/entity/aura/aura_weakness.png",
+      "radius": 8.0
+    },
+    {
+      "effect": "minecraft:weakness",
+      "amplifier": 2,
+      "name": "Mob_Weakness2",
+      "displayName": "Weakness 2",
+      "description": "Applies Weakness 2 to enemies in its radius",
+      "iconPath": "the_vault:textures/entity/aura/aura_weakness_2.png",
+      "radius": 8.0
+    },
+    {
+      "effect": "minecraft:wither",
+      "amplifier": 1,
+      "name": "Mob_Wither1",
+      "displayName": "Wither 1",
+      "description": "Applies Wither 1 to enemies in its radius",
+      "iconPath": "the_vault:textures/entity/aura/aura_withering_3.png",
+      "radius": 8.0
+    },
+    {
+      "effect": "minecraft:wither",
+      "amplifier": 2,
+      "name": "Mob_Wither2",
+      "displayName": "Wither 2",
+      "description": "Applies Wither 2 to enemies in its radius",
+      "iconPath": "the_vault:textures/entity/aura/aura_withering.png",
+      "radius": 8.0
+    },
+    {
+      "effect": "minecraft:wither",
+      "amplifier": 3,
+      "name": "Mob_Wither3",
+      "displayName": "Wither 3",
+      "description": "Applies Wither 3 to enemies in its radius",
+      "iconPath": "the_vault:textures/entity/aura/aura_withering_2.png",
+      "radius": 8.0
+    }
+  ],
+  "availableAuras": [
+    {
+      "value": "Regeneration1",
+      "weight": 4
+    },
+    {
+      "value": "Regeneration2",
+      "weight": 2
+    },
+    {
+      "value": "Luck1",
+      "weight": 2
+    },
+    {
+      "value": "Luck2",
+      "weight": 1
+    },
+    {
+      "value": "Haste1",
+      "weight": 12
+    },
+    {
+      "value": "Haste2",
+      "weight": 8
+    },
+    {
+      "value": "Speed1",
+      "weight": 16
+    },
+    {
+      "value": "Speed2",
+      "weight": 8
+    },
+    {
+      "value": "Strength1",
+      "weight": 5
+    },
+    {
+      "value": "Strength2",
+      "weight": 3
+    },
+    {
+      "value": "Saturation",
+      "weight": 32
+    },
+    {
+      "value": "Parry2",
+      "weight": 48
+    },
+    {
+      "value": "Parry4",
+      "weight": 32
+    },
+    {
+      "value": "Parry6",
+      "weight": 16
+    },
+    {
+      "value": "Parry8",
+      "weight": 8
+    },
+    {
+      "value": "Parry10",
+      "weight": 4
+    },
+    {
+      "value": "Resistance2",
+      "weight": 48
+    },
+    {
+      "value": "Resistance4",
+      "weight": 40
+    },
+    {
+      "value": "Resistance6",
+      "weight": 12
+    },
+    {
+      "value": "Resistance8",
+      "weight": 8
+    },
+    {
+      "value": "Resistance10",
+      "weight": 4
+    },
+    {
+      "value": "Taunt1",
+      "weight": 24
+    },
+    {
+      "value": "Taunt2",
+      "weight": 12
+    },
+    {
+      "value": "Taunt3",
+      "weight": 8
+    },
+    {
+      "value": "Mob_Slowness1",
+      "weight": 36
+    },
+    {
+      "value": "Mob_Slowness2",
+      "weight": 24
+    },
+    {
+      "value": "Mob_Slowness3",
+      "weight": 12
+    },
+    {
+      "value": "Mob_Weakness1",
+      "weight": 48
+    },
+    {
+      "value": "Mob_Weakness2",
+      "weight": 32
+    },
+    {
+      "value": "Mob_Wither1",
+      "weight": 36
+    },
+    {
+      "value": "Mob_Wither2",
+      "weight": 16
+    },
+    {
+      "value": "Mob_Wither3",
+      "weight": 8
+    }
+  ]
+}
