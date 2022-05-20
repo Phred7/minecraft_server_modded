@@ -1,0 +1,13 @@
+
+#General settings
+[general]
+	#Allow players to change the DimChest's frequency, default: true
+	allowFrequency = true
+	#Allow players to make DimChest private, default: true
+	allowPrivateNetwork = true
+	#It is the diameter in which DimChest checks the inventories, default: 3
+	#Range: 3 ~ 7
+	diameter = 3
+	#A list of blocks that the DimTablet takes and transfers to the connected DimChest, [/dimstorage add] adds the item you have in the main hand to this list
+	list = ["minecraft:dirt", "minecraft:gravel", "minecraft:cobblestone", "minecraft:granite", "minecraft:diorite", "minecraft:andesite", "minecraft:sand", "minecraft:sandstone", "minecraft:netherrack", "minecraft:end_stone"]
+
