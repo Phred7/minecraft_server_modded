@@ -1,0 +1,6 @@
+
+[Blocks]
+	#How often entity detectors will check for entities (in ticks per update)
+	#Range: > 1
+	refresh_rate = 10
+
