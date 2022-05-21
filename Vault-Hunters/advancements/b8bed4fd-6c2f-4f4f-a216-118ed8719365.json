@@ -1343,6 +1343,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2022-05-20 21:40:50 -0700"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/fancy_granite_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:49 -0700"
@@ -3359,6 +3365,12 @@
     },
     "done": true
   },
+  "usefulrailroads:recipes/fuel/track_builder/coal_blocks": {
+    "criteria": {
+      "has_ingredient": "2022-05-20 20:26:49 -0700"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:46 -0700"
@@ -3965,6 +3977,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2022-05-20 20:24:24 -0700",
+      "minecraft:zombie": "2022-05-20 20:17:32 -0700"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:47 -0700"
@@ -4130,6 +4149,12 @@
   "mcwdoors:recipes/garage_white_door": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:47 -0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/twig_wand": {
+    "criteria": {
+      "has_item": "2022-05-20 20:10:35 -0700"
     },
     "done": true
   },
@@ -4652,6 +4677,12 @@
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:44 -0700"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/modularrouters/blank_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-05-20 20:22:59 -0700"
     },
     "done": true
   },
@@ -6341,6 +6372,12 @@
     },
     "done": true
   },
+  "trashcans:recipes/search/liquid_trash_can": {
+    "criteria": {
+      "bucket": "2022-05-20 21:40:15 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:48 -0700"
@@ -7100,6 +7137,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/metal_barrel": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-05-20 21:43:52 -0700"
     },
     "done": true
   },
@@ -9074,6 +9117,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_gray": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:49 -0700"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2022-05-20 20:12:16 -0700"
     },
     "done": true
   },
@@ -15281,6 +15330,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-05-20 21:40:50 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:48 -0700"
@@ -17945,6 +18000,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2022-05-20 21:53:43 -0700"
+    },
+    "done": true
+  },
   "modularrouters:recipes/modularrouters/speed_upgrade": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:48 -0700"
@@ -19907,6 +19968,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/apothecary_default": {
+    "criteria": {
+      "has_item": "2022-05-20 20:10:35 -0700"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_from_dust": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:46 -0700"
@@ -21293,6 +21360,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2022-05-20 20:12:18 -0700"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_dolomite_from_dolomite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:45 -0700"
@@ -21590,6 +21663,12 @@
   "mcwroofs:recipes/spruce_four_way_roof": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-05-20 21:40:50 -0700"
     },
     "done": true
   },
@@ -24233,6 +24312,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2022-05-20 20:17:32 -0700"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_cobblestone_slab_from_limestone_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:44 -0700"
@@ -24289,6 +24374,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:desert": "2022-05-20 19:40:44 -0700",
       "minecraft:beach": "2022-05-20 16:53:15 -0700",
       "minecraft:river": "2022-05-20 16:27:12 -0700",
       "minecraft:plains": "2022-05-20 16:22:47 -0700"
@@ -24915,7 +25001,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2022-05-20 16:20:02 -0700"
+      "bread": "2022-05-20 16:20:02 -0700",
+      "golden_carrot": "2022-05-20 21:44:06 -0700"
     },
     "done": false
   },

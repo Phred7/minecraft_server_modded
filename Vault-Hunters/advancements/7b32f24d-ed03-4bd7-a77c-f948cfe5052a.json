@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/most1": {
+    "criteria": {
+      "has_planks": "2022-05-20 18:17:33 -0700"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_void": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:40 -0700"
@@ -2054,6 +2060,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2022-05-20 19:27:58 -0700"
     },
     "done": true
   },
@@ -3983,6 +3995,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2022-05-20 22:18:45 -0700"
+    },
+    "done": false
+  },
   "refinedstorage:recipes/refinedstorage/fluid_grid/magenta_fluid_grid": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:40 -0700"
@@ -4034,6 +4052,12 @@
   "create:recipes/create.base/crafting/kinetics/adjustable_chain_gearshift": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:45 -0700"
+    },
+    "done": true
+  },
+  "usefulrailroads:recipes/fuel/teleport_rail/gold_ingots": {
+    "criteria": {
+      "has_ingredient": "2022-05-20 19:27:58 -0700"
     },
     "done": true
   },
@@ -6353,6 +6377,12 @@
     },
     "done": true
   },
+  "trashcans:recipes/search/liquid_trash_can": {
+    "criteria": {
+      "bucket": "2022-05-20 22:16:12 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:41 -0700"
@@ -6458,6 +6488,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/floodlight": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2022-05-20 20:11:30 -0700"
     },
     "done": true
   },
@@ -8321,6 +8357,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/rain_gutter": {
+    "criteria": {
+      "has_planks": "2022-05-20 18:17:33 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:38 -0700"
@@ -8801,9 +8843,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2022-05-20 20:11:30 -0700"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/polished_weathered_limestone_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:39 -0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
+    "criteria": {
+      "has_iron_ingot": "2022-05-20 18:17:33 -0700"
     },
     "done": true
   },
@@ -9821,6 +9875,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/checker_block": {
+    "criteria": {
+      "has_plank": "2022-05-20 20:39:43 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/acacia/acacia_desk_left": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:44 -0700"
@@ -10424,6 +10484,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-05-20 20:10:17 -0700"
     },
     "done": true
   },
@@ -13775,6 +13841,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pulley_block": {
+    "criteria": {
+      "has_plank": "2022-05-20 18:17:33 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/acacia/acacia_desk_right": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:41 -0700"
@@ -14135,6 +14207,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2022-05-20 18:17:55 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/warped/warped_dresser_11": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:43 -0700"
@@ -14198,6 +14276,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:44 -0700"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/modularrouters/item_router": {
+    "criteria": {
+      "has_iron_ingot": "2022-05-20 18:17:33 -0700"
     },
     "done": true
   },
@@ -16196,6 +16280,12 @@
   "mcwroofs:recipes/tile_planks_jungle": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2022-05-20 18:17:33 -0700"
     },
     "done": true
   },
@@ -19997,6 +20087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2022-05-20 18:17:33 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:39 -0700"
@@ -20843,6 +20939,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2022-05-20 18:17:33 -0700"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/jungle_planks_cube_roof": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:40 -0700"
@@ -21014,6 +21116,12 @@
   "mcwfurnitures:recipes/birch/birch_desk_right": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:44 -0700"
+    },
+    "done": true
+  },
+  "usefulrailroads:recipes/fuel/track_builder/coals": {
+    "criteria": {
+      "has_ingredient": "2022-05-20 18:12:15 -0700"
     },
     "done": true
   },
@@ -21254,6 +21362,12 @@
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:38 -0700"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2022-05-20 18:36:52 -0700"
     },
     "done": true
   },
@@ -22160,6 +22274,12 @@
   "mcwroofs:recipes/birch_steep_roof": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2022-05-20 18:04:16 -0700"
     },
     "done": true
   },
@@ -24179,6 +24299,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:pillager": "2022-05-20 22:18:45 -0700"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_cobblestone_slab_from_limestone_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:39 -0700"
@@ -24869,9 +24995,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2022-05-20 18:27:44 -0700",
       "potato": "2022-05-20 16:27:15 -0700",
       "pumpkin_pie": "2022-05-20 17:07:15 -0700",
-      "bread": "2022-05-20 16:08:34 -0700"
+      "bread": "2022-05-20 16:08:34 -0700",
+      "golden_carrot": "2022-05-20 21:59:33 -0700"
     },
     "done": false
   },

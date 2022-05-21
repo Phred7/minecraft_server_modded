@@ -1,7 +1,7 @@
 {
   "playerUUID": "7b32f24d-ed03-4bd7-a77c-f948cfe5052a",
   "playerNickname": "rorysun",
-  "timestamp": 1653091914,
+  "timestamp": 1653113265,
   "vaultRuns": 0,
   "vaultWins": 0,
   "vaultDeaths": 0,
@@ -17,7 +17,7 @@
     "minecraft:generic.attack_damage": 1.0,
     "minecraft:generic.attack_knockback": 0.0,
     "minecraft:generic.attack_speed": 4.0,
-    "minecraft:generic.armor": 8.0,
+    "minecraft:generic.armor": 10.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
@@ -48,33 +48,30 @@
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
-    "MAINHAND": {
-      "itemKey": "minecraft:dirt",
-      "count": 64
-    },
     "FEET": {
       "itemKey": "minecraft:diamond_boots",
       "count": 1,
-      "nbt": "{Damage:0,Enchantments:[{lvl:2s,id:\"minecraft:feather_falling\"}]}"
+      "nbt": "{RepairCost:1,Damage:9,Enchantments:[{lvl:4s,id:\"minecraft:feather_falling\"}]}"
     },
     "LEGS": {
       "itemKey": "minecraft:diamond_leggings",
       "count": 1,
-      "nbt": "{Damage:0,Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}]}"
+      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}],Damage:9}"
     },
     "CHEST": {
-      "itemKey": "minecraft:leather_chestplate",
+      "itemKey": "minecraft:diamond_chestplate",
       "count": 1,
-      "nbt": "{Damage:0}"
+      "nbt": "{Damage:4,Enchantments:[{lvl:2s,id:\"minecraft:protection\"},{lvl:2s,id:\"minecraft:unbreaking\"}]}"
     },
     "HEAD": {
       "itemKey": "minecraft:diamond_helmet",
       "count": 1,
-      "nbt": "{Damage:0,Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}]}"
+      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}],Damage:9}"
     }
   },
   "abilities": {
     "Dash": 1,
+    "Mega Jump": 1,
     "Vein Miner": 2
   },
   "talents": {

@@ -1,0 +1,84 @@
+{
+  "playerUUID": "23f647f6-d7d7-4919-97bf-5ac1c7f2993a",
+  "playerNickname": "Aqua333",
+  "timestamp": 1653112951,
+  "vaultRuns": 0,
+  "vaultWins": 0,
+  "vaultDeaths": 0,
+  "artifactCount": 0,
+  "inVault": false,
+  "powerLevel": 5,
+  "vaultLevel": 0,
+  "levelPercent": 0.0,
+  "attributes": {
+    "minecraft:generic.max_health": 20.0,
+    "minecraft:generic.knockback_resistance": 0.0,
+    "minecraft:generic.movement_speed": 0.10000000149011612,
+    "minecraft:generic.attack_damage": 1.0,
+    "minecraft:generic.attack_knockback": 0.0,
+    "minecraft:generic.attack_speed": 4.0,
+    "minecraft:generic.armor": 10.0,
+    "minecraft:generic.armor_toughness": 0.0,
+    "minecraft:generic.luck": 0.0,
+    "botania:pixie_spawn_chance": 0.0,
+    "forge:swim_speed": 1.0,
+    "forge:nametag_distance": 64.0,
+    "forge:entity_gravity": 0.08,
+    "forge:reach_distance": 5.0,
+    "the_vault:generic.crit_chance": 0.0,
+    "the_vault:generic.crit_multiplier": 0.0,
+    "the_vault:generic.tp_chance": 0.0,
+    "the_vault:generic.indirect_tp_chance": 0.0,
+    "the_vault:generic.tp_range": 32.0,
+    "the_vault:generic.potion_resistance": 0.0,
+    "the_vault:generic.size_scale": 1.0,
+    "the_vault:generic.break_armor_chance": 0.0
+  },
+  "favors": {
+    "Velara": 0,
+    "Tenos": 0,
+    "Wendarr": 0,
+    "Idona": 0
+  },
+  "parry": 0.0,
+  "resistance": 0.0,
+  "cooldownReduction": 0.0,
+  "fatalStrikeChance": 0.0,
+  "fatalStrikeDamage": 0.0,
+  "thornsChance": 0.0,
+  "thornsDamage": 0.0,
+  "equipment": {
+    "MAINHAND": {
+      "itemKey": "minecraft:bread",
+      "count": 8
+    },
+    "FEET": {
+      "itemKey": "minecraft:diamond_boots",
+      "count": 1,
+      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:feather_falling\"}],Damage:62}"
+    },
+    "LEGS": {
+      "itemKey": "minecraft:diamond_leggings",
+      "count": 1,
+      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}],Damage:62}"
+    },
+    "CHEST": {
+      "itemKey": "minecraft:diamond_chestplate",
+      "count": 1,
+      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:protection\"},{lvl:2s,id:\"minecraft:unbreaking\"}],Damage:44}"
+    },
+    "HEAD": {
+      "itemKey": "minecraft:diamond_helmet",
+      "count": 1,
+      "nbt": "{Damage:23,Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}]}"
+    }
+  },
+  "abilities": {
+    "Vein Miner": 2
+  },
+  "talents": {
+    "Twerker": 1
+  },
+  "researches": [],
+  "eternals": []
+}
