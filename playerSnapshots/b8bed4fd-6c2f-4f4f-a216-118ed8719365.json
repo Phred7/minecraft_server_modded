@@ -1,7 +1,7 @@
 {
   "playerUUID": "b8bed4fd-6c2f-4f4f-a216-118ed8719365",
   "playerNickname": "Phred7",
-  "timestamp": 1653147367,
+  "timestamp": 1653205987,
   "vaultRuns": 0,
   "vaultWins": 0,
   "vaultDeaths": 0,
@@ -14,9 +14,9 @@
     "minecraft:generic.max_health": 20.0,
     "minecraft:generic.knockback_resistance": 0.0,
     "minecraft:generic.movement_speed": 0.10000000149011612,
-    "minecraft:generic.attack_damage": 9.0,
+    "minecraft:generic.attack_damage": 1.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 1.1000000014901161,
+    "minecraft:generic.attack_speed": 4.4000000059604645,
     "minecraft:generic.armor": 10.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
@@ -49,33 +49,32 @@
   "thornsDamage": 0.0,
   "equipment": {
     "MAINHAND": {
-      "itemKey": "minecraft:diamond_axe",
-      "count": 1,
-      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:efficiency\"}],Damage:163}"
+      "itemKey": "minecraft:redstone",
+      "count": 14
     },
     "OFFHAND": {
       "itemKey": "minecraft:torch",
-      "count": 4
+      "count": 59
     },
     "FEET": {
       "itemKey": "minecraft:diamond_boots",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:feather_falling\"}],Damage:26}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:2s,id:\"minecraft:feather_falling\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:4s,id:\"minecraft:protection\"}],Damage:102}"
     },
     "LEGS": {
       "itemKey": "minecraft:diamond_leggings",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}],Damage:26}"
+      "nbt": "{RepairCost:1,Enchantments:[{lvl:4s,id:\"minecraft:protection\"}],Damage:173}"
     },
     "CHEST": {
       "itemKey": "minecraft:diamond_chestplate",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:protection\"},{lvl:2s,id:\"minecraft:unbreaking\"}],Damage:13}"
+      "nbt": "{RepairCost:1,Damage:91,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:2s,id:\"minecraft:unbreaking\"}]}"
     },
     "HEAD": {
       "itemKey": "minecraft:diamond_helmet",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}],Damage:25}"
+      "nbt": "{RepairCost:1,Enchantments:[{lvl:4s,id:\"minecraft:protection\"}],Damage:172}"
     }
   },
   "abilities": {
