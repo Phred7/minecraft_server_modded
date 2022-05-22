@@ -1327,6 +1327,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2022-05-22 08:21:41 -0700",
       "minecraft:nether_wastes": "2022-05-21 11:08:18 -0700",
       "minecraft:warped_forest": "2022-05-21 12:30:19 -0700"
     },
@@ -1788,9 +1789,33 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/oak/oak_pult_4": {
+    "criteria": {
+      "has_planks": "2022-05-22 07:52:41 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_pult_3": {
+    "criteria": {
+      "has_planks": "2022-05-22 07:52:41 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_pult_2": {
+    "criteria": {
+      "has_planks": "2022-05-22 07:52:41 -0700"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_diorite_stairs": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:48 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak/oak_pult_1": {
+    "criteria": {
+      "has_planks": "2022-05-22 07:52:41 -0700"
     },
     "done": true
   },
@@ -2994,6 +3019,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-05-22 08:30:56 -0700"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/gothic/prismarine_brick_gothic": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:48 -0700"
@@ -3834,6 +3865,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/birch/birch_pult_4": {
+    "criteria": {
+      "has_planks": "2022-05-22 07:54:49 -0700"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/birch/birch_japanese2_door": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:47 -0700"
@@ -3843,6 +3880,24 @@
   "create:recipes/create.palettes/polished_gabbro_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:48 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_pult_2": {
+    "criteria": {
+      "has_planks": "2022-05-22 07:54:49 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_pult_3": {
+    "criteria": {
+      "has_planks": "2022-05-22 07:54:49 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch/birch_pult_1": {
+    "criteria": {
+      "has_planks": "2022-05-22 07:54:49 -0700"
     },
     "done": true
   },
@@ -3981,6 +4036,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2022-05-21 11:18:54 -0700",
+      "minecraft:ghast": "2022-05-22 08:32:14 -0700",
+      "minecraft:magma_cube": "2022-05-22 08:34:04 -0700",
       "minecraft:spider": "2022-05-21 11:20:01 -0700",
       "minecraft:witch": "2022-05-21 11:17:21 -0700",
       "minecraft:piglin": "2022-05-21 12:30:54 -0700",
@@ -12922,6 +12979,12 @@
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-05-22 07:15:30 -0700"
     },
     "done": true
   },
@@ -24013,6 +24076,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-05-22 07:15:30 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/blue_floating_flower": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:45 -0700"
@@ -24527,6 +24596,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2022-05-21 11:46:26 -0700",
       "minecraft:snowy_mountains": "2022-05-21 13:01:46 -0700",
+      "minecraft:forest": "2022-05-22 07:56:12 -0700",
       "minecraft:desert_hills": "2022-05-21 11:28:13 -0700",
       "minecraft:deep_cold_ocean": "2022-05-21 12:59:49 -0700",
       "minecraft:snowy_tundra": "2022-05-21 13:00:34 -0700",
@@ -24592,6 +24662,12 @@
   "botania:recipes/botania/shimmerrock_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2022-05-22 07:34:32 -0700"
     },
     "done": true
   },

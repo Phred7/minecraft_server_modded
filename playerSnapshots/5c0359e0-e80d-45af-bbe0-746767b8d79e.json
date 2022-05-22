@@ -1,7 +1,7 @@
 {
   "playerUUID": "5c0359e0-e80d-45af-bbe0-746767b8d79e",
   "playerNickname": "Halley4808",
-  "timestamp": 1653164035,
+  "timestamp": 1653233809,
   "vaultRuns": 0,
   "vaultWins": 0,
   "vaultDeaths": 0,
@@ -51,31 +51,27 @@
     "MAINHAND": {
       "itemKey": "minecraft:diamond_sword",
       "count": 1,
-      "nbt": "{RepairCost:1,Enchantments:[{lvl:3s,id:\"minecraft:looting\"}],Damage:359}"
-    },
-    "OFFHAND": {
-      "itemKey": "minecraft:torch",
-      "count": 56
+      "nbt": "{RepairCost:1,Enchantments:[{lvl:3s,id:\"minecraft:looting\"}],Damage:417}"
     },
     "FEET": {
       "itemKey": "minecraft:diamond_boots",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:feather_falling\"}],Damage:62}"
+      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:feather_falling\"}],Damage:91}"
     },
     "LEGS": {
       "itemKey": "minecraft:diamond_leggings",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}],Damage:62}"
+      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}],Damage:91}"
     },
     "CHEST": {
       "itemKey": "minecraft:diamond_chestplate",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:protection\"},{lvl:2s,id:\"minecraft:unbreaking\"}],Damage:41}"
+      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:protection\"},{lvl:2s,id:\"minecraft:unbreaking\"}],Damage:63}"
     },
     "HEAD": {
       "itemKey": "minecraft:diamond_helmet",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}],Damage:62}"
+      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}],Damage:91}"
     }
   },
   "abilities": {
