@@ -1193,6 +1193,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2022-05-21 13:24:04 -0700"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:43 -0700"
@@ -1271,6 +1277,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2022-05-21 13:43:47 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:45 -0700"
@@ -1342,6 +1354,12 @@
       "has_the_recipe": "2022-05-20 15:59:40 -0700"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2022-05-21 12:41:08 -0700"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/fancy_granite_bricks_stairs": {
     "criteria": {
@@ -3997,7 +4015,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:pillager": "2022-05-20 22:18:45 -0700"
+      "minecraft:pillager": "2022-05-20 22:18:45 -0700",
+      "minecraft:silverfish": "2022-05-21 13:13:20 -0700"
     },
     "done": false
   },
@@ -4172,6 +4191,12 @@
   "mcwdoors:recipes/garage_white_door": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:43 -0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/twig_wand": {
+    "criteria": {
+      "has_item": "2022-05-21 12:30:26 -0700"
     },
     "done": true
   },
@@ -4679,6 +4704,12 @@
     },
     "done": true
   },
+  "usefulrailroads:recipes/fuel/teleport_rail/redstone_dusts": {
+    "criteria": {
+      "has_ingredient": "2022-05-21 13:22:21 -0700"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/black_controller": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:45 -0700"
@@ -4688,6 +4719,12 @@
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:38 -0700"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/modularrouters/blank_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-05-21 11:29:20 -0700"
     },
     "done": true
   },
@@ -5444,6 +5481,12 @@
   "botania:recipes/botania/metamorphic_plains_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:38 -0700"
+    },
+    "done": true
+  },
+  "usefulrailroads:recipes/fuel/teleport_rail/ender_eye": {
+    "criteria": {
+      "has_ingredient": "2022-05-21 12:55:07 -0700"
     },
     "done": true
   },
@@ -6515,6 +6558,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/jellie.png": "2022-05-21 13:39:35 -0700"
+    },
+    "done": false
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_silver_to_ingot_silver": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:38 -0700"
@@ -7157,6 +7206,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-05-21 13:14:15 -0700"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/yellow_detector": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:40 -0700"
@@ -7427,6 +7482,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2022-05-21 13:03:51 -0700"
+    },
+    "done": true
+  },
   "modularrouters:recipes/modularrouters/redstone_augment": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:41 -0700"
@@ -7454,6 +7515,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_pattern_grid": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2022-05-21 10:38:57 -0700"
     },
     "done": true
   },
@@ -10745,6 +10812,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2022-05-21 13:12:09 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/jungle/jungle_nightstand": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:40 -0700"
@@ -12239,6 +12312,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2022-05-21 12:44:46 -0700"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/windmill": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:42 -0700"
@@ -13112,6 +13191,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2022-05-21 11:04:01 -0700"
     },
     "done": true
   },
@@ -14150,6 +14235,12 @@
   "mcwbridges:recipes/crimson_rail_bridge": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2022-05-21 13:18:17 -0700"
     },
     "done": true
   },
@@ -15350,6 +15441,12 @@
   "mcwwindows:recipes/mosaic_pane/pink_mosaic_glass_pane": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-05-21 12:41:07 -0700"
     },
     "done": true
   },
@@ -17531,6 +17628,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2022-05-21 12:55:07 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:39 -0700"
@@ -18113,9 +18216,21 @@
     },
     "done": true
   },
+  "dimstorage:recipes/dimstorage_tab/dim_core": {
+    "criteria": {
+      "diamond": "2022-05-21 12:44:46 -0700"
+    },
+    "done": true
+  },
   "create:recipes/decorations/smelting/glass_pane_from_horizontal_framed_glass_pane": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:41 -0700"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_empty": {
+    "criteria": {
+      "has_diamonds": "2022-05-21 12:44:46 -0700"
     },
     "done": true
   },
@@ -18296,6 +18411,12 @@
   "botania:recipes/botania/animated_torch": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:44 -0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/itemfinder": {
+    "criteria": {
+      "has_item": "2022-05-21 12:55:07 -0700"
     },
     "done": true
   },
@@ -18914,6 +19035,12 @@
   "mcwfurnitures:recipes/spruce/spruce_cupboard_9": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:43 -0700"
+    },
+    "done": true
+  },
+  "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
+    "criteria": {
+      "redstone": "2022-05-21 13:22:21 -0700"
     },
     "done": true
   },
@@ -19985,6 +20112,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/apothecary_default": {
+    "criteria": {
+      "has_item": "2022-05-21 12:30:26 -0700"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_from_dust": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:43 -0700"
@@ -20963,6 +21096,12 @@
     },
     "done": true
   },
+  "modularrouters:recipes/modularrouters/blank_module": {
+    "criteria": {
+      "has_redstone": "2022-05-21 13:22:21 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:38 -0700"
@@ -21668,6 +21807,12 @@
   "mcwroofs:recipes/spruce_four_way_roof": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-05-21 12:41:07 -0700"
     },
     "done": true
   },
@@ -23225,6 +23370,12 @@
     },
     "done": true
   },
+  "trashcans:recipes/search/energy_trash_can": {
+    "criteria": {
+      "redstone": "2022-05-21 13:22:21 -0700"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:43 -0700"
@@ -23861,6 +24012,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/rs_engineering": {
+    "criteria": {
+      "has_redstone": "2022-05-21 13:22:21 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/mana_mirror": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:38 -0700"
@@ -24361,7 +24518,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2022-05-21 12:58:50 -0700",
+      "minecraft:snowy_mountains": "2022-05-21 13:01:41 -0700",
+      "minecraft:desert_hills": "2022-05-21 11:05:23 -0700",
+      "minecraft:deep_cold_ocean": "2022-05-21 12:59:41 -0700",
+      "minecraft:snowy_tundra": "2022-05-21 13:00:43 -0700",
       "minecraft:desert": "2022-05-20 16:03:39 -0700",
+      "minecraft:snowy_beach": "2022-05-21 13:00:18 -0700",
       "minecraft:beach": "2022-05-20 16:33:59 -0700",
       "minecraft:river": "2022-05-20 16:03:27 -0700",
       "minecraft:wooded_hills": "2022-05-20 16:54:53 -0700",
@@ -25588,6 +25751,12 @@
   "create:recipes/create.palettes/tiled_glass_pane": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:45 -0700"
+    },
+    "done": true
+  },
+  "usefulrailroads:recipes/fuel/teleport_rail/diamond_gems": {
+    "criteria": {
+      "has_ingredient": "2022-05-21 12:44:46 -0700"
     },
     "done": true
   },

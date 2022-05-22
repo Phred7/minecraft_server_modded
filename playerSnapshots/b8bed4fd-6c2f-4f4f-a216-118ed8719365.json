@@ -1,7 +1,7 @@
 {
   "playerUUID": "b8bed4fd-6c2f-4f4f-a216-118ed8719365",
   "playerNickname": "Phred7",
-  "timestamp": 1653145312,
+  "timestamp": 1653147367,
   "vaultRuns": 0,
   "vaultWins": 0,
   "vaultDeaths": 0,
@@ -14,9 +14,9 @@
     "minecraft:generic.max_health": 20.0,
     "minecraft:generic.knockback_resistance": 0.0,
     "minecraft:generic.movement_speed": 0.10000000149011612,
-    "minecraft:generic.attack_damage": 1.0,
+    "minecraft:generic.attack_damage": 9.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 4.4000000059604645,
+    "minecraft:generic.attack_speed": 1.1000000014901161,
     "minecraft:generic.armor": 10.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
@@ -48,6 +48,11 @@
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
+    "MAINHAND": {
+      "itemKey": "minecraft:diamond_axe",
+      "count": 1,
+      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:efficiency\"}],Damage:163}"
+    },
     "OFFHAND": {
       "itemKey": "minecraft:torch",
       "count": 4
