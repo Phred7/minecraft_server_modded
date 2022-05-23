@@ -1,7 +1,7 @@
 {
   "playerUUID": "5c0359e0-e80d-45af-bbe0-746767b8d79e",
   "playerNickname": "Halley4808",
-  "timestamp": 1653233809,
+  "timestamp": 1653271335,
   "vaultRuns": 0,
   "vaultWins": 0,
   "vaultDeaths": 0,
@@ -14,9 +14,9 @@
     "minecraft:generic.max_health": 20.0,
     "minecraft:generic.knockback_resistance": 0.20000000298023224,
     "minecraft:generic.movement_speed": 0.10000000149011612,
-    "minecraft:generic.attack_damage": 7.0,
+    "minecraft:generic.attack_damage": 1.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 1.5999999046325684,
+    "minecraft:generic.attack_speed": 4.0,
     "minecraft:generic.armor": 10.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
@@ -48,30 +48,25 @@
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
-    "MAINHAND": {
-      "itemKey": "minecraft:diamond_sword",
-      "count": 1,
-      "nbt": "{RepairCost:1,Enchantments:[{lvl:3s,id:\"minecraft:looting\"}],Damage:417}"
-    },
     "FEET": {
       "itemKey": "minecraft:diamond_boots",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:feather_falling\"}],Damage:91}"
+      "nbt": "{RepairCost:3,Damage:135,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:feather_falling\"}]}"
     },
     "LEGS": {
       "itemKey": "minecraft:diamond_leggings",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}],Damage:91}"
+      "nbt": "{RepairCost:1,Damage:135,Enchantments:[{lvl:4s,id:\"minecraft:protection\"}]}"
     },
     "CHEST": {
       "itemKey": "minecraft:diamond_chestplate",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:protection\"},{lvl:2s,id:\"minecraft:unbreaking\"}],Damage:63}"
+      "nbt": "{RepairCost:1,Damage:101,Enchantments:[{lvl:4s,id:\"minecraft:protection\"}]}"
     },
     "HEAD": {
       "itemKey": "minecraft:diamond_helmet",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}],Damage:91}"
+      "nbt": "{RepairCost:1,Damage:135,Enchantments:[{lvl:4s,id:\"minecraft:protection\"}]}"
     }
   },
   "abilities": {

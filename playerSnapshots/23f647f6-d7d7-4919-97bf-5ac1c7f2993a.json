@@ -1,23 +1,23 @@
 {
   "playerUUID": "23f647f6-d7d7-4919-97bf-5ac1c7f2993a",
   "playerNickname": "Aqua333",
-  "timestamp": 1653200404,
-  "vaultRuns": 0,
+  "timestamp": 1653286730,
+  "vaultRuns": 1,
   "vaultWins": 0,
   "vaultDeaths": 0,
   "artifactCount": 0,
   "inVault": false,
-  "powerLevel": 5,
-  "vaultLevel": 0,
-  "levelPercent": 0.0,
+  "powerLevel": 6,
+  "vaultLevel": 1,
+  "levelPercent": 0.8136191,
   "attributes": {
     "minecraft:generic.max_health": 20.0,
     "minecraft:generic.knockback_resistance": 0.0,
     "minecraft:generic.movement_speed": 0.10000000149011612,
-    "minecraft:generic.attack_damage": 8.0,
+    "minecraft:generic.attack_damage": 1.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 1.5999999046325684,
-    "minecraft:generic.armor": 7.0,
+    "minecraft:generic.attack_speed": 4.0,
+    "minecraft:generic.armor": 0.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
@@ -47,34 +47,9 @@
   "fatalStrikeDamage": 0.0,
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
-  "equipment": {
-    "MAINHAND": {
-      "itemKey": "minecraft:netherite_sword",
-      "count": 1,
-      "nbt": "{RepairCost:7,Damage:13,Enchantments:[{lvl:5s,id:\"minecraft:sharpness\"},{lvl:3s,id:\"minecraft:looting\"},{lvl:1s,id:\"minecraft:mending\"}],display:{Name:\u0027{\"text\":\"Vorpal Blade\"}\u0027}}"
-    },
-    "FEET": {
-      "itemKey": "minecraft:diamond_boots",
-      "count": 1,
-      "nbt": "{RepairCost:7,Enchantments:[{lvl:3s,id:\"minecraft:feather_falling\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"}],Damage:2}"
-    },
-    "LEGS": {
-      "itemKey": "minecraft:diamond_leggings",
-      "count": 1,
-      "nbt": "{RepairCost:7,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"}],Damage:2}"
-    },
-    "CHEST": {
-      "itemKey": "minecraft:elytra",
-      "count": 1,
-      "nbt": "{Damage:134}"
-    },
-    "HEAD": {
-      "itemKey": "minecraft:diamond_helmet",
-      "count": 1,
-      "nbt": "{RepairCost:7,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"}],Damage:1}"
-    }
-  },
+  "equipment": {},
   "abilities": {
+    "Cleanse": 1,
     "Dash": 1,
     "Vein Miner": 2
   },

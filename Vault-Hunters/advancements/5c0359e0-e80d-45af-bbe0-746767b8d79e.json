@@ -569,6 +569,12 @@
     },
     "done": true
   },
+  "dimstorage:recipes/dimstorage_tab/dimensional_tank": {
+    "criteria": {
+      "cauldron": "2022-05-22 17:19:37 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:48 -0700"
@@ -1329,9 +1335,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2022-05-22 08:21:41 -0700",
       "minecraft:nether_wastes": "2022-05-21 11:08:18 -0700",
-      "minecraft:warped_forest": "2022-05-21 12:30:19 -0700"
+      "minecraft:soul_sand_valley": "2022-05-22 15:01:46 -0700",
+      "minecraft:warped_forest": "2022-05-21 12:30:19 -0700",
+      "minecraft:basalt_deltas": "2022-05-22 14:52:52 -0700"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/create.palettes/fancy_granite_bricks_stairs": {
     "criteria": {
@@ -2893,6 +2901,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-05-22 14:56:03 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/lens_magnet": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:47 -0700"
@@ -4035,6 +4049,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2022-05-22 14:57:07 -0700",
       "minecraft:skeleton": "2022-05-21 11:18:54 -0700",
       "minecraft:ghast": "2022-05-22 08:32:14 -0700",
       "minecraft:magma_cube": "2022-05-22 08:34:04 -0700",
@@ -4044,7 +4059,8 @@
       "minecraft:enderman": "2022-05-21 12:29:49 -0700",
       "minecraft:silverfish": "2022-05-21 13:10:05 -0700",
       "minecraft:zombie": "2022-05-21 10:48:32 -0700",
-      "minecraft:drowned": "2022-05-21 11:42:47 -0700"
+      "minecraft:drowned": "2022-05-21 11:42:47 -0700",
+      "minecraft:zombie_villager": "2022-05-22 15:48:47 -0700"
     },
     "done": false
   },
@@ -6562,6 +6578,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2022-05-22 18:38:02 -0700"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_limestone_bricks_stairs_from_fancy_limestone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:45 -0700"
@@ -6931,6 +6953,12 @@
   "neoncraft:recipes/wallneon_letter_b_craft": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:49 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_plank": "2022-05-22 15:37:18 -0700"
     },
     "done": true
   },
@@ -8920,6 +8948,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2022-05-22 18:38:02 -0700"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/polished_weathered_limestone_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:51 -0700"
@@ -9622,6 +9656,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2022-05-22 15:31:15 -0700"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_grid": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:50 -0700"
@@ -10075,6 +10115,12 @@
   "mcwwindows:recipes/stone/stone_window2": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-05-22 15:30:10 -0700"
     },
     "done": true
   },
@@ -11692,6 +11738,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/blood_pendant": {
+    "criteria": {
+      "has_item": "2022-05-22 15:18:24 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:47 -0700"
@@ -12451,6 +12503,12 @@
   "appliedenergistics2:recipes/appliedenergistics2/block_cutter/stairs/quartz_stairs": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-05-22 14:55:13 -0700"
     },
     "done": true
   },
@@ -18334,6 +18392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2022-05-22 16:20:52 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:48 -0700"
@@ -23230,6 +23294,12 @@
     },
     "done": true
   },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2022-05-22 15:22:07 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:48 -0700"
@@ -26062,6 +26132,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:46 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_spruce": {
+    "criteria": {
+      "has_plank": "2022-05-22 15:37:18 -0700"
     },
     "done": true
   },

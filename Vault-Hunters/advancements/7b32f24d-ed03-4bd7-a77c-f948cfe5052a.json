@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-22 18:02:27 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/virus_necrodermal": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:43 -0700"
@@ -800,6 +806,12 @@
   "create:recipes/create.palettes/chiseled_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-22 18:02:27 -0700"
     },
     "done": true
   },
@@ -1430,6 +1442,12 @@
   "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-22 18:02:27 -0700"
     },
     "done": true
   },
@@ -2795,6 +2813,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_red_dye": {
+    "criteria": {
+      "chest": "2022-05-22 19:55:34 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/oak/oak_dresser_12": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:43 -0700"
@@ -3050,6 +3074,12 @@
   "create:recipes/create.palettes/layered_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-22 18:02:27 -0700"
     },
     "done": true
   },
@@ -3413,6 +3443,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_green_dye": {
+    "criteria": {
+      "chest": "2022-05-22 19:55:34 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:42 -0700"
@@ -3494,6 +3530,12 @@
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:42 -0700"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_blue_dye": {
+    "criteria": {
+      "chest": "2022-05-22 19:55:34 -0700"
     },
     "done": true
   },
@@ -4036,7 +4078,8 @@
       "minecraft:pillager": "2022-05-20 22:18:45 -0700",
       "minecraft:spider": "2022-05-21 22:23:23 -0700",
       "minecraft:silverfish": "2022-05-21 13:13:20 -0700",
-      "minecraft:enderman": "2022-05-21 22:13:49 -0700"
+      "minecraft:enderman": "2022-05-21 22:13:49 -0700",
+      "minecraft:zombie": "2022-05-22 21:52:52 -0700"
     },
     "done": false
   },
@@ -4133,6 +4176,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_disk_manipulator": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-05-22 20:55:05 -0700"
     },
     "done": true
   },
@@ -4496,6 +4545,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_yellow_dye": {
+    "criteria": {
+      "chest": "2022-05-22 19:55:34 -0700"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/sensor": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:45 -0700"
@@ -4685,6 +4740,12 @@
   "botania:recipes/botania/metamorphic_forest_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-22 18:02:27 -0700"
     },
     "done": true
   },
@@ -4916,6 +4977,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_green": {
+    "criteria": {
+      "chest": "2022-05-22 19:55:34 -0700"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/warped_planks_three_way_roof": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:38 -0700"
@@ -5063,6 +5130,12 @@
   "mcwroofs:recipes/jungle_lower_roof": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:44 -0700"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_red_dye": {
+    "criteria": {
+      "chest": "2022-05-22 19:55:34 -0700"
     },
     "done": true
   },
@@ -5912,6 +5985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-22 18:02:27 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/birch/birch_furniture_3": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:44 -0700"
@@ -6580,7 +6659,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/jellie.png": "2022-05-21 13:39:35 -0700"
+      "textures/entity/cat/jellie.png": "2022-05-21 13:39:35 -0700",
+      "textures/entity/cat/calico.png": "2022-05-22 20:03:15 -0700"
     },
     "done": false
   },
@@ -6815,6 +6895,12 @@
   "botania:recipes/botania/slab_recombine/livingwood": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:40 -0700"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_blue_dye": {
+    "criteria": {
+      "chest": "2022-05-22 19:55:34 -0700"
     },
     "done": true
   },
@@ -10112,6 +10198,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-05-22 20:00:39 -0700"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/logic_unit": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:44 -0700"
@@ -10901,6 +10993,12 @@
   "blockcarpentry:recipes/blockcarpentry/frame_wall": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-22 18:02:27 -0700"
     },
     "done": true
   },
@@ -13430,6 +13528,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_green_dye": {
+    "criteria": {
+      "chest": "2022-05-22 19:55:34 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/cracked_livingrock_bricks": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:42 -0700"
@@ -14804,6 +14908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-22 18:02:27 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:41 -0700"
@@ -15866,6 +15976,12 @@
     },
     "done": true
   },
+  "trashcans:recipes/search/item_trash_can": {
+    "criteria": {
+      "chest": "2022-05-22 19:55:34 -0700"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/gutter_base_light_blue": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:37 -0700"
@@ -16067,6 +16183,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_light_gray_from_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:43 -0700"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_blue": {
+    "criteria": {
+      "chest": "2022-05-22 19:55:34 -0700"
     },
     "done": true
   },
@@ -16871,6 +16993,12 @@
   "mcwwindows:recipes/blinds/acacia_blinds": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:44 -0700"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_yellow_dye": {
+    "criteria": {
+      "chest": "2022-05-22 19:55:34 -0700"
     },
     "done": true
   },
@@ -18479,6 +18607,12 @@
   "mcwwindows:recipes/parapet/jungle_log_parapet": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-22 18:02:27 -0700"
     },
     "done": true
   },
@@ -20093,6 +20227,12 @@
   "create:recipes/building_blocks/blasting/ingot_lead_compat_mekanism": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-22 18:02:27 -0700"
     },
     "done": true
   },
@@ -21770,6 +21910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-22 18:02:27 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/slab_recombine/white_pavement": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:39 -0700"
@@ -21899,6 +22045,12 @@
   "mcwroofs:recipes/green_striped_awning": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-22 18:02:27 -0700"
     },
     "done": true
   },
@@ -22211,6 +22363,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/black_network_transmitter": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-22 18:02:27 -0700"
     },
     "done": true
   },
@@ -24587,9 +24745,11 @@
       "minecraft:snowy_tundra": "2022-05-21 13:00:43 -0700",
       "minecraft:desert": "2022-05-20 16:03:39 -0700",
       "minecraft:snowy_beach": "2022-05-21 13:00:18 -0700",
+      "minecraft:savanna_plateau": "2022-05-22 21:28:39 -0700",
       "minecraft:beach": "2022-05-20 16:33:59 -0700",
       "minecraft:river": "2022-05-20 16:03:27 -0700",
       "minecraft:wooded_hills": "2022-05-20 16:54:53 -0700",
+      "minecraft:savanna": "2022-05-22 19:56:42 -0700",
       "minecraft:plains": "2022-05-20 16:22:47 -0700"
     },
     "done": false
@@ -25047,6 +25207,12 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:42 -0700"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_red": {
+    "criteria": {
+      "chest": "2022-05-22 19:55:34 -0700"
     },
     "done": true
   },
@@ -25823,6 +25989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-22 18:02:27 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:43 -0700"
@@ -25880,6 +26052,12 @@
   "mcwbridges:recipes/rope_birch_bridge": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-22 18:02:27 -0700"
     },
     "done": true
   },
@@ -26498,6 +26676,12 @@
   "botania:recipes/botania/slab_recombine/green_pavement": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:42 -0700"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_yellow": {
+    "criteria": {
+      "chest": "2022-05-22 19:55:34 -0700"
     },
     "done": true
   },
