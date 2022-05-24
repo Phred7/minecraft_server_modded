@@ -1,23 +1,23 @@
 {
   "playerUUID": "23f647f6-d7d7-4919-97bf-5ac1c7f2993a",
   "playerNickname": "Aqua333",
-  "timestamp": 1653286730,
-  "vaultRuns": 1,
+  "timestamp": 1653377528,
+  "vaultRuns": 2,
   "vaultWins": 0,
   "vaultDeaths": 0,
   "artifactCount": 0,
   "inVault": false,
-  "powerLevel": 6,
-  "vaultLevel": 1,
-  "levelPercent": 0.8136191,
+  "powerLevel": 8,
+  "vaultLevel": 3,
+  "levelPercent": 0.8372174,
   "attributes": {
     "minecraft:generic.max_health": 20.0,
     "minecraft:generic.knockback_resistance": 0.0,
     "minecraft:generic.movement_speed": 0.10000000149011612,
-    "minecraft:generic.attack_damage": 1.0,
+    "minecraft:generic.attack_damage": 6.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 4.0,
-    "minecraft:generic.armor": 0.0,
+    "minecraft:generic.attack_speed": 1.2000000476837158,
+    "minecraft:generic.armor": 7.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
@@ -47,7 +47,33 @@
   "fatalStrikeDamage": 0.0,
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
-  "equipment": {},
+  "equipment": {
+    "MAINHAND": {
+      "itemKey": "minecraft:netherite_pickaxe",
+      "count": 1,
+      "nbt": "{RepairCost:15,Enchantments:[{lvl:3s,id:\"minecraft:fortune\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:5s,id:\"minecraft:efficiency\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:1642}"
+    },
+    "FEET": {
+      "itemKey": "minecraft:diamond_boots",
+      "count": 1,
+      "nbt": "{RepairCost:7,Enchantments:[{lvl:3s,id:\"minecraft:feather_falling\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"}],Damage:14}"
+    },
+    "LEGS": {
+      "itemKey": "minecraft:diamond_leggings",
+      "count": 1,
+      "nbt": "{RepairCost:7,Damage:14,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"}]}"
+    },
+    "CHEST": {
+      "itemKey": "minecraft:elytra",
+      "count": 1,
+      "nbt": "{RepairCost:3,Damage:191,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
+    },
+    "HEAD": {
+      "itemKey": "minecraft:diamond_helmet",
+      "count": 1,
+      "nbt": "{RepairCost:7,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"}],Damage:12}"
+    }
+  },
   "abilities": {
     "Cleanse": 1,
     "Dash": 1,

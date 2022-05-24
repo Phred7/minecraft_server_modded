@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-05-23 17:46:01 -0700"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/tile_log_birch": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:51 -0700"
@@ -518,6 +524,12 @@
   "mcwbridges:recipes/dark_oak_log_bridge_stair": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:53 -0700"
+    },
+    "done": true
+  },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2022-05-23 17:46:01 -0700"
     },
     "done": true
   },
@@ -2958,6 +2970,12 @@
   "xnet:recipes/xnet/netcable_red": {
     "criteria": {
       "nugget": "2022-05-20 20:15:35 -0700"
+    },
+    "done": true
+  },
+  "vanillatweaks:fast_leaf_decay": {
+    "criteria": {
+      "tick": "2022-05-23 17:46:01 -0700"
     },
     "done": true
   },
@@ -10168,6 +10186,12 @@
     },
     "done": true
   },
+  "vanillatweaks:armored_elytra": {
+    "criteria": {
+      "tick": "2022-05-23 17:46:01 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/acacia/acacia_desk_left": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:57 -0700"
@@ -16870,6 +16894,12 @@
     },
     "done": true
   },
+  "vanillatweaks:unlock_all_recipes": {
+    "criteria": {
+      "tick": "2022-05-23 17:46:01 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/crimson/crimson_box_2": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:54 -0700"
@@ -17266,6 +17296,12 @@
     },
     "done": true
   },
+  "vanillatweaks:cauldron_concrete": {
+    "criteria": {
+      "tick": "2022-05-23 17:46:01 -0700"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_granite_wall_from_paved_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:57 -0700"
@@ -17455,6 +17491,12 @@
   "create:recipes/create.palettes/dark_scoria": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:56 -0700"
+    },
+    "done": true
+  },
+  "vanillatweaks:villager_workstation_highlights": {
+    "criteria": {
+      "tick": "2022-05-23 17:46:01 -0700"
     },
     "done": true
   },
@@ -18736,6 +18778,12 @@
     },
     "done": true
   },
+  "usefulrailroads:recipes/fuel/teleport_rail/popped_chorus_fruit": {
+    "criteria": {
+      "has_the_recipe": "2022-05-23 17:46:03 -0700"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_dark_scoria_bricks_stairs_from_fancy_dark_scoria_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:52 -0700"
@@ -18787,6 +18835,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/chute_copper": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:52 -0700"
+    },
+    "done": true
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2022-05-23 17:46:01 -0700"
     },
     "done": true
   },
@@ -19708,6 +19762,12 @@
     },
     "done": true
   },
+  "vanillatweaks:larger_phantoms": {
+    "criteria": {
+      "tick": "2022-05-23 17:46:01 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:52 -0700"
@@ -20041,6 +20101,12 @@
   "create:recipes/create.base/crafting/kinetics/linear_chassisfrom_conversion": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:57 -0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/light_engineering": {
+    "criteria": {
+      "has_iron_sheetmetal": "2022-05-23 20:48:49 -0700"
     },
     "done": true
   },
@@ -21079,6 +21145,12 @@
   "create:recipes/create.base/crafting/palettes/copper_tiles": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:52 -0700"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2022-05-23 17:46:01 -0700"
     },
     "done": true
   },
@@ -25005,6 +25077,7 @@
       "minecraft:frozen_river": "2022-05-22 18:49:47 -0700",
       "minecraft:deep_frozen_ocean": "2022-05-23 11:45:52 -0700",
       "minecraft:jungle": "2022-05-23 11:50:32 -0700",
+      "minecraft:birch_forest": "2022-05-23 17:56:06 -0700",
       "minecraft:jungle_hills": "2022-05-23 11:51:02 -0700",
       "minecraft:snowy_beach": "2022-05-21 13:00:20 -0700",
       "minecraft:bamboo_jungle": "2022-05-23 11:51:11 -0700",
@@ -25012,9 +25085,11 @@
       "minecraft:deep_lukewarm_ocean": "2022-05-23 11:49:20 -0700",
       "minecraft:savanna_plateau": "2022-05-22 18:35:18 -0700",
       "minecraft:beach": "2022-05-20 16:28:54 -0700",
+      "minecraft:dark_forest": "2022-05-23 18:04:40 -0700",
       "minecraft:river": "2022-05-20 15:43:19 -0700",
       "minecraft:lukewarm_ocean": "2022-05-23 11:49:12 -0700",
       "minecraft:snowy_taiga": "2022-05-22 20:32:56 -0700",
+      "minecraft:wooded_mountains": "2022-05-23 20:23:35 -0700",
       "minecraft:wooded_hills": "2022-05-21 22:36:13 -0700",
       "minecraft:giant_tree_taiga_hills": "2022-05-23 11:54:06 -0700",
       "minecraft:stone_shore": "2022-05-23 11:56:41 -0700",
@@ -25078,6 +25153,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "pumpkin_stem": "2022-05-23 20:38:34 -0700"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2022-05-20 19:42:24 -0700"
@@ -25111,6 +25192,12 @@
   "create:recipes/create.palettes/dolomite_cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:58 -0700"
+    },
+    "done": true
+  },
+  "the_vault:main/super_secret_cakes": {
+    "criteria": {
+      "cake_consumed": "2022-05-23 19:43:09 -0700"
     },
     "done": true
   },
