@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 [23May2022 17:09:24.561] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.23, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
 [23May2022 17:09:24.564] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_312 by Private Build
 [23May2022 17:09:24.786] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
@@ -377,6 +378,8 @@
 [23May2022 17:11:05.609] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rangedpumps] Starting version check at https://refinedmods.com/ranged-pumps/update.json
 [23May2022 17:11:05.776] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 =======
+=======
+>>>>>>> 237f56836ecfbb28f984ef3f880bf57032b35d64
 [23May2022 11:42:10.371] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.23, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
 [23May2022 11:42:10.374] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_312 by Private Build
 [23May2022 11:42:10.596] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
@@ -757,6 +760,9 @@
 [23May2022 11:43:03.922] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 7.0.0.28 Target: 7.0.0.28
 [23May2022 11:43:03.922] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rangedpumps] Starting version check at https://refinedmods.com/ranged-pumps/update.json
 [23May2022 11:43:04.235] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+<<<<<<< HEAD
+>>>>>>> 237f56836ecfbb28f984ef3f880bf57032b35d64
+=======
 >>>>>>> 237f56836ecfbb28f984ef3f880bf57032b35d64
 java.io.FileNotFoundException: https://refinedmods.com/ranged-pumps/update.json
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_312]
@@ -781,6 +787,7 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/ranged-pumps/u
 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:352) ~[?:1.8.0_312]
 	at net.minecraftforge.fml.VersionChecker$1.openUrlStream(VersionChecker.java:155) ~[forge:?]
 	... 3 more
+<<<<<<< HEAD
 <<<<<<< HEAD
 [23May2022 17:11:05.777] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.16.5
 [23May2022 17:11:05.786] [modloading-worker-5/INFO] [iskallia.vault.Vault/]: Vault Configs are loaded successfully!
@@ -878,6 +885,8 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/ranged-pumps/u
 [23May2022 17:11:15.187] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refinedstorageaddons] Starting version check at https://refinedmods.com/refined-storage-addons/update.json
 [23May2022 17:11:15.274] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 =======
+=======
+>>>>>>> 237f56836ecfbb28f984ef3f880bf57032b35d64
 [23May2022 11:43:04.239] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.16.5
 [23May2022 11:43:04.374] [modloading-worker-1/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
 [23May2022 11:43:04.376] [modloading-worker-1/INFO] [iskallia.vault.Vault/]: setupDedicatedServer()
@@ -972,6 +981,9 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/ranged-pumps/u
 [23May2022 11:43:16.138] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [modularrouters] Found status: BETA Current: task ':jar' property 'archiveVersion' Target: null
 [23May2022 11:43:16.138] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refinedstorageaddons] Starting version check at https://refinedmods.com/refined-storage-addons/update.json
 [23May2022 11:43:16.214] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+<<<<<<< HEAD
+>>>>>>> 237f56836ecfbb28f984ef3f880bf57032b35d64
+=======
 >>>>>>> 237f56836ecfbb28f984ef3f880bf57032b35d64
 java.io.FileNotFoundException: https://refinedmods.com/refined-storage-addons/update.json
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_312]
@@ -996,6 +1008,7 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:352) ~[?:1.8.0_312]
 	at net.minecraftforge.fml.VersionChecker$1.openUrlStream(VersionChecker.java:155) ~[forge:?]
 	... 3 more
+<<<<<<< HEAD
 <<<<<<< HEAD
 [23May2022 17:11:15.275] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [openloader] Starting version check at https://updates.blamejared.com/get?n=openloader&gv=1.16.5
 [23May2022 17:11:15.456] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [openloader] Found status: BETA Current: 9.0.3 Target: 9.0.3
@@ -1042,6 +1055,8 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [23May2022 17:11:29.182] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:hanging_signs/hanging_sign_grongle as it's serializer returned null
 [23May2022 17:11:29.189] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:compat/appliedenergistics2/ae2_ender_pearl_dust_convert
 =======
+=======
+>>>>>>> 237f56836ecfbb28f984ef3f880bf57032b35d64
 [23May2022 11:43:16.215] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [openloader] Starting version check at https://updates.blamejared.com/get?n=openloader&gv=1.16.5
 [23May2022 11:43:16.391] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [openloader] Found status: BETA Current: 9.0.3 Target: 9.0.3
 [23May2022 11:43:21.248] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
@@ -1096,6 +1111,9 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [23May2022 11:43:24.973] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:sign_posts/sign_post_temporal as it's serializer returned null
 [23May2022 11:43:24.975] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:hanging_signs/hanging_sign_grongle as it's serializer returned null
 [23May2022 11:43:24.980] [Worker-Main-13/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe thermal:compat/appliedenergistics2/ae2_ender_pearl_dust_convert
+<<<<<<< HEAD
+>>>>>>> 237f56836ecfbb28f984ef3f880bf57032b35d64
+=======
 >>>>>>> 237f56836ecfbb28f984ef3f880bf57032b35d64
 com.google.gson.JsonSyntaxException: Unknown item tag 'thermal:ender_pearl_dust'
 	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:223) ~[?:?]
@@ -1124,6 +1142,7 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'thermal:ender_pearl_dust'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_312]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_312]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_312]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [23May2022 17:11:29.197] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:planter_rich_soul as it's serializer returned null
 [23May2022 17:11:29.218] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:hanging_signs/hanging_sign_helix_tree as it's serializer returned null
@@ -1409,6 +1428,8 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'thermal:ender_pearl_dust'
 [23May2022 17:13:11.260] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
 [23May2022 17:14:09.313] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
 =======
+=======
+>>>>>>> 237f56836ecfbb28f984ef3f880bf57032b35d64
 [23May2022 11:43:24.986] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:planter_rich_soul as it's serializer returned null
 [23May2022 11:43:24.991] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:hanging_signs/hanging_sign_helix_tree as it's serializer returned null
 [23May2022 11:43:24.994] [Worker-Main-13/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:hanging_signs/hanging_sign_umbran_bop as it's serializer returned null
@@ -1774,4 +1795,7 @@ com.google.gson.JsonSyntaxException: Unknown item tag 'thermal:ender_pearl_dust'
 [23May2022 16:59:26.868] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
 [23May2022 16:59:26.876] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
 [23May2022 16:59:27.237] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread Query Listener stopped
+<<<<<<< HEAD
+>>>>>>> 237f56836ecfbb28f984ef3f880bf57032b35d64
+=======
 >>>>>>> 237f56836ecfbb28f984ef3f880bf57032b35d64

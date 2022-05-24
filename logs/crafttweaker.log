@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 [17:09:57.597][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
 [17:09:59.084][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+=======
+[11:42:31.633][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[11:42:34.604][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+>>>>>>> 237f56836ecfbb28f984ef3f880bf57032b35d64
 =======
 [11:42:31.633][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
 [11:42:34.604][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
@@ -13,6 +18,7 @@
 'mekanism' at version '10.1.1'
 'thermal' at version '1.4.1.7'
 'thermal_foundation' at version '1.4.1.7'
+<<<<<<< HEAD
 <<<<<<< HEAD
 [17:10:00.633][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
 [17:11:00.259][LOAD_REGISTRIES][CLIENT][INFO] Started loading Scripts for Loader 'mekanismcontent'!
@@ -1313,6 +1319,8 @@
 [17:11:35.295][DONE][CLIENT][INFO] Finished loading Scripts!
 [17:11:35.303][DONE][CLIENT][INFO] This reload was made possible by SquidDev and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
 =======
+=======
+>>>>>>> 237f56836ecfbb28f984ef3f880bf57032b35d64
 [11:42:37.524][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
 [11:42:59.599][LOAD_REGISTRIES][CLIENT][INFO] Started loading Scripts for Loader 'mekanismcontent'!
 [11:43:00.296][LOAD_REGISTRIES][CLIENT][INFO] Finished loading Scripts!
@@ -2611,4 +2619,7 @@
 [11:43:30.291][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:altvaultaxe" that outputs: <item:the_vault:axe>.mutable()
 [11:43:30.291][DONE][CLIENT][INFO] Finished loading Scripts!
 [11:43:30.295][DONE][CLIENT][INFO] This reload was made possible by DreamThorn and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+<<<<<<< HEAD
+>>>>>>> 237f56836ecfbb28f984ef3f880bf57032b35d64
+=======
 >>>>>>> 237f56836ecfbb28f984ef3f880bf57032b35d64
