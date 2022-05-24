@@ -1,7 +1,7 @@
 {
   "playerUUID": "b8bed4fd-6c2f-4f4f-a216-118ed8719365",
   "playerNickname": "Phred7",
-  "timestamp": 1653330964,
+  "timestamp": 1653352745,
   "vaultRuns": 4,
   "vaultWins": 0,
   "vaultDeaths": 0,
@@ -14,11 +14,11 @@
     "minecraft:generic.max_health": 22.0,
     "minecraft:generic.knockback_resistance": 0.0,
     "minecraft:generic.movement_speed": 0.12000000208616257,
-    "minecraft:generic.attack_damage": 1.0,
+    "minecraft:generic.attack_damage": 5.5,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 4.4000000059604645,
-    "minecraft:generic.armor": 0.0,
-    "minecraft:generic.armor_toughness": 0.0,
+    "minecraft:generic.attack_speed": 1.1000000014901161,
+    "minecraft:generic.armor": 16.0,
+    "minecraft:generic.armor_toughness": 2.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
     "forge:swim_speed": 1.0,
@@ -49,8 +49,29 @@
   "thornsDamage": 0.0,
   "equipment": {
     "MAINHAND": {
-      "itemKey": "minecraft:glass",
-      "count": 59
+      "itemKey": "minecraft:diamond_shovel",
+      "count": 1,
+      "nbt": "{Damage:0,Enchantments:[{lvl:4s,id:\"minecraft:efficiency\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
+    },
+    "FEET": {
+      "itemKey": "minecraft:netherite_boots",
+      "count": 1,
+      "nbt": "{RepairCost:31,Damage:146,Enchantments:[{lvl:4s,id:\"minecraft:feather_falling\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:depth_strider\"}]}"
+    },
+    "LEGS": {
+      "itemKey": "minecraft:diamond_leggings",
+      "count": 1,
+      "nbt": "{RepairCost:7,Damage:243,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}"
+    },
+    "CHEST": {
+      "itemKey": "minecraft:elytra",
+      "count": 1,
+      "nbt": "{armElyData:{chestplate:{id:\"minecraft:diamond_chestplate\",Count:1b,tag:{RepairCost:3,Damage:111,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:2s,id:\"minecraft:unbreaking\"}]}},material:5,elytra:{id:\"minecraft:elytra\",Count:1b,tag:{RepairCost:3,Damage:0,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}},armored:1b},RepairCost:6,CustomModelData:13522555,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],display:{Lore:[\u0027{\"extra\":[{\"italic\":false,\"color\":\"gold\",\"text\":\"+ \"},{\"italic\":false,\"color\":\"gold\",\"insertion\":\"988c594c-be3b-462c-bcf2-fdf19f9373dc\",\"hoverEvent\":{\"action\":\"show_entity\",\"contents\":{\"type\":\"minecraft:item\",\"id\":\"988c594c-be3b-462c-bcf2-fdf19f9373dc\",\"name\":{\"translate\":\"item.minecraft.diamond_chestplate\"}}},\"translate\":\"item.minecraft.diamond_chestplate\"}],\"text\":\"\"}\u0027]},Damage:0,AttributeModifiers:[{Amount:8.0d,Slot:\"chest\",AttributeName:\"minecraft:generic.armor\",Operation:0,UUID:[I;-1623373971,-1055374012,-2090507132,1761916046],Name:\"Armor\"},{Amount:2.0d,Slot:\"chest\",AttributeName:\"minecraft:generic.armor_toughness\",Operation:0,UUID:[I;-1623373971,-1055374012,-2090507132,1761916046],Name:\"Armor Toughness\"}]}"
+    },
+    "HEAD": {
+      "itemKey": "minecraft:diamond_helmet",
+      "count": 1,
+      "nbt": "{RepairCost:7,Damage:174,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}"
     }
   },
   "abilities": {
