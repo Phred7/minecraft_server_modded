@@ -1,7 +1,7 @@
 {
   "playerUUID": "b8bed4fd-6c2f-4f4f-a216-118ed8719365",
   "playerNickname": "Phred7",
-  "timestamp": 1653460128,
+  "timestamp": 1653469631,
   "vaultRuns": 5,
   "vaultWins": 0,
   "vaultDeaths": 1,
@@ -48,33 +48,25 @@
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
-    "MAINHAND": {
-      "itemKey": "minecraft:smooth_stone_slab",
-      "count": 46
-    },
-    "OFFHAND": {
-      "itemKey": "minecraft:torch",
-      "count": 43
-    },
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
       "count": 1,
-      "nbt": "{RepairCost:1,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:3s,id:\"minecraft:depth_strider\"},{lvl:4s,id:\"minecraft:feather_falling\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:0}"
+      "nbt": "{RepairCost:1,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:3s,id:\"minecraft:depth_strider\"},{lvl:4s,id:\"minecraft:feather_falling\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:1}"
     },
     "LEGS": {
       "itemKey": "minecraft:diamond_leggings",
       "count": 1,
-      "nbt": "{RepairCost:7,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"}],Damage:0}"
+      "nbt": "{RepairCost:7,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"}],Damage:1}"
     },
     "CHEST": {
       "itemKey": "minecraft:elytra",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:1}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:118}"
     },
     "HEAD": {
       "itemKey": "minecraft:diamond_helmet",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:1s,id:\"minecraft:binding_curse\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:133}"
+      "nbt": "{Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:1s,id:\"minecraft:binding_curse\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:141}"
     }
   },
   "abilities": {

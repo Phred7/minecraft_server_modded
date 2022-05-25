@@ -1,15 +1,15 @@
 {
   "playerUUID": "23f647f6-d7d7-4919-97bf-5ac1c7f2993a",
   "playerNickname": "Aqua333",
-  "timestamp": 1653460128,
+  "timestamp": 1653469921,
   "vaultRuns": 7,
   "vaultWins": 1,
   "vaultDeaths": 0,
   "artifactCount": 0,
   "inVault": false,
-  "powerLevel": 18,
-  "vaultLevel": 13,
-  "levelPercent": 0.32133332,
+  "powerLevel": 19,
+  "vaultLevel": 14,
+  "levelPercent": 0.16282353,
   "attributes": {
     "minecraft:generic.max_health": 20.0,
     "minecraft:generic.knockback_resistance": 0.0,
@@ -49,45 +49,42 @@
   "thornsDamage": 0.0,
   "equipment": {
     "MAINHAND": {
-      "itemKey": "the_vault:gift_normal_statue",
-      "count": 1,
-      "nbt": "{BlockEntityTag:{LootItem:{id:\"byg:black_ice\",Count:1b},ItemsRemaining:262,StatueType:0,TotalItems:262,PlayerNickname:\"KaptainWutax\",Interval:500}}"
-    },
-    "OFFHAND": {
-      "itemKey": "minecraft:totem_of_undying",
-      "count": 1
+      "itemKey": "minecraft:golden_carrot",
+      "count": 49
     },
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
       "count": 1,
-      "nbt": "{RepairCost:7,Enchantments:[{lvl:3s,id:\"minecraft:feather_falling\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"}],Damage:6}"
+      "nbt": "{RepairCost:7,Enchantments:[{lvl:3s,id:\"minecraft:feather_falling\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"}],Damage:0}"
     },
     "LEGS": {
       "itemKey": "minecraft:netherite_leggings",
       "count": 1,
-      "nbt": "{RepairCost:31,Enchantments:[{lvl:4s,id:\"minecraft:blast_protection\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:6}"
+      "nbt": "{RepairCost:31,Damage:0,Enchantments:[{lvl:4s,id:\"minecraft:blast_protection\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}"
     },
     "CHEST": {
       "itemKey": "minecraft:netherite_chestplate",
       "count": 1,
-      "nbt": "{RepairCost:7,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"}],Damage:1}"
+      "nbt": "{RepairCost:7,Damage:5,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"}]}"
     },
     "HEAD": {
       "itemKey": "minecraft:netherite_helmet",
       "count": 1,
-      "nbt": "{RepairCost:7,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"}],Damage:4}"
+      "nbt": "{RepairCost:7,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"}],Damage:1}"
     }
   },
   "abilities": {
     "Cleanse": 1,
     "Dash": 1,
+    "Rampage": 1,
     "Vein Miner": 2
   },
   "talents": {
     "Twerker": 1,
     "Experienced": 1,
     "Elvish": 1,
-    "Water Breathing": 1
+    "Water Breathing": 1,
+    "Fire Resistance": 1
   },
   "researches": [],
   "eternals": []
