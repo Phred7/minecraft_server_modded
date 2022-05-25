@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2022-05-24 13:47:21 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/virus_necrodermal": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:17 -0700"
@@ -3777,6 +3783,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2022-05-24 21:47:57 -0700"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_network_transmitter": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:15 -0700"
@@ -4136,20 +4148,29 @@
       "minecraft:blaze": "2022-05-20 22:38:17 -0700",
       "minecraft:pillager": "2022-05-20 22:18:23 -0700",
       "minecraft:skeleton": "2022-05-20 22:45:52 -0700",
+      "minecraft:ravager": "2022-05-24 21:31:28 -0700",
       "minecraft:ghast": "2022-05-20 19:44:33 -0700",
       "minecraft:hoglin": "2022-05-20 19:58:33 -0700",
+      "minecraft:guardian": "2022-05-24 22:45:07 -0700",
+      "minecraft:vindicator": "2022-05-24 21:29:48 -0700",
       "minecraft:magma_cube": "2022-05-20 19:51:24 -0700",
       "minecraft:piglin_brute": "2022-05-20 19:50:36 -0700",
       "minecraft:spider": "2022-05-22 17:25:44 -0700",
       "minecraft:creeper": "2022-05-22 18:07:43 -0700",
+      "minecraft:evoker": "2022-05-24 21:38:40 -0700",
+      "minecraft:phantom": "2022-05-24 14:28:51 -0700",
+      "minecraft:zombified_piglin": "2022-05-24 16:04:37 -0700",
       "minecraft:witch": "2022-05-22 18:08:47 -0700",
       "minecraft:wither_skeleton": "2022-05-20 22:40:10 -0700",
       "minecraft:ender_dragon": "2022-05-21 22:03:10 -0700",
       "minecraft:shulker": "2022-05-21 22:25:38 -0700",
       "minecraft:piglin": "2022-05-20 19:48:29 -0700",
       "minecraft:enderman": "2022-05-21 22:05:39 -0700",
+      "minecraft:silverfish": "2022-05-24 23:09:52 -0700",
+      "minecraft:vex": "2022-05-24 21:33:16 -0700",
       "minecraft:zombie": "2022-05-22 18:07:07 -0700",
-      "minecraft:drowned": "2022-05-22 18:22:22 -0700"
+      "minecraft:drowned": "2022-05-22 18:22:22 -0700",
+      "minecraft:zombie_villager": "2022-05-24 13:21:41 -0700"
     },
     "done": false
   },
@@ -4246,6 +4267,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_disk_manipulator": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-05-24 21:27:50 -0700"
     },
     "done": true
   },
@@ -6187,6 +6214,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_holly": {
+    "criteria": {
+      "has_plank": "2022-05-24 19:02:41 -0700"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_network_transmitter": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:15 -0700"
@@ -7384,6 +7417,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/metal_barrel": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:20 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-05-24 23:26:57 -0700"
     },
     "done": true
   },
@@ -10132,12 +10171,6 @@
   "supplementaries:recipes/checker_block": {
     "criteria": {
       "has_plank": "2022-05-20 20:14:37 -0700"
-    },
-    "done": true
-  },
-  "vanillatweaks:armored_elytra": {
-    "criteria": {
-      "tick": "2022-05-23 19:57:50 -0700"
     },
     "done": true
   },
@@ -14323,6 +14356,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/jungle/jungle_pult_2": {
+    "criteria": {
+      "has_planks": "2022-05-24 17:50:13 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/dark_oak/dark_oak_glass_desk_left": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:13 -0700"
@@ -14332,6 +14371,18 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:19 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle/jungle_pult_3": {
+    "criteria": {
+      "has_planks": "2022-05-24 17:50:13 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle/jungle_pult_4": {
+    "criteria": {
+      "has_planks": "2022-05-24 17:50:13 -0700"
     },
     "done": true
   },
@@ -14386,6 +14437,12 @@
   "create:recipes/food/smelting/bread": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:18 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle/jungle_pult_1": {
+    "criteria": {
+      "has_planks": "2022-05-24 17:50:13 -0700"
     },
     "done": true
   },
@@ -14497,6 +14554,12 @@
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2022-05-24 13:47:21 -0700"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_aluminum_to_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:14 -0700"
@@ -14524,6 +14587,12 @@
   "comforts:hammock_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:13 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_embur": {
+    "criteria": {
+      "has_plank": "2022-05-24 23:02:57 -0700"
     },
     "done": true
   },
@@ -15310,6 +15379,12 @@
   "botania:recipes/botania/elementium_block": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:13 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_embur": {
+    "criteria": {
+      "has_plank": "2022-05-24 23:02:57 -0700"
     },
     "done": true
   },
@@ -17293,12 +17368,6 @@
     },
     "done": true
   },
-  "vanillatweaks:cauldron_concrete": {
-    "criteria": {
-      "tick": "2022-05-23 19:57:50 -0700"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/paved_granite_wall_from_paved_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:20 -0700"
@@ -17512,6 +17581,12 @@
   "botania:recipes/botania/livingrock_bricks": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-05-24 16:04:15 -0700"
     },
     "done": true
   },
@@ -17977,6 +18052,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2022-05-24 13:41:19 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:16 -0700"
@@ -18118,6 +18199,12 @@
   "mcwfurnitures:recipes/acacia/acacia_dresser_4": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:21 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2022-05-24 20:40:58 -0700"
     },
     "done": true
   },
@@ -18673,6 +18760,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-05-24 21:39:13 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:14 -0700"
@@ -18769,6 +18862,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/itemfinder": {
+    "criteria": {
+      "has_item": "2022-05-24 13:41:19 -0700"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/parapet/jungle_log_parapet": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:16 -0700"
@@ -18790,12 +18889,6 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/chute_copper": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:16 -0700"
-    },
-    "done": true
-  },
-  "vanillatweaks:double_shulker_shells": {
-    "criteria": {
-      "tick": "2022-05-23 19:57:50 -0700"
     },
     "done": true
   },
@@ -19939,6 +20032,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2022-05-24 16:48:09 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:15 -0700"
@@ -20050,6 +20149,12 @@
   "create:recipes/create.base/crafting/kinetics/linear_chassisfrom_conversion": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:13 -0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/light_engineering": {
+    "criteria": {
+      "has_iron_sheetmetal": "2022-05-24 16:08:52 -0700"
     },
     "done": true
   },
@@ -25006,19 +25111,29 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2022-05-22 17:06:44 -0700",
+      "minecraft:jungle_edge": "2022-05-24 17:49:47 -0700",
       "minecraft:snowy_mountains": "2022-05-22 19:12:55 -0700",
       "minecraft:forest": "2022-05-22 17:14:23 -0700",
+      "minecraft:mountains": "2022-05-24 13:57:01 -0700",
+      "minecraft:taiga": "2022-05-24 13:57:29 -0700",
+      "minecraft:desert_hills": "2022-05-24 17:13:01 -0700",
       "minecraft:deep_cold_ocean": "2022-05-22 17:07:16 -0700",
       "minecraft:snowy_tundra": "2022-05-22 17:08:21 -0700",
       "minecraft:desert": "2022-05-22 17:07:20 -0700",
       "minecraft:frozen_river": "2022-05-22 17:10:34 -0700",
+      "minecraft:deep_frozen_ocean": "2022-05-24 17:46:50 -0700",
+      "minecraft:jungle": "2022-05-24 17:49:49 -0700",
+      "minecraft:birch_forest": "2022-05-24 17:22:40 -0700",
       "minecraft:snowy_beach": "2022-05-22 17:08:20 -0700",
+      "minecraft:bamboo_jungle": "2022-05-24 17:51:23 -0700",
       "minecraft:savanna_plateau": "2022-05-22 17:08:14 -0700",
       "minecraft:beach": "2022-05-20 19:06:29 -0700",
       "minecraft:river": "2022-05-20 19:06:39 -0700",
       "minecraft:lukewarm_ocean": "2022-05-22 17:13:58 -0700",
       "minecraft:snowy_taiga": "2022-05-22 17:14:59 -0700",
+      "minecraft:birch_forest_hills": "2022-05-24 17:23:48 -0700",
       "minecraft:wooded_hills": "2022-05-20 22:04:16 -0700",
+      "minecraft:swamp": "2022-05-24 17:22:36 -0700",
       "minecraft:savanna": "2022-05-22 17:06:55 -0700",
       "minecraft:plains": "2022-05-20 19:06:37 -0700"
     },
@@ -25603,6 +25718,12 @@
   "immersiveengineering:recipes/misc/crafting/paper_from_sawdust": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:17 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_holly": {
+    "criteria": {
+      "has_plank": "2022-05-24 19:02:41 -0700"
     },
     "done": true
   },
@@ -26474,6 +26595,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/coke_to_coal_coke": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:17 -0700"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2022-05-24 13:47:21 -0700"
     },
     "done": true
   },

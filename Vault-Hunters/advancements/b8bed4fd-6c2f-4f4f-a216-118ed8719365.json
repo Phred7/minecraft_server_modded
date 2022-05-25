@@ -3732,6 +3732,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2022-05-24 21:43:47 -0700"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_network_transmitter": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:46 -0700"
@@ -4058,16 +4064,21 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-05-24 21:30:10 -0700",
       "minecraft:skeleton": "2022-05-22 16:13:39 -0700",
+      "minecraft:ravager": "2022-05-24 21:35:49 -0700",
       "minecraft:ghast": "2022-05-21 21:37:36 -0700",
+      "minecraft:vindicator": "2022-05-24 21:30:59 -0700",
       "minecraft:spider": "2022-05-22 16:12:56 -0700",
       "minecraft:creeper": "2022-05-20 20:24:24 -0700",
+      "minecraft:evoker": "2022-05-24 21:34:34 -0700",
       "minecraft:witch": "2022-05-21 23:46:44 -0700",
       "minecraft:shulker": "2022-05-21 22:35:43 -0700",
       "minecraft:cave_spider": "2022-05-21 23:38:02 -0700",
       "minecraft:enderman": "2022-05-21 22:00:48 -0700",
       "minecraft:silverfish": "2022-05-22 21:35:16 -0700",
       "minecraft:endermite": "2022-05-23 22:58:34 -0700",
+      "minecraft:vex": "2022-05-24 21:33:50 -0700",
       "minecraft:zombie": "2022-05-20 20:17:32 -0700",
       "minecraft:drowned": "2022-05-22 21:22:17 -0700"
     },
@@ -4166,6 +4177,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/light_gray_disk_manipulator": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-05-24 21:30:10 -0700"
     },
     "done": true
   },
@@ -10022,12 +10039,6 @@
   "supplementaries:recipes/checker_block": {
     "criteria": {
       "has_plank": "2022-05-22 19:10:59 -0700"
-    },
-    "done": true
-  },
-  "vanillatweaks:armored_elytra": {
-    "criteria": {
-      "tick": "2022-05-23 17:27:04 -0700"
     },
     "done": true
   },
@@ -17117,12 +17128,6 @@
     },
     "done": true
   },
-  "vanillatweaks:cauldron_concrete": {
-    "criteria": {
-      "tick": "2022-05-23 17:27:04 -0700"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/paved_granite_wall_from_paved_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:49 -0700"
@@ -17957,6 +17962,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2022-05-24 21:38:01 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/dark_oak/dark_oak_nightstand_9": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:47 -0700"
@@ -18509,6 +18520,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-05-24 21:39:13 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:48 -0700"
@@ -18626,12 +18643,6 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/chute_copper": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:44 -0700"
-    },
-    "done": true
-  },
-  "vanillatweaks:double_shulker_shells": {
-    "criteria": {
-      "tick": "2022-05-23 17:27:04 -0700"
     },
     "done": true
   },
@@ -24794,6 +24805,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2022-05-22 23:02:03 -0700",
+      "minecraft:forest": "2022-05-24 21:46:15 -0700",
       "minecraft:desert_hills": "2022-05-22 17:35:12 -0700",
       "minecraft:desert": "2022-05-20 19:40:44 -0700",
       "minecraft:beach": "2022-05-20 16:53:15 -0700",

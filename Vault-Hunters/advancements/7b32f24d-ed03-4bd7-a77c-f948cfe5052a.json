@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_dark_oak": {
+    "criteria": {
+      "has_plank": "2022-05-24 19:33:51 -0700"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/nugget_steel_recycle_sword_from_blasting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:43 -0700"
@@ -4101,6 +4107,7 @@
     "criteria": {
       "minecraft:pillager": "2022-05-20 22:18:45 -0700",
       "minecraft:spider": "2022-05-21 22:23:23 -0700",
+      "minecraft:creeper": "2022-05-24 21:15:57 -0700",
       "minecraft:silverfish": "2022-05-21 13:13:20 -0700",
       "minecraft:enderman": "2022-05-21 22:13:49 -0700",
       "minecraft:zombie": "2022-05-22 21:52:52 -0700"
@@ -10091,12 +10098,6 @@
     },
     "done": true
   },
-  "vanillatweaks:armored_elytra": {
-    "criteria": {
-      "tick": "2022-05-23 20:03:22 -0700"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/acacia/acacia_desk_left": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:44 -0700"
@@ -14159,6 +14160,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_plank": "2022-05-24 19:33:51 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/petal_light_blue_double": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:45 -0700"
@@ -14504,6 +14511,12 @@
   "botania:recipes/botania/metamorphic_desert_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:43 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/string": {
+    "criteria": {
+      "has_plank": "2022-05-24 19:33:58 -0700"
     },
     "done": true
   },
@@ -17177,12 +17190,6 @@
     },
     "done": true
   },
-  "vanillatweaks:cauldron_concrete": {
-    "criteria": {
-      "tick": "2022-05-23 20:03:22 -0700"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/paved_granite_wall_from_paved_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:43 -0700"
@@ -18569,6 +18576,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/rope_arrow": {
+    "criteria": {
+      "has_plank": "2022-05-24 19:33:58 -0700"
+    },
+    "done": true
+  },
   "rftoolsstorage:recipes/rftoolsstorage/dump_module": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:38 -0700"
@@ -18680,12 +18693,6 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/chute_copper": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:39 -0700"
-    },
-    "done": true
-  },
-  "vanillatweaks:double_shulker_shells": {
-    "criteria": {
-      "tick": "2022-05-23 20:03:22 -0700"
     },
     "done": true
   },
@@ -24819,10 +24826,12 @@
     "criteria": {
       "minecraft:cold_ocean": "2022-05-21 12:58:50 -0700",
       "minecraft:snowy_mountains": "2022-05-21 13:01:41 -0700",
+      "minecraft:forest": "2022-05-24 19:25:40 -0700",
       "minecraft:desert_hills": "2022-05-21 11:05:23 -0700",
       "minecraft:deep_cold_ocean": "2022-05-21 12:59:41 -0700",
       "minecraft:snowy_tundra": "2022-05-21 13:00:43 -0700",
       "minecraft:desert": "2022-05-20 16:03:39 -0700",
+      "minecraft:frozen_river": "2022-05-24 19:26:13 -0700",
       "minecraft:snowy_beach": "2022-05-21 13:00:18 -0700",
       "minecraft:savanna_plateau": "2022-05-22 21:28:39 -0700",
       "minecraft:beach": "2022-05-20 16:33:59 -0700",
