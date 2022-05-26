@@ -1,7 +1,7 @@
 {
   "playerUUID": "b8bed4fd-6c2f-4f4f-a216-118ed8719365",
   "playerNickname": "Phred7",
-  "timestamp": 1653543755,
+  "timestamp": 1653606282,
   "vaultRuns": 9,
   "vaultWins": 0,
   "vaultDeaths": 2,
@@ -14,10 +14,10 @@
     "minecraft:generic.max_health": 24.0,
     "minecraft:generic.knockback_resistance": 0.0,
     "minecraft:generic.movement_speed": 0.12000000208616257,
-    "minecraft:generic.attack_damage": 1.0,
+    "minecraft:generic.attack_damage": 5.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 4.4000000059604645,
-    "minecraft:generic.armor": 0.0,
+    "minecraft:generic.attack_speed": 1.3200000542402268,
+    "minecraft:generic.armor": 12.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
@@ -47,7 +47,33 @@
   "fatalStrikeDamage": 0.0,
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
-  "equipment": {},
+  "equipment": {
+    "MAINHAND": {
+      "itemKey": "minecraft:diamond_pickaxe",
+      "count": 1,
+      "nbt": "{Enchantments:[{lvl:5,id:\"efficiency\"},{lvl:1,id:\"mending\"},{lvl:1,id:\"silk_touch\"},{lvl:3,id:\"unbreaking\"}],Damage:3}"
+    },
+    "FEET": {
+      "itemKey": "minecraft:netherite_boots",
+      "count": 1,
+      "nbt": "{Enchantments:[{lvl:3,id:\"depth_strider\"},{lvl:4,id:\"feather_falling\"},{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:0}"
+    },
+    "LEGS": {
+      "itemKey": "minecraft:diamond_leggings",
+      "count": 1,
+      "nbt": "{Enchantments:[{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:0}"
+    },
+    "CHEST": {
+      "itemKey": "minecraft:netherite_chestplate",
+      "count": 1,
+      "nbt": "{Enchantments:[{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:0}"
+    },
+    "HEAD": {
+      "itemKey": "minecraft:diamond_helmet",
+      "count": 1,
+      "nbt": "{Enchantments:[{lvl:1,id:\"aqua_affinity\"},{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:0}"
+    }
+  },
   "abilities": {
     "Cleanse": 1,
     "Dash": 2,

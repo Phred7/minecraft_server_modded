@@ -9152,6 +9152,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:turtle": "2022-05-26 12:03:24 -0700",
       "minecraft:cow": "2022-05-20 19:42:39 -0700"
     },
     "done": false
@@ -14688,6 +14689,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/string": {
+    "criteria": {
+      "has_plank": "2022-05-26 12:12:50 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:16 -0700"
@@ -18807,6 +18814,12 @@
   "neoncraft:recipes/wallneon_letter_c_craft": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:20 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/rope_arrow": {
+    "criteria": {
+      "has_plank": "2022-05-26 12:12:51 -0700"
     },
     "done": true
   },
