@@ -4157,6 +4157,7 @@
       "minecraft:piglin_brute": "2022-05-20 19:50:36 -0700",
       "minecraft:spider": "2022-05-22 17:25:44 -0700",
       "minecraft:creeper": "2022-05-22 18:07:43 -0700",
+      "minecraft:wither": "2022-05-25 19:23:36 -0700",
       "minecraft:evoker": "2022-05-24 21:38:40 -0700",
       "minecraft:phantom": "2022-05-24 14:28:51 -0700",
       "minecraft:zombified_piglin": "2022-05-24 16:04:37 -0700",
@@ -4167,6 +4168,7 @@
       "minecraft:piglin": "2022-05-20 19:48:29 -0700",
       "minecraft:enderman": "2022-05-21 22:05:39 -0700",
       "minecraft:silverfish": "2022-05-24 23:09:52 -0700",
+      "minecraft:endermite": "2022-05-25 17:20:18 -0700",
       "minecraft:vex": "2022-05-24 21:33:16 -0700",
       "minecraft:zombie": "2022-05-22 18:07:07 -0700",
       "minecraft:drowned": "2022-05-22 18:22:22 -0700",
@@ -5884,6 +5886,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2022-05-26 00:12:37 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:16 -0700"
@@ -6496,6 +6504,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2022-05-26 00:32:15 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:13 -0700"
@@ -6771,6 +6785,12 @@
       "has_the_recipe": "2022-05-20 19:04:16 -0700"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/british_shorthair.png": "2022-05-26 01:20:02 -0700"
+    },
+    "done": false
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_silver_to_ingot_silver": {
     "criteria": {
@@ -7735,6 +7755,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_pattern_grid": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2022-05-26 01:20:02 -0700"
     },
     "done": true
   },
@@ -12037,6 +12063,12 @@
   "mcwfurnitures:recipes/acacia/acacia_nightstand": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:20 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-05-25 18:23:21 -0700"
     },
     "done": true
   },

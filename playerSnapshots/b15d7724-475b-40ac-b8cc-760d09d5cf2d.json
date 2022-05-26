@@ -1,7 +1,7 @@
 {
   "playerUUID": "b15d7724-475b-40ac-b8cc-760d09d5cf2d",
   "playerNickname": "HDanKing17",
-  "timestamp": 1653197715,
+  "timestamp": 1653538119,
   "vaultRuns": 0,
   "vaultWins": 0,
   "vaultDeaths": 0,
@@ -48,25 +48,29 @@
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
+    "MAINHAND": {
+      "itemKey": "minecraft:golden_carrot",
+      "count": 18
+    },
     "FEET": {
       "itemKey": "minecraft:diamond_boots",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:feather_falling\"}],Damage:18}"
+      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:feather_falling\"}],Damage:19}"
     },
     "LEGS": {
       "itemKey": "minecraft:diamond_leggings",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}],Damage:18}"
+      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}],Damage:19}"
     },
     "CHEST": {
       "itemKey": "minecraft:diamond_chestplate",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:protection\"},{lvl:2s,id:\"minecraft:unbreaking\"}],Damage:14}"
+      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:protection\"},{lvl:2s,id:\"minecraft:unbreaking\"}],Damage:15}"
     },
     "HEAD": {
       "itemKey": "minecraft:diamond_helmet",
       "count": 1,
-      "nbt": "{Damage:15,Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}]}"
+      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}],Damage:16}"
     }
   },
   "abilities": {},

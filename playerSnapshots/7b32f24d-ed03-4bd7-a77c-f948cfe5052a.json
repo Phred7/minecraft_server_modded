@@ -1,7 +1,7 @@
 {
   "playerUUID": "7b32f24d-ed03-4bd7-a77c-f948cfe5052a",
   "playerNickname": "rorysun",
-  "timestamp": 1653454840,
+  "timestamp": 1653539024,
   "vaultRuns": 0,
   "vaultWins": 0,
   "vaultDeaths": 0,
@@ -51,22 +51,22 @@
     "FEET": {
       "itemKey": "minecraft:diamond_boots",
       "count": 1,
-      "nbt": "{RepairCost:3,Damage:57,Enchantments:[{lvl:4s,id:\"minecraft:feather_falling\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:feather_falling\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:62}"
     },
     "LEGS": {
       "itemKey": "minecraft:diamond_leggings",
       "count": 1,
-      "nbt": "{RepairCost:1,Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:61}"
+      "nbt": "{RepairCost:1,Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:67}"
     },
     "CHEST": {
       "itemKey": "minecraft:elytra",
       "count": 1,
-      "nbt": "{RepairCost:3,Damage:55,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:141}"
     },
     "HEAD": {
       "itemKey": "minecraft:diamond_helmet",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}],Damage:73}"
+      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}],Damage:83}"
     }
   },
   "abilities": {

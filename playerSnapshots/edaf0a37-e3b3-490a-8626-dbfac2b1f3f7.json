@@ -1,15 +1,15 @@
 {
   "playerUUID": "edaf0a37-e3b3-490a-8626-dbfac2b1f3f7",
   "playerNickname": "Nave808",
-  "timestamp": 1653458128,
-  "vaultRuns": 9,
-  "vaultWins": 6,
+  "timestamp": 1653543024,
+  "vaultRuns": 11,
+  "vaultWins": 8,
   "vaultDeaths": 0,
   "artifactCount": 0,
   "inVault": false,
-  "powerLevel": 20,
-  "vaultLevel": 15,
-  "levelPercent": 0.16628571,
+  "powerLevel": 21,
+  "vaultLevel": 16,
+  "levelPercent": 0.70155555,
   "attributes": {
     "minecraft:generic.max_health": 20.0,
     "minecraft:generic.knockback_resistance": 0.0,
@@ -17,7 +17,7 @@
     "minecraft:generic.attack_damage": 1.0,
     "minecraft:generic.attack_knockback": 0.0,
     "minecraft:generic.attack_speed": 4.0,
-    "minecraft:generic.armor": 14.0,
+    "minecraft:generic.armor": 10.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
@@ -36,8 +36,8 @@
   },
   "favors": {
     "Velara": 1,
-    "Tenos": 1,
-    "Wendarr": -1,
+    "Tenos": 0,
+    "Wendarr": 0,
     "Idona": -1
   },
   "parry": 0.0,
@@ -55,7 +55,7 @@
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
       "count": 1,
-      "nbt": "{RepairCost:7,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:3s,id:\"minecraft:depth_strider\"},{lvl:4s,id:\"minecraft:feather_falling\"}],Damage:5}"
+      "nbt": "{RepairCost:7,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:3s,id:\"minecraft:depth_strider\"},{lvl:4s,id:\"minecraft:feather_falling\"}],Damage:0}"
     },
     "LEGS": {
       "itemKey": "minecraft:netherite_leggings",
@@ -63,14 +63,14 @@
       "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:0}"
     },
     "CHEST": {
-      "itemKey": "minecraft:netherite_chestplate",
+      "itemKey": "minecraft:elytra",
       "count": 1,
-      "nbt": "{RepairCost:3,Damage:4,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}"
+      "nbt": "{RepairCost:3,Damage:1,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
     },
     "HEAD": {
       "itemKey": "minecraft:netherite_helmet",
       "count": 1,
-      "nbt": "{RepairCost:15,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:3s,id:\"minecraft:respiration\"}],Damage:2}"
+      "nbt": "{RepairCost:15,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:3s,id:\"minecraft:respiration\"}],Damage:0}"
     }
   },
   "abilities": {

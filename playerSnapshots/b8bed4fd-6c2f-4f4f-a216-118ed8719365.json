@@ -1,15 +1,15 @@
 {
   "playerUUID": "b8bed4fd-6c2f-4f4f-a216-118ed8719365",
   "playerNickname": "Phred7",
-  "timestamp": 1653513804,
-  "vaultRuns": 8,
+  "timestamp": 1653543755,
+  "vaultRuns": 9,
   "vaultWins": 0,
-  "vaultDeaths": 1,
+  "vaultDeaths": 2,
   "artifactCount": 0,
   "inVault": false,
   "powerLevel": 16,
   "vaultLevel": 11,
-  "levelPercent": 0.29496774,
+  "levelPercent": 0.34129032,
   "attributes": {
     "minecraft:generic.max_health": 24.0,
     "minecraft:generic.knockback_resistance": 0.0,
@@ -17,7 +17,7 @@
     "minecraft:generic.attack_damage": 1.0,
     "minecraft:generic.attack_knockback": 0.0,
     "minecraft:generic.attack_speed": 4.4000000059604645,
-    "minecraft:generic.armor": 8.0,
+    "minecraft:generic.armor": 0.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
@@ -47,32 +47,7 @@
   "fatalStrikeDamage": 0.0,
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
-  "equipment": {
-    "MAINHAND": {
-      "itemKey": "the_vault:vault_rock",
-      "count": 3
-    },
-    "FEET": {
-      "itemKey": "minecraft:netherite_boots",
-      "count": 1,
-      "nbt": "{RepairCost:1,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:3s,id:\"minecraft:depth_strider\"},{lvl:4s,id:\"minecraft:feather_falling\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:22}"
-    },
-    "LEGS": {
-      "itemKey": "minecraft:diamond_leggings",
-      "count": 1,
-      "nbt": "{RepairCost:7,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"}],Damage:20}"
-    },
-    "CHEST": {
-      "itemKey": "minecraft:elytra",
-      "count": 1,
-      "nbt": "{RepairCost:3,Damage:122,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}"
-    },
-    "HEAD": {
-      "itemKey": "minecraft:diamond_helmet",
-      "count": 1,
-      "nbt": "{RepairCost:31,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:respiration\"},{lvl:1s,id:\"minecraft:aqua_affinity\"}],Damage:20}"
-    }
-  },
+  "equipment": {},
   "abilities": {
     "Cleanse": 1,
     "Dash": 2,

@@ -4180,6 +4180,7 @@
       "minecraft:piglin_brute": "2022-05-20 20:07:17 -0700",
       "minecraft:spider": "2022-05-20 18:09:49 -0700",
       "minecraft:creeper": "2022-05-20 17:09:15 -0700",
+      "minecraft:wither": "2022-05-25 19:56:22 -0700",
       "minecraft:evoker": "2022-05-24 21:33:03 -0700",
       "minecraft:zombified_piglin": "2022-05-21 21:51:35 -0700",
       "minecraft:witch": "2022-05-22 19:25:12 -0700",
@@ -12122,6 +12123,12 @@
   "mcwfurnitures:recipes/acacia/acacia_nightstand": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-05-25 19:55:51 -0700"
     },
     "done": true
   },
