@@ -1,23 +1,23 @@
 {
   "playerUUID": "b8bed4fd-6c2f-4f4f-a216-118ed8719365",
   "playerNickname": "Phred7",
-  "timestamp": 1653606282,
-  "vaultRuns": 9,
+  "timestamp": 1653680387,
+  "vaultRuns": 13,
   "vaultWins": 0,
   "vaultDeaths": 2,
   "artifactCount": 0,
   "inVault": false,
-  "powerLevel": 16,
-  "vaultLevel": 11,
-  "levelPercent": 0.34129032,
+  "powerLevel": 21,
+  "vaultLevel": 16,
+  "levelPercent": 0.6652222,
   "attributes": {
     "minecraft:generic.max_health": 24.0,
     "minecraft:generic.knockback_resistance": 0.0,
     "minecraft:generic.movement_speed": 0.12000000208616257,
-    "minecraft:generic.attack_damage": 5.0,
+    "minecraft:generic.attack_damage": 1.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 1.3200000542402268,
-    "minecraft:generic.armor": 12.0,
+    "minecraft:generic.attack_speed": 4.4000000059604645,
+    "minecraft:generic.armor": 8.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
@@ -49,9 +49,8 @@
   "thornsDamage": 0.0,
   "equipment": {
     "MAINHAND": {
-      "itemKey": "minecraft:diamond_pickaxe",
-      "count": 1,
-      "nbt": "{Enchantments:[{lvl:5,id:\"efficiency\"},{lvl:1,id:\"mending\"},{lvl:1,id:\"silk_touch\"},{lvl:3,id:\"unbreaking\"}],Damage:3}"
+      "itemKey": "minecraft:golden_carrot",
+      "count": 60
     },
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
@@ -64,9 +63,9 @@
       "nbt": "{Enchantments:[{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:0}"
     },
     "CHEST": {
-      "itemKey": "minecraft:netherite_chestplate",
+      "itemKey": "minecraft:elytra",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:0}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:10}"
     },
     "HEAD": {
       "itemKey": "minecraft:diamond_helmet",
@@ -76,7 +75,7 @@
   },
   "abilities": {
     "Cleanse": 1,
-    "Dash": 2,
+    "Dash": 3,
     "Vein Miner": 3
   },
   "talents": {
@@ -85,7 +84,8 @@
     "Experienced": 1,
     "Well Fit": 2,
     "Reach": 1,
-    "Water Breathing": 1
+    "Water Breathing": 1,
+    "Fire Resistance": 1
   },
   "researches": [],
   "eternals": []

@@ -15049,6 +15049,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_acacia": {
+    "criteria": {
+      "has_plank": "2022-05-26 21:54:45 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/dreamwood_wall": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:16 -0700"
@@ -19069,6 +19075,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_zelkova": {
+    "criteria": {
+      "has_plank": "2022-05-26 20:58:46 -0700"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/birch/birch_japanese_door": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:13 -0700"
@@ -20356,6 +20368,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:14 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_acacia": {
+    "criteria": {
+      "has_plank": "2022-05-26 21:54:45 -0700"
     },
     "done": true
   },
@@ -23137,9 +23155,33 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/acacia/acacia_pult_2": {
+    "criteria": {
+      "has_planks": "2022-05-26 21:54:44 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia/acacia_pult_3": {
+    "criteria": {
+      "has_planks": "2022-05-26 21:54:44 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia/acacia_pult_4": {
+    "criteria": {
+      "has_planks": "2022-05-26 21:54:44 -0700"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:18 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia/acacia_pult_1": {
+    "criteria": {
+      "has_planks": "2022-05-26 21:54:44 -0700"
     },
     "done": true
   },
@@ -23494,6 +23536,12 @@
   "rftoolsutility:recipes/rftoolsutility/inventoryplus_module": {
     "criteria": {
       "has_the_recipe": "2022-05-20 19:04:20 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_zelkova": {
+    "criteria": {
+      "has_plank": "2022-05-26 20:58:46 -0700"
     },
     "done": true
   },

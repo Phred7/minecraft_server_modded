@@ -3165,6 +3165,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_steel_from_slab": {
+    "criteria": {
+      "has_storage_steel": "2022-05-27 09:34:33 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/shimmerwood_planks_stairs": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:57 -0700"
@@ -4182,6 +4188,7 @@
       "minecraft:creeper": "2022-05-20 17:09:15 -0700",
       "minecraft:wither": "2022-05-25 19:56:22 -0700",
       "minecraft:evoker": "2022-05-24 21:33:03 -0700",
+      "minecraft:phantom": "2022-05-26 20:48:51 -0700",
       "minecraft:zombified_piglin": "2022-05-21 21:51:35 -0700",
       "minecraft:witch": "2022-05-22 19:25:12 -0700",
       "minecraft:wither_skeleton": "2022-05-20 22:30:08 -0700",
@@ -16725,6 +16732,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2022-05-26 17:10:44 -0700"
     },
     "done": true
   },

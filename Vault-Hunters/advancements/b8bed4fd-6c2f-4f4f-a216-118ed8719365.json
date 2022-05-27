@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-26 23:04:10 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/virus_necrodermal": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:49 -0700"
@@ -818,6 +824,12 @@
   "create:recipes/create.palettes/chiseled_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-26 23:04:10 -0700"
     },
     "done": true
   },
@@ -1455,6 +1467,12 @@
   "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-26 23:04:10 -0700"
     },
     "done": true
   },
@@ -3096,6 +3114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-26 23:04:10 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/dreamwood_planks": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:45 -0700"
@@ -3747,6 +3771,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_light_blue_to_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:43 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_nightshade": {
+    "criteria": {
+      "has_plank": "2022-05-27 11:41:49 -0700"
     },
     "done": true
   },
@@ -4743,6 +4773,12 @@
   "botania:recipes/botania/metamorphic_forest_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-26 23:04:10 -0700"
     },
     "done": true
   },
@@ -5973,6 +6009,12 @@
   "mcwfurnitures:recipes/birch/birch_furniture_4": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-26 23:04:10 -0700"
     },
     "done": true
   },
@@ -10980,6 +11022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-26 23:04:10 -0700"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/adjustable_crate": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:47 -0700"
@@ -11493,6 +11541,12 @@
   "botania:recipes/botania/alchemy_catalyst": {
     "criteria": {
       "has_alt_item": "2022-05-21 22:37:23 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_nightshade": {
+    "criteria": {
+      "has_plank": "2022-05-27 11:41:49 -0700"
     },
     "done": true
   },
@@ -13254,6 +13308,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2022-05-26 21:40:40 -0700"
+    },
+    "done": true
+  },
   "blockcarpentry:recipes/blockcarpentry/frame_slope": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:44 -0700"
@@ -14919,6 +14979,12 @@
   "mcwbridges:recipes/acacia_rope_bridge_stair": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-26 23:04:10 -0700"
     },
     "done": true
   },
@@ -18342,6 +18408,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/copper_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2022-05-26 21:40:40 -0700"
+    },
+    "done": true
+  },
   "modularrouters:recipes/modularrouters/speed_upgrade": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:48 -0700"
@@ -18657,6 +18729,12 @@
   "mcwwindows:recipes/parapet/jungle_log_parapet": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-26 23:04:10 -0700"
     },
     "done": true
   },
@@ -20301,6 +20379,12 @@
   "create:recipes/building_blocks/blasting/ingot_lead_compat_mekanism": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-26 23:04:10 -0700"
     },
     "done": true
   },
@@ -21996,6 +22080,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_lv": {
+    "criteria": {
+      "has_copper_ingot": "2022-05-26 21:40:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-26 23:04:10 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/slab_recombine/white_pavement": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:45 -0700"
@@ -22125,6 +22221,12 @@
   "mcwroofs:recipes/green_striped_awning": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-26 23:04:10 -0700"
     },
     "done": true
   },
@@ -22443,6 +22545,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/black_network_transmitter": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-26 23:04:10 -0700"
     },
     "done": true
   },
@@ -25489,6 +25597,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2022-05-20 16:20:02 -0700",
+      "golden_apple": "2022-05-27 11:32:28 -0700",
       "golden_carrot": "2022-05-20 21:44:06 -0700"
     },
     "done": false
@@ -26087,6 +26196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-26 23:04:10 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:48 -0700"
@@ -26150,6 +26265,12 @@
   "mcwbridges:recipes/rope_birch_bridge": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-26 23:04:10 -0700"
     },
     "done": true
   },
