@@ -1,7 +1,7 @@
 {
   "playerUUID": "edaf0a37-e3b3-490a-8626-dbfac2b1f3f7",
   "playerNickname": "Nave808",
-  "timestamp": 1654049083,
+  "timestamp": 1654052013,
   "vaultRuns": 30,
   "vaultWins": 18,
   "vaultDeaths": 1,
@@ -61,7 +61,7 @@
     "CHEST": {
       "itemKey": "minecraft:elytra",
       "count": 1,
-      "nbt": "{RepairCost:3,Damage:18,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:18}"
     },
     "HEAD": {
       "itemKey": "minecraft:netherite_helmet",
@@ -104,30 +104,30 @@
       "isAncient": false,
       "auraName": "Wither 2",
       "equipment": {
-        "LEGS": {
-          "itemKey": "minecraft:diamond_leggings",
-          "count": 1,
-          "nbt": "{Damage:0,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}"
-        },
         "HEAD": {
           "itemKey": "minecraft:diamond_helmet",
           "count": 1,
-          "nbt": "{Damage:0,Enchantments:[{lvl:4s,id:\"protection\"},{lvl:3s,id:\"unbreaking\"}]}"
+          "nbt": "{Enchantments:[{lvl:4s,id:\"protection\"},{lvl:3s,id:\"unbreaking\"}],Damage:0}"
         },
-        "MAINHAND": {
-          "itemKey": "minecraft:netherite_axe",
+        "LEGS": {
+          "itemKey": "minecraft:diamond_leggings",
           "count": 1,
-          "nbt": "{Damage:0,Enchantments:[{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"},{lvl:1,id:\"mending\"},{lvl:5,id:\"smite\"}]}"
+          "nbt": "{Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:0}"
         },
         "CHEST": {
           "itemKey": "minecraft:diamond_chestplate",
           "count": 1,
-          "nbt": "{RepairCost:3,Damage:120,Enchantments:[{lvl:2s,id:\"minecraft:unbreaking\"},{lvl:4s,id:\"minecraft:protection\"}]}"
+          "nbt": "{RepairCost:3,Enchantments:[{lvl:2s,id:\"minecraft:unbreaking\"},{lvl:4s,id:\"minecraft:protection\"}],Damage:120}"
+        },
+        "MAINHAND": {
+          "itemKey": "minecraft:netherite_axe",
+          "count": 1,
+          "nbt": "{Enchantments:[{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"},{lvl:1,id:\"mending\"},{lvl:5,id:\"smite\"}],Damage:0}"
         },
         "FEET": {
           "itemKey": "minecraft:diamond_boots",
           "count": 1,
-          "nbt": "{Damage:0,Enchantments:[{lvl:4s,id:\"protection\"},{lvl:3s,id:\"unbreaking\"},{lvl:3s,id:\"depth_strider\"},{lvl:4s,id:\"feather_falling\"}]}"
+          "nbt": "{Enchantments:[{lvl:4s,id:\"protection\"},{lvl:3s,id:\"unbreaking\"},{lvl:3s,id:\"depth_strider\"},{lvl:4s,id:\"feather_falling\"}],Damage:0}"
         }
       }
     }
