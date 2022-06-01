@@ -1,15 +1,15 @@
 {
   "playerUUID": "b8bed4fd-6c2f-4f4f-a216-118ed8719365",
   "playerNickname": "Phred7",
-  "timestamp": 1653680387,
-  "vaultRuns": 13,
-  "vaultWins": 0,
+  "timestamp": 1653989730,
+  "vaultRuns": 16,
+  "vaultWins": 1,
   "vaultDeaths": 2,
   "artifactCount": 0,
   "inVault": false,
-  "powerLevel": 21,
-  "vaultLevel": 16,
-  "levelPercent": 0.6652222,
+  "powerLevel": 27,
+  "vaultLevel": 22,
+  "levelPercent": 0.041047618,
   "attributes": {
     "minecraft:generic.max_health": 24.0,
     "minecraft:generic.knockback_resistance": 0.0,
@@ -17,14 +17,14 @@
     "minecraft:generic.attack_damage": 1.0,
     "minecraft:generic.attack_knockback": 0.0,
     "minecraft:generic.attack_speed": 4.4000000059604645,
-    "minecraft:generic.armor": 8.0,
+    "minecraft:generic.armor": 10.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
     "forge:swim_speed": 1.0,
     "forge:nametag_distance": 64.0,
     "forge:entity_gravity": 0.08,
-    "forge:reach_distance": 6.0,
+    "forge:reach_distance": 7.0,
     "the_vault:generic.crit_chance": 0.0,
     "the_vault:generic.crit_multiplier": 0.0,
     "the_vault:generic.tp_chance": 0.0,
@@ -48,45 +48,47 @@
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
-    "MAINHAND": {
-      "itemKey": "minecraft:golden_carrot",
-      "count": 60
+    "OFFHAND": {
+      "itemKey": "minecraft:torch",
+      "count": 46
     },
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:3,id:\"depth_strider\"},{lvl:4,id:\"feather_falling\"},{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:0}"
+      "nbt": "{Enchantments:[{lvl:3,id:\"depth_strider\"},{lvl:4,id:\"feather_falling\"},{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:61}"
     },
     "LEGS": {
-      "itemKey": "minecraft:diamond_leggings",
+      "itemKey": "minecraft:netherite_leggings",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:0}"
+      "nbt": "{Enchantments:[{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:73}"
     },
     "CHEST": {
       "itemKey": "minecraft:elytra",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:10}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:198}"
     },
     "HEAD": {
-      "itemKey": "minecraft:diamond_helmet",
+      "itemKey": "minecraft:netherite_helmet",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:1,id:\"aqua_affinity\"},{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:0}"
+      "nbt": "{Enchantments:[{lvl:1,id:\"aqua_affinity\"},{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:51}"
     }
   },
   "abilities": {
-    "Cleanse": 1,
+    "Cleanse: Immune": 1,
     "Dash": 3,
-    "Vein Miner": 3
+    "Vein Miner: Fortune": 5
   },
   "talents": {
     "Haste": 1,
     "Speed": 1,
     "Experienced": 1,
     "Well Fit": 2,
-    "Reach": 1,
     "Water Breathing": 1,
-    "Fire Resistance": 1
+    "Fire Resistance": 1,
+    "Reach": 2
   },
-  "researches": [],
+  "researches": [
+    "Decorator"
+  ],
   "eternals": []
 }

@@ -1,22 +1,22 @@
 {
   "playerUUID": "7b32f24d-ed03-4bd7-a77c-f948cfe5052a",
   "playerNickname": "rorysun",
-  "timestamp": 1653630329,
-  "vaultRuns": 0,
+  "timestamp": 1653978661,
+  "vaultRuns": 4,
   "vaultWins": 0,
   "vaultDeaths": 0,
   "artifactCount": 0,
   "inVault": false,
-  "powerLevel": 7,
-  "vaultLevel": 2,
-  "levelPercent": 0.24354546,
+  "powerLevel": 23,
+  "vaultLevel": 18,
+  "levelPercent": 0.5425263,
   "attributes": {
     "minecraft:generic.max_health": 20.0,
     "minecraft:generic.knockback_resistance": 0.0,
     "minecraft:generic.movement_speed": 0.10000000149011612,
-    "minecraft:generic.attack_damage": 5.5,
+    "minecraft:generic.attack_damage": 1.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 1.0,
+    "minecraft:generic.attack_speed": 4.4000000059604645,
     "minecraft:generic.armor": 7.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
@@ -24,7 +24,7 @@
     "forge:swim_speed": 1.0,
     "forge:nametag_distance": 64.0,
     "forge:entity_gravity": 0.08,
-    "forge:reach_distance": 5.0,
+    "forge:reach_distance": 6.0,
     "the_vault:generic.crit_chance": 0.0,
     "the_vault:generic.crit_multiplier": 0.0,
     "the_vault:generic.tp_chance": 0.0,
@@ -48,40 +48,41 @@
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
-    "MAINHAND": {
-      "itemKey": "minecraft:diamond_shovel",
-      "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:2s,id:\"minecraft:efficiency\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:326}"
-    },
     "FEET": {
       "itemKey": "minecraft:diamond_boots",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:feather_falling\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:78}"
+      "nbt": "{RepairCost:7,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:feather_falling\"}],Damage:0}"
     },
     "LEGS": {
       "itemKey": "minecraft:diamond_leggings",
       "count": 1,
-      "nbt": "{RepairCost:1,Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:88}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:0}"
     },
     "CHEST": {
       "itemKey": "minecraft:elytra",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:253}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:0}"
     },
     "HEAD": {
       "itemKey": "minecraft:diamond_helmet",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:projectile_protection\"}],Damage:109}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:0}"
     }
   },
   "abilities": {
+    "Cleanse": 1,
     "Dash": 1,
     "Mega Jump": 1,
+    "Tank": 1,
     "Vein Miner": 2
   },
   "talents": {
     "Twerker": 1,
-    "Water Breathing": 1
+    "Water Breathing": 1,
+    "Fire Resistance": 1,
+    "Elvish": 1,
+    "Reach": 1,
+    "Haste": 1
   },
   "researches": [],
   "eternals": []

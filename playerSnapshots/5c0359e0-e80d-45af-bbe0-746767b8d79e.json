@@ -1,7 +1,7 @@
 {
   "playerUUID": "5c0359e0-e80d-45af-bbe0-746767b8d79e",
   "playerNickname": "Halley4808",
-  "timestamp": 1653363282,
+  "timestamp": 1653709254,
   "vaultRuns": 0,
   "vaultWins": 0,
   "vaultDeaths": 0,
@@ -17,7 +17,7 @@
     "minecraft:generic.attack_damage": 5.0,
     "minecraft:generic.attack_knockback": 0.0,
     "minecraft:generic.attack_speed": 1.2000000476837158,
-    "minecraft:generic.armor": 7.0,
+    "minecraft:generic.armor": 10.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
@@ -51,27 +51,31 @@
     "MAINHAND": {
       "itemKey": "minecraft:diamond_pickaxe",
       "count": 1,
-      "nbt": "{RepairCost:7,Enchantments:[{lvl:2s,id:\"minecraft:fortune\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:0}"
+      "nbt": "{RepairCost:7,Damage:194,Enchantments:[{lvl:2s,id:\"minecraft:fortune\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
+    },
+    "OFFHAND": {
+      "itemKey": "minecraft:torch",
+      "count": 16
     },
     "FEET": {
       "itemKey": "minecraft:diamond_boots",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:feather_falling\"}],Damage:234}"
+      "nbt": "{RepairCost:15,Damage:2,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:4s,id:\"minecraft:feather_falling\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
     },
     "LEGS": {
       "itemKey": "minecraft:diamond_leggings",
       "count": 1,
-      "nbt": "{RepairCost:1,Enchantments:[{lvl:4s,id:\"minecraft:protection\"}],Damage:234}"
+      "nbt": "{RepairCost:3,Damage:0,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
     },
     "CHEST": {
-      "itemKey": "minecraft:elytra",
+      "itemKey": "minecraft:diamond_chestplate",
       "count": 1,
-      "nbt": "{RepairCost:3,Damage:0,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}"
+      "nbt": "{RepairCost:3,Damage:4,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
     },
     "HEAD": {
       "itemKey": "minecraft:diamond_helmet",
       "count": 1,
-      "nbt": "{RepairCost:1,Enchantments:[{lvl:4s,id:\"minecraft:protection\"}],Damage:234}"
+      "nbt": "{RepairCost:3,Damage:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
     }
   },
   "abilities": {

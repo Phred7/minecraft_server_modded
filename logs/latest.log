@@ -1,218 +1,108 @@
-[27May2022 08:00:00.002] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
-[27May2022 08:12:56.197] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
-[27May2022 08:12:56.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
-[27May2022 08:12:56.328] [Thread-1071/INFO] [FTB Utilities Backups/]: Backing up 2301 files...
-[27May2022 08:12:56.330] [Thread-1071/INFO] [FTB Utilities Backups/]: Compressing 2301 files...
-[27May2022 08:14:46.686] [Thread-1071/INFO] [FTB Utilities Backups/]: Done compressing in 01:50 seconds (2.2GB)!
-[27May2022 08:14:46.719] [Thread-1071/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-05-27-08-12-56.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
-[27May2022 08:14:46.722] [Thread-1071/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 01:50! (2.2GB)
-[27May2022 08:18:58.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> 59+128 = 187
-[27May2022 08:20:35.855] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469879, l='ServerLevel[Vault-Hunters]', x=-747.63, y=255.26, z=-448.47]
-[27May2022 08:20:35.856] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469880, l='ServerLevel[Vault-Hunters]', x=-748.66, y=255.40, z=-448.54]
-[27May2022 08:20:35.856] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469881, l='ServerLevel[Vault-Hunters]', x=-747.72, y=255.71, z=-447.65]
-[27May2022 08:20:35.856] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469882, l='ServerLevel[Vault-Hunters]', x=-746.30, y=255.43, z=-448.71]
-[27May2022 08:20:35.856] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469883, l='ServerLevel[Vault-Hunters]', x=-748.33, y=255.26, z=-447.53]
-[27May2022 08:20:35.856] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469884, l='ServerLevel[Vault-Hunters]', x=-747.69, y=254.57, z=-449.47]
-[27May2022 08:20:35.856] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469885, l='ServerLevel[Vault-Hunters]', x=-748.69, y=254.57, z=-449.75]
-[27May2022 08:20:35.857] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469886, l='ServerLevel[Vault-Hunters]', x=-746.71, y=254.60, z=-449.44]
-[27May2022 08:20:35.857] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469887, l='ServerLevel[Vault-Hunters]', x=-749.47, y=254.41, z=-448.60]
-[27May2022 08:20:35.857] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469889, l='ServerLevel[Vault-Hunters]', x=-745.47, y=254.37, z=-448.63]
-[27May2022 08:20:35.857] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469890, l='ServerLevel[Vault-Hunters]', x=-745.63, y=254.36, z=-447.63]
-[27May2022 08:20:35.857] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469891, l='ServerLevel[Vault-Hunters]', x=-749.36, y=254.47, z=-446.33]
-[27May2022 08:20:35.857] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469892, l='ServerLevel[Vault-Hunters]', x=-747.54, y=253.62, z=-449.61]
-[27May2022 08:20:35.857] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469893, l='ServerLevel[Vault-Hunters]', x=-748.30, y=253.38, z=-449.71]
-[27May2022 08:20:35.858] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469894, l='ServerLevel[Vault-Hunters]', x=-746.26, y=253.32, z=-449.39]
-[27May2022 08:20:45.798] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469949, l='ServerLevel[Vault-Hunters]', x=-747.36, y=255.34, z=-437.63]
-[27May2022 08:20:45.798] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469950, l='ServerLevel[Vault-Hunters]', x=-747.47, y=255.58, z=-436.58]
-[27May2022 08:20:45.798] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469951, l='ServerLevel[Vault-Hunters]', x=-746.29, y=255.31, z=-437.67]
-[27May2022 08:20:45.799] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469952, l='ServerLevel[Vault-Hunters]', x=-748.36, y=255.53, z=-436.61]
-[27May2022 08:20:45.799] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/469953, l='ServerLevel[Vault-Hunters]', x=-746.53, y=255.32, z=-436.33]
-[27May2022 08:22:05.246] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/470125, l='ServerLevel[Vault-Hunters]', x=-748.44, y=185.54, z=-447.57]
-[27May2022 08:22:09.498] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/470127, l='ServerLevel[Vault-Hunters]', x=-746.37, y=185.54, z=-447.46]
-[27May2022 08:22:10.048] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/470129, l='ServerLevel[Vault-Hunters]', x=-747.45, y=185.66, z=-447.31]
-[27May2022 08:22:37.845] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/470141, l='ServerLevel[Vault-Hunters]', x=-747.39, y=187.70, z=-448.58]
-[27May2022 08:42:45.492] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sunny Blossom Leaves'/477433, l='ServerLevel[Vault-Hunters]', x=275.50, y=2.51, z=-2.39]
-[27May2022 08:42:46.092] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sunny Blossom Leaves'/477435, l='ServerLevel[Vault-Hunters]', x=275.41, y=3.60, z=-2.66]
-[27May2022 08:50:25.191] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/479472, l='ServerLevel[Vault-Hunters]', x=275.42, y=3.74, z=-1.33]
-[27May2022 08:58:55.335] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 67913320-d464-4b27-9068-1aa629829ea5. Existing minecraft:armor_stand#482406, new: minecraft:armor_stand#482406
-[27May2022 08:58:56.784] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 6fccd79e-6686-4dd0-97fd-8c06b6e7604d. Existing minecraft:armor_stand#482409, new: minecraft:armor_stand#482409
-[27May2022 09:25:15.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
-[27May2022 09:25:20.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered a Difficult Vault!
-[27May2022 09:25:23.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4421ms or 88 ticks behind
-[27May2022 09:26:51.858] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Purple Glowshroom Block'/488268, l='ServerLevel[Vault-Hunters]', x=339964.42, y=7.40, z=4246.45]
-[27May2022 09:26:52.510] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Purple Glowshroom Block'/488274, l='ServerLevel[Vault-Hunters]', x=339964.28, y=7.46, z=4247.32]
-[27May2022 09:27:00.409] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Larimar Ore'/488395, l='ServerLevel[Vault-Hunters]', x=339980.60, y=13.68, z=4256.70]
-[27May2022 09:27:14.165] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Purple Bulbis Shell'/488402, l='ServerLevel[Vault-Hunters]', x=339979.53, y=13.53, z=4235.60]
-[27May2022 09:27:14.861] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Purple Bulbis Shell'/488404, l='ServerLevel[Vault-Hunters]', x=339978.51, y=13.58, z=4235.64]
-[27May2022 09:27:15.457] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Purple Bulbis Shell'/488406, l='ServerLevel[Vault-Hunters]', x=339978.43, y=12.26, z=4235.58]
-[27May2022 09:34:23.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound the_vault:puzzle_completion_major to Nave808]
-[27May2022 09:34:23.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 25 blocks]
-[27May2022 09:35:44.465] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Orange Concrete'/498134, l='ServerLevel[Vault-Hunters]', x=340278.45, y=25.25, z=4120.62]
-[27May2022 09:35:44.466] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Caution Line 13'/498135, l='ServerLevel[Vault-Hunters]', x=340276.55, y=23.33, z=4124.65]
-[27May2022 09:35:44.466] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Illuminant Block(Inverted)'/498136, l='ServerLevel[Vault-Hunters]', x=340275.56, y=23.52, z=4123.32]
-[27May2022 09:35:44.466] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Orange Wool'/498137, l='ServerLevel[Vault-Hunters]', x=340278.32, y=24.55, z=4120.64]
-[27May2022 09:35:44.466] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Caution Line 12'/498138, l='ServerLevel[Vault-Hunters]', x=340281.41, y=23.55, z=4123.58]
-[27May2022 09:35:44.466] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Space X 20 Trapdoor'/498139, l='ServerLevel[Vault-Hunters]', x=340279.60, y=24.33, z=4122.38]
-[27May2022 09:35:44.466] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Red Candle'/498140, l='ServerLevel[Vault-Hunters]', x=340281.44, y=26.26, z=4122.72]
-[27May2022 09:35:44.467] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Orange Concrete'/498141, l='ServerLevel[Vault-Hunters]', x=340283.29, y=26.46, z=4125.66]
-[27May2022 09:35:44.467] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Illuminant Block(Inverted)'/498142, l='ServerLevel[Vault-Hunters]', x=340280.59, y=23.49, z=4127.63]
-[27May2022 09:35:44.467] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Caution Line 13'/498143, l='ServerLevel[Vault-Hunters]', x=340279.62, y=23.64, z=4127.61]
-[27May2022 09:35:44.467] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Orange Wool'/498144, l='ServerLevel[Vault-Hunters]', x=340283.52, y=24.72, z=4126.58]
-[27May2022 09:35:44.467] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Caution Line 12'/498145, l='ServerLevel[Vault-Hunters]', x=340281.41, y=23.61, z=4127.62]
-[27May2022 09:35:44.467] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Space X 20 Trapdoor'/498146, l='ServerLevel[Vault-Hunters]', x=340281.38, y=24.27, z=4122.55]
-[27May2022 09:35:44.467] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Red Candle'/498147, l='ServerLevel[Vault-Hunters]', x=340281.33, y=27.44, z=4123.63]
-[27May2022 09:35:45.171] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rusty Metal Plate'/498184, l='ServerLevel[Vault-Hunters]', x=340280.62, y=32.47, z=4118.37]
-[27May2022 09:35:45.171] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bar Panel'/498185, l='ServerLevel[Vault-Hunters]', x=340281.68, y=30.71, z=4118.51]
-[27May2022 09:35:45.172] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Orange Wool'/498188, l='ServerLevel[Vault-Hunters]', x=340284.44, y=32.48, z=4121.31]
-[27May2022 09:35:45.172] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Orange Concrete'/498189, l='ServerLevel[Vault-Hunters]', x=340283.55, y=24.51, z=4120.68]
-[27May2022 09:35:45.172] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rusty Metal Plate Rivets 2'/498191, l='ServerLevel[Vault-Hunters]', x=340282.26, y=30.50, z=4118.39]
-[27May2022 09:35:45.665] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rusty Metal Plate Rivets 2'/498217, l='ServerLevel[Vault-Hunters]', x=340285.31, y=27.53, z=4125.58]
-[27May2022 09:36:18.229] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Sheetmetal'/498417, l='ServerLevel[Vault-Hunters]', x=340263.69, y=34.38, z=4126.59]
-[27May2022 09:36:18.229] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Ender Watcher'/498418, l='ServerLevel[Vault-Hunters]', x=340262.26, y=34.67, z=4127.62]
-[27May2022 09:36:18.230] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Light Gray Sheetmetal'/498419, l='ServerLevel[Vault-Hunters]', x=340261.70, y=35.61, z=4129.34]
-[27May2022 09:36:18.230] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bar Panel'/498420, l='ServerLevel[Vault-Hunters]', x=340263.38, y=37.72, z=4128.46]
-[27May2022 09:36:18.230] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Purple Concrete'/498425, l='ServerLevel[Vault-Hunters]', x=340262.62, y=31.55, z=4129.50]
-[27May2022 09:36:18.230] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Sheetmetal'/498426, l='ServerLevel[Vault-Hunters]', x=340265.71, y=32.71, z=4129.62]
-[27May2022 09:36:18.230] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/498427, l='ServerLevel[Vault-Hunters]', x=340261.62, y=34.40, z=4123.56]
-[27May2022 09:36:18.230] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Ender Watcher'/498428, l='ServerLevel[Vault-Hunters]', x=340264.40, y=32.40, z=4129.34]
-[27May2022 09:36:18.230] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Light Gray Sheetmetal'/498429, l='ServerLevel[Vault-Hunters]', x=340264.29, y=35.65, z=4126.51]
-[27May2022 09:36:18.231] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Illuminant Block(Inverted)'/498430, l='ServerLevel[Vault-Hunters]', x=340263.52, y=31.30, z=4128.48]
-[27May2022 09:36:18.231] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Sheetmetal'/498431, l='ServerLevel[Vault-Hunters]', x=340262.70, y=34.52, z=4126.54]
-[27May2022 09:36:18.231] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Sheetmetal'/498432, l='ServerLevel[Vault-Hunters]', x=340261.41, y=32.34, z=4129.57]
-[27May2022 09:36:18.231] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Light Gray Sheetmetal'/498433, l='ServerLevel[Vault-Hunters]', x=340261.25, y=31.46, z=4126.69]
-[27May2022 09:36:18.231] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Purple Concrete'/498434, l='ServerLevel[Vault-Hunters]', x=340263.31, y=28.30, z=4129.26]
-[27May2022 09:36:18.231] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Purple Glass Shard'/498435, l='ServerLevel[Vault-Hunters]', x=340263.69, y=28.56, z=4128.41]
-[27May2022 09:36:18.231] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Sheetmetal'/498436, l='ServerLevel[Vault-Hunters]', x=340264.47, y=32.43, z=4130.26]
-[27May2022 09:36:18.231] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bar Panel'/498438, l='ServerLevel[Vault-Hunters]', x=340263.29, y=38.60, z=4127.41]
-[27May2022 09:36:18.232] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Light Gray Sheetmetal'/498441, l='ServerLevel[Vault-Hunters]', x=340262.60, y=35.31, z=4126.25]
-[27May2022 09:39:05.981] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Light Gray Sheetmetal'/499603, l='ServerLevel[Vault-Hunters]', x=340261.59, y=34.45, z=4154.44]
-[27May2022 09:39:05.982] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Ender Watcher'/499604, l='ServerLevel[Vault-Hunters]', x=340262.30, y=32.61, z=4157.35]
-[27May2022 09:39:05.982] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cyan Concrete'/499605, l='ServerLevel[Vault-Hunters]', x=340264.64, y=35.44, z=4156.39]
-[27May2022 09:39:05.982] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Sheetmetal'/499606, l='ServerLevel[Vault-Hunters]', x=340261.32, y=34.32, z=4155.44]
-[27May2022 09:39:05.982] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cyan Concrete'/499608, l='ServerLevel[Vault-Hunters]', x=340263.61, y=35.41, z=4156.41]
-[27May2022 09:39:05.982] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Light Gray Sheetmetal'/499609, l='ServerLevel[Vault-Hunters]', x=340265.58, y=33.27, z=4154.44]
-[27May2022 09:39:05.982] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Sheetmetal'/499610, l='ServerLevel[Vault-Hunters]', x=340265.75, y=34.52, z=4155.34]
-[27May2022 09:39:05.983] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Illuminant Block(Inverted)'/499611, l='ServerLevel[Vault-Hunters]', x=340263.72, y=31.48, z=4156.69]
-[27May2022 09:39:05.983] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Ender Watcher'/499612, l='ServerLevel[Vault-Hunters]', x=340264.41, y=32.71, z=4157.70]
-[27May2022 09:39:05.983] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Light Gray Sheetmetal'/499613, l='ServerLevel[Vault-Hunters]', x=340265.54, y=30.70, z=4154.28]
-[27May2022 09:39:05.983] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cyan Concrete'/499614, l='ServerLevel[Vault-Hunters]', x=340263.57, y=27.71, z=4156.40]
-[27May2022 09:39:05.983] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cyan Glass Shard'/499615, l='ServerLevel[Vault-Hunters]', x=340263.50, y=27.46, z=4157.45]
-[27May2022 09:39:05.983] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Sheetmetal'/499616, l='ServerLevel[Vault-Hunters]', x=340263.73, y=31.39, z=4158.31]
-[27May2022 09:39:05.983] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cyan Glass Shard'/499617, l='ServerLevel[Vault-Hunters]', x=340263.29, y=28.71, z=4156.37]
-[27May2022 09:39:05.983] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Light Gray Sheetmetal'/499618, l='ServerLevel[Vault-Hunters]', x=340262.53, y=35.34, z=4154.71]
-[27May2022 09:39:05.984] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bar Panel'/499619, l='ServerLevel[Vault-Hunters]', x=340263.45, y=37.54, z=4156.45]
-[27May2022 09:39:05.984] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Illuminant Block(Inverted)'/499620, l='ServerLevel[Vault-Hunters]', x=340263.43, y=38.60, z=4156.49]
-[27May2022 09:39:05.984] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Ender Watcher'/499621, l='ServerLevel[Vault-Hunters]', x=340262.42, y=34.48, z=4157.73]
-[27May2022 09:39:05.984] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Sheetmetal'/499622, l='ServerLevel[Vault-Hunters]', x=340265.33, y=36.53, z=4156.41]
-[27May2022 09:39:08.076] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Caution Line 12'/499742, l='ServerLevel[Vault-Hunters]', x=340273.66, y=23.45, z=4158.41]
-[27May2022 09:39:08.279] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/499760, l='ServerLevel[Vault-Hunters]', x=340270.44, y=25.39, z=4148.58]
-[27May2022 09:39:08.821] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Caution Line 13'/499825, l='ServerLevel[Vault-Hunters]', x=340279.29, y=23.68, z=4152.46]
-[27May2022 09:39:08.821] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Space X 20 Trapdoor'/499826, l='ServerLevel[Vault-Hunters]', x=340278.35, y=24.36, z=4150.58]
-[27May2022 09:39:08.821] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Black Concrete Powder'/499827, l='ServerLevel[Vault-Hunters]', x=340285.26, y=25.26, z=4152.29]
-[27May2022 09:39:08.821] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Caution Line 12'/499828, l='ServerLevel[Vault-Hunters]', x=340281.27, y=23.73, z=4151.40]
-[27May2022 09:39:08.821] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Red Candle'/499829, l='ServerLevel[Vault-Hunters]', x=340279.62, y=26.30, z=4150.52]
-[27May2022 09:39:08.822] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Illuminant Block(Inverted)'/499830, l='ServerLevel[Vault-Hunters]', x=340280.26, y=23.56, z=4151.56]
-[27May2022 09:39:08.822] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Orange Concrete'/499831, l='ServerLevel[Vault-Hunters]', x=340283.62, y=25.47, z=4151.45]
-[27May2022 09:39:08.822] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Orange Wool'/499832, l='ServerLevel[Vault-Hunters]', x=340283.65, y=24.32, z=4150.62]
-[27May2022 09:39:08.822] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Space X 20 Trapdoor'/499834, l='ServerLevel[Vault-Hunters]', x=340277.72, y=24.27, z=4147.40]
-[27May2022 09:39:32.527] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Sheetmetal'/500142, l='ServerLevel[Vault-Hunters]', x=340258.43, y=32.34, z=4138.43]
-[27May2022 09:39:32.527] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Blue Concrete'/500143, l='ServerLevel[Vault-Hunters]', x=340257.31, y=35.63, z=4140.40]
-[27May2022 09:39:32.527] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Ender Watcher'/500144, l='ServerLevel[Vault-Hunters]', x=340259.43, y=32.42, z=4139.53]
-[27May2022 09:39:32.528] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Light Gray Sheetmetal'/500145, l='ServerLevel[Vault-Hunters]', x=340260.39, y=33.73, z=4142.54]
-[27May2022 09:39:32.528] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Blue Concrete'/500146, l='ServerLevel[Vault-Hunters]', x=340257.61, y=35.38, z=4141.48]
-[27May2022 09:39:32.528] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Light Gray Sheetmetal'/500147, l='ServerLevel[Vault-Hunters]', x=340260.69, y=32.52, z=4138.47]
-[27May2022 09:39:32.528] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Sheetmetal'/500148, l='ServerLevel[Vault-Hunters]', x=340260.39, y=34.39, z=4139.46]
-[27May2022 09:39:32.528] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Illuminant Block(Inverted)'/500149, l='ServerLevel[Vault-Hunters]', x=340258.25, y=31.29, z=4140.65]
-[27May2022 09:39:32.528] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Light Gray Sheetmetal'/500150, l='ServerLevel[Vault-Hunters]', x=340258.50, y=35.48, z=4138.70]
-[27May2022 09:39:32.528] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Sheetmetal'/500151, l='ServerLevel[Vault-Hunters]', x=340257.30, y=34.69, z=4138.53]
-[27May2022 09:39:32.529] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bar Panel'/500152, l='ServerLevel[Vault-Hunters]', x=340259.56, y=38.59, z=4140.73]
-[27May2022 09:39:32.529] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Blue Concrete'/500154, l='ServerLevel[Vault-Hunters]', x=340257.72, y=28.33, z=4140.37]
-[27May2022 09:39:32.529] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Light Gray Sheetmetal'/500155, l='ServerLevel[Vault-Hunters]', x=340259.49, y=30.42, z=4138.26]
-[27May2022 09:39:32.529] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Sheetmetal'/500156, l='ServerLevel[Vault-Hunters]', x=340256.31, y=32.68, z=4139.29]
-[27May2022 09:39:32.529] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Illuminant Block(Inverted)'/500159, l='ServerLevel[Vault-Hunters]', x=340258.43, y=38.58, z=4140.40]
-[27May2022 09:44:13.147] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Waxed Yellow Corundum'/505327, l='ServerLevel[Vault-Hunters]', x=339877.35, y=30.46, z=3942.60]
-[27May2022 09:49:07.396] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Purple Glowshroom Block'/509085, l='ServerLevel[Vault-Hunters]', x=339869.72, y=8.62, z=4128.75]
-[27May2022 09:49:54.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 bailed.
-[27May2022 10:02:36.749] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
-[27May2022 10:02:36.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
-[27May2022 10:03:22.047] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
-[27May2022 10:03:30.992] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@21fa401
-[27May2022 10:03:31.166] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/69.146.86.145:49652] logged in with entity id 514117 at (-676.0096604178011, 72.0, -360.8700882207832)
-[27May2022 10:03:31.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
-[27May2022 10:03:31.192] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
-[27May2022 10:18:30.326] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
-[27May2022 10:18:37.297] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5958a2eb
-[27May2022 10:18:37.464] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/174.45.84.27:53227] logged in with entity id 515388 at (-667.691253980495, 50.0, -376.30000001192093)
-[27May2022 10:18:37.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
-[27May2022 10:18:37.583] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
-[27May2022 10:19:09.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> hello!
-[27May2022 10:19:17.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> you afk?
-[27May2022 10:35:18.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 opened a Vault!
-[27May2022 10:35:25.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 entered a Plentiful, Stronk, Silent Vault!
-[27May2022 10:35:29.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
-[27May2022 10:35:37.928] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=348126, y=9, z=4290} but found not block entity block Block{minecraft:air} at location
-[27May2022 10:35:37.928] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=348126, y=9, z=4290}
-[27May2022 10:58:56.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 bailed.
-[27May2022 11:09:24.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 opened a Vault!
-[27May2022 11:09:29.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 entered a Weakened, Plentiful, Speedy Vault!
-[27May2022 11:29:40.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
-[27May2022 11:31:34.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 25 blocks]
-[27May2022 11:31:34.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound the_vault:puzzle/completion_major to 2 players]
-[27May2022 11:31:34.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 356491, 22, 3991]
-[27May2022 11:33:24.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Teleported Phred7 to 356367.5, 26.0, 4086.5]
-[27May2022 11:33:30.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 bailed.
-[27May2022 11:41:27.837] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/547563, l='ServerLevel[Vault-Hunters]', x=-680.41, y=72.45, z=-368.11]
-[27May2022 11:48:05.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> hi walker
-[27May2022 11:48:08.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> nice vault
-[27May2022 11:48:10.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> heyo!
-[27May2022 11:48:16.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> I know I did very well!!!!!!
-[27May2022 11:48:22.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> wohooo!
-[27May2022 11:49:25.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> so
-[27May2022 11:49:34.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> i got the last gem ore i need to make a pog
-[27May2022 11:49:36.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> :)
-[27May2022 11:49:40.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> hey do you know if there's a way to name arena crates? Mine keeps loosing it's name
-[27May2022 11:49:43.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> awesome!
-[27May2022 11:49:45.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> nope....
-[27May2022 11:49:47.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> not that i know of
-[27May2022 11:49:49.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> hmmmmmmmmmmmm
-[27May2022 11:49:50.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> kk
-[27May2022 11:49:52.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> i wish...
-[27May2022 11:50:02.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> what about dying them?
-[27May2022 11:50:07.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> i dont think so?
-[27May2022 11:50:22.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> yeah... I couldnt find a recipe
-[27May2022 11:50:31.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> you can turn them into danks
-[27May2022 11:50:43.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> which are really nice
-[27May2022 11:50:47.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> yes yes they are
-[27May2022 11:50:57.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> ... Imma have to get some knowledge stars
-[27May2022 11:51:03.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> takes 5 points so maybe that can be your goal (:
-[27May2022 11:51:08.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> Im down
-[27May2022 11:51:10.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> ill let you take that and ask you to craft em for me
-[27May2022 11:51:18.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> works for me
-[27May2022 11:51:49.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> well the mob farm is working slowly, but its working
-[27May2022 11:51:52.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> looking for somethin specific?
-[27May2022 11:52:34.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> meh
-[27May2022 11:52:36.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> gunpowder
-[27May2022 11:52:38.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> ohhhh
-[27May2022 11:52:41.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> but doesnt matter too much
-[27May2022 11:52:44.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> just takes time
-[27May2022 11:52:45.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> yeah... I only have a little bit
-[27May2022 11:52:48.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> yeah
-[27May2022 11:55:26.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> ok, going back to afk probably- extended the timer slightly
-[27May2022 11:55:36.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> cool cool
-[27May2022 11:55:53.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> afk
-[27May2022 11:56:36.197] [Server thread/INFO] [morpheus/]: Phred7 is now sleeping. 1/2 (50%)
-[27May2022 11:59:31.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
-[27May2022 11:59:57.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
-[27May2022 12:33:08.702] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
-[27May2022 12:33:08.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
-[27May2022 12:33:17.870] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
-[27May2022 12:33:24.784] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7a97a7ea
-[27May2022 12:33:24.965] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/174.45.84.27:55020] logged in with entity id 562172 at (270.44329118776596, 1.0, 3.9629904918158587)
-[27May2022 12:33:24.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
-[27May2022 12:33:24.986] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
-[27May2022 12:39:47.797] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
-[27May2022 12:39:47.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
-[27May2022 12:39:58.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[27May2022 12:39:58.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: safe-off<--[HERE]
-[27May2022 12:40:00.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
-[27May2022 12:40:00.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[31May2022 00:11:38.563] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1771259, l='ServerLevel[Vault-Hunters]', x=-648.70, y=70.00, z=-380.91]
+[31May2022 00:23:45.711] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1773257, l='ServerLevel[Vault-Hunters]', x=-649.43, y=70.00, z=-379.34]
+[31May2022 00:43:36.263] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1776991, l='ServerLevel[Vault-Hunters]', x=-650.61, y=70.00, z=-378.64]
+[31May2022 00:51:18.063] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1778285, l='ServerLevel[Vault-Hunters]', x=-650.28, y=70.00, z=-377.43]
+[31May2022 00:58:15.360] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1779624, l='ServerLevel[Vault-Hunters]', x=-648.03, y=70.00, z=-381.29]
+[31May2022 01:03:08.061] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1780327, l='ServerLevel[Vault-Hunters]', x=-649.10, y=70.00, z=-376.83]
+[31May2022 01:04:06.217] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1780496, l='ServerLevel[Vault-Hunters]', x=-652.58, y=70.00, z=-380.90]
+[31May2022 01:08:07.772] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1781163, l='ServerLevel[Vault-Hunters]', x=-647.98, y=70.00, z=-381.09]
+[31May2022 01:19:01.411] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1783292, l='ServerLevel[Vault-Hunters]', x=-652.42, y=70.00, z=-377.34]
+[31May2022 01:21:31.913] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1783665, l='ServerLevel[Vault-Hunters]', x=-651.71, y=70.00, z=-378.53]
+[31May2022 01:42:00.560] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1787037, l='ServerLevel[Vault-Hunters]', x=-648.28, y=70.00, z=-377.84]
+[31May2022 01:50:13.312] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1788372, l='ServerLevel[Vault-Hunters]', x=-652.52, y=70.00, z=-380.67]
+[31May2022 02:02:21.613] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1790321, l='ServerLevel[Vault-Hunters]', x=-652.53, y=70.00, z=-378.12]
+[31May2022 02:03:46.215] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1790485, l='ServerLevel[Vault-Hunters]', x=-652.22, y=70.00, z=-378.11]
+[31May2022 02:04:56.562] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1790627, l='ServerLevel[Vault-Hunters]', x=-652.98, y=70.00, z=-377.93]
+[31May2022 02:10:58.561] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1791662, l='ServerLevel[Vault-Hunters]', x=-648.52, y=70.00, z=-377.94]
+[31May2022 02:27:44.360] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1794358, l='ServerLevel[Vault-Hunters]', x=-651.41, y=70.00, z=-378.53]
+[31May2022 02:35:30.711] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
+[31May2022 02:35:30.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
+[31May2022 08:00:00.328] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[31May2022 16:45:07.551] [User Authenticator #29/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[31May2022 16:45:21.042] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@56755c2c
+[31May2022 16:45:21.140] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/69.146.86.145:54769] logged in with entity id 1800285 at (-674.2819047298634, 72.0, -366.165405754364)
+[31May2022 16:45:21.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[31May2022 16:45:21.172] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[31May2022 16:47:41.365] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1801501, l='ServerLevel[Vault-Hunters]', x=-648.73, y=70.00, z=-378.10]
+[31May2022 16:47:43.364] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1801519, l='ServerLevel[Vault-Hunters]', x=-648.30, y=70.00, z=-380.85]
+[31May2022 16:50:19.913] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Stairs'/1802902, l='ServerLevel[Vault-Hunters]', x=-710.60, y=70.32, z=-363.33]
+[31May2022 16:50:20.715] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Stairs'/1802908, l='ServerLevel[Vault-Hunters]', x=-710.33, y=70.34, z=-364.65]
+[31May2022 16:50:21.812] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Stairs'/1802911, l='ServerLevel[Vault-Hunters]', x=-710.50, y=70.32, z=-365.74]
+[31May2022 16:50:22.365] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Stairs'/1802913, l='ServerLevel[Vault-Hunters]', x=-710.39, y=70.65, z=-366.43]
+[31May2022 16:50:22.911] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Stairs'/1802915, l='ServerLevel[Vault-Hunters]', x=-710.64, y=70.27, z=-367.31]
+[31May2022 16:50:23.561] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Stairs'/1802917, l='ServerLevel[Vault-Hunters]', x=-710.74, y=70.31, z=-368.58]
+[31May2022 16:51:42.393] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[31May2022 16:53:09.715] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Bricks'/1803854, l='ServerLevel[Vault-Hunters]', x=-710.36, y=70.26, z=-365.39]
+[31May2022 16:53:39.816] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-706, y=60, z=-366} BlockPos{x=-706, y=59, z=-365}
+[31May2022 16:53:44.132] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-708, y=60, z=-361} BlockPos{x=-708, y=59, z=-360}
+[31May2022 16:54:13.364] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1804221, l='ServerLevel[Vault-Hunters]', x=-647.83, y=70.00, z=-380.03]
+[31May2022 16:56:28.815] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Stairs'/1804894, l='ServerLevel[Vault-Hunters]', x=-701.65, y=69.48, z=-373.56]
+[31May2022 16:58:45.264] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Planks'/1805670, l='ServerLevel[Vault-Hunters]', x=-724.36, y=62.61, z=-369.67]
+[31May2022 16:58:45.812] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Planks'/1805672, l='ServerLevel[Vault-Hunters]', x=-724.61, y=62.51, z=-370.43]
+[31May2022 17:17:37.125] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1811209, l='ServerLevel[Vault-Hunters]', x=-647.83, y=70.00, z=-376.83]
+[31May2022 17:26:55.063] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Planks'/1814098, l='ServerLevel[Vault-Hunters]', x=-713.65, y=74.56, z=-353.26]
+[31May2022 17:30:26.811] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Composter'/1815067, l='ServerLevel[Vault-Hunters]', x=-712.69, y=70.34, z=-360.58]
+[31May2022 17:36:58.814] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Slab'/1817157, l='ServerLevel[Vault-Hunters]', x=-713.60, y=72.41, z=-355.29]
+[31May2022 17:38:55.860] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1817672, l='ServerLevel[Vault-Hunters]', x=-710.30, y=71.38, z=-354.49]
+[31May2022 17:38:56.613] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1817684, l='ServerLevel[Vault-Hunters]', x=-710.30, y=71.38, z=-354.49]
+[31May2022 17:38:57.365] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1817694, l='ServerLevel[Vault-Hunters]', x=-710.30, y=71.38, z=-354.49]
+[31May2022 17:38:58.125] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1817711, l='ServerLevel[Vault-Hunters]', x=-710.30, y=71.38, z=-354.49]
+[31May2022 17:40:30.761] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1818079, l='ServerLevel[Vault-Hunters]', x=-647.83, y=70.00, z=-376.83]
+[31May2022 17:40:37.711] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1818105, l='ServerLevel[Vault-Hunters]', x=-709.70, y=71.38, z=-354.50]
+[31May2022 17:44:10.762] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1818779, l='ServerLevel[Vault-Hunters]', x=-647.83, y=70.00, z=-377.81]
+[31May2022 17:45:29.964] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 153 stacked items at position:BlockPos{x=-711, y=71, z=-368} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[31May2022 17:47:57.613] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Stairs'/1820547, l='ServerLevel[Vault-Hunters]', x=-713.50, y=70.29, z=-368.27]
+[31May2022 17:48:01.065] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Stairs'/1820564, l='ServerLevel[Vault-Hunters]', x=-713.38, y=70.53, z=-368.29]
+[31May2022 17:48:02.060] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1820567, l='ServerLevel[Vault-Hunters]', x=-648.28, y=70.00, z=-378.44]
+[31May2022 17:48:04.511] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Stairs'/1820574, l='ServerLevel[Vault-Hunters]', x=-713.44, y=70.63, z=-368.69]
+[31May2022 17:48:30.616] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Beetroot Seeds'/1820689, l='ServerLevel[Vault-Hunters]', x=-713.63, y=70.20, z=-362.70]
+[31May2022 17:48:30.616] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/1820690, l='ServerLevel[Vault-Hunters]', x=-713.73, y=70.39, z=-362.16]
+[31May2022 17:48:30.616] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/1820691, l='ServerLevel[Vault-Hunters]', x=-713.73, y=70.39, z=-362.16]
+[31May2022 17:48:30.616] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Carrot'/1820692, l='ServerLevel[Vault-Hunters]', x=-713.73, y=70.39, z=-362.16]
+[31May2022 17:48:30.616] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Potato'/1820693, l='ServerLevel[Vault-Hunters]', x=-713.63, y=70.05, z=-362.60]
+[31May2022 17:48:30.616] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Potato'/1820694, l='ServerLevel[Vault-Hunters]', x=-713.63, y=70.05, z=-362.60]
+[31May2022 17:48:30.616] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Crystal Barrel'/1820695, l='ServerLevel[Vault-Hunters]', x=-713.57, y=70.43, z=-362.51]
+[31May2022 17:48:38.012] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Stairs'/1820716, l='ServerLevel[Vault-Hunters]', x=-712.37, y=70.29, z=-363.36]
+[31May2022 17:48:49.010] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Crafting Table'/1820742, l='ServerLevel[Vault-Hunters]', x=-708.35, y=70.57, z=-363.72]
+[31May2022 17:49:14.411] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Stairs'/1820813, l='ServerLevel[Vault-Hunters]', x=-713.62, y=70.34, z=-369.65]
+[31May2022 17:57:32.264] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1823014, l='ServerLevel[Vault-Hunters]', x=-648.21, y=70.00, z=-378.95]
+[31May2022 18:04:23.261] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Ladder'/1824859, l='ServerLevel[Vault-Hunters]', x=-713.62, y=63.30, z=-368.42]
+[31May2022 18:04:23.262] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Ladder'/1824860, l='ServerLevel[Vault-Hunters]', x=-713.59, y=62.63, z=-368.43]
+[31May2022 18:04:46.128] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1824993, l='ServerLevel[Vault-Hunters]', x=-648.96, y=70.00, z=-377.17]
+[31May2022 18:10:03.613] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1826018, l='ServerLevel[Vault-Hunters]', x=-647.83, y=70.00, z=-378.42]
+[31May2022 18:16:37.612] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[31May2022 18:17:47.260] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1828382, l='ServerLevel[Vault-Hunters]', x=-652.46, y=70.00, z=-380.02]
+[31May2022 18:20:00.210] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[31May2022 18:20:00.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[31May2022 18:20:27.601] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[31May2022 18:20:27.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[31May2022 18:20:27.662] [Thread-3374/INFO] [FTB Utilities Backups/]: Deleting old backup: 2022-05-27-08-12-56.zip
+[31May2022 18:20:27.673] [Thread-3374/INFO] [FTB Utilities Backups/]: Backing up 3399 files...
+[31May2022 18:20:27.673] [Thread-3374/INFO] [FTB Utilities Backups/]: Compressing 3399 files...
+[31May2022 18:22:51.132] [Thread-3374/INFO] [FTB Utilities Backups/]: Done compressing in 02:23 seconds (3.0GB)!
+[31May2022 18:22:51.132] [Thread-3374/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-05-31-18-20-27.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
+[31May2022 18:22:51.150] [Thread-3374/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 02:23! (3.0GB | 10.9GB)
+[31May2022 18:58:39.150] [User Authenticator #30/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[31May2022 18:58:52.040] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2e863ea2
+[31May2022 18:58:52.145] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/69.146.86.145:62297] logged in with entity id 1830279 at (-845.6858912792912, 94.0, -390.57503665170935)
+[31May2022 18:58:52.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[31May2022 18:58:52.166] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[31May2022 19:00:36.260] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[31May2022 19:00:36.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[31May2022 19:00:57.570] [User Authenticator #31/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[31May2022 19:01:08.797] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@72555960
+[31May2022 19:01:08.910] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/69.146.86.145:62315] logged in with entity id 1832257 at (-840.3000000119209, 96.66410916839936, -389.2376174426188)
+[31May2022 19:01:08.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[31May2022 19:01:08.931] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[31May2022 19:02:14.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[31May2022 19:02:14.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[31May2022 19:02:20.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Automatic saving is now disabled
+[31May2022 19:03:39.135] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[31May2022 19:04:43.358] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[31May2022 19:04:43.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[31May2022 19:04:43.507] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity CodEntity['Cod'/1834330, l='ServerLevel[Vault-Hunters]', x=-725.80, y=59.97, z=-399.97] left loaded chunk area
+[31May2022 19:05:01.476] [User Authenticator #32/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[31May2022 19:05:13.137] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@49d80076
+[31May2022 19:05:13.243] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/69.146.86.145:58755] logged in with entity id 1834358 at (-683.1461272163581, 74.10024767773629, -366.7291977452851)
+[31May2022 19:05:13.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[31May2022 19:05:13.255] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)

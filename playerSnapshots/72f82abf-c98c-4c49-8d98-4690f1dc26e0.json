@@ -1,7 +1,7 @@
 {
   "playerUUID": "72f82abf-c98c-4c49-8d98-4690f1dc26e0",
   "playerNickname": "theend43",
-  "timestamp": 1653538971,
+  "timestamp": 1653966446,
   "vaultRuns": 2,
   "vaultWins": 0,
   "vaultDeaths": 1,
@@ -17,7 +17,7 @@
     "minecraft:generic.attack_damage": 1.0,
     "minecraft:generic.attack_knockback": 0.0,
     "minecraft:generic.attack_speed": 4.0,
-    "minecraft:generic.armor": 0.0,
+    "minecraft:generic.armor": 7.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
@@ -47,7 +47,32 @@
   "fatalStrikeDamage": 0.0,
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
-  "equipment": {},
+  "equipment": {
+    "MAINHAND": {
+      "itemKey": "minecraft:dark_oak_boat",
+      "count": 1
+    },
+    "FEET": {
+      "itemKey": "minecraft:diamond_boots",
+      "count": 1,
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:19}"
+    },
+    "LEGS": {
+      "itemKey": "minecraft:diamond_leggings",
+      "count": 1,
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:21}"
+    },
+    "CHEST": {
+      "itemKey": "minecraft:elytra",
+      "count": 1,
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:64}"
+    },
+    "HEAD": {
+      "itemKey": "minecraft:diamond_helmet",
+      "count": 1,
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:4}"
+    }
+  },
   "abilities": {
     "Dash": 1
   },

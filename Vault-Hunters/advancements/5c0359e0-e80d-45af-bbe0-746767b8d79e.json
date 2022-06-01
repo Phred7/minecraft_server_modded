@@ -10042,12 +10042,6 @@
     },
     "done": true
   },
-  "vanillatweaks:armored_elytra": {
-    "criteria": {
-      "tick": "2022-05-23 18:11:36 -0700"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/acacia/acacia_desk_left": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:50 -0700"
@@ -14542,6 +14536,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/dark_oak/dark_oak_pult_1": {
+    "criteria": {
+      "has_planks": "2022-05-27 20:19:02 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/drawer": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:49 -0700"
@@ -14581,6 +14581,24 @@
   "botania:recipes/botania/apothecary_taiga": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:51 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak/dark_oak_pult_4": {
+    "criteria": {
+      "has_planks": "2022-05-27 20:19:02 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak/dark_oak_pult_3": {
+    "criteria": {
+      "has_planks": "2022-05-27 20:19:02 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak/dark_oak_pult_2": {
+    "criteria": {
+      "has_planks": "2022-05-27 20:19:02 -0700"
     },
     "done": true
   },
@@ -17128,12 +17146,6 @@
     },
     "done": true
   },
-  "vanillatweaks:cauldron_concrete": {
-    "criteria": {
-      "tick": "2022-05-23 18:11:36 -0700"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/paved_granite_wall_from_paved_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:47 -0700"
@@ -18619,12 +18631,6 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/chute_copper": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:51 -0700"
-    },
-    "done": true
-  },
-  "vanillatweaks:double_shulker_shells": {
-    "criteria": {
-      "tick": "2022-05-23 18:11:36 -0700"
     },
     "done": true
   },
@@ -25447,6 +25453,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "potato": "2022-05-23 18:36:40 -0700",
+      "rabbit": "2022-05-27 19:33:59 -0700",
       "bread": "2022-05-21 11:49:13 -0700",
       "golden_carrot": "2022-05-21 13:02:10 -0700",
       "carrot": "2022-05-21 10:43:55 -0700"

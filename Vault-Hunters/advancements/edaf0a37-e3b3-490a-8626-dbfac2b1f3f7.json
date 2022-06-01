@@ -623,6 +623,12 @@
     },
     "done": true
   },
+  "dimstorage:recipes/dimstorage_tab/dimensional_tank": {
+    "criteria": {
+      "cauldron": "2022-05-30 14:47:25 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:57 -0700"
@@ -1295,6 +1301,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_ebony": {
+    "criteria": {
+      "has_plank": "2022-05-30 21:57:29 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:57 -0700"
@@ -1920,6 +1932,12 @@
   "mcwroofs:recipes/crimson_top_roof": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:57 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_ebony": {
+    "criteria": {
+      "has_plank": "2022-05-30 21:57:29 -0700"
     },
     "done": true
   },
@@ -4178,6 +4196,7 @@
       "minecraft:blaze": "2022-05-20 22:26:39 -0700",
       "minecraft:pillager": "2022-05-24 21:24:21 -0700",
       "minecraft:skeleton": "2022-05-20 17:09:38 -0700",
+      "minecraft:elder_guardian": "2022-05-30 22:30:24 -0700",
       "minecraft:ravager": "2022-05-24 21:33:03 -0700",
       "minecraft:ghast": "2022-05-20 19:39:09 -0700",
       "minecraft:hoglin": "2022-05-20 20:04:10 -0700",
@@ -6256,6 +6275,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_holly": {
+    "criteria": {
+      "has_plank": "2022-05-29 23:37:39 -0700"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_network_transmitter": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:59 -0700"
@@ -6727,6 +6752,12 @@
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:54 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_pine": {
+    "criteria": {
+      "has_plank": "2022-05-28 19:41:59 -0700"
     },
     "done": true
   },
@@ -9201,6 +9232,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2022-05-20 19:30:01 -0700",
+      "minecraft:chicken": "2022-05-30 22:44:54 -0700",
       "minecraft:bee": "2022-05-24 20:06:49 -0700"
     },
     "done": false
@@ -14809,6 +14841,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_pine": {
+    "criteria": {
+      "has_plank": "2022-05-28 19:41:59 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/sunny_quartz_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:51 -0700"
@@ -15094,6 +15132,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/empty_casing": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:57 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_acacia": {
+    "criteria": {
+      "has_plank": "2022-05-30 22:18:26 -0700"
     },
     "done": true
   },
@@ -20449,6 +20493,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_acacia": {
+    "criteria": {
+      "has_plank": "2022-05-30 22:18:26 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:56 -0700"
@@ -23341,6 +23391,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2022-05-30 18:09:09 -0700"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/spider_light": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:58 -0700"
@@ -24955,6 +25011,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2022-05-30 21:27:30 -0700"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_to_storage_aluminum": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:51 -0700"
@@ -25898,6 +25960,12 @@
   "immersiveengineering:recipes/misc/crafting/paper_from_sawdust": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:56 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_holly": {
+    "criteria": {
+      "has_plank": "2022-05-29 23:37:39 -0700"
     },
     "done": true
   },
