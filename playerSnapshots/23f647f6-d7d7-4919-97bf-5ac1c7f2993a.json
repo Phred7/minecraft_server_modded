@@ -1,7 +1,7 @@
 {
   "playerUUID": "23f647f6-d7d7-4919-97bf-5ac1c7f2993a",
   "playerNickname": "Aqua333",
-  "timestamp": 1653854235,
+  "timestamp": 1654140839,
   "vaultRuns": 23,
   "vaultWins": 4,
   "vaultDeaths": 1,
@@ -14,10 +14,10 @@
     "minecraft:generic.max_health": 20.0,
     "minecraft:generic.knockback_resistance": 0.0,
     "minecraft:generic.movement_speed": 0.10000000149011612,
-    "minecraft:generic.attack_damage": 8.0,
+    "minecraft:generic.attack_damage": 1.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 1.5999999046325684,
-    "minecraft:generic.armor": 14.0,
+    "minecraft:generic.attack_speed": 4.0,
+    "minecraft:generic.armor": 10.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
@@ -48,11 +48,6 @@
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
-    "MAINHAND": {
-      "itemKey": "minecraft:netherite_sword",
-      "count": 1,
-      "nbt": "{RepairCost:15,Damage:0,Enchantments:[{lvl:5s,id:\"minecraft:smite\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:2s,id:\"minecraft:fire_aspect\"},{lvl:3s,id:\"minecraft:looting\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:sweeping\"}]}"
-    },
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
       "count": 1,
@@ -64,9 +59,9 @@
       "nbt": "{RepairCost:7,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"}],Damage:0}"
     },
     "CHEST": {
-      "itemKey": "minecraft:netherite_chestplate",
+      "itemKey": "minecraft:elytra",
       "count": 1,
-      "nbt": "{RepairCost:3,Damage:0,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}"
+      "nbt": "{RepairCost:3,Damage:48,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
     },
     "HEAD": {
       "itemKey": "minecraft:netherite_helmet",
