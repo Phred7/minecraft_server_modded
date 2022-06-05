@@ -13527,6 +13527,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2022-06-02 15:38:09 -0700"
+    },
+    "done": true
+  },
   "blockcarpentry:recipes/blockcarpentry/frame_slope": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:56 -0700"
@@ -18729,6 +18735,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/copper_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2022-06-02 15:38:09 -0700"
+    },
+    "done": true
+  },
   "modularrouters:recipes/modularrouters/speed_upgrade": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:58 -0700"
@@ -22443,6 +22455,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_lv": {
+    "criteria": {
+      "has_copper_ingot": "2022-06-02 15:38:09 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/slab_recombine/white_pavement": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:52 -0700"
@@ -22686,6 +22704,12 @@
   "mcwfurnitures:recipes/jungle/jungle_dresser_11": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:56 -0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_mv": {
+    "criteria": {
+      "has_lead_ingot": "2022-06-02 15:38:09 -0700"
     },
     "done": true
   },
