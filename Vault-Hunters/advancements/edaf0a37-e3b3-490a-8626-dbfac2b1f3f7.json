@@ -6848,6 +6848,7 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/white.png": "2022-05-21 13:42:45 -0700",
+      "textures/entity/cat/black.png": "2022-06-06 20:27:41 -0700",
       "textures/entity/cat/persian.png": "2022-05-21 13:43:09 -0700",
       "textures/entity/cat/calico.png": "2022-05-24 20:09:23 -0700"
     },
@@ -17712,12 +17713,6 @@
   "create:recipes/create.palettes/dark_scoria": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:56 -0700"
-    },
-    "done": true
-  },
-  "vanillatweaks:villager_workstation_highlights": {
-    "criteria": {
-      "tick": "2022-05-23 17:46:01 -0700"
     },
     "done": true
   },
