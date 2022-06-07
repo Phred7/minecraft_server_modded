@@ -1,7 +1,7 @@
 {
   "playerUUID": "b8bed4fd-6c2f-4f4f-a216-118ed8719365",
   "playerNickname": "Phred7",
-  "timestamp": 1654533998,
+  "timestamp": 1654640662,
   "vaultRuns": 19,
   "vaultWins": 1,
   "vaultDeaths": 2,
@@ -48,6 +48,10 @@
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
+    "MAINHAND": {
+      "itemKey": "minecraft:pumpkin_seeds",
+      "count": 15
+    },
     "OFFHAND": {
       "itemKey": "minecraft:totem_of_undying",
       "count": 1
