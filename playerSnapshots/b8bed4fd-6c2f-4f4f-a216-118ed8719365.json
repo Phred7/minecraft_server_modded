@@ -1,22 +1,22 @@
 {
   "playerUUID": "b8bed4fd-6c2f-4f4f-a216-118ed8719365",
   "playerNickname": "Phred7",
-  "timestamp": 1654640662,
-  "vaultRuns": 19,
+  "timestamp": 1654722495,
+  "vaultRuns": 22,
   "vaultWins": 1,
   "vaultDeaths": 2,
   "artifactCount": 0,
   "inVault": false,
-  "powerLevel": 28,
-  "vaultLevel": 23,
-  "levelPercent": 0.78776747,
+  "powerLevel": 30,
+  "vaultLevel": 25,
+  "levelPercent": 0.34275556,
   "attributes": {
-    "minecraft:generic.max_health": 24.0,
+    "minecraft:generic.max_health": 26.0,
     "minecraft:generic.knockback_resistance": 0.0,
     "minecraft:generic.movement_speed": 0.12000000208616257,
-    "minecraft:generic.attack_damage": 1.0,
+    "minecraft:generic.attack_damage": 9.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 4.4000000059604645,
+    "minecraft:generic.attack_speed": 1.1000000014901161,
     "minecraft:generic.armor": 14.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
@@ -49,32 +49,34 @@
   "thornsDamage": 0.0,
   "equipment": {
     "MAINHAND": {
-      "itemKey": "minecraft:pumpkin_seeds",
-      "count": 15
+      "itemKey": "the_vault:vault_paxel",
+      "count": 1,
+      "nbt": "{RepairCost:15,Enchantments:[{lvl:5s,id:\"minecraft:efficiency\"},{lvl:1s,id:\"minecraft:silk_touch\"},{lvl:4s,id:\"minecraft:unbreaking\"},{lvl:3s,id:\"minecraft:sweeping\"},{lvl:5s,id:\"minecraft:bane_of_arthropods\"}],Damage:5548}"
     },
     "OFFHAND": {
-      "itemKey": "minecraft:totem_of_undying",
-      "count": 1
+      "itemKey": "the_vault:idol_timekeeper",
+      "count": 1,
+      "nbt": "{Vault:{Attributes:[{BaseValue:\"normal\",Id:\"the_vault:gear_roll_pool\"},{BaseValue:4635492131009181500L,Id:\"the_vault:gear_random_seed\"},{BaseValue:\"IDENTIFIED\",Id:\"the_vault:gear_state\"},{BaseValue:0,Id:\"the_vault:gear_tier\"},{BaseValue:\"Scrappy+\",Id:\"the_vault:gear_roll_type\"},{BaseValue:\"SCRAPPY\",Id:\"the_vault:gear_rarity\"},{BaseValue:0,Id:\"the_vault:gear_model\"},{BaseValue:3949738,Id:\"the_vault:gear_color\"},{BaseValue:810,Id:\"the_vault:durability\"},{BaseValue:\"TIMEKEEPER\",Id:\"the_vault:idol_type\"},{BaseValue:1.0f,Id:\"the_vault:gear_level_chance\"},{BaseValue:2,Id:\"the_vault:gear_max_level\"},{BaseValue:0,Id:\"the_vault:gear_modifiers_to_roll\"},{BaseValue:0.0d,Id:\"forge:reach\"},{BaseValue:{Effects:[]},Id:\"the_vault:effect_immunity\"},{BaseValue:{EffectClouds:[]},Id:\"the_vault:effect_cloud\"},{BaseValue:0.0f,Id:\"the_vault:cooldown_reduction\"},{BaseValue:0b,Id:\"the_vault:soulbound\"},{BaseValue:2.0f,Id:\"the_vault:extra_health\"}]},Damage:0}"
     },
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:3,id:\"depth_strider\"},{lvl:4,id:\"feather_falling\"},{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:72}"
+      "nbt": "{Enchantments:[{lvl:3,id:\"depth_strider\"},{lvl:4,id:\"feather_falling\"},{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:19}"
     },
     "LEGS": {
       "itemKey": "minecraft:netherite_leggings",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:88}"
+      "nbt": "{Enchantments:[{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:19}"
     },
     "CHEST": {
       "itemKey": "minecraft:netherite_chestplate",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:88}"
+      "nbt": "{Enchantments:[{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:24}"
     },
     "HEAD": {
       "itemKey": "minecraft:netherite_helmet",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:1,id:\"aqua_affinity\"},{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:59}"
+      "nbt": "{Enchantments:[{lvl:1,id:\"aqua_affinity\"},{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:16}"
     }
   },
   "abilities": {
@@ -89,7 +91,8 @@
     "Well Fit": 2,
     "Water Breathing": 1,
     "Fire Resistance": 1,
-    "Reach": 2
+    "Reach": 2,
+    "Soul Hunter": 1
   },
   "researches": [
     "Decorator"
