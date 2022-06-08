@@ -1124,22 +1124,6 @@
     },
     {
       "itemRestrictions": {
-        "the_vault:shard_pouch": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        }
-      },
-      "blockRestrictions": {},
-      "entityRestrictions": {},
-      "name": "Soul Hunting",
-      "cost": 1,
-      "usesKnowledge": true
-    },
-    {
-      "itemRestrictions": {
         "the_vault:vault_charm_controller": {
           "restricts": {
             "HITTABILITY": true,
