@@ -9091,6 +9091,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:turtle": "2022-06-08 22:27:06 -0700",
       "minecraft:sheep": "2022-05-23 12:01:40 -0700",
       "minecraft:cow": "2022-05-20 20:11:30 -0700"
     },
@@ -17457,12 +17458,6 @@
   "create:recipes/create.palettes/dark_scoria": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:42 -0700"
-    },
-    "done": true
-  },
-  "vanillatweaks:villager_workstation_highlights": {
-    "criteria": {
-      "tick": "2022-05-23 20:03:22 -0700"
     },
     "done": true
   },

@@ -8847,6 +8847,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_plank": "2022-06-08 21:27:08 -0700"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:53 -0700"
@@ -24609,6 +24615,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:57 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_jungle": {
+    "criteria": {
+      "has_plank": "2022-06-08 21:27:08 -0700"
     },
     "done": true
   },
