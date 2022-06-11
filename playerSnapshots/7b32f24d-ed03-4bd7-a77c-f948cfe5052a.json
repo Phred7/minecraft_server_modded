@@ -1,15 +1,15 @@
 {
   "playerUUID": "7b32f24d-ed03-4bd7-a77c-f948cfe5052a",
   "playerNickname": "rorysun",
-  "timestamp": 1654754437,
-  "vaultRuns": 4,
+  "timestamp": 1654904854,
+  "vaultRuns": 5,
   "vaultWins": 0,
   "vaultDeaths": 0,
   "artifactCount": 0,
   "inVault": false,
-  "powerLevel": 23,
-  "vaultLevel": 18,
-  "levelPercent": 0.5425263,
+  "powerLevel": 24,
+  "vaultLevel": 19,
+  "levelPercent": 0.5267692,
   "attributes": {
     "minecraft:generic.max_health": 20.0,
     "minecraft:generic.knockback_resistance": 0.0,
@@ -17,7 +17,7 @@
     "minecraft:generic.attack_damage": 1.0,
     "minecraft:generic.attack_knockback": 0.0,
     "minecraft:generic.attack_speed": 4.4000000059604645,
-    "minecraft:generic.armor": 7.0,
+    "minecraft:generic.armor": 10.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
@@ -51,22 +51,22 @@
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
       "count": 1,
-      "nbt": "{RepairCost:7,Damage:28,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:feather_falling\"}]}"
+      "nbt": "{RepairCost:7,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:feather_falling\"}],Damage:31}"
     },
     "LEGS": {
       "itemKey": "minecraft:netherite_leggings",
       "count": 1,
-      "nbt": "{RepairCost:3,Damage:28,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:34}"
     },
     "CHEST": {
       "itemKey": "minecraft:elytra",
       "count": 1,
-      "nbt": "{RepairCost:3,Damage:35,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
+      "nbt": "{RepairCost:3,Damage:23,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
     },
     "HEAD": {
-      "itemKey": "minecraft:player_head",
+      "itemKey": "minecraft:netherite_helmet",
       "count": 1,
-      "nbt": "{SkullOwner:{Id:[I;2066936397,-318551081,-1484981944,-807074518],Properties:{textures:[{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1NDc1MTYxNzU1OCwKICAicHJvZmlsZUlkIiA6ICI3YjMyZjI0ZGVkMDM0YmQ3YTc3Y2Y5NDhjZmU1MDUyYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJyb3J5c3VuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ4YzEzYzAxNDFjYTlmNjk1MGIwYmE5ZmE2NzZiZTU3ZDYyOWJjZjQyYTIwNWQ1YjU0MDhlYjU1ZDU3NTU3MTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d\",Signature:\"IHJE2ZjIyxgD3WArxmvzC/GGEcO91EjQ13MyFYlB8EGhtSKyMPZB5NK5ge7yHW0t5jMVhIFzqtQloDz/5vA/SJhQKD1LR2IaSFwLnNR+G9N6Q8SSgSMKeGLKgKAVlXHXC8wdVhvtHwUCtZb8oIEmdsKOcoLMLZE3U37a2vTsd84tOkrJJJCmoYytb99IDvLAldMCJHYhfqgPwGViWubzipxb9lr6Z8ieMrZjlc0oVOKBmOczswP+XjUXa8nsowN5xQguRr6UFtHc1C2MsYEfT2YmEQ/7upj52PN/mE4pBcuEv38zWbw3aSv4WOQHgxs6TwXJ25SGXYCIwkdSf2aUJBCgHZFUzCLvXfD5CZmPjvg9nHdj+RKyFts4AKVXSmaJbSxLVXuC06iHnahitlSvYiJFbMoH4GQtcGJZZ1nuIKZxASgYOmOLyScdep3Sqvk0h/DR8+421DG103TFRPmwGlXWqb6slpDggcjXdbWJ6uNCjvPS/7lxyVx2MgAhUEKT3vznWcq1ugg1j5Z5yAfxUT/0jfbgRmLVUb0i6Uoj1/Tn2VE/UUX6Bkey0aqKTZvNn143zF2+TWY+PpO6aoiVIcddiKHq0YxPA2YNGVEK+PjDG35YGbza1rOdd+EV1EGmudIpAygPLidE47juPvgf8kk5tquSDO6VF9+1uLFWvuA\u003d\"}]},Name:\"rorysun\"},display:{Lore:[\u0027{\"extra\":[{\"insertion\":\"Nave808\",\"clickEvent\":{\"action\":\"suggest_command\",\"value\":\"/tell Nave808 \"},\"hoverEvent\":{\"action\":\"show_entity\",\"contents\":{\"type\":\"minecraft:player\",\"id\":\"edaf0a37-e3b3-490a-8626-dbfac2b1f3f7\",\"name\":{\"text\":\"Nave808\"}}},\"extra\":[{\"text\":\"Nave808\"}],\"text\":\"\"}],\"text\":\"§rKilled by §r§e\"}\u0027]}}"
+      "nbt": "{RepairCost:3,Damage:14,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
     }
   },
   "abilities": {

@@ -4207,6 +4207,7 @@
       "minecraft:creeper": "2022-05-20 17:09:15 -0700",
       "minecraft:wither": "2022-05-25 19:56:22 -0700",
       "minecraft:evoker": "2022-05-24 21:33:03 -0700",
+      "minecraft:slime": "2022-06-10 15:15:53 -0700",
       "minecraft:phantom": "2022-05-26 20:48:51 -0700",
       "minecraft:zombified_piglin": "2022-05-21 21:51:35 -0700",
       "minecraft:witch": "2022-05-22 19:25:12 -0700",
@@ -15042,6 +15043,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/speed_up_belt": {
+    "criteria": {
+      "has_item": "2022-06-10 13:22:29 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:57 -0700"
@@ -25393,6 +25400,7 @@
       "minecraft:snowy_mountains": "2022-05-21 13:01:36 -0700",
       "minecraft:forest": "2022-05-20 18:45:18 -0700",
       "minecraft:mountains": "2022-05-23 11:53:44 -0700",
+      "minecraft:badlands_plateau": "2022-06-10 15:10:09 -0700",
       "minecraft:taiga": "2022-05-23 11:53:50 -0700",
       "minecraft:desert_hills": "2022-05-20 21:09:09 -0700",
       "minecraft:giant_tree_taiga": "2022-05-23 11:53:57 -0700",
@@ -25409,18 +25417,22 @@
       "minecraft:bamboo_jungle": "2022-05-23 11:51:11 -0700",
       "minecraft:warm_ocean": "2022-05-23 11:49:24 -0700",
       "minecraft:deep_lukewarm_ocean": "2022-05-23 11:49:20 -0700",
+      "minecraft:badlands": "2022-06-10 14:58:48 -0700",
       "minecraft:savanna_plateau": "2022-05-22 18:35:18 -0700",
       "minecraft:beach": "2022-05-20 16:28:54 -0700",
       "minecraft:dark_forest": "2022-05-23 18:04:40 -0700",
       "minecraft:river": "2022-05-20 15:43:19 -0700",
       "minecraft:lukewarm_ocean": "2022-05-23 11:49:12 -0700",
       "minecraft:snowy_taiga": "2022-05-22 20:32:56 -0700",
+      "minecraft:birch_forest_hills": "2022-06-10 15:54:34 -0700",
       "minecraft:wooded_mountains": "2022-05-23 20:23:35 -0700",
       "minecraft:bamboo_jungle_hills": "2022-05-24 19:29:57 -0700",
       "minecraft:wooded_hills": "2022-05-21 22:36:13 -0700",
       "minecraft:giant_tree_taiga_hills": "2022-05-23 11:54:06 -0700",
       "minecraft:stone_shore": "2022-05-23 11:56:41 -0700",
+      "minecraft:wooded_badlands_plateau": "2022-06-10 14:58:52 -0700",
       "minecraft:swamp": "2022-05-23 11:55:29 -0700",
+      "minecraft:snowy_taiga_hills": "2022-06-10 15:32:09 -0700",
       "minecraft:savanna": "2022-05-22 18:19:26 -0700",
       "minecraft:plains": "2022-05-20 16:22:42 -0700"
     },

@@ -5332,6 +5332,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2022-06-10 16:17:45 -0700"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/nugget_steel_recycle_pick_from_blasting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:40 -0700"
@@ -11368,6 +11374,12 @@
   "botania:recipes/botania/metamorphic_swamp_stone_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:43 -0700"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/presses": {
+    "criteria": {
+      "eng": "2022-06-10 14:12:50 -0700"
     },
     "done": true
   },
@@ -21013,6 +21025,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_green_enchanted": {
+    "criteria": {
+      "has_plank": "2022-06-10 16:24:03 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/crimson/crimson_furniture_3": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:38 -0700"
@@ -23068,6 +23086,12 @@
   "storagedrawers:recipes/storagedrawers/quantify_key": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:59:43 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_green_enchanted": {
+    "criteria": {
+      "has_plank": "2022-06-10 16:24:03 -0700"
     },
     "done": true
   },
