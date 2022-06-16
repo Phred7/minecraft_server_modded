@@ -1,75 +1,162 @@
-[13Jun2022 08:00:00.375] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
-[13Jun2022 08:44:02.156] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
-[13Jun2022 08:44:15.206] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4c4b117a
-[13Jun2022 08:44:15.320] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/69.146.86.145:52782] logged in with entity id 224525 at (-850.4354910328759, 94.0, -394.67401859941174)
-[13Jun2022 08:44:15.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
-[13Jun2022 08:44:15.352] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
-[13Jun2022 08:57:16.412] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Timed out
-[13Jun2022 08:57:16.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
-[13Jun2022 08:57:16.510] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[13Jun2022 09:01:04.311] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
-[13Jun2022 09:01:15.648] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@679e0d0b
-[13Jun2022 09:01:15.751] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/69.146.86.145:51467] logged in with entity id 227926 at (-855.6448335726634, 94.0, -394.87756525950346)
-[13Jun2022 09:01:15.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
-[13Jun2022 09:01:15.776] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
-[13Jun2022 09:08:28.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
-[13Jun2022 09:08:57.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered a Lucky Vault!
-[13Jun2022 09:08:58.176] [Worker-Main-14697/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"the_vault:janitors_broom",Count:1b,tag:{RepairCost:0,Damage:0,display:{Name:'{"text":"Douwsky\'s Janitor\'s Broom"}'}}}
-[13Jun2022 09:08:58.177] [Worker-Main-14697/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
-[13Jun2022 09:08:58.202] [Worker-Main-14697/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"the_vault:janitors_broom",Count:1b,tag:{RepairCost:0,Damage:0,display:{Name:'{"text":"Douwsky\'s Janitor\'s Broom"}'}}}
-[13Jun2022 09:08:58.203] [Worker-Main-14697/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
-[13Jun2022 09:09:09.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 847828, 8, 4106]
-[13Jun2022 09:09:15.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 9574 blocks]
-[13Jun2022 09:09:15.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
-[13Jun2022 09:18:27.758] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Oak Stairs'/239832, l='ServerLevel[Vault-Hunters]', x=847656.28, y=8.47, z=4183.62]
-[13Jun2022 09:18:28.357] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wutodie Ore'/239834, l='ServerLevel[Vault-Hunters]', x=847656.46, y=8.47, z=4184.52]
-[13Jun2022 09:26:28.608] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Compressed Block Of Dirt (3x)'/245096, l='ServerLevel[Vault-Hunters]', x=847812.63, y=28.52, z=4285.39]
-[13Jun2022 09:29:40.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 bailed.
-[13Jun2022 09:53:52.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
-[13Jun2022 10:04:55.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered a Fast, Difficult Vault!
-[13Jun2022 10:06:56.456] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Compressed Cobble (2x)'/259333, l='ServerLevel[Vault-Hunters]', x=856092.56, y=27.71, z=4442.28]
-[13Jun2022 10:18:36.409] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Compressed Cobble (2x)'/282515, l='ServerLevel[Vault-Hunters]', x=855801.29, y=26.74, z=4049.62]
-[13Jun2022 10:27:24.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.vaultFailed.player
-[13Jun2022 10:33:51.461] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 101 stacked items at position:BlockPos{x=-676, y=72, z=-373} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[13Jun2022 10:34:01.509] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 132 stacked items at position:BlockPos{x=-676, y=72, z=-373} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[13Jun2022 10:34:11.562] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 108 stacked items at position:BlockPos{x=-676, y=72, z=-373} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[13Jun2022 11:45:47.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
-[13Jun2022 11:46:07.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered a Stronk, Safe Zone, Crowded, Furious, Unlucky, Resilient Vault!
-[13Jun2022 11:52:42.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.generic.explode to Nave808]
-[13Jun2022 11:57:33.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 experienced kinetic energy whilst trying to escape  Monni_21
-[13Jun2022 11:57:49.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 was slain by Zombie
-[13Jun2022 13:18:48.110] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/375664, l='ServerLevel[Vault-Hunters]', x=-651.99, y=70.00, z=-377.35]
-[13Jun2022 13:24:23.709] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
-[13Jun2022 13:24:23.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
-[13Jun2022 13:45:59.601] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
-[13Jun2022 13:45:59.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
-[13Jun2022 13:45:59.728] [Thread-797/INFO] [FTB Utilities Backups/]: Deleting old backup: 2022-06-03-23-52-42.zip
-[13Jun2022 13:45:59.729] [Thread-797/INFO] [FTB Utilities Backups/]: Backing up 4784 files...
-[13Jun2022 13:45:59.731] [Thread-797/INFO] [FTB Utilities Backups/]: Compressing 4784 files...
-[13Jun2022 13:49:44.762] [Thread-797/INFO] [FTB Utilities Backups/]: Done compressing in 03:45 seconds (4.4GB)!
-[13Jun2022 13:49:44.789] [Thread-797/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-06-13-13-45-59.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
-[13Jun2022 13:49:44.795] [Thread-797/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 03:45! (4.4GB | 15.1GB)
-[13Jun2022 17:01:46.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[13Jun2022 17:01:46.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[13Jun2022 17:01:46.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[13Jun2022 17:01:46.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[13Jun2022 17:01:46.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:overworld
-[13Jun2022 17:01:46.365] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
-[13Jun2022 17:01:46.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_nether
-[13Jun2022 17:01:46.367] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13Jun2022 17:01:46.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_end
-[13Jun2022 17:01:46.368] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13Jun2022 17:01:46.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:the_other_side
-[13Jun2022 17:01:46.369] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
-[13Jun2022 17:01:46.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/appliedenergistics2:spatial_storage
-[13Jun2022 17:01:46.370] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[13Jun2022 17:01:46.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:vault
-[13Jun2022 17:01:46.380] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
-[13Jun2022 17:01:46.450] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
-[13Jun2022 17:01:46.477] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13Jun2022 17:01:46.479] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13Jun2022 17:01:46.479] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
-[13Jun2022 17:01:46.480] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[13Jun2022 17:01:46.488] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
-[13Jun2022 17:01:46.672] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
-[13Jun2022 17:01:46.777] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread Query Listener stopped
+[15Jun2022 08:00:00.389] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[15Jun2022 17:11:56.591] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[15Jun2022 17:11:56.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[15Jun2022 17:11:56.678] [Thread-1294/INFO] [FTB Utilities Backups/]: Deleting old backup: 2022-06-09-14-18-11.zip
+[15Jun2022 17:11:56.687] [Thread-1294/INFO] [FTB Utilities Backups/]: Backing up 4907 files...
+[15Jun2022 17:11:56.687] [Thread-1294/INFO] [FTB Utilities Backups/]: Compressing 4907 files...
+[15Jun2022 17:15:57.747] [Thread-1294/INFO] [FTB Utilities Backups/]: Done compressing in 04:01 seconds (4.5GB)!
+[15Jun2022 17:15:57.763] [Thread-1294/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-06-15-17-11-56.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
+[15Jun2022 17:15:57.798] [Thread-1294/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 04:01! (4.5GB | 17.7GB)
+[15Jun2022 20:00:00.389] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[15Jun2022 23:39:29.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[15Jun2022 23:39:29.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: `stop<--[HERE]
+[15Jun2022 23:39:34.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[15Jun2022 23:39:34.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tps<--[HERE]
+[15Jun2022 23:39:43.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /advancement (grant|revoke)
+[15Jun2022 23:39:43.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ae2 (chunklogger|spatial|supporters)
+[15Jun2022 23:39:43.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /attribute <target> <attribute> (base|get|modifier)
+[15Jun2022 23:39:43.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban <targets> [<reason>]
+[15Jun2022 23:39:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban-ip <target> [<reason>]
+[15Jun2022 23:39:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /banlist [ips|players]
+[15Jun2022 23:39:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /bookshelf (hand|lootchest|translate)
+[15Jun2022 23:39:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /bossbar (add|get|list|remove|set)
+[15Jun2022 23:39:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /buildinggadgets (ForceLoadChunks|ForceLoadChunksList|OverrideBuildSize|OverrideBuildSizeList|OverrideCopySize|OverrideCopySizeList)
+[15Jun2022 23:39:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /c (clone|config|coupling|fixLighting|glue|highlight|overlay|ponder|rainbowDebug|u|util)
+[15Jun2022 23:39:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clear [<targets>]
+[15Jun2022 23:39:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[15Jun2022 23:39:43.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /cofh (crafting|enderchest|friend|heal|ignite|invis|invuln|recharge|repair|workbench|zap)
+[15Jun2022 23:39:43.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /config showfile <mod> <type>
+[15Jun2022 23:39:43.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /crafttweaker (block_info|conflicts|copy|ctgui|discord|dump|dump_brackets|entity_info|examples|format|give|hand|help|inventory|issues|log|patreon|recipes|reload|scripts|syntax|wiki)
+[15Jun2022 23:39:43.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /create (clone|config|coupling|fixLighting|glue|highlight|overlay|ponder|rainbowDebug|u|util)
+[15Jun2022 23:39:43.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ct (block_info|conflicts|copy|ctgui|discord|dump|dump_brackets|entity_info|examples|format|give|hand|help|inventory|issues|log|patreon|recipes|reload|scripts|syntax|wiki)
+[15Jun2022 23:39:43.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /cucumber fillenergy
+[15Jun2022 23:39:43.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /curios (add|clear|lock|remove|reset|set|unlock)
+[15Jun2022 23:39:43.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /data (get|merge|modify|remove)
+[15Jun2022 23:39:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /datapack (disable|enable|list)
+[15Jun2022 23:39:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /deathhistory (<player>|<player_uuid>)
+[15Jun2022 23:39:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /debug (report|start|stop)
+[15Jun2022 23:39:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /defaultgamemode (adventure|creative|spectator|survival)
+[15Jun2022 23:39:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /deop <targets>
+[15Jun2022 23:39:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /difficulty [easy|hard|normal|peaceful]
+[15Jun2022 23:39:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /dimstorage -> dimtablet
+[15Jun2022 23:39:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /dimtablet (add|list|remove|removeAll)
+[15Jun2022 23:39:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /dumpHandlers
+[15Jun2022 23:39:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /east
+[15Jun2022 23:39:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /effect (clear|give)
+[15Jun2022 23:39:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /enchant <targets> <enchantment> [<level>]
+[15Jun2022 23:39:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[15Jun2022 23:39:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /experience (add|query|set)
+[15Jun2022 23:39:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[15Jun2022 23:39:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /flywheel (backend|debugNormals)
+[15Jun2022 23:39:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forceload (add|query|remove)
+[15Jun2022 23:39:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forge (dimensions|entity|generate|mods|setdimension|tps|track)
+[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ftbbackups (size|start|time)
+[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ftblibrary (day|gamemode|nbtedit|night|rain)
+[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /function <name>
+[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamemode (adventure|creative|spectator|survival)
+[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gendata <modid>
+[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /give <targets> <item> [<count>]
+[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /help [<command>]
+[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ie (clearshaders|mineral|resetmanual|resetrender)
+[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kick <targets> [<reason>]
+[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kill [<targets>]
+[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /list [uuids]
+[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locate (appliedenergistics2:meteorite|bastion_remnant|buried_treasure|desert_pyramid|endcity|fortress|igloo|jungle_pyramid|mansion|mineshaft|monument|nether_fossil|ocean_ruin|pillager_outpost|quark:big_dungeon|ruined_portal|shipwreck|stronghold|supplementaries:way_sign|swamp_hut|the_vault:architect_event|the_vault:raid_challenge|the_vault:trove|the_vault:vault_star|village)
+[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locatebiome <biome>
+[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /loot (give|insert|replace|spawn)
+[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /me <action>
+[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /mek (chunk|debug|radiation|retrogen|testrules)
+[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /morpheus [alert|percent|version]
+[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /msg <targets> <message>
+[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /north
+[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /op <targets>
+[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /open-patchouli-book <targets> <book> [<entry>]
+[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon <targets>
+[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon-ip <target>
+[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /particle <name> [<pos>]
+[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /party (accept_invite|create|disband|invite|leave|list|remove)
+[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /performant (collidenearby|disableLoadBalancing|enableLoadBalancing|recordMessages|reportEntities|reportEvents|reportMessages|reportTileEntities|startGatherData|whatsnearby)
+[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ping [<target>]
+[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /placebo serialize_loot_table <loot_table>
+[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /recipe (give|take)
+[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /refinedstorage (disk|network|pattern)
+[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /reload
+[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /replaceitem (block|entity)
+[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /rfstor -> rftoolsstorage
+[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /rftoolsstorage (list|restore)
+[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /rftoolsutility (cleanupreceivers|setbuffs)
+[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /rfutil -> rftoolsutility
+[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /rpconfigreload
+[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /runelic (book|hand|say|tile)
+[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-all [flush]
+[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-off
+[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-on
+[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /say <message>
+[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /sb (list|open|recover)
+[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /schedule (clear|function)
+[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /scoreboard (objectives|players)
+[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /seed
+[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setidletimeout <minutes>
+[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setworldspawn [<pos>]
+[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /simplybackpacks (list|open|recover)
+[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /south
+[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spawnpoint [<targets>]
+[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spectate [<target>]
+[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (under|<respectTeams>)
+[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stop
+[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /summon <entity> [<pos>]
+[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /supplementaries (cage|configured|globe|reload|roll)
+[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tag <targets> (add|list|remove)
+[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /team (add|empty|join|leave|list|modify|remove)
+[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teammsg <message>
+[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teleport (<destination>|<location>|<targets>)
+[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tell -> msg
+[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tellraw <targets> <message>
+[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /the_vault (crystal|debug|eternal|gear|give_loot|internal|inv_restore|reloadcfg|say|vault_level)
+[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /time (add|query|set)
+[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /titanium-rewards <action> <reward> <option>
+[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /titanium-rewards-grant <reward>
+[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tm -> teammsg
+[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /torchmaster [entitydump|torchdump]
+[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tp -> teleport
+[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /trigger <objective> [add|set]
+[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /uteamcore (dimteleport|locatebiome|locatestructure|ping|stackinfo)
+[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /w -> msg
+[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /weather (clear|rain|thunder)
+[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /west
+[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /whitelist (add|list|off|on|reload|remove)
+[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /worldborder (add|center|damage|get|set|warning)
+[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp -> experience
+[15Jun2022 23:40:40.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[15Jun2022 23:40:40.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ... give_loot<--[HERE]
+[15Jun2022 23:41:00.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[15Jun2022 23:41:00.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...give_loot scavenger_crate<--[HERE]
+[15Jun2022 23:44:51.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[15Jun2022 23:44:51.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Jun2022 23:44:51.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Jun2022 23:44:51.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Jun2022 23:44:51.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:overworld
+[15Jun2022 23:44:51.903] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
+[15Jun2022 23:44:51.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_nether
+[15Jun2022 23:44:51.905] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Jun2022 23:44:51.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_end
+[15Jun2022 23:44:51.907] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Jun2022 23:44:51.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:the_other_side
+[15Jun2022 23:44:51.908] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[15Jun2022 23:44:51.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/appliedenergistics2:spatial_storage
+[15Jun2022 23:44:51.909] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[15Jun2022 23:44:51.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:vault
+[15Jun2022 23:44:51.915] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[15Jun2022 23:44:51.990] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
+[15Jun2022 23:44:52.030] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Jun2022 23:44:52.033] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Jun2022 23:44:52.037] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[15Jun2022 23:44:52.037] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[15Jun2022 23:44:52.041] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[15Jun2022 23:44:52.155] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
+[15Jun2022 23:44:52.412] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread Query Listener stopped

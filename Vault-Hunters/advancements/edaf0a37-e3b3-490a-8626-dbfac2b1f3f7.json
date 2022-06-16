@@ -1635,6 +1635,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/compacting_drawers": {
+    "criteria": {
+      "has_chest": "2022-06-14 17:51:26 -0700"
+    },
+    "done": true
+  },
   "appliedenergistics2:recipes/appliedenergistics2/block_cutter/walls/sky_stone_small_brick_wall": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:59 -0700"
@@ -18851,6 +18857,12 @@
   "mcwdoors:recipes/acacia/acacia_japanese_door": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:56 -0700"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller": {
+    "criteria": {
+      "has_chest": "2022-06-14 17:51:26 -0700"
     },
     "done": true
   },
