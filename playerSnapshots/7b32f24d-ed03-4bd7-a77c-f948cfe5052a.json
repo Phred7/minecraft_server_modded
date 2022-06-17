@@ -1,23 +1,23 @@
 {
   "playerUUID": "7b32f24d-ed03-4bd7-a77c-f948cfe5052a",
   "playerNickname": "rorysun",
-  "timestamp": 1654904854,
-  "vaultRuns": 5,
-  "vaultWins": 0,
+  "timestamp": 1655501598,
+  "vaultRuns": 6,
+  "vaultWins": 1,
   "vaultDeaths": 0,
   "artifactCount": 0,
   "inVault": false,
-  "powerLevel": 24,
-  "vaultLevel": 19,
-  "levelPercent": 0.5267692,
+  "powerLevel": 25,
+  "vaultLevel": 20,
+  "levelPercent": 0.45835,
   "attributes": {
     "minecraft:generic.max_health": 20.0,
     "minecraft:generic.knockback_resistance": 0.0,
     "minecraft:generic.movement_speed": 0.10000000149011612,
-    "minecraft:generic.attack_damage": 1.0,
+    "minecraft:generic.attack_damage": 5.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 4.4000000059604645,
-    "minecraft:generic.armor": 10.0,
+    "minecraft:generic.attack_speed": 1.3200000542402268,
+    "minecraft:generic.armor": 14.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
@@ -48,33 +48,38 @@
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
+    "MAINHAND": {
+      "itemKey": "minecraft:diamond_pickaxe",
+      "count": 1,
+      "nbt": "{RepairCost:3,Damage:24,Enchantments:[{lvl:5s,id:\"minecraft:efficiency\"},{lvl:1s,id:\"minecraft:silk_touch\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
+    },
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
       "count": 1,
-      "nbt": "{RepairCost:7,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:feather_falling\"}],Damage:31}"
+      "nbt": "{RepairCost:7,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:feather_falling\"}],Damage:0}"
     },
     "LEGS": {
       "itemKey": "minecraft:netherite_leggings",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:34}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:0}"
     },
     "CHEST": {
-      "itemKey": "minecraft:elytra",
+      "itemKey": "minecraft:netherite_chestplate",
       "count": 1,
-      "nbt": "{RepairCost:3,Damage:23,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
+      "nbt": "{RepairCost:3,Damage:0,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
     },
     "HEAD": {
       "itemKey": "minecraft:netherite_helmet",
       "count": 1,
-      "nbt": "{RepairCost:3,Damage:14,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:0}"
     }
   },
   "abilities": {
     "Cleanse": 1,
     "Dash": 1,
-    "Mega Jump": 1,
+    "Mega Jump: Fart": 1,
     "Tank": 1,
-    "Vein Miner": 2
+    "Vein Miner": 3
   },
   "talents": {
     "Twerker": 1,
@@ -84,6 +89,8 @@
     "Reach": 1,
     "Haste": 1
   },
-  "researches": [],
+  "researches": [
+    "Waystones"
+  ],
   "eternals": []
 }

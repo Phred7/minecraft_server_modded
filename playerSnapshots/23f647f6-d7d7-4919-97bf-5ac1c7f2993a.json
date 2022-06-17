@@ -1,23 +1,23 @@
 {
   "playerUUID": "23f647f6-d7d7-4919-97bf-5ac1c7f2993a",
   "playerNickname": "Aqua333",
-  "timestamp": 1654140839,
-  "vaultRuns": 23,
-  "vaultWins": 4,
+  "timestamp": 1655439263,
+  "vaultRuns": 24,
+  "vaultWins": 5,
   "vaultDeaths": 1,
   "artifactCount": 0,
   "inVault": false,
-  "powerLevel": 31,
-  "vaultLevel": 26,
-  "levelPercent": 0.39008695,
+  "powerLevel": 32,
+  "vaultLevel": 27,
+  "levelPercent": 0.12702128,
   "attributes": {
-    "minecraft:generic.max_health": 20.0,
+    "minecraft:generic.max_health": 23.0,
     "minecraft:generic.knockback_resistance": 0.0,
     "minecraft:generic.movement_speed": 0.10000000149011612,
-    "minecraft:generic.attack_damage": 1.0,
+    "minecraft:generic.attack_damage": 11.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 4.0,
-    "minecraft:generic.armor": 10.0,
+    "minecraft:generic.attack_speed": 1.9199998903274533,
+    "minecraft:generic.armor": 14.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
@@ -42,31 +42,41 @@
   },
   "parry": 0.0,
   "resistance": 0.0,
-  "cooldownReduction": 0.0,
+  "cooldownReduction": 0.04,
   "fatalStrikeChance": 0.0,
   "fatalStrikeDamage": 0.0,
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
+    "MAINHAND": {
+      "itemKey": "minecraft:netherite_sword",
+      "count": 1,
+      "nbt": "{RepairCost:15,Enchantments:[{lvl:5s,id:\"minecraft:smite\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:2s,id:\"minecraft:fire_aspect\"},{lvl:3s,id:\"minecraft:looting\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:sweeping\"}],Damage:9}"
+    },
+    "OFFHAND": {
+      "itemKey": "the_vault:idol_omniscient",
+      "count": 1,
+      "nbt": "{Damage:110,Vault:{Attributes:[{BaseValue:\"normal\",Id:\"the_vault:gear_roll_pool\"},{BaseValue:2787947684188479999L,Id:\"the_vault:gear_random_seed\"},{BaseValue:\"IDENTIFIED\",Id:\"the_vault:gear_state\"},{BaseValue:0,Id:\"the_vault:gear_tier\"},{BaseValue:\"Scrappy+\",Id:\"the_vault:gear_roll_type\"},{BaseValue:\"SCRAPPY\",Id:\"the_vault:gear_rarity\"},{BaseValue:0,Id:\"the_vault:gear_model\"},{BaseValue:1481884,Id:\"the_vault:gear_color\"},{BaseValue:780,Id:\"the_vault:durability\"},{BaseValue:\"OMNISCIENT\",Id:\"the_vault:idol_type\"},{BaseValue:1.0f,Id:\"the_vault:gear_level_chance\"},{BaseValue:2,Id:\"the_vault:gear_max_level\"},{BaseValue:0,Id:\"the_vault:gear_modifiers_to_roll\"},{BaseValue:0.0d,Id:\"forge:reach\"},{BaseValue:{Effects:[]},Id:\"the_vault:effect_immunity\"},{BaseValue:{EffectClouds:[]},Id:\"the_vault:effect_cloud\"},{BaseValue:0.0f,Id:\"the_vault:cooldown_reduction\"},{BaseValue:0b,Id:\"the_vault:soulbound\"},{BaseValue:3.0f,Id:\"the_vault:extra_health\"},{BaseValue:1.0f,Id:\"the_vault:gear_level\"},{BaseValue:0.04f,Id:\"the_vault:add_cooldown_reduction\"}]}}"
+    },
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
       "count": 1,
-      "nbt": "{RepairCost:15,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:4s,id:\"minecraft:feather_falling\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:0}"
+      "nbt": "{RepairCost:15,Damage:1,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:4s,id:\"minecraft:feather_falling\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}"
     },
     "LEGS": {
       "itemKey": "minecraft:netherite_leggings",
       "count": 1,
-      "nbt": "{RepairCost:7,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"}],Damage:0}"
+      "nbt": "{RepairCost:7,Damage:17,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"}]}"
     },
     "CHEST": {
-      "itemKey": "minecraft:elytra",
+      "itemKey": "minecraft:netherite_chestplate",
       "count": 1,
-      "nbt": "{RepairCost:3,Damage:48,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
+      "nbt": "{RepairCost:3,Damage:18,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}"
     },
     "HEAD": {
       "itemKey": "minecraft:netherite_helmet",
       "count": 1,
-      "nbt": "{RepairCost:31,Enchantments:[{lvl:4s,id:\"minecraft:blast_protection\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:0}"
+      "nbt": "{RepairCost:31,Damage:8,Enchantments:[{lvl:4s,id:\"minecraft:blast_protection\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}"
     }
   },
   "abilities": {

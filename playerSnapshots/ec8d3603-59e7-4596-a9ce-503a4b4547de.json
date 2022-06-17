@@ -1,19 +1,19 @@
 {
   "playerUUID": "ec8d3603-59e7-4596-a9ce-503a4b4547de",
   "playerNickname": "ArnyDev",
-  "timestamp": 1654657477,
-  "vaultRuns": 1,
+  "timestamp": 1655440586,
+  "vaultRuns": 4,
   "vaultWins": 0,
   "vaultDeaths": 0,
   "artifactCount": 0,
   "inVault": false,
-  "powerLevel": 8,
-  "vaultLevel": 3,
-  "levelPercent": 0.11721739,
+  "powerLevel": 15,
+  "vaultLevel": 10,
+  "levelPercent": 0.7132,
   "attributes": {
-    "minecraft:generic.max_health": 20.0,
+    "minecraft:generic.max_health": 22.0,
     "minecraft:generic.knockback_resistance": 0.0,
-    "minecraft:generic.movement_speed": 0.10000000149011612,
+    "minecraft:generic.movement_speed": 0.12000000208616257,
     "minecraft:generic.attack_damage": 8.0,
     "minecraft:generic.attack_knockback": 0.0,
     "minecraft:generic.attack_speed": 1.5999999046325684,
@@ -51,27 +51,27 @@
     "MAINHAND": {
       "itemKey": "minecraft:netherite_sword",
       "count": 1,
-      "nbt": "{RepairCost:1,Enchantments:[{lvl:5s,id:\"minecraft:smite\"}],Damage:105}"
+      "nbt": "{RepairCost:7,Enchantments:[{lvl:3s,id:\"minecraft:sweeping\"},{lvl:5s,id:\"minecraft:smite\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:0}"
     },
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
       "count": 1,
-      "nbt": "{RepairCost:7,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:3s,id:\"minecraft:depth_strider\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:0}"
+      "nbt": "{RepairCost:7,Damage:16,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:3s,id:\"minecraft:depth_strider\"},{lvl:1s,id:\"minecraft:mending\"}]}"
     },
     "LEGS": {
       "itemKey": "minecraft:netherite_leggings",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:0}"
+      "nbt": "{RepairCost:3,Damage:14,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}"
     },
     "CHEST": {
       "itemKey": "minecraft:netherite_chestplate",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:4s,id:\"protection\"},{lvl:3s,id:\"unbreaking\"}],Damage:46}"
+      "nbt": "{Damage:99,Enchantments:[{lvl:4s,id:\"protection\"},{lvl:3s,id:\"unbreaking\"}]}"
     },
     "HEAD": {
       "itemKey": "minecraft:netherite_helmet",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:4s,id:\"protection\"},{lvl:3s,id:\"unbreaking\"}],Damage:49}"
+      "nbt": "{Damage:99,Enchantments:[{lvl:4s,id:\"protection\"},{lvl:3s,id:\"unbreaking\"}]}"
     }
   },
   "abilities": {
@@ -82,7 +82,10 @@
     "Vein Miner": 1
   },
   "talents": {
-    "Reach": 1
+    "Reach": 1,
+    "Well Fit": 1,
+    "Elvish": 1,
+    "Speed": 1
   },
   "researches": [],
   "eternals": []

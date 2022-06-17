@@ -4010,6 +4010,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2022-06-07 19:06:15 -0700",
+      "minecraft:spider": "2022-06-16 20:36:20 -0700",
       "minecraft:creeper": "2022-06-07 18:31:41 -0700",
       "minecraft:witch": "2022-06-07 18:34:06 -0700",
       "minecraft:enderman": "2022-06-07 18:08:14 -0700",
@@ -14014,6 +14015,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/jungle/jungle_pult_2": {
+    "criteria": {
+      "has_planks": "2022-06-16 21:30:13 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/dark_oak/dark_oak_glass_desk_left": {
     "criteria": {
       "has_the_recipe": "2022-06-07 17:14:01 -0700"
@@ -14023,6 +14030,18 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
     "criteria": {
       "has_the_recipe": "2022-06-07 17:14:03 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle/jungle_pult_3": {
+    "criteria": {
+      "has_planks": "2022-06-16 21:30:13 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle/jungle_pult_4": {
+    "criteria": {
+      "has_planks": "2022-06-16 21:30:13 -0700"
     },
     "done": true
   },
@@ -14077,6 +14096,12 @@
   "create:recipes/food/smelting/bread": {
     "criteria": {
       "has_the_recipe": "2022-06-07 17:14:03 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle/jungle_pult_1": {
+    "criteria": {
+      "has_planks": "2022-06-16 21:30:13 -0700"
     },
     "done": true
   },
@@ -14350,6 +14375,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/dark_oak/dark_oak_pult_1": {
+    "criteria": {
+      "has_planks": "2022-06-16 21:31:49 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/drawer": {
     "criteria": {
       "has_the_recipe": "2022-06-07 17:13:57 -0700"
@@ -14389,6 +14420,24 @@
   "decorative_blocks:recipes/decorations/acacia_seat": {
     "criteria": {
       "has_the_recipe": "2022-06-07 17:14:02 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak/dark_oak_pult_4": {
+    "criteria": {
+      "has_planks": "2022-06-16 21:31:49 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak/dark_oak_pult_3": {
+    "criteria": {
+      "has_planks": "2022-06-16 21:31:49 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak/dark_oak_pult_2": {
+    "criteria": {
+      "has_planks": "2022-06-16 21:31:49 -0700"
     },
     "done": true
   },
@@ -25120,6 +25169,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "porkchop": "2022-06-07 17:32:56 -0700",
+      "golden_apple": "2022-06-16 20:48:52 -0700",
       "golden_carrot": "2022-06-07 18:10:25 -0700",
       "carrot": "2022-06-07 17:35:33 -0700"
     },

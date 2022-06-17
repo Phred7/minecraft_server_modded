@@ -4508,6 +4508,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_rainbow_eucalyptus": {
+    "criteria": {
+      "has_plank": "2022-06-17 11:35:43 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/oak/oak_furniture_7": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:52 -0700"
@@ -5330,6 +5336,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_palm": {
+    "criteria": {
+      "has_plank": "2022-06-17 11:35:41 -0700"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/spruce_planks_lower_roof": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:57 -0700"
@@ -5591,6 +5603,12 @@
   "mcwbridges:recipes/red_sandstone_bridge_pier": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:52 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_witch_hazel": {
+    "criteria": {
+      "has_plank": "2022-06-17 11:39:01 -0700"
     },
     "done": true
   },
@@ -5972,6 +5990,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_bulbis": {
+    "criteria": {
+      "has_plank": "2022-06-17 11:35:47 -0700"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_dark_scoria_from_dark_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:53 -0700"
@@ -6287,6 +6311,12 @@
   "supplementaries:recipes/hanging_sign_holly": {
     "criteria": {
       "has_plank": "2022-05-29 23:37:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2022-06-16 21:32:20 -0700"
     },
     "done": true
   },
@@ -7136,6 +7166,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:56 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_bulbis": {
+    "criteria": {
+      "has_plank": "2022-06-17 11:35:47 -0700"
     },
     "done": true
   },
@@ -14207,6 +14243,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/toolbox": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:53 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_palm": {
+    "criteria": {
+      "has_plank": "2022-06-17 11:35:41 -0700"
     },
     "done": true
   },
@@ -21374,6 +21416,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_green_enchanted": {
+    "criteria": {
+      "has_plank": "2022-06-17 11:36:28 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/crimson/crimson_furniture_3": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:51 -0700"
@@ -21389,6 +21437,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:51 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_maple": {
+    "criteria": {
+      "has_plank": "2022-06-17 11:35:45 -0700"
     },
     "done": true
   },
@@ -22286,6 +22340,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_maple": {
+    "criteria": {
+      "has_plank": "2022-06-17 11:35:45 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:51 -0700"
@@ -22733,6 +22793,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:54 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_witch_hazel": {
+    "criteria": {
+      "has_plank": "2022-06-17 11:39:01 -0700"
     },
     "done": true
   },
@@ -23480,6 +23546,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_green_enchanted": {
+    "criteria": {
+      "has_plank": "2022-06-17 11:36:28 -0700"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:54 -0700"
@@ -23837,6 +23909,12 @@
   "neoncraft:recipes/wallneon_number_4_craft": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:54 -0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_rainbow_eucalyptus": {
+    "criteria": {
+      "has_plank": "2022-06-17 11:35:43 -0700"
     },
     "done": true
   },
@@ -26101,6 +26179,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_cod": "2022-06-16 21:28:02 -0700",
       "pumpkin_pie": "2022-05-20 18:10:11 -0700",
       "bread": "2022-05-20 15:45:40 -0700",
       "suspicious_stew": "2022-05-21 12:58:59 -0700",

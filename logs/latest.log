@@ -1,162 +1,250 @@
-[15Jun2022 08:00:00.389] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
-[15Jun2022 17:11:56.591] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
-[15Jun2022 17:11:56.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
-[15Jun2022 17:11:56.678] [Thread-1294/INFO] [FTB Utilities Backups/]: Deleting old backup: 2022-06-09-14-18-11.zip
-[15Jun2022 17:11:56.687] [Thread-1294/INFO] [FTB Utilities Backups/]: Backing up 4907 files...
-[15Jun2022 17:11:56.687] [Thread-1294/INFO] [FTB Utilities Backups/]: Compressing 4907 files...
-[15Jun2022 17:15:57.747] [Thread-1294/INFO] [FTB Utilities Backups/]: Done compressing in 04:01 seconds (4.5GB)!
-[15Jun2022 17:15:57.763] [Thread-1294/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-06-15-17-11-56.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
-[15Jun2022 17:15:57.798] [Thread-1294/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 04:01! (4.5GB | 17.7GB)
-[15Jun2022 20:00:00.389] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
-[15Jun2022 23:39:29.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[15Jun2022 23:39:29.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: `stop<--[HERE]
-[15Jun2022 23:39:34.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[15Jun2022 23:39:34.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tps<--[HERE]
-[15Jun2022 23:39:43.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /advancement (grant|revoke)
-[15Jun2022 23:39:43.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ae2 (chunklogger|spatial|supporters)
-[15Jun2022 23:39:43.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /attribute <target> <attribute> (base|get|modifier)
-[15Jun2022 23:39:43.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban <targets> [<reason>]
-[15Jun2022 23:39:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban-ip <target> [<reason>]
-[15Jun2022 23:39:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /banlist [ips|players]
-[15Jun2022 23:39:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /bookshelf (hand|lootchest|translate)
-[15Jun2022 23:39:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /bossbar (add|get|list|remove|set)
-[15Jun2022 23:39:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /buildinggadgets (ForceLoadChunks|ForceLoadChunksList|OverrideBuildSize|OverrideBuildSizeList|OverrideCopySize|OverrideCopySizeList)
-[15Jun2022 23:39:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /c (clone|config|coupling|fixLighting|glue|highlight|overlay|ponder|rainbowDebug|u|util)
-[15Jun2022 23:39:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clear [<targets>]
-[15Jun2022 23:39:43.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clone <begin> <end> <destination> [filtered|masked|replace]
-[15Jun2022 23:39:43.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /cofh (crafting|enderchest|friend|heal|ignite|invis|invuln|recharge|repair|workbench|zap)
-[15Jun2022 23:39:43.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /config showfile <mod> <type>
-[15Jun2022 23:39:43.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /crafttweaker (block_info|conflicts|copy|ctgui|discord|dump|dump_brackets|entity_info|examples|format|give|hand|help|inventory|issues|log|patreon|recipes|reload|scripts|syntax|wiki)
-[15Jun2022 23:39:43.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /create (clone|config|coupling|fixLighting|glue|highlight|overlay|ponder|rainbowDebug|u|util)
-[15Jun2022 23:39:43.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ct (block_info|conflicts|copy|ctgui|discord|dump|dump_brackets|entity_info|examples|format|give|hand|help|inventory|issues|log|patreon|recipes|reload|scripts|syntax|wiki)
-[15Jun2022 23:39:43.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /cucumber fillenergy
-[15Jun2022 23:39:43.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /curios (add|clear|lock|remove|reset|set|unlock)
-[15Jun2022 23:39:43.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /data (get|merge|modify|remove)
-[15Jun2022 23:39:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /datapack (disable|enable|list)
-[15Jun2022 23:39:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /deathhistory (<player>|<player_uuid>)
-[15Jun2022 23:39:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /debug (report|start|stop)
-[15Jun2022 23:39:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /defaultgamemode (adventure|creative|spectator|survival)
-[15Jun2022 23:39:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /deop <targets>
-[15Jun2022 23:39:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /difficulty [easy|hard|normal|peaceful]
-[15Jun2022 23:39:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /dimstorage -> dimtablet
-[15Jun2022 23:39:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /dimtablet (add|list|remove|removeAll)
-[15Jun2022 23:39:43.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /dumpHandlers
-[15Jun2022 23:39:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /east
-[15Jun2022 23:39:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /effect (clear|give)
-[15Jun2022 23:39:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /enchant <targets> <enchantment> [<level>]
-[15Jun2022 23:39:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
-[15Jun2022 23:39:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /experience (add|query|set)
-[15Jun2022 23:39:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
-[15Jun2022 23:39:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /flywheel (backend|debugNormals)
-[15Jun2022 23:39:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forceload (add|query|remove)
-[15Jun2022 23:39:43.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forge (dimensions|entity|generate|mods|setdimension|tps|track)
-[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ftbbackups (size|start|time)
-[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ftblibrary (day|gamemode|nbtedit|night|rain)
-[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /function <name>
-[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamemode (adventure|creative|spectator|survival)
-[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
-[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gendata <modid>
-[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /give <targets> <item> [<count>]
-[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /help [<command>]
-[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ie (clearshaders|mineral|resetmanual|resetrender)
-[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kick <targets> [<reason>]
-[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kill [<targets>]
-[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /list [uuids]
-[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locate (appliedenergistics2:meteorite|bastion_remnant|buried_treasure|desert_pyramid|endcity|fortress|igloo|jungle_pyramid|mansion|mineshaft|monument|nether_fossil|ocean_ruin|pillager_outpost|quark:big_dungeon|ruined_portal|shipwreck|stronghold|supplementaries:way_sign|swamp_hut|the_vault:architect_event|the_vault:raid_challenge|the_vault:trove|the_vault:vault_star|village)
-[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locatebiome <biome>
-[15Jun2022 23:39:43.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /loot (give|insert|replace|spawn)
-[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /me <action>
-[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /mek (chunk|debug|radiation|retrogen|testrules)
-[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /morpheus [alert|percent|version]
-[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /msg <targets> <message>
-[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /north
-[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /op <targets>
-[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /open-patchouli-book <targets> <book> [<entry>]
-[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon <targets>
-[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon-ip <target>
-[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /particle <name> [<pos>]
-[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /party (accept_invite|create|disband|invite|leave|list|remove)
-[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /performant (collidenearby|disableLoadBalancing|enableLoadBalancing|recordMessages|reportEntities|reportEvents|reportMessages|reportTileEntities|startGatherData|whatsnearby)
-[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ping [<target>]
-[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /placebo serialize_loot_table <loot_table>
-[15Jun2022 23:39:43.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
-[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /recipe (give|take)
-[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /refinedstorage (disk|network|pattern)
-[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /reload
-[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /replaceitem (block|entity)
-[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /rfstor -> rftoolsstorage
-[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /rftoolsstorage (list|restore)
-[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /rftoolsutility (cleanupreceivers|setbuffs)
-[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /rfutil -> rftoolsutility
-[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /rpconfigreload
-[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /runelic (book|hand|say|tile)
-[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-all [flush]
-[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-off
-[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-on
-[15Jun2022 23:39:43.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /say <message>
-[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /sb (list|open|recover)
-[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /schedule (clear|function)
-[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /scoreboard (objectives|players)
-[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /seed
-[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setblock <pos> <block> [destroy|keep|replace]
-[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setidletimeout <minutes>
-[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setworldspawn [<pos>]
-[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /simplybackpacks (list|open|recover)
-[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /south
-[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spawnpoint [<targets>]
-[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spectate [<target>]
-[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (under|<respectTeams>)
-[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stop
-[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
-[15Jun2022 23:39:43.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /summon <entity> [<pos>]
-[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /supplementaries (cage|configured|globe|reload|roll)
-[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tag <targets> (add|list|remove)
-[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /team (add|empty|join|leave|list|modify|remove)
-[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teammsg <message>
-[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teleport (<destination>|<location>|<targets>)
-[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tell -> msg
-[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tellraw <targets> <message>
-[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /the_vault (crystal|debug|eternal|gear|give_loot|internal|inv_restore|reloadcfg|say|vault_level)
-[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /time (add|query|set)
-[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /titanium-rewards <action> <reward> <option>
-[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /titanium-rewards-grant <reward>
-[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
-[15Jun2022 23:39:43.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tm -> teammsg
-[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /torchmaster [entitydump|torchdump]
-[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tp -> teleport
-[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /trigger <objective> [add|set]
-[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /uteamcore (dimteleport|locatebiome|locatestructure|ping|stackinfo)
-[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /w -> msg
-[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /weather (clear|rain|thunder)
-[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /west
-[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /whitelist (add|list|off|on|reload|remove)
-[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /worldborder (add|center|damage|get|set|warning)
-[15Jun2022 23:39:43.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp -> experience
-[15Jun2022 23:40:40.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
-[15Jun2022 23:40:40.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ... give_loot<--[HERE]
-[15Jun2022 23:41:00.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
-[15Jun2022 23:41:00.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...give_loot scavenger_crate<--[HERE]
-[15Jun2022 23:44:51.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[15Jun2022 23:44:51.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[15Jun2022 23:44:51.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[15Jun2022 23:44:51.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[15Jun2022 23:44:51.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:overworld
-[15Jun2022 23:44:51.903] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
-[15Jun2022 23:44:51.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_nether
-[15Jun2022 23:44:51.905] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15Jun2022 23:44:51.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_end
-[15Jun2022 23:44:51.907] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15Jun2022 23:44:51.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:the_other_side
-[15Jun2022 23:44:51.908] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
-[15Jun2022 23:44:51.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/appliedenergistics2:spatial_storage
-[15Jun2022 23:44:51.909] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[15Jun2022 23:44:51.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:vault
-[15Jun2022 23:44:51.915] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
-[15Jun2022 23:44:51.990] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
-[15Jun2022 23:44:52.030] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15Jun2022 23:44:52.033] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15Jun2022 23:44:52.037] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
-[15Jun2022 23:44:52.037] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[15Jun2022 23:44:52.041] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
-[15Jun2022 23:44:52.155] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
-[15Jun2022 23:44:52.412] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread Query Listener stopped
+[17Jun2022 08:00:00.677] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[17Jun2022 09:31:56.385] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[17Jun2022 09:32:09.062] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@57c8a280
+[17Jun2022 09:32:09.135] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/69.146.86.145:55356] logged in with entity id 323476 at (-853.6865902151873, 94.0, -388.1345210692674)
+[17Jun2022 09:32:09.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[17Jun2022 09:32:09.173] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[17Jun2022 10:00:01.921] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Podzol'/336144, l='ServerLevel[Vault-Hunters]', x=-559.69, y=69.26, z=-427.38]
+[17Jun2022 10:00:12.374] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336320, l='ServerLevel[Vault-Hunters]', x=-560.46, y=70.41, z=-426.66]
+[17Jun2022 10:00:12.374] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336321, l='ServerLevel[Vault-Hunters]', x=-560.62, y=69.46, z=-426.69]
+[17Jun2022 10:00:12.374] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336322, l='ServerLevel[Vault-Hunters]', x=-560.26, y=70.54, z=-427.29]
+[17Jun2022 10:00:12.375] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336323, l='ServerLevel[Vault-Hunters]', x=-559.34, y=70.61, z=-426.65]
+[17Jun2022 10:00:12.375] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336324, l='ServerLevel[Vault-Hunters]', x=-560.31, y=69.47, z=-427.46]
+[17Jun2022 10:00:12.375] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336325, l='ServerLevel[Vault-Hunters]', x=-559.57, y=69.61, z=-426.27]
+[17Jun2022 10:00:12.375] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336326, l='ServerLevel[Vault-Hunters]', x=-559.71, y=70.60, z=-427.42]
+[17Jun2022 10:00:12.375] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336327, l='ServerLevel[Vault-Hunters]', x=-559.61, y=69.72, z=-427.48]
+[17Jun2022 10:00:29.379] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336690, l='ServerLevel[Vault-Hunters]', x=-560.35, y=70.30, z=-426.66]
+[17Jun2022 10:00:29.379] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336691, l='ServerLevel[Vault-Hunters]', x=-560.40, y=69.44, z=-426.57]
+[17Jun2022 10:00:29.380] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336692, l='ServerLevel[Vault-Hunters]', x=-560.46, y=70.62, z=-427.49]
+[17Jun2022 10:00:29.380] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336693, l='ServerLevel[Vault-Hunters]', x=-560.65, y=71.57, z=-426.74]
+[17Jun2022 10:00:29.380] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336694, l='ServerLevel[Vault-Hunters]', x=-559.73, y=70.69, z=-426.29]
+[17Jun2022 10:00:29.380] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336695, l='ServerLevel[Vault-Hunters]', x=-560.27, y=69.45, z=-427.43]
+[17Jun2022 10:00:29.380] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336696, l='ServerLevel[Vault-Hunters]', x=-560.37, y=71.51, z=-427.40]
+[17Jun2022 10:00:29.380] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336697, l='ServerLevel[Vault-Hunters]', x=-559.42, y=69.26, z=-426.59]
+[17Jun2022 10:00:29.381] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336698, l='ServerLevel[Vault-Hunters]', x=-559.34, y=70.47, z=-427.49]
+[17Jun2022 10:00:29.381] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336699, l='ServerLevel[Vault-Hunters]', x=-559.37, y=71.35, z=-426.53]
+[17Jun2022 10:00:29.381] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336700, l='ServerLevel[Vault-Hunters]', x=-559.42, y=69.64, z=-427.58]
+[17Jun2022 10:00:29.381] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336701, l='ServerLevel[Vault-Hunters]', x=-559.43, y=71.42, z=-427.67]
+[17Jun2022 10:00:29.381] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336702, l='ServerLevel[Vault-Hunters]', x=-560.48, y=72.36, z=-426.33]
+[17Jun2022 10:00:29.381] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336703, l='ServerLevel[Vault-Hunters]', x=-560.61, y=72.59, z=-427.48]
+[17Jun2022 10:00:29.381] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336704, l='ServerLevel[Vault-Hunters]', x=-559.59, y=72.59, z=-426.67]
+[17Jun2022 10:00:29.382] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/336705, l='ServerLevel[Vault-Hunters]', x=-559.68, y=72.73, z=-427.54]
+[17Jun2022 10:02:16.587] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Boss Crate'/338792, l='ServerLevel[Vault-Hunters]', x=-564.50, y=69.50, z=-425.50]
+[17Jun2022 10:03:13.041] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-568, y=87, z=-413} BlockPos{x=-569, y=88, z=-414}
+[17Jun2022 10:06:06.718] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Boss Crate'/342769, l='ServerLevel[Vault-Hunters]', x=-676.50, y=72.50, z=-370.50]
+[17Jun2022 10:14:13.174] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/345749, l='ServerLevel[Vault-Hunters]', x=-651.92, y=70.00, z=-377.74]
+[17Jun2022 11:02:02.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
+[17Jun2022 11:02:18.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered a Super Lucky, Difficult, Safe Zone, Fast Vault!
+[17Jun2022 11:02:18.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[17Jun2022 11:02:40.054] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=954079, y=7, z=3938} but found not block entity block Block{minecraft:air} at location
+[17Jun2022 11:02:40.054] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=954079, y=7, z=3938}
+[17Jun2022 11:03:10.348] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[17Jun2022 11:05:47.743] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player rorysun is 7b32f24d-ed03-4bd7-a77c-f948cfe5052a
+[17Jun2022 11:06:09.707] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5bf4e37d
+[17Jun2022 11:06:09.779] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: rorysun[/69.146.86.145:61543] logged in with entity id 366336 at (-837.3540841105571, 94.0, -388.55751323273086)
+[17Jun2022 11:06:09.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rorysun joined the game
+[17Jun2022 11:06:09.803] [Server thread/INFO] [Waila/]: Syncing config to rorysun (7b32f24d-ed03-4bd7-a77c-f948cfe5052a)
+[17Jun2022 11:07:10.644] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Door'/368559, l='ServerLevel[Vault-Hunters]', x=954261.28, y=26.49, z=3772.45]
+[17Jun2022 11:07:10.645] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/368560, l='ServerLevel[Vault-Hunters]', x=954259.63, y=19.31, z=3771.52]
+[17Jun2022 11:07:10.645] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Pine Planks'/368561, l='ServerLevel[Vault-Hunters]', x=954260.49, y=24.26, z=3772.33]
+[17Jun2022 11:07:10.645] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/368564, l='ServerLevel[Vault-Hunters]', x=954257.50, y=21.38, z=3769.31]
+[17Jun2022 11:07:10.645] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Travertine Bricks'/368565, l='ServerLevel[Vault-Hunters]', x=954263.53, y=23.61, z=3772.64]
+[17Jun2022 11:07:10.645] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/368566, l='ServerLevel[Vault-Hunters]', x=954258.30, y=20.74, z=3770.67]
+[17Jun2022 11:07:10.645] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/368568, l='ServerLevel[Vault-Hunters]', x=954259.65, y=19.56, z=3769.38]
+[17Jun2022 11:07:10.645] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Barrel'/368569, l='ServerLevel[Vault-Hunters]', x=954262.35, y=22.59, z=3771.57]
+[17Jun2022 11:07:10.646] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/368571, l='ServerLevel[Vault-Hunters]', x=954257.61, y=21.37, z=3770.45]
+[17Jun2022 11:07:10.646] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sand'/368572, l='ServerLevel[Vault-Hunters]', x=954257.64, y=23.58, z=3769.43]
+[17Jun2022 11:07:10.646] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Pine Planks'/368573, l='ServerLevel[Vault-Hunters]', x=954263.40, y=22.44, z=3771.29]
+[17Jun2022 11:07:11.556] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sand'/368713, l='ServerLevel[Vault-Hunters]', x=954256.29, y=19.63, z=3767.68]
+[17Jun2022 11:07:11.556] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/368715, l='ServerLevel[Vault-Hunters]', x=954255.74, y=18.28, z=3768.30]
+[17Jun2022 11:07:39.083] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=954268, y=25, z=3750} BlockPos{x=954268, y=24, z=3751}
+[17Jun2022 11:12:55.175] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Waxed White Corundum'/376642, l='ServerLevel[Vault-Hunters]', x=954081.61, y=32.63, z=4042.71]
+[17Jun2022 11:12:57.126] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Benitoite Ore'/376658, l='ServerLevel[Vault-Hunters]', x=954080.70, y=32.27, z=4041.32]
+[17Jun2022 11:12:57.126] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Benitoite Ore'/376659, l='ServerLevel[Vault-Hunters]', x=954081.59, y=31.49, z=4041.61]
+[17Jun2022 11:23:56.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 defeated Boss!
+[17Jun2022 11:32:38.073] [Server thread/INFO] [morpheus/]: rorysun is now sleeping. 1/2 (50%)
+[17Jun2022 11:46:59.072] [Server thread/INFO] [morpheus/]: Nave808 is now sleeping. 1/2 (50%)
+[17Jun2022 12:25:37.875] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:skeleton from 606e5ded-a71a-47eb-a666-159a2c085aed to 54fca9d7-2e21-4389-bbe3-b4ceef9a80ad
+[17Jun2022 12:25:37.876] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:zombified_piglin from fc2d27bd-3889-4a23-807d-c131e6c4fe14 to 84b7f010-eb72-4a13-ac89-6251f1f26e68
+[17Jun2022 12:25:37.876] [Server thread/INFO] [randompatches/]: Changing UUID of duplicate entity minecraft:enderman from b5cb7efd-ae7d-4264-956e-e5fa3126f677 to e334fde2-038a-47d2-9aa4-04642141bdf4
+[17Jun2022 12:27:55.167] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/439633, l='ServerLevel[Vault-Hunters]', x=-404.33, y=220.56, z=6.46]
+[17Jun2022 12:27:56.116] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/439640, l='ServerLevel[Vault-Hunters]', x=-404.57, y=219.69, z=6.68]
+[17Jun2022 12:28:01.314] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/439686, l='ServerLevel[Vault-Hunters]', x=-404.68, y=220.29, z=2.34]
+[17Jun2022 12:28:01.814] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/439692, l='ServerLevel[Vault-Hunters]', x=-404.62, y=219.49, z=2.55]
+[17Jun2022 12:28:05.914] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/439730, l='ServerLevel[Vault-Hunters]', x=-400.47, y=220.35, z=2.50]
+[17Jun2022 12:28:35.116] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Glass'/439924, l='ServerLevel[Vault-Hunters]', x=-400.53, y=218.50, z=3.49]
+[17Jun2022 12:31:08.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> xaero-waypoint:hoglin farm:H:-403:128:4:11:false:0:Internal-the-nether-waypoints
+[17Jun2022 12:38:04.062] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sunny Blossom Leaves'/449064, l='ServerLevel[Vault-Hunters]', x=263.48, y=1.71, z=-7.74]
+[17Jun2022 12:38:04.062] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sunny Blossom Leaves'/449064, l='ServerLevel[Vault-Hunters]', x=263.48, y=1.71, z=-7.74]
+[17Jun2022 12:42:05.074] [Server thread/INFO] [morpheus/]: rorysun is now sleeping. 1/2 (50%)
+[17Jun2022 12:46:35.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> xaero-waypoint:spawn:S:16:73:-228:5:false:0:Internal-overworld-waypoints
+[17Jun2022 13:13:37.074] [Server thread/INFO] [morpheus/]: rorysun is now sleeping. 1/2 (50%)
+[17Jun2022 13:22:29.117] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/470051, l='ServerLevel[Vault-Hunters]', x=-651.43, y=70.23, z=-378.57]
+[17Jun2022 13:22:29.117] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/470051, l='ServerLevel[Vault-Hunters]', x=-651.43, y=70.23, z=-378.57]
+[17Jun2022 13:24:55.071] [Server thread/INFO] [morpheus/]: rorysun is now sleeping. 1/2 (50%)
+[17Jun2022 13:25:05.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <rorysun> xaero-waypoint:Weeping Witch Woods:W:-3034:92:532:14:false:0:Internal-overworld-waypoints
+[17Jun2022 13:26:31.822] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lectern'/471805, l='ServerLevel[Vault-Hunters]', x=-854.37, y=94.65, z=-380.67]
+[17Jun2022 13:37:19.072] [Server thread/INFO] [morpheus/]: rorysun is now sleeping. 1/2 (50%)
+[17Jun2022 13:48:44.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rorysun opened a Vault!
+[17Jun2022 13:48:48.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered an Afterlife Vault!
+[17Jun2022 13:48:48.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rorysun entered an Afterlife Vault!
+[17Jun2022 13:48:58.113] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=962495, y=9, z=3959} but found not block entity block Block{minecraft:air} at location
+[17Jun2022 13:48:58.114] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=962495, y=9, z=3959}
+[17Jun2022 13:54:50.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.generic.explode to 2 players]
+[17Jun2022 13:54:52.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.generic.explode to 2 players]
+[17Jun2022 13:58:53.926] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=962378, y=9, z=4142} BlockPos{x=962382, y=8, z=4142}
+[17Jun2022 14:09:37.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 12 blocks]
+[17Jun2022 14:09:37.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
+[17Jun2022 14:09:37.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:block.end_portal.spawn to 2 players]
+[17Jun2022 14:13:09.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 defeated Boss!
+[17Jun2022 14:13:32.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2677ms or 53 ticks behind
+[17Jun2022 14:13:40.745] [Server thread/INFO] [morpheus/]: rorysun is now sleeping. 1/2 (50%)
+[17Jun2022 14:21:41.471] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/542287, l='ServerLevel[Vault-Hunters]', x=-652.45, y=70.00, z=-381.22]
+[17Jun2022 14:21:41.471] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/542287, l='ServerLevel[Vault-Hunters]', x=-652.45, y=70.00, z=-381.22]
+[17Jun2022 14:28:05.724] [Server thread/INFO] [morpheus/]: rorysun is now sleeping. 1/2 (50%)
+[17Jun2022 14:33:17.834] [Netty Epoll Server IO #3/ERROR] [net.minecraft.network.NettyPacketEncoder/]: Error encoding packet
+io.netty.handler.codec.EncoderException: java.io.UTFDataFormatException: encoded string too long: 77400 bytes
+	at net.minecraft.network.PacketBuffer.func_150786_a(PacketBuffer.java:255) ~[?:?]
+	at net.minecraft.network.PacketBuffer.writeItemStack(PacketBuffer.java:311) ~[?:?]
+	at net.minecraft.network.PacketBuffer.func_150788_a(PacketBuffer.java:290) ~[?:?]
+	at net.minecraft.network.datasync.DataSerializers$7.func_187160_a(DataSerializers.java:111) ~[?:?]
+	at net.minecraft.network.datasync.DataSerializers$7.func_187160_a(DataSerializers.java:109) ~[?:?]
+	at net.minecraft.network.datasync.EntityDataManager.func_187220_a(EntityDataManager.java:196) ~[?:?]
+	at net.minecraft.network.datasync.EntityDataManager.func_187229_a(EntityDataManager.java:140) ~[?:?]
+	at net.minecraft.network.play.server.SEntityMetadataPacket.func_148840_b(SourceFile:37) ~[?:?]
+	at net.minecraft.network.NettyPacketEncoder.encode(NettyPacketEncoder.java:38) ~[?:?]
+	at net.minecraft.network.NettyPacketEncoder.encode(NettyPacketEncoder.java:12) ~[?:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.network.NetworkManager.lambda$sendPacket$5(NetworkManager.java:196) ~[?:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404) [server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:313) [server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884) [server-1.16.5-20210115.111550-extra.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312]
+Caused by: java.io.UTFDataFormatException: encoded string too long: 77400 bytes
+	at java.io.DataOutputStream.writeUTF(DataOutputStream.java:364) ~[?:1.8.0_312]
+	at java.io.DataOutputStream.writeUTF(DataOutputStream.java:323) ~[?:1.8.0_312]
+	at io.netty.buffer.ByteBufOutputStream.writeUTF(ByteBufOutputStream.java:136) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.nbt.StringNBT.func_74734_a(StringNBT.java:44) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_150298_a(CompoundNBT.java:408) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_74734_a(CompoundNBT.java:84) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_150298_a(CompoundNBT.java:408) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_74734_a(CompoundNBT.java:84) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_150663_a(CompressedStreamTools.java:103) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_74800_a(CompressedStreamTools.java:96) ~[?:?]
+	at net.minecraft.network.PacketBuffer.func_150786_a(PacketBuffer.java:253) ~[?:?]
+	... 28 more
+[17Jun2022 14:33:17.834] [Netty Epoll Server IO #9/ERROR] [net.minecraft.network.NettyPacketEncoder/]: Error encoding packet
+io.netty.handler.codec.EncoderException: java.io.UTFDataFormatException: encoded string too long: 77400 bytes
+	at net.minecraft.network.PacketBuffer.func_150786_a(PacketBuffer.java:255) ~[?:?]
+	at net.minecraft.network.PacketBuffer.writeItemStack(PacketBuffer.java:311) ~[?:?]
+	at net.minecraft.network.PacketBuffer.func_150788_a(PacketBuffer.java:290) ~[?:?]
+	at net.minecraft.network.datasync.DataSerializers$7.func_187160_a(DataSerializers.java:111) ~[?:?]
+	at net.minecraft.network.datasync.DataSerializers$7.func_187160_a(DataSerializers.java:109) ~[?:?]
+	at net.minecraft.network.datasync.EntityDataManager.func_187220_a(EntityDataManager.java:196) ~[?:?]
+	at net.minecraft.network.datasync.EntityDataManager.func_187229_a(EntityDataManager.java:140) ~[?:?]
+	at net.minecraft.network.play.server.SEntityMetadataPacket.func_148840_b(SourceFile:37) ~[?:?]
+	at net.minecraft.network.NettyPacketEncoder.encode(NettyPacketEncoder.java:38) ~[?:?]
+	at net.minecraft.network.NettyPacketEncoder.encode(NettyPacketEncoder.java:12) ~[?:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.network.NetworkManager.lambda$sendPacket$5(NetworkManager.java:196) ~[?:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404) [server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:313) [server-1.16.5-20210115.111550-extra.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884) [server-1.16.5-20210115.111550-extra.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312]
+Caused by: java.io.UTFDataFormatException: encoded string too long: 77400 bytes
+	at java.io.DataOutputStream.writeUTF(DataOutputStream.java:364) ~[?:1.8.0_312]
+	at java.io.DataOutputStream.writeUTF(DataOutputStream.java:323) ~[?:1.8.0_312]
+	at io.netty.buffer.ByteBufOutputStream.writeUTF(ByteBufOutputStream.java:136) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.nbt.StringNBT.func_74734_a(StringNBT.java:44) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_150298_a(CompoundNBT.java:408) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_74734_a(CompoundNBT.java:84) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_150298_a(CompoundNBT.java:408) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_74734_a(CompoundNBT.java:84) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_150663_a(CompressedStreamTools.java:103) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_74800_a(CompressedStreamTools.java:96) ~[?:?]
+	at net.minecraft.network.PacketBuffer.func_150786_a(PacketBuffer.java:253) ~[?:?]
+	... 28 more
+[17Jun2022 14:33:17.872] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.io.UTFDataFormatException: encoded string too long: 77400 bytes
+[17Jun2022 14:33:17.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[17Jun2022 14:33:17.969] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: rorysun lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.io.UTFDataFormatException: encoded string too long: 77400 bytes
+[17Jun2022 14:33:17.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rorysun left the game
+[17Jun2022 14:33:18.516] [IO-Worker-26767/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-42, -23]
+java.io.UTFDataFormatException: encoded string too long: 77400 bytes
+	at java.io.DataOutputStream.writeUTF(DataOutputStream.java:364) ~[?:1.8.0_312]
+	at java.io.DataOutputStream.writeUTF(DataOutputStream.java:323) ~[?:1.8.0_312]
+	at net.minecraft.nbt.StringNBT.func_74734_a(StringNBT.java:44) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_150298_a(CompoundNBT.java:408) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_74734_a(CompoundNBT.java:84) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_150298_a(CompoundNBT.java:408) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_74734_a(CompoundNBT.java:84) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_150298_a(CompoundNBT.java:408) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_74734_a(CompoundNBT.java:84) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_150298_a(CompoundNBT.java:408) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_74734_a(CompoundNBT.java:84) ~[?:?]
+	at net.minecraft.nbt.ListNBT.func_74734_a(SourceFile:91) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_150298_a(CompoundNBT.java:408) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_74734_a(CompoundNBT.java:84) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_150298_a(CompoundNBT.java:408) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_74734_a(CompoundNBT.java:84) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_150663_a(CompressedStreamTools.java:103) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_74800_a(CompressedStreamTools.java:96) ~[?:?]
+	at net.minecraft.world.chunk.storage.RegionFileCache.func_219100_a(SourceFile:63) ~[?:?]
+	at net.minecraft.world.chunk.storage.IOWorker.func_227091_a_(SourceFile:144) ~[?:?]
+	at net.minecraft.world.chunk.storage.IOWorker.func_235978_b_(SourceFile:134) ~[?:?]
+	at net.minecraft.util.concurrent.ITaskQueue$RunnableWithPriority.run(SourceFile:54) [?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) [?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) [?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_312]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_312]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312]
+[17Jun2022 14:38:17.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[17Jun2022 14:38:17.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Jun2022 14:38:17.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Jun2022 14:38:17.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Jun2022 14:38:17.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:overworld
+[17Jun2022 14:38:17.965] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
+[17Jun2022 14:38:17.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_nether
+[17Jun2022 14:38:17.968] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Jun2022 14:38:17.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_end
+[17Jun2022 14:38:17.970] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Jun2022 14:38:17.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:the_other_side
+[17Jun2022 14:38:17.971] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[17Jun2022 14:38:17.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/appliedenergistics2:spatial_storage
+[17Jun2022 14:38:17.972] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[17Jun2022 14:38:17.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:vault
+[17Jun2022 14:38:17.979] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[17Jun2022 14:38:18.054] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
+[17Jun2022 14:38:18.110] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Jun2022 14:38:18.122] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Jun2022 14:38:18.124] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[17Jun2022 14:38:18.124] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[17Jun2022 14:38:18.132] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[17Jun2022 14:38:18.296] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
+[17Jun2022 14:38:18.611] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread Query Listener stopped
