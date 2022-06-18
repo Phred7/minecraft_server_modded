@@ -1,15 +1,15 @@
 {
   "playerUUID": "7b32f24d-ed03-4bd7-a77c-f948cfe5052a",
   "playerNickname": "rorysun",
-  "timestamp": 1655527978,
-  "vaultRuns": 6,
-  "vaultWins": 1,
+  "timestamp": 1655532466,
+  "vaultRuns": 7,
+  "vaultWins": 2,
   "vaultDeaths": 0,
   "artifactCount": 0,
   "inVault": false,
-  "powerLevel": 25,
-  "vaultLevel": 20,
-  "levelPercent": 0.5397,
+  "powerLevel": 26,
+  "vaultLevel": 21,
+  "levelPercent": 0.36965853,
   "attributes": {
     "minecraft:generic.max_health": 20.0,
     "minecraft:generic.knockback_resistance": 0.0,
@@ -48,6 +48,11 @@
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
+    "OFFHAND": {
+      "itemKey": "the_vault:idol_timekeeper",
+      "count": 1,
+      "nbt": "{Damage:74,Vault:{Attributes:[{BaseValue:\"normal\",Id:\"the_vault:gear_roll_pool\"},{BaseValue:-4790960838440290067L,Id:\"the_vault:gear_random_seed\"},{BaseValue:\"IDENTIFIED\",Id:\"the_vault:gear_state\"},{BaseValue:0,Id:\"the_vault:gear_tier\"},{BaseValue:\"Scrappy+\",Id:\"the_vault:gear_roll_type\"},{BaseValue:\"COMMON\",Id:\"the_vault:gear_rarity\"},{BaseValue:0,Id:\"the_vault:gear_model\"},{BaseValue:8606770,Id:\"the_vault:gear_color\"},{BaseValue:810,Id:\"the_vault:durability\"},{BaseValue:\"TIMEKEEPER\",Id:\"the_vault:idol_type\"},{BaseValue:1.0f,Id:\"the_vault:gear_level_chance\"},{BaseValue:2,Id:\"the_vault:gear_max_level\"},{BaseValue:0,Id:\"the_vault:gear_modifiers_to_roll\"},{BaseValue:0.0d,Id:\"forge:reach\"},{BaseValue:{Effects:[]},Id:\"the_vault:effect_immunity\"},{BaseValue:{EffectClouds:[]},Id:\"the_vault:effect_cloud\"},{BaseValue:0.0f,Id:\"the_vault:cooldown_reduction\"},{BaseValue:0b,Id:\"the_vault:soulbound\"},{BaseValue:1.0f,Id:\"the_vault:gear_level\"},{BaseValue:{Id:\"minecraft:wither\",Effects:[{}]},Id:\"the_vault:add_wither_immunity\"}]}}"
+    },
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
       "count": 1,
@@ -56,23 +61,23 @@
     "LEGS": {
       "itemKey": "minecraft:netherite_leggings",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:2}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:0}"
     },
     "CHEST": {
       "itemKey": "minecraft:elytra",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:228}"
+      "nbt": "{RepairCost:3,Damage:10,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
     },
     "HEAD": {
       "itemKey": "minecraft:netherite_helmet",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:1}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:0}"
     }
   },
   "abilities": {
     "Cleanse": 1,
     "Dash": 1,
-    "Mega Jump: Fart": 1,
+    "Mega Jump": 1,
     "Tank": 1,
     "Vein Miner": 3
   },

@@ -1,22 +1,22 @@
 {
   "playerUUID": "b8bed4fd-6c2f-4f4f-a216-118ed8719365",
   "playerNickname": "Phred7",
-  "timestamp": 1655527978,
-  "vaultRuns": 26,
-  "vaultWins": 3,
+  "timestamp": 1655532486,
+  "vaultRuns": 27,
+  "vaultWins": 4,
   "vaultDeaths": 2,
   "artifactCount": 0,
   "inVault": false,
-  "powerLevel": 31,
-  "vaultLevel": 26,
-  "levelPercent": 0.8351739,
+  "powerLevel": 32,
+  "vaultLevel": 27,
+  "levelPercent": 0.57268083,
   "attributes": {
     "minecraft:generic.max_health": 24.0,
     "minecraft:generic.knockback_resistance": 0.0,
     "minecraft:generic.movement_speed": 0.12000000208616257,
-    "minecraft:generic.attack_damage": 1.0,
+    "minecraft:generic.attack_damage": 4.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 4.4000000059604645,
+    "minecraft:generic.attack_speed": 4.800000011920929,
     "minecraft:generic.armor": 10.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
@@ -40,7 +40,7 @@
     "Wendarr": 0,
     "Idona": 0
   },
-  "parry": 0.0,
+  "parry": 0.03,
   "resistance": 0.0,
   "cooldownReduction": 0.0,
   "fatalStrikeChance": 0.0,
@@ -48,10 +48,15 @@
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
+    "MAINHAND": {
+      "itemKey": "dankstorage:dank_1",
+      "count": 1,
+      "nbt": "{inv:{Items:[{Slot:0,ExtendedCount:12,id:\"minecraft:potion\",Count:12b,tag:{Potion:\"minecraft:strong_healing\"}},{Slot:1,ExtendedCount:10,id:\"minecraft:ender_pearl\",Count:10b},{Slot:2,ExtendedCount:150,id:\"minecraft:stone\",Count:-106b}],LockedSlots:[I;1,0,1,0,0,0,0,0,0]},mode:2,construction:0,tag:0b,selectedSlot:0}"
+    },
     "OFFHAND": {
       "itemKey": "the_vault:idol_timekeeper",
       "count": 1,
-      "nbt": "{Vault:{Attributes:[{BaseValue:\"normal\",Id:\"the_vault:gear_roll_pool\"},{BaseValue:-4897011607100844718L,Id:\"the_vault:gear_random_seed\"},{BaseValue:\"IDENTIFIED\",Id:\"the_vault:gear_state\"},{BaseValue:0,Id:\"the_vault:gear_tier\"},{BaseValue:\"Scrappy+\",Id:\"the_vault:gear_roll_type\"},{BaseValue:\"SCRAPPY\",Id:\"the_vault:gear_rarity\"},{BaseValue:0,Id:\"the_vault:gear_model\"},{BaseValue:13061821,Id:\"the_vault:gear_color\"},{BaseValue:800,Id:\"the_vault:durability\"},{BaseValue:\"TIMEKEEPER\",Id:\"the_vault:idol_type\"},{BaseValue:1.0f,Id:\"the_vault:gear_level_chance\"},{BaseValue:2,Id:\"the_vault:gear_max_level\"},{BaseValue:0,Id:\"the_vault:gear_modifiers_to_roll\"},{BaseValue:0.0d,Id:\"forge:reach\"},{BaseValue:{Effects:[]},Id:\"the_vault:effect_immunity\"},{BaseValue:{EffectClouds:[]},Id:\"the_vault:effect_cloud\"},{BaseValue:0.0f,Id:\"the_vault:cooldown_reduction\"},{BaseValue:0b,Id:\"the_vault:soulbound\"},{BaseValue:{EffectClouds:[{Radius:2.0f,Potion:\"minecraft:empty\",Color:0,AffectsOwner:0b,Duration:40,Effects:[{ShowIcon:1b,ShowParticles:0b,Effect:\"minecraft:wither\",Duration:60,Amplifier:0}],Name:\"Withering I\",Chance:0.05f}]},Id:\"the_vault:add_wither_cloud\"},{BaseValue:1.0f,Id:\"the_vault:gear_level\"},{BaseValue:450,Id:\"the_vault:add_durability\"}]},Damage:60}"
+      "nbt": "{Vault:{Attributes:[{BaseValue:\"normal\",Id:\"the_vault:gear_roll_pool\"},{BaseValue:-4897011607100844718L,Id:\"the_vault:gear_random_seed\"},{BaseValue:\"IDENTIFIED\",Id:\"the_vault:gear_state\"},{BaseValue:0,Id:\"the_vault:gear_tier\"},{BaseValue:\"Scrappy+\",Id:\"the_vault:gear_roll_type\"},{BaseValue:\"SCRAPPY\",Id:\"the_vault:gear_rarity\"},{BaseValue:0,Id:\"the_vault:gear_model\"},{BaseValue:13061821,Id:\"the_vault:gear_color\"},{BaseValue:800,Id:\"the_vault:durability\"},{BaseValue:\"TIMEKEEPER\",Id:\"the_vault:idol_type\"},{BaseValue:1.0f,Id:\"the_vault:gear_level_chance\"},{BaseValue:2,Id:\"the_vault:gear_max_level\"},{BaseValue:0,Id:\"the_vault:gear_modifiers_to_roll\"},{BaseValue:0.0d,Id:\"forge:reach\"},{BaseValue:{Effects:[]},Id:\"the_vault:effect_immunity\"},{BaseValue:{EffectClouds:[]},Id:\"the_vault:effect_cloud\"},{BaseValue:0.0f,Id:\"the_vault:cooldown_reduction\"},{BaseValue:0b,Id:\"the_vault:soulbound\"},{BaseValue:{EffectClouds:[{Radius:2.0f,Potion:\"minecraft:empty\",Color:0,AffectsOwner:0b,Duration:40,Effects:[{ShowIcon:1b,ShowParticles:0b,Effect:\"minecraft:wither\",Duration:60,Amplifier:0}],Name:\"Withering I\",Chance:0.05f}]},Id:\"the_vault:add_wither_cloud\"},{BaseValue:2.0f,Id:\"the_vault:gear_level\"},{BaseValue:450,Id:\"the_vault:add_durability\"},{BaseValue:0.03f,Id:\"the_vault:extra_parry_chance\"}]},Damage:146}"
     },
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
@@ -66,12 +71,12 @@
     "CHEST": {
       "itemKey": "minecraft:elytra",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:17}"
+      "nbt": "{RepairCost:3,Damage:25,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}"
     },
     "HEAD": {
       "itemKey": "minecraft:netherite_helmet",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:1,id:\"aqua_affinity\"},{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:0}"
+      "nbt": "{Enchantments:[{lvl:1,id:\"aqua_affinity\"},{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:1}"
     }
   },
   "abilities": {
@@ -87,7 +92,8 @@
     "Water Breathing": 1,
     "Fire Resistance": 1,
     "Reach": 2,
-    "Soul Hunter": 1
+    "Soul Hunter": 1,
+    "Elvish": 1
   },
   "researches": [
     "Decorator",
