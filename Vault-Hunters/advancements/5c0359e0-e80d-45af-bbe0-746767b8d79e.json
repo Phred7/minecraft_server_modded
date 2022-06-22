@@ -4090,8 +4090,10 @@
       "minecraft:ghast": "2022-05-22 08:32:14 -0700",
       "minecraft:magma_cube": "2022-05-22 08:34:04 -0700",
       "minecraft:spider": "2022-05-21 11:20:01 -0700",
+      "minecraft:creeper": "2022-06-21 19:15:49 -0700",
       "minecraft:witch": "2022-05-21 11:17:21 -0700",
       "minecraft:shulker": "2022-05-23 19:08:03 -0700",
+      "minecraft:cave_spider": "2022-06-21 18:55:23 -0700",
       "minecraft:piglin": "2022-05-21 12:30:54 -0700",
       "minecraft:enderman": "2022-05-21 12:29:49 -0700",
       "minecraft:silverfish": "2022-05-21 13:10:05 -0700",
@@ -4807,6 +4809,12 @@
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:48 -0700"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/modularrouters/blank_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-06-21 19:43:27 -0700"
     },
     "done": true
   },
@@ -9694,6 +9702,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-06-21 19:43:25 -0700"
+    },
+    "done": true
+  },
   "neoncraft:recipes/wallneon_number_9_craft": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:46 -0700"
@@ -13894,6 +13908,12 @@
     },
     "done": true
   },
+  "the_vault:main/root": {
+    "criteria": {
+      "entered_vault": "2022-06-21 19:09:15 -0700"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hanging_sign_birch": {
     "criteria": {
       "has_plank": "2022-05-21 12:09:59 -0700"
@@ -17332,12 +17352,6 @@
     },
     "done": true
   },
-  "vanillatweaks:villager_workstation_highlights": {
-    "criteria": {
-      "tick": "2022-05-23 18:11:36 -0700"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/breaker_switch": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:45 -0700"
@@ -19894,6 +19908,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/light_engineering": {
+    "criteria": {
+      "has_iron_sheetmetal": "2022-06-21 20:23:03 -0700"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/tile_planks_spruce": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:45 -0700"
@@ -22342,6 +22362,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2022-06-21 19:20:55 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/metamorphic_swamp_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:46 -0700"
@@ -22975,6 +23001,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-21 10:30:51 -0700"
+    },
+    "done": true
+  },
+  "the_vault:armors/root": {
+    "criteria": {
+      "entered_vault": "2022-06-21 19:09:15 -0700"
     },
     "done": true
   },

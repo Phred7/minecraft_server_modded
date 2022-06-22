@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/elementium_shears": {
+    "criteria": {
+      "has_item": "2022-06-21 16:56:58 -0700"
+    },
+    "done": true
+  },
   "appliedenergistics2:recipes/appliedenergistics2/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:51 -0700"
@@ -803,6 +809,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/natura_pylon": {
+    "criteria": {
+      "has_alt_item": "2022-06-21 16:57:22 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:56 -0700"
@@ -1124,6 +1136,12 @@
   "botania:recipes/botania/corporea_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:56 -0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terra_axe": {
+    "criteria": {
+      "has_item": "2022-06-21 16:57:22 -0700"
     },
     "done": true
   },
@@ -2013,6 +2031,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_silver_to_nugget_silver": {
+    "criteria": {
+      "has_ingot_silver": "2022-06-18 15:00:32 -0700"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_dolomite_stairs": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:56 -0700"
@@ -2064,6 +2088,12 @@
   "mcwfurnitures:recipes/oak/oak_dresser_11": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:51 -0700"
+    },
+    "done": true
+  },
+  "botania:main/terrasteel_pickup": {
+    "criteria": {
+      "terrasteel": "2022-06-21 16:57:22 -0700"
     },
     "done": true
   },
@@ -2793,6 +2823,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/terrasteel_boots": {
+    "criteria": {
+      "has_item": "2022-06-21 16:57:22 -0700"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_orange": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:53 -0700"
@@ -3513,6 +3549,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_to_nugget_nickel": {
+    "criteria": {
+      "has_ingot_nickel": "2022-06-18 14:43:09 -0700"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/sand_paper": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:55 -0700"
@@ -4219,6 +4261,7 @@
       "minecraft:zombified_piglin": "2022-05-21 21:51:35 -0700",
       "minecraft:witch": "2022-05-22 19:25:12 -0700",
       "minecraft:wither_skeleton": "2022-05-20 22:30:08 -0700",
+      "minecraft:husk": "2022-06-20 22:13:28 -0700",
       "minecraft:ender_dragon": "2022-06-07 18:16:47 -0700",
       "minecraft:shulker": "2022-05-21 22:11:41 -0700",
       "minecraft:cave_spider": "2022-05-20 19:23:59 -0700",
@@ -4733,6 +4776,12 @@
   "botania:recipes/botania/slab_recombine/shimmerwood_planks": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:51 -0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_chestplate": {
+    "criteria": {
+      "has_item": "2022-06-21 16:56:58 -0700"
     },
     "done": true
   },
@@ -6836,6 +6885,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/terrasteel_leggings": {
+    "criteria": {
+      "has_item": "2022-06-21 16:57:22 -0700"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_weathered_limestone_stairs_from_polished_weathered_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:53 -0700"
@@ -7250,6 +7305,12 @@
   "neoncraft:recipes/wallneon_letter_b_craft": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:57 -0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/thunder_sword": {
+    "criteria": {
+      "has_terrasteel": "2022-06-21 16:57:22 -0700"
     },
     "done": true
   },
@@ -8036,6 +8097,12 @@
   "mcwroofs:recipes/warped_roof": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:53 -0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_shovel": {
+    "criteria": {
+      "has_item": "2022-06-21 16:56:58 -0700"
     },
     "done": true
   },
@@ -9170,6 +9237,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_fluid_grid": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:58 -0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_hoe": {
+    "criteria": {
+      "has_item": "2022-06-21 16:56:58 -0700"
     },
     "done": true
   },
@@ -10892,6 +10965,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/elementium_pickaxe": {
+    "criteria": {
+      "has_item": "2022-06-21 16:56:58 -0700"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/acacia/acacia_modern_door": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:58 -0700"
@@ -11516,6 +11595,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/terra_pick": {
+    "criteria": {
+      "has_item": "2022-06-21 16:57:22 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/slab_recombine/metamorphic_fungal_bricks": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:53 -0700"
@@ -11879,6 +11964,12 @@
   "create:recipes/create.palettes/fancy_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:54 -0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_sword": {
+    "criteria": {
+      "has_item": "2022-06-21 16:56:58 -0700"
     },
     "done": true
   },
@@ -12629,6 +12720,12 @@
   "create:recipes/create.palettes/mossy_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:53 -0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/heavy_engineering": {
+    "criteria": {
+      "has_steel_sheetmetal": "2022-06-20 22:19:12 -0700"
     },
     "done": true
   },
@@ -14144,6 +14241,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/terra_sword": {
+    "criteria": {
+      "has_item": "2022-06-21 16:57:22 -0700"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/crimson/crimson_stable_door": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:57 -0700"
@@ -15650,6 +15753,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/terrasteel_chestplate": {
+    "criteria": {
+      "has_item": "2022-06-21 16:57:22 -0700"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/jungle/jungle_bark_glass_door": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:57 -0700"
@@ -15857,6 +15966,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/axe_steel": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:58 -0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_boots": {
+    "criteria": {
+      "has_item": "2022-06-21 16:56:58 -0700"
     },
     "done": true
   },
@@ -16373,6 +16488,12 @@
   "create:recipes/create.palettes/fancy_limestone_bricks_wall_from_fancy_limestone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:54 -0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_axe": {
+    "criteria": {
+      "has_item": "2022-06-21 16:56:58 -0700"
     },
     "done": true
   },
@@ -18569,6 +18690,12 @@
   "refinedstorage:recipes/refinedstorage/fluid_grid/light_gray_fluid_grid": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:53 -0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_hv": {
+    "criteria": {
+      "has_aluminum_ingot": "2022-06-18 15:00:39 -0700"
     },
     "done": true
   },
@@ -21092,6 +21219,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_lead_to_nugget_lead": {
+    "criteria": {
+      "has_ingot_lead": "2022-06-18 14:43:29 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/metamorphic_swamp_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:52 -0700"
@@ -21191,6 +21324,12 @@
   "ironchest:recipes/ironchest/chests/silver_gold_chest": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:59 -0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_leggings": {
+    "criteria": {
+      "has_item": "2022-06-21 16:56:58 -0700"
     },
     "done": true
   },
@@ -22430,6 +22569,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_standard": {
+    "criteria": {
+      "has_steel_sticks": "2022-06-18 15:00:32 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/acacia/acacia_plant_pot_left": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:58 -0700"
@@ -22487,6 +22632,12 @@
   "supplementaries:recipes/checker_slab_stonecutter": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:53 -0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_helmet": {
+    "criteria": {
+      "has_item": "2022-06-21 16:56:58 -0700"
     },
     "done": true
   },
@@ -22601,6 +22752,12 @@
   "refinedstorage:recipes/refinedstorage/pattern_grid/purple_pattern_grid": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:58 -0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terrasteel_helmet": {
+    "criteria": {
+      "has_item": "2022-06-21 16:57:22 -0700"
     },
     "done": true
   },
@@ -25781,6 +25938,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/star_sword": {
+    "criteria": {
+      "has_terrasteel": "2022-06-21 16:57:22 -0700"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_detector": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:59 -0700"
@@ -26179,11 +26342,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2022-06-20 13:47:47 -0700",
+      "chicken": "2022-06-19 12:10:17 -0700",
       "cooked_cod": "2022-06-16 21:28:02 -0700",
       "pumpkin_pie": "2022-05-20 18:10:11 -0700",
       "bread": "2022-05-20 15:45:40 -0700",
       "suspicious_stew": "2022-05-21 12:58:59 -0700",
-      "golden_carrot": "2022-05-20 18:39:32 -0700"
+      "golden_carrot": "2022-05-20 18:39:32 -0700",
+      "cooked_chicken": "2022-06-20 19:46:54 -0700"
     },
     "done": false
   },
@@ -26262,6 +26428,12 @@
   "mcwroofs:recipes/oak_planks_three_way_roof": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:52 -0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elven_spreader": {
+    "criteria": {
+      "has_item": "2022-06-21 16:56:58 -0700"
     },
     "done": true
   },
