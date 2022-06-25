@@ -24903,6 +24903,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2022-06-25 08:00:30 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_gray": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:54 -0700"
@@ -26500,7 +26506,8 @@
       "bread": "2022-05-20 15:45:40 -0700",
       "suspicious_stew": "2022-05-21 12:58:59 -0700",
       "golden_carrot": "2022-05-20 18:39:32 -0700",
-      "cooked_chicken": "2022-06-20 19:46:54 -0700"
+      "cooked_chicken": "2022-06-20 19:46:54 -0700",
+      "carrot": "2022-06-25 07:56:34 -0700"
     },
     "done": false
   },
@@ -26543,6 +26550,12 @@
   "rftoolsbuilder:recipes/rftoolsbuilder/shield_block2": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2022-06-25 07:50:00 -0700"
     },
     "done": true
   },
