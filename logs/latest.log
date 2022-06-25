@@ -1,40 +1,66 @@
-[22Jun2022 03:11:29.776] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
-[22Jun2022 03:11:29.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
-[22Jun2022 03:11:29.874] [Thread-3089/INFO] [FTB Utilities Backups/]: Deleting old backup: 2022-06-21-11-11-29.zip
-[22Jun2022 03:11:29.977] [Thread-3089/INFO] [FTB Utilities Backups/]: Backing up 5727 files...
-[22Jun2022 03:11:29.977] [Thread-3089/INFO] [FTB Utilities Backups/]: Compressing 5727 files...
-[22Jun2022 03:15:42.498] [Thread-3089/INFO] [FTB Utilities Backups/]: Done compressing in 04:12 seconds (4.9GB)!
-[22Jun2022 03:15:42.498] [Thread-3089/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-06-22-03-11-29.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
-[22Jun2022 03:15:42.499] [Thread-3089/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 04:12! (4.9GB | 19.6GB)
-[22Jun2022 07:11:29.825] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
-[22Jun2022 07:11:29.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
-[22Jun2022 07:11:29.941] [Thread-3185/INFO] [FTB Utilities Backups/]: Deleting old backup: 2022-06-21-15-11-29.zip
-[22Jun2022 07:11:30.036] [Thread-3185/INFO] [FTB Utilities Backups/]: Backing up 5727 files...
-[22Jun2022 07:11:30.036] [Thread-3185/INFO] [FTB Utilities Backups/]: Compressing 5727 files...
-[22Jun2022 07:15:02.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[22Jun2022 07:15:03.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[22Jun2022 07:15:03.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[22Jun2022 07:15:03.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[22Jun2022 07:15:03.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:overworld
-[22Jun2022 07:15:03.345] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
-[22Jun2022 07:15:03.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_nether
-[22Jun2022 07:15:03.348] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22Jun2022 07:15:03.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_end
-[22Jun2022 07:15:03.351] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22Jun2022 07:15:03.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:the_other_side
-[22Jun2022 07:15:03.351] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
-[22Jun2022 07:15:03.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/appliedenergistics2:spatial_storage
-[22Jun2022 07:15:03.352] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[22Jun2022 07:15:03.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:vault
-[22Jun2022 07:15:03.377] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
-[22Jun2022 07:15:03.492] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
-[22Jun2022 07:15:03.967] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22Jun2022 07:15:03.991] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22Jun2022 07:15:04.004] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
-[22Jun2022 07:15:04.004] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[22Jun2022 07:15:04.106] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
-[22Jun2022 07:15:05.003] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
-[22Jun2022 07:15:05.341] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread Query Listener stopped
-[22Jun2022 07:15:41.989] [Thread-3185/INFO] [FTB Utilities Backups/]: Done compressing in 04:11 seconds (4.9GB)!
-[22Jun2022 07:15:41.989] [Thread-3185/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-06-22-07-11-29.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
-[22Jun2022 07:15:41.998] [Thread-3185/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 04:12! (4.9GB | 19.7GB)
+[24Jun2022 03:27:44.506] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[24Jun2022 03:27:44.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[24Jun2022 03:27:44.596] [Thread-1395/INFO] [FTB Utilities Backups/]: Deleting old backup: 2022-06-23-11-27-44.zip
+[24Jun2022 03:27:44.701] [Thread-1395/INFO] [FTB Utilities Backups/]: Backing up 5818 files...
+[24Jun2022 03:27:44.702] [Thread-1395/INFO] [FTB Utilities Backups/]: Compressing 5818 files...
+[24Jun2022 03:31:56.745] [Thread-1395/INFO] [FTB Utilities Backups/]: Done compressing in 04:12 seconds (5.0GB)!
+[24Jun2022 03:31:56.754] [Thread-1395/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-06-24-03-27-44.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
+[24Jun2022 03:31:56.760] [Thread-1395/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 04:12! (5.0GB | 19.9GB)
+[24Jun2022 07:27:44.556] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[24Jun2022 07:27:44.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[24Jun2022 07:27:44.652] [Thread-1490/INFO] [FTB Utilities Backups/]: Deleting old backup: 2022-06-23-15-27-44.zip
+[24Jun2022 07:27:44.762] [Thread-1490/INFO] [FTB Utilities Backups/]: Backing up 5818 files...
+[24Jun2022 07:27:44.762] [Thread-1490/INFO] [FTB Utilities Backups/]: Compressing 5818 files...
+[24Jun2022 07:31:58.084] [Thread-1490/INFO] [FTB Utilities Backups/]: Done compressing in 04:13 seconds (5.0GB)!
+[24Jun2022 07:31:58.094] [Thread-1490/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-06-24-07-27-44.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
+[24Jun2022 07:31:58.095] [Thread-1490/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 04:13! (5.0GB | 19.9GB)
+[24Jun2022 08:00:00.058] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[24Jun2022 10:58:05.402] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[24Jun2022 10:58:16.806] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@b7261bd
+[24Jun2022 10:58:16.888] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/69.146.86.145:59021] logged in with entity id 334558 at (-418.7638722618627, 59.0, -1261.449177770295)
+[24Jun2022 10:58:16.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[24Jun2022 10:58:16.905] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[24Jun2022 11:27:44.559] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[24Jun2022 11:27:44.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[24Jun2022 11:27:44.769] [Thread-1583/INFO] [FTB Utilities Backups/]: Deleting old backup: 2022-06-23-19-27-44.zip
+[24Jun2022 11:27:44.887] [Thread-1583/INFO] [FTB Utilities Backups/]: Backing up 5872 files...
+[24Jun2022 11:27:44.888] [Thread-1583/INFO] [FTB Utilities Backups/]: Compressing 5872 files...
+[24Jun2022 11:32:14.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2258ms or 45 ticks behind
+[24Jun2022 11:32:28.174] [Thread-1583/INFO] [FTB Utilities Backups/]: Done compressing in 04:43 seconds (5.1GB)!
+[24Jun2022 11:32:28.175] [Thread-1583/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-06-24-11-27-44.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
+[24Jun2022 11:32:28.189] [Thread-1583/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 04:43! (5.1GB | 20.1GB)
+[24Jun2022 11:32:42.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13426ms or 268 ticks behind
+[24Jun2022 11:43:09.419] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[24Jun2022 11:43:09.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[24Jun2022 15:27:44.606] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[24Jun2022 15:27:44.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[24Jun2022 15:27:44.701] [Thread-1678/INFO] [FTB Utilities Backups/]: Deleting old backup: 2022-06-23-23-27-44.zip
+[24Jun2022 15:27:44.814] [Thread-1678/INFO] [FTB Utilities Backups/]: Backing up 5894 files...
+[24Jun2022 15:27:44.815] [Thread-1678/INFO] [FTB Utilities Backups/]: Compressing 5894 files...
+[24Jun2022 15:32:05.530] [Thread-1678/INFO] [FTB Utilities Backups/]: Done compressing in 04:20 seconds (5.2GB)!
+[24Jun2022 15:32:05.552] [Thread-1678/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-06-24-15-27-44.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
+[24Jun2022 15:32:05.555] [Thread-1678/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 04:20! (5.2GB | 20.3GB)
+[24Jun2022 18:03:33.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[24Jun2022 18:03:33.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Jun2022 18:03:33.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Jun2022 18:03:33.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Jun2022 18:03:33.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:overworld
+[24Jun2022 18:03:33.351] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
+[24Jun2022 18:03:33.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_nether
+[24Jun2022 18:03:33.359] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Jun2022 18:03:33.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_end
+[24Jun2022 18:03:33.363] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Jun2022 18:03:33.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:the_other_side
+[24Jun2022 18:03:33.364] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[24Jun2022 18:03:33.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/appliedenergistics2:spatial_storage
+[24Jun2022 18:03:33.365] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[24Jun2022 18:03:33.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:vault
+[24Jun2022 18:03:33.371] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[24Jun2022 18:03:33.445] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
+[24Jun2022 18:03:33.483] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Jun2022 18:03:33.585] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Jun2022 18:03:33.608] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[24Jun2022 18:03:33.608] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[24Jun2022 18:03:33.613] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[24Jun2022 18:03:33.712] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
+[24Jun2022 18:03:33.801] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread Query Listener stopped
