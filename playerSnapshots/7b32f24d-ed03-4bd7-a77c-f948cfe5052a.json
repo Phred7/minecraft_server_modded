@@ -1,7 +1,7 @@
 {
   "playerUUID": "7b32f24d-ed03-4bd7-a77c-f948cfe5052a",
   "playerNickname": "rorysun",
-  "timestamp": 1656184397,
+  "timestamp": 1656195372,
   "vaultRuns": 7,
   "vaultWins": 2,
   "vaultDeaths": 0,
@@ -51,26 +51,22 @@
     "MAINHAND": {
       "itemKey": "minecraft:netherite_pickaxe",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:5s,id:\"minecraft:efficiency\"},{lvl:1s,id:\"minecraft:silk_touch\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:1154}"
-    },
-    "OFFHAND": {
-      "itemKey": "minecraft:blaze_rod",
-      "count": 13
+      "nbt": "{RepairCost:3,Damage:1177,Enchantments:[{lvl:5s,id:\"minecraft:efficiency\"},{lvl:1s,id:\"minecraft:silk_touch\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
     },
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
       "count": 1,
-      "nbt": "{RepairCost:7,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:feather_falling\"}],Damage:8}"
+      "nbt": "{RepairCost:7,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:feather_falling\"}],Damage:0}"
     },
     "LEGS": {
       "itemKey": "minecraft:netherite_leggings",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:12}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:0}"
     },
     "CHEST": {
       "itemKey": "minecraft:elytra",
       "count": 1,
-      "nbt": "{RepairCost:3,Damage:6,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:0}"
     },
     "HEAD": {
       "itemKey": "minecraft:netherite_helmet",
