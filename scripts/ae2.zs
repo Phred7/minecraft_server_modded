@@ -124,26 +124,27 @@ craftingTable.addShapeless("ae2_fluix_glass_cable_redye", <item:appliedenergisti
     <tag:items:appliedenergistics2:glass_cable>, <item:minecraft:water_bucket>
 ]);
 
-craftingTable.addShapeless("ae2_fluix_covered_cable", <item:appliedenergistics2:fluix_covered_cable>, [
-    <tag:items:quark:quilted_wools>, <tag:items:appliedenergistics2:glass_cable>, <item:the_vault:gem_wutodie>
+craftingTable.addShapeless("ae2_fluix_covered_cable", <item:appliedenergistics2:fluix_covered_cable> *4, [
+    <tag:items:quark:quilted_wools>, <tag:items:appliedenergistics2:glass_cable>, <item:the_vault:gem_wutodie>,
+    <tag:items:appliedenergistics2:glass_cable>, <tag:items:appliedenergistics2:glass_cable>, <tag:items:appliedenergistics2:glass_cable>
 ]);
 
 craftingTable.addShapeless("ae2_fluix_covered_cable_redye", <item:appliedenergistics2:fluix_covered_cable>, [
     <tag:items:appliedenergistics2:covered_cable>, <item:minecraft:water_bucket>
 ]);
 
-craftingTable.addShapeless("ae2_fluix_smart_cable", <item:appliedenergistics2:fluix_smart_cable>, [
+craftingTable.addShapeless("ae2_fluix_smart_cable", <item:appliedenergistics2:fluix_smart_cable> *4, [
     <item:minecraft:redstone_block>, <item:appliedenergistics2:fluix_covered_cable>, <item:the_vault:gem_black_opal>,
-    <item:minecraft:glowstone>
+    <item:minecraft:glowstone>, <item:appliedenergistics2:fluix_covered_cable>, <item:appliedenergistics2:fluix_covered_cable>, <item:appliedenergistics2:fluix_covered_cable>
 ]);
 
 craftingTable.addShapeless("ae2_fluix_smart_cable_redye", <item:appliedenergistics2:fluix_smart_cable>, [
     <tag:items:appliedenergistics2:smart_cable>, <item:minecraft:water_bucket>
 ]);
 
-craftingTable.addShapeless("ae2_fluix_dense_cable", <item:appliedenergistics2:fluix_smart_dense_cable>, [
+craftingTable.addShapeless("ae2_fluix_dense_cable", <item:appliedenergistics2:fluix_smart_dense_cable> *4, [
     <item:minecraft:redstone_block>, <item:appliedenergistics2:fluix_smart_cable>, <item:the_vault:gem_pog>,
-    <item:minecraft:glowstone>
+    <item:minecraft:glowstone>, <item:appliedenergistics2:fluix_smart_cable>, <item:appliedenergistics2:fluix_smart_cable>, <item:appliedenergistics2:fluix_smart_cable>
 ]);
 
 craftingTable.addShapeless("ae2_fluix_dense_cable_redye", <item:appliedenergistics2:fluix_smart_dense_cable>, [
@@ -168,14 +169,8 @@ craftingTable.addShaped("ae2_energy_acceptor", <item:appliedenergistics2:energy_
     [<item:the_vault:gem_echo>, <item:appliedenergistics2:quartz_glass>, <item:minecraft:iron_block>]
 ]);
 
-craftingTable.addShaped("ae2_quartz_glass_lari", <item:appliedenergistics2:quartz_glass> * 4, [
+craftingTable.addShaped("ae2_quartz_glass", <item:appliedenergistics2:quartz_glass> * 4, [
     [<tag:items:forge:dusts/quartz>, <tag:items:forge:glass>, <tag:items:forge:dusts/quartz>],
-    [<tag:items:forge:glass>, <item:the_vault:gem_larimar>, <tag:items:forge:glass>],
-    [<tag:items:forge:dusts/quartz>, <tag:items:forge:glass>, <tag:items:forge:dusts/quartz>]
-]);
-
-craftingTable.addShaped("ae2_quartz_glass_beni", <item:appliedenergistics2:quartz_glass> * 4, [
-    [<tag:items:forge:dusts/quartz>, <tag:items:forge:glass>, <tag:items:forge:dusts/quartz>],
-    [<tag:items:forge:glass>, <item:the_vault:gem_benitoite>, <tag:items:forge:glass>],
+    [<tag:items:forge:glass>, <item:the_vault:vault_dust>, <tag:items:forge:glass>],
     [<tag:items:forge:dusts/quartz>, <tag:items:forge:glass>, <tag:items:forge:dusts/quartz>]
 ]);

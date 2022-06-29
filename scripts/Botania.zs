@@ -63,7 +63,7 @@ craftingTable.addShaped("botaniaelven_spreader", <item:botania:elven_spreader>, 
   <item:botania:livingwood>, <tag:items:the_vault:perfectcommongems>);
 
 craftingTable.addShapeless("botaniaglimmering_livingwood", <item:botania:glimmering_livingwood>, [
-  <tag:items:botania:livingwood>, <item:the_vault:perfect_black_opal>
+  <tag:items:botania:livingwood>, <item:the_vault:vault_dust>
 ]);
 
 craftingTable.addShaped("botanianatura_pylon", <item:botania:natura_pylon>, [

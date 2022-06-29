@@ -7,7 +7,7 @@ import mods.botania.ElvenTrade;
 
 craftingTable.addShaped("easy_villagerstrader", <item:easy_villagers:trader>, [
     [<item:the_vault:perfect_benitoite>, <item:the_vault:perfect_benitoite>, <item:the_vault:perfect_benitoite>],
-    [<item:the_vault:perfect_benitoite>, <item:the_vault:gem_pog>, <item:the_vault:perfect_benitoite>],
+    [<item:the_vault:perfect_benitoite>, <item:compressium:emerald_3>, <item:the_vault:perfect_benitoite>],
     [<item:compressium:iron_2>, <item:the_vault:perfect_black_opal>, <item:compressium:iron_2>]
 ]);
 

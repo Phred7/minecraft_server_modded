@@ -54,14 +54,13 @@
       {"value": {"id": "powah:solar_panel_starter", "amountMin": 1, "amountMax": 1}, "weight": 20},
       {"value": {"id": "powah:solar_panel_basic", "amountMin": 1, "amountMax": 1}, "weight": 10},
       {"value": {"id": "powah:solar_panel_hardened", "amountMin": 1, "amountMax": 1}, "weight": 5},
-      {"value": {"id": "powah:uranite", "amountMin": 32, "amountMax": 64}, "weight": 40}
+      {"value": {"id": "powah:uraninite", "amountMin": 32, "amountMax": 64}, "weight": 40}
     ],
     "Flux Networks": [
       {"value": {"id": "fluxnetworks:flux_plug", "amountMin": 1, "amountMax": 1}, "weight": 10},
       {"value": {"id": "fluxnetworks:flux_point", "amountMin": 1, "amountMax": 1}, "weight": 10},
       {"value": {"id": "fluxnetworks:basic_flux_storage", "amountMin": 1, "amountMax": 1}, "weight": 6},
-      {"value": {"id": "fluxnetworks:herculean_flux_storage", "amountMin": 1, "amountMax": 1}, "weight": 1},
-      {"value": {"id": "fluxnetworks:flux_controller", "amountMin": 1, "amountMax": 1}, "weight": 4}
+      {"value": {"id": "fluxnetworks:herculean_flux_storage", "amountMin": 1, "amountMax": 1}, "weight": 1}
     ],
     "Chef": [
       {"value": {"id": "cookingforblockheads:sink", "amountMin": 1, "amountMax": 1}, "weight": 2},

@@ -127,9 +127,9 @@ craftingTable.addShaped("createlarge_cogwheel", <item:create:large_cogwheel>, [
 ]);
 
 craftingTable.addShaped("createwrench", <item:create:wrench>, [
-    [<item:create:golden_sheet>, <item:create:golden_sheet>, <item:the_vault:gem_echo>],
+    [<item:create:golden_sheet>, <item:create:golden_sheet>, <tag:items:the_vault:playergems>],
     [<item:create:golden_sheet>, <item:create:large_cogwheel>, <item:minecraft:air>],
-    [<item:the_vault:gem_echo>, <tag:items:forge:rods/wooden>, <item:minecraft:air>]
+    [<tag:items:the_vault:playergems>, <tag:items:forge:rods/wooden>, <item:minecraft:air>]
 ]);
 
 craftingTable.addShaped("createwaterwheel", <item:create:water_wheel>, [
@@ -223,16 +223,16 @@ craftingTable.addShaped("brass_casing", <item:create:brass_casing> *4, [
 ]);
 
 <recipetype:create:mixing>.addRecipe("mixing_healing_potion", "heated",<fluid:create:potion>.withTag({Potion: "minecraft:healing"}) *1000, [
-    <item:minecraft:golden_apple>,], [<fluid:create:potion>.withTag({Potion: "minecraft:awkward"}) *1000]);
+    <item:minecraft:golden_apple>,], [<fluid:create:potion>.withTag({Potion: "minecraft:awkward", Bottle:"REGULAR"}) *1000]);
 
 <recipetype:create:mixing>.addRecipe("mixing_healing_potion_2", "heated",<fluid:create:potion>.withTag({Potion: "minecraft:strong_healing"}) *1000, [
-    <item:minecraft:glowstone_dust>,], [<fluid:create:potion>.withTag({Potion: "minecraft:healing"}) *1000]);
+    <item:minecraft:glowstone_dust>,], [<fluid:create:potion>.withTag({Potion: "minecraft:healing", Bottle:"REGULAR"}) *1000]);
 
 <recipetype:create:mixing>.addRecipe("mixing_regen_potion", "heated",<fluid:create:potion>.withTag({Potion: "minecraft:regeneration"}) *1000, [
-    <item:the_vault:vault_essence>,], [<fluid:create:potion>.withTag({Potion: "minecraft:awkward"}) *1000]);
+    <item:the_vault:vault_essence>,], [<fluid:create:potion>.withTag({Potion: "minecraft:awkward", Bottle:"REGULAR"}) *1000]);
 
 <recipetype:create:mixing>.addRecipe("mixing_regen_potion_2", "heated",<fluid:create:potion>.withTag({Potion: "minecraft:strong_regeneration"}) *1000, [
-    <item:minecraft:glowstone_dust>,], [<fluid:create:potion>.withTag({Potion: "minecraft:regeneration"}) *1000]);
+    <item:minecraft:glowstone_dust>,], [<fluid:create:potion>.withTag({Potion: "minecraft:regeneration", Bottle:"REGULAR"}) *1000]);
 
 <recipetype:create:crushing>.addJSONRecipe("vault_apple_jade", { 
   "ingredients": [
@@ -347,7 +347,7 @@ craftingTable.addShaped("brass_casing", <item:create:brass_casing> *4, [
 <recipetype:create:sequenced_assembly>.addRecipe(<recipetype:create:sequenced_assembly>.builder("small_cog")
     .transitionTo(<item:create:incomplete_cogwheel>)
     .require(<item:create:andesite_alloy>)
-    .loops(5)
+    .loops(1)
     .addOutput(<item:create:cogwheel>, 1)
     .addStep(<recipetype:create:deploying>.factory(), (rb) => rb.require(<tag:items:minecraft:wooden_buttons>))
     .addStep(<recipetype:create:cutting>.factory(), (rb) => rb.duration(50)));
@@ -355,8 +355,14 @@ craftingTable.addShaped("brass_casing", <item:create:brass_casing> *4, [
     <recipetype:create:sequenced_assembly>.addRecipe(<recipetype:create:sequenced_assembly>.builder("large_cog")
     .transitionTo(<item:create:incomplete_large_cogwheel>)
     .require(<item:create:andesite_alloy>)
-    .loops(3)
+    .loops(1)
     .addOutput(<item:create:large_cogwheel>, 1)
     .addStep(<recipetype:create:deploying>.factory(), (rb) => rb.require(<tag:items:minecraft:planks>))
     .addStep(<recipetype:create:deploying>.factory(), (rb) => rb.require(<tag:items:minecraft:wooden_buttons>))
     .addStep(<recipetype:create:cutting>.factory(), (rb) => rb.duration(50)));
+
+    <recipetype:create:mixing>.addRecipe("vaulterite", "none", <item:the_vault:vaulterite_ingot>, [
+      <item:the_vault:vault_scrap>, <item:the_vault:vault_scrap>, <item:minecraft:netherite_scrap>, <item:the_vault:vault_scrap>, <item:the_vault:gem_painite>]);
+
+<recipetype:create:mixing>.addRecipe("red_vault_essence", "none", <item:the_vault:red_vault_essence>, [
+     <item:the_vault:vault_essence>, <item:the_vault:perfect_painite>]);

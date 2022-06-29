@@ -12,6 +12,10 @@ brewing.addRecipe(<item:minecraft:potion>.withTag({Potion: "minecraft:healing"})
 
 brewing.addRecipe(<item:minecraft:potion>.withTag({Potion: "minecraft:regeneration"}), <item:the_vault:vault_essence>, <item:minecraft:potion>.withTag({Potion: "minecraft:awkward"}));
 
+brewing.addRecipe(<item:minecraft:splash_potion>.withTag({Potion: "minecraft:splash_healing"}), <item:minecraft:golden_apple>, <item:minecraft:splash_potion>.withTag({Potion: "minecraft:awkward"}));
+
+brewing.addRecipe(<item:minecraft:splash_potion>.withTag({Potion: "minecraft:splash_regeneration"}), <item:the_vault:vault_essence>, <item:minecraft:splash_potion>.withTag({Potion: "minecraft:awkward"}));
+
 brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:night_vision"}), <item:the_vault:gem_pog>, <item:minecraft:splash_potion>.withTag({Potion: "minecraft:night_vision" as string}));
 
 brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:long_night_vision"}), <item:the_vault:vault_nugget>, <item:minecraft:lingering_potion>.withTag({Potion: "minecraft:night_vision" as string}));

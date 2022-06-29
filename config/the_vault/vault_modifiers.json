@@ -14,6 +14,7 @@
       "color": "16364031",
       "description": "-2 mobs spawning"
     },
+    
     {
       "maxMobsAddend": 4,
       "name": "Crowded",
@@ -21,6 +22,7 @@
       "color": "15220516",
       "description": "+4 mobs spawning"
     },
+    
     {
       "maxMobsAddend": 7,
       "name": "Chaotic",
@@ -34,6 +36,34 @@
       "icon": "the_vault:textures/gui/modifiers/impossible.png",
       "color": "7143424",
       "description": "+10 mobs spawning"
+    },
+    {
+      "maxMobsAddend": 1,
+      "name": "Mooore",
+      "icon": "the_vault:textures/gui/modifiers/mooore.png",
+      "color": "15220516",
+      "description": "+1 cow spawning"
+    },
+    {
+      "maxMobsAddend": -2,
+      "name": "Noooo",
+      "icon": "the_vault:textures/gui/modifiers/nooo.png",
+      "color": "16364031",
+      "description": "-1 cow spawning"
+    },
+    {
+      "maxMobsAddend": 1,
+      "name": "Mob",
+      "icon": "the_vault:textures/gui/modifiers/mobs.png",
+      "color": "15220516",
+      "description": "+1 mob spawning"
+    },
+    {
+      "maxMobsAddend": -1,
+      "name": "Silence",
+      "icon": "the_vault:textures/gui/modifiers/lessmobs.png",
+      "color": "16364031",
+      "description": "-1 mob spawning"
     }
   ],
   "TIMER_MODIFIERS": [
@@ -122,6 +152,20 @@
       "icon": "the_vault:textures/gui/modifiers/challenging.png",
       "color": "10485760",
       "description": "+60 vault difficulty"
+    },
+    {
+      "levelAddend": 100,
+      "name": "Unfair",
+      "icon": "the_vault:textures/gui/modifiers/challenging.png",
+      "color": "10485760",
+      "description": "+100 vault difficulty"
+    },
+    {
+      "levelAddend": 100,
+      "name": "Milky",
+      "icon": "the_vault:textures/gui/modifiers/milky.png",
+      "color": "14811136",
+      "description": "+100 cow level"
     }
   ],
   "EFFECT_MODIFIERS": [
@@ -399,6 +443,33 @@
       "icon": "the_vault:textures/gui/modifiers/raging.png",
       "color": "15832670",
       "description": "Mobs deal +100% damage in this vault."
+    },
+    {
+      "damageMultiplier": 2.0,
+      "additionalMovementSpeed": 0.0,
+      "doHealthReduction": false,
+      "name": "Evul",
+      "icon": "the_vault:textures/gui/modifiers/raging.png",
+      "color": "15832670",
+      "description": "Mobs deal +200% damage in this vault."
+    },
+    {
+      "damageMultiplier": 0.0,
+      "additionalMovementSpeed": 0.05,
+      "doHealthReduction": false,
+      "name": "Mooove",
+      "icon": "the_vault:textures/gui/modifiers/mooove.png",
+      "color": "15832670",
+      "description": "Cows are +5% faster"
+    },
+    {
+      "damageMultiplier": 0.0,
+      "additionalMovementSpeed": 0.05,
+      "doHealthReduction": false,
+      "name": "Adrenaline",
+      "icon": "the_vault:textures/gui/modifiers/mobspeed.png",
+      "color": "15832670",
+      "description": "Mobs are +5% faster"
     }
   ],
   "TRAPPED_CHESTS_MODIFIERS": [
@@ -582,6 +653,16 @@
       "icon": "the_vault:textures/gui/modifiers/hex_chilling.png",
       "color": "3144692",
       "description": "Mobs have a chance of applying slowness on hit"
+    },
+    {
+      "effectName": "the_vault:time_acceleration",
+      "effectAmplifier": 4,
+      "effectDuration": 20,
+      "onHitApplyChance": 1.0,
+      "name": "Void Hex",
+      "icon": "the_vault:textures/gui/modifiers/time_accel.png",
+      "color": "10950607",
+      "description": "Getting hit by mobs will rapidly decrease the vault timer"
     }
   ],
   "DURABILITY_DAMAGE_MODIFIERS": [
@@ -626,6 +707,13 @@
       "name": "Destructive",
       "color": "13684942",
       "description": "+200% Durability Damage"
+    },
+    {
+      "durabilityDamageTakenMultiplier": 0.0,
+      "icon": "the_vault:textures/gui/modifiers/finale.png",
+      "name": "Finale",
+      "color": "10288985",
+      "description": "Gear takes no durability damage"
     }
 
   ],
@@ -653,6 +741,30 @@
       "name": "Inert",
       "color": "7187637",
       "description": "-100% Cooldown Reduction"
+    },
+    {
+      "stat": "PARRY",
+      "multiplier": 0.85,
+      "icon": "the_vault:textures/gui/modifiers/awkward.png",
+      "name": "Awkward",
+      "color": "13338221",
+      "description": "You lost some Parry"
+    },
+    {
+      "stat": "RESISTANCE",
+      "multiplier": 0.85,
+      "icon": "the_vault:textures/gui/modifiers/exposed.png",
+      "name": "Exposed",
+      "color": "13277787",
+      "description": "You lost some Resistance"
+    },
+    {
+      "stat": "COOLDOWN_REDUCTION",
+      "multiplier": 0.85,
+      "icon": "the_vault:textures/gui/modifiers/static.png",
+      "name": "Static",
+      "color": "7187637",
+      "description": "You lost some Cooldown Reduction"
     }
   ],
   "VAULT_FRUIT_PREVENTION_MODIFIERS": [
@@ -660,7 +772,13 @@
       "icon": "the_vault:textures/gui/modifiers/rotten.png",
       "name": "Rotten",
       "color": "10530651",
-      "description": "Vault Powerups have no effect"
+      "description": "Time Fruits have no effect"
+    },
+    {
+      "icon": "the_vault:textures/gui/modifiers/nofruit.png",
+      "name": "No Extras",
+      "color": "10530651",
+      "description": "Time Fruits have no effect"
     }
   ],
   "MODIFIER_PREVENTIONS": {
@@ -1098,6 +1216,206 @@
             }
           ]
         }
+      ],
+      "FINAL_VELARA_POOLS": [
+        {
+          "MIN_ROLLS": 2,
+          "MAX_ROLLS": 2,
+          "POOL": [
+            {
+              "value": "Crowded",
+              "weight": 1
+            },
+            {
+              "value": "Chaos",
+              "weight": 1
+            },
+            {
+              "value": "Fast",
+              "weight": 1
+            },
+            {
+              "value": "Rush",
+              "weight": 1
+            },
+            {
+              "value": "Easy",
+              "weight": 1
+            },
+            {
+              "value": "Hard",
+              "weight": 1
+            },
+            {
+              "value": "Treasure",
+              "weight": 1
+            },
+            {
+              "value": "Unlucky",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Locked",
+              "weight": 1
+            },
+            {
+              "value": "Dummy",
+              "weight": 3
+            }
+          ]
+        }
+      ],
+      "FINAL_TENOS_POOLS": [
+        {
+          "MIN_ROLLS": 2,
+          "MAX_ROLLS": 2,
+          "POOL": [
+            {
+              "value": "Crowded",
+              "weight": 1
+            },
+            {
+              "value": "Chaos",
+              "weight": 1
+            },
+            {
+              "value": "Fast",
+              "weight": 1
+            },
+            {
+              "value": "Rush",
+              "weight": 1
+            },
+            {
+              "value": "Easy",
+              "weight": 1
+            },
+            {
+              "value": "Hard",
+              "weight": 1
+            },
+            {
+              "value": "Treasure",
+              "weight": 1
+            },
+            {
+              "value": "Unlucky",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Locked",
+              "weight": 1
+            },
+            {
+              "value": "Dummy",
+              "weight": 3
+            }
+          ]
+        }
+      ],
+      "FINAL_WENDARR_POOLS": [
+        {
+          "MIN_ROLLS": 2,
+          "MAX_ROLLS": 2,
+          "POOL": [
+            {
+              "value": "Crowded",
+              "weight": 1
+            },
+            {
+              "value": "Chaotic",
+              "weight": 1
+            },
+            {
+              "value": "Easy",
+              "weight": 1
+            },
+            {
+              "value": "Hard",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Locked",
+              "weight": 1
+            },
+            {
+              "value": "Dummy",
+              "weight": 3
+            }
+          ]
+        }
+      ],
+      "FINAL_IDONA_POOLS": [
+        {
+          "MIN_ROLLS": 2,
+          "MAX_ROLLS": 2,
+          "POOL": [
+            {
+              "value": "Crowded",
+              "weight": 1
+            },
+            {
+              "value": "Chaos",
+              "weight": 1
+            },
+            {
+              "value": "Fast",
+              "weight": 1
+            },
+            {
+              "value": "Rush",
+              "weight": 1
+            },
+            {
+              "value": "Easy",
+              "weight": 1
+            },
+            {
+              "value": "Hard",
+              "weight": 1
+            },
+            {
+              "value": "Treasure",
+              "weight": 1
+            },
+            {
+              "value": "Unlucky",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Locked",
+              "weight": 1
+            },
+            {
+              "value": "Dummy",
+              "weight": 3
+            }
+          ]
+        }
       ]
     },
     { "MIN_LEVEL": 25,
@@ -1108,11 +1426,15 @@
           "POOL": [
             {
               "value": "Dummy",
-              "weight": 6
+              "weight": 10
             },
             {
               "value": "Gilded",
-              "weight": 1
+              "weight": 2
+            },
+            {
+              "value": "Hoard",
+              "weight": 2
             }
           ]
         },
@@ -1122,15 +1444,19 @@
           "POOL": [
             {
               "value": "Lucky",
-              "weight": 1
+              "weight": 2
             },
             {
               "value": "Unlucky",
-              "weight": 1
+              "weight": 2
             },
             {
               "value": "Dummy",
-              "weight": 6
+              "weight": 10
+            },
+            {
+              "value": "Luckier",
+              "weight": 1
             }
           ]
         },
@@ -1158,14 +1484,18 @@
           "POOL": [
             {
               "value": "Easy",
-              "weight": 1
+              "weight": 2
             },
             {
               "value": "Dummy",
-              "weight": 6
+              "weight": 8
             },
             {
               "value": "Difficult",
+              "weight": 2
+            },
+            {
+              "value": "Simple",
               "weight": 1
             }
           ]
@@ -1206,6 +1536,10 @@
           "POOL": [
             {
               "value": "Plentiful",
+              "weight": 2
+            },
+            {
+              "value": "Rich",
               "weight": 1
             },
             {
@@ -1224,10 +1558,14 @@
             },
             {
               "value": "Fast",
-              "weight": 1
+              "weight": 2
             },
             {
               "value": "Extended",
+              "weight": 2
+            },
+            {
+              "value": "Optimistic",
               "weight": 1
             }
           ]
@@ -1278,15 +1616,19 @@
           "POOL": [
             {
               "value": "Resilient",
+              "weight": 2
+            },
+            {
+              "value": "Reinforced",
               "weight": 1
             },
             {
               "value": "Dummy",
-              "weight": 8
+              "weight": 10
             },
             {
               "value": "Frail",
-              "weight": 1
+              "weight": 2
             }
           ]
         },
@@ -1571,6 +1913,206 @@
             {
               "value": "Dummy",
               "weight": 1
+            }
+          ]
+        }
+      ],
+      "FINAL_VELARA_POOLS": [
+        {
+          "MIN_ROLLS": 2,
+          "MAX_ROLLS": 2,
+          "POOL": [
+            {
+              "value": "Crowded",
+              "weight": 1
+            },
+            {
+              "value": "Chaos",
+              "weight": 1
+            },
+            {
+              "value": "Fast",
+              "weight": 1
+            },
+            {
+              "value": "Rush",
+              "weight": 1
+            },
+            {
+              "value": "Easy",
+              "weight": 1
+            },
+            {
+              "value": "Hard",
+              "weight": 1
+            },
+            {
+              "value": "Treasure",
+              "weight": 1
+            },
+            {
+              "value": "Unlucky",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Locked",
+              "weight": 1
+            },
+            {
+              "value": "Dummy",
+              "weight": 3
+            }
+          ]
+        }
+      ],
+      "FINAL_TENOS_POOLS": [
+        {
+          "MIN_ROLLS": 2,
+          "MAX_ROLLS": 2,
+          "POOL": [
+            {
+              "value": "Crowded",
+              "weight": 1
+            },
+            {
+              "value": "Chaos",
+              "weight": 1
+            },
+            {
+              "value": "Fast",
+              "weight": 1
+            },
+            {
+              "value": "Rush",
+              "weight": 1
+            },
+            {
+              "value": "Easy",
+              "weight": 1
+            },
+            {
+              "value": "Hard",
+              "weight": 1
+            },
+            {
+              "value": "Treasure",
+              "weight": 1
+            },
+            {
+              "value": "Unlucky",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Locked",
+              "weight": 1
+            },
+            {
+              "value": "Dummy",
+              "weight": 3
+            }
+          ]
+        }
+      ],
+      "FINAL_WENDARR_POOLS": [
+        {
+          "MIN_ROLLS": 2,
+          "MAX_ROLLS": 2,
+          "POOL": [
+            {
+              "value": "Crowded",
+              "weight": 1
+            },
+            {
+              "value": "Chaotic",
+              "weight": 1
+            },
+            {
+              "value": "Easy",
+              "weight": 1
+            },
+            {
+              "value": "Hard",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Locked",
+              "weight": 1
+            },
+            {
+              "value": "Dummy",
+              "weight": 3
+            }
+          ]
+        }
+      ],
+      "FINAL_IDONA_POOLS": [
+        {
+          "MIN_ROLLS": 2,
+          "MAX_ROLLS": 2,
+          "POOL": [
+            {
+              "value": "Crowded",
+              "weight": 1
+            },
+            {
+              "value": "Chaos",
+              "weight": 1
+            },
+            {
+              "value": "Fast",
+              "weight": 1
+            },
+            {
+              "value": "Rush",
+              "weight": 1
+            },
+            {
+              "value": "Easy",
+              "weight": 1
+            },
+            {
+              "value": "Hard",
+              "weight": 1
+            },
+            {
+              "value": "Treasure",
+              "weight": 1
+            },
+            {
+              "value": "Unlucky",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Locked",
+              "weight": 1
+            },
+            {
+              "value": "Dummy",
+              "weight": 3
             }
           ]
         }
@@ -1584,11 +2126,15 @@
           "POOL": [
             {
               "value": "Dummy",
-              "weight": 6
+              "weight": 10
             },
             {
               "value": "Gilded",
-              "weight": 1
+              "weight": 2
+            },
+            {
+              "value": "Hoard",
+              "weight": 2
             }
           ]
         },
@@ -1598,15 +2144,19 @@
           "POOL": [
             {
               "value": "Lucky",
-              "weight": 1
+              "weight": 2
             },
             {
               "value": "Unlucky",
-              "weight": 1
+              "weight": 2
             },
             {
               "value": "Dummy",
-              "weight": 6
+              "weight": 10
+            },
+            {
+              "value": "Luckier",
+              "weight": 1
             }
           ]
         },
@@ -1619,12 +2169,16 @@
               "weight": 1
             },
             {
+              "value": "Chaotic",
+              "weight": 1
+            },
+            {
               "value": "Dummy",
-              "weight": 6
+              "weight": 8
             },
             {
               "value": "Personal Space",
-              "weight": 1
+              "weight": 2
             }
           ]
         },
@@ -1634,14 +2188,22 @@
           "POOL": [
             {
               "value": "Easy",
+              "weight": 3
+            },
+            {
+              "value": "Simple",
               "weight": 1
             },
             {
               "value": "Dummy",
-              "weight": 6
+              "weight": 10
             },
             {
               "value": "Difficult",
+              "weight": 3
+            },
+            {
+              "value": "Hard",
               "weight": 1
             }
           ]
@@ -1672,6 +2234,10 @@
             },
             {
               "value": "Furious",
+              "weight": 2
+            },
+            {
+              "value": "Raging",
               "weight": 1
             }
           ]
@@ -1682,6 +2248,10 @@
           "POOL": [
             {
               "value": "Plentiful",
+              "weight": 2
+            },
+            {
+              "value": "Rich",
               "weight": 1
             },
             {
@@ -1700,10 +2270,18 @@
             },
             {
               "value": "Fast",
+              "weight": 2
+            },
+            {
+              "value": "Faster",
               "weight": 1
             },
             {
               "value": "Extended",
+              "weight": 2
+            },
+            {
+              "value": "Optimistic",
               "weight": 1
             }
           ]
@@ -1754,14 +2332,22 @@
           "POOL": [
             {
               "value": "Resilient",
+              "weight": 2
+            },
+            {
+              "value": "Reinforced",
               "weight": 1
             },
             {
               "value": "Dummy",
-              "weight": 8
+              "weight": 10
             },
             {
               "value": "Frail",
+              "weight": 2
+            },
+            {
+              "value": "Fragile",
               "weight": 1
             }
           ]
@@ -1772,6 +2358,10 @@
           "POOL": [
             {
               "value": "Dummy",
+              "weight": 10
+            },
+            {
+              "value": "Journey",
               "weight": 10
             }
           ]
@@ -2047,6 +2637,206 @@
             {
               "value": "Dummy",
               "weight": 1
+            }
+          ]
+        }
+      ],
+      "FINAL_VELARA_POOLS": [
+        {
+          "MIN_ROLLS": 2,
+          "MAX_ROLLS": 2,
+          "POOL": [
+            {
+              "value": "Crowded",
+              "weight": 1
+            },
+            {
+              "value": "Chaos",
+              "weight": 1
+            },
+            {
+              "value": "Fast",
+              "weight": 1
+            },
+            {
+              "value": "Rush",
+              "weight": 1
+            },
+            {
+              "value": "Easy",
+              "weight": 1
+            },
+            {
+              "value": "Hard",
+              "weight": 1
+            },
+            {
+              "value": "Treasure",
+              "weight": 1
+            },
+            {
+              "value": "Unlucky",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Locked",
+              "weight": 1
+            },
+            {
+              "value": "Dummy",
+              "weight": 3
+            }
+          ]
+        }
+      ],
+      "FINAL_TENOS_POOLS": [
+        {
+          "MIN_ROLLS": 2,
+          "MAX_ROLLS": 2,
+          "POOL": [
+            {
+              "value": "Crowded",
+              "weight": 1
+            },
+            {
+              "value": "Chaos",
+              "weight": 1
+            },
+            {
+              "value": "Fast",
+              "weight": 1
+            },
+            {
+              "value": "Rush",
+              "weight": 1
+            },
+            {
+              "value": "Easy",
+              "weight": 1
+            },
+            {
+              "value": "Hard",
+              "weight": 1
+            },
+            {
+              "value": "Treasure",
+              "weight": 1
+            },
+            {
+              "value": "Unlucky",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Locked",
+              "weight": 1
+            },
+            {
+              "value": "Dummy",
+              "weight": 3
+            }
+          ]
+        }
+      ],
+      "FINAL_WENDARR_POOLS": [
+        {
+          "MIN_ROLLS": 2,
+          "MAX_ROLLS": 2,
+          "POOL": [
+            {
+              "value": "Crowded",
+              "weight": 1
+            },
+            {
+              "value": "Chaotic",
+              "weight": 1
+            },
+            {
+              "value": "Easy",
+              "weight": 1
+            },
+            {
+              "value": "Hard",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Locked",
+              "weight": 1
+            },
+            {
+              "value": "Dummy",
+              "weight": 3
+            }
+          ]
+        }
+      ],
+      "FINAL_IDONA_POOLS": [
+        {
+          "MIN_ROLLS": 2,
+          "MAX_ROLLS": 2,
+          "POOL": [
+            {
+              "value": "Crowded",
+              "weight": 1
+            },
+            {
+              "value": "Chaos",
+              "weight": 1
+            },
+            {
+              "value": "Fast",
+              "weight": 1
+            },
+            {
+              "value": "Rush",
+              "weight": 1
+            },
+            {
+              "value": "Easy",
+              "weight": 1
+            },
+            {
+              "value": "Hard",
+              "weight": 1
+            },
+            {
+              "value": "Treasure",
+              "weight": 1
+            },
+            {
+              "value": "Unlucky",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Locked",
+              "weight": 1
+            },
+            {
+              "value": "Dummy",
+              "weight": 3
             }
           ]
         }
@@ -2060,11 +2850,15 @@
           "POOL": [
             {
               "value": "Dummy",
-              "weight": 6
+              "weight": 10
             },
             {
               "value": "Gilded",
-              "weight": 1
+              "weight": 2
+            },
+            {
+              "value": "Hoard",
+              "weight": 2
             }
           ]
         },
@@ -2074,15 +2868,19 @@
           "POOL": [
             {
               "value": "Lucky",
-              "weight": 1
+              "weight": 2
             },
             {
               "value": "Unlucky",
-              "weight": 1
+              "weight": 2
             },
             {
               "value": "Dummy",
-              "weight": 6
+              "weight": 10
+            },
+            {
+              "value": "Luckier",
+              "weight": 1
             }
           ]
         },
@@ -2095,12 +2893,16 @@
               "weight": 1
             },
             {
+              "value": "Chaotic",
+              "weight": 1
+            },
+            {
               "value": "Dummy",
-              "weight": 6
+              "weight": 8
             },
             {
               "value": "Personal Space",
-              "weight": 1
+              "weight": 2
             }
           ]
         },
@@ -2110,19 +2912,27 @@
           "POOL": [
             {
               "value": "Easy",
+              "weight": 3
+            },
+            {
+              "value": "Simple",
               "weight": 1
             },
             {
               "value": "Dummy",
-              "weight": 6
+              "weight": 10
             },
             {
               "value": "Difficult",
+              "weight": 3
+            },
+            {
+              "value": "Hard",
               "weight": 1
             }
           ]
         },
-        { "_NAME": "PlayerMods",
+        { "_NAME": "Curses",
           "MIN_ROLLS": 1,
           "MAX_ROLLS": 1,
           "POOL": [
@@ -2148,19 +2958,11 @@
             },
             {
               "value": "Furious",
+              "weight": 2
+            },
+            {
+              "value": "Raging",
               "weight": 1
-            },
-            {
-              "value": "Speedy",
-              "weight": 6
-            },
-            {
-              "value": "Healing",
-              "weight": 3
-            },
-            {
-              "value": "Stronk",
-              "weight": 6
             }
           ]
         },
@@ -2170,6 +2972,10 @@
           "POOL": [
             {
               "value": "Plentiful",
+              "weight": 2
+            },
+            {
+              "value": "Rich",
               "weight": 1
             },
             {
@@ -2188,10 +2994,18 @@
             },
             {
               "value": "Fast",
+              "weight": 2
+            },
+            {
+              "value": "Faster",
               "weight": 1
             },
             {
               "value": "Extended",
+              "weight": 2
+            },
+            {
+              "value": "Optimistic",
               "weight": 1
             }
           ]
@@ -2214,35 +3028,51 @@
             }
           ]
         },
+        { "_NAME": "Boosts",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Speedy",
+              "weight": 2
+            },
+            {
+              "value": "Healing",
+              "weight": 1
+            },
+            {
+              "value": "Stronk",
+              "weight": 3
+            },
+            {
+              "value": "Dummy",
+              "weight": 10
+            }
+          ]
+        },
         { "_NAME": "Durability",
           "MIN_ROLLS": 1,
           "MAX_ROLLS": 1,
           "POOL": [
             {
               "value": "Resilient",
+              "weight": 2
+            },
+            {
+              "value": "Reinforced",
               "weight": 1
             },
             {
               "value": "Dummy",
-              "weight": 8
+              "weight": 10
             },
             {
               "value": "Frail",
-              "weight": 1
-            }
-          ]
-        },
-        { "_NAME": "CatalystMods",
-          "MIN_ROLLS": 1,
-          "MAX_ROLLS": 1,
-          "POOL": [
-            {
-              "value": "Prismatic",
-              "weight": 1
+              "weight": 2
             },
             {
-              "value": "Dummy",
-              "weight": 8
+              "value": "Fragile",
+              "weight": 1
             }
           ]
         },
@@ -2256,99 +3086,7 @@
             },
             {
               "value": "Journey",
-              "weight": 1
-            }
-          ]
-        },
-        { "_NAME": "T2",
-          "MIN_ROLLS": 1,
-          "MAX_ROLLS": 1,
-          "POOL": [
-            {
-              "value": "Dummy",
-              "weight": 30
-            },
-            {
-              "value": "Hoard",
-              "weight": 1
-            },
-            {
-              "value": "Rich",
-              "weight": 1
-            },
-            {
-              "value": "Chaotic",
-              "weight": 1
-            },
-            {
-              "value": "Silent",
-              "weight": 1
-            },
-            {
-              "value": "Simple",
-              "weight": 1
-            },
-            {
-              "value": "Hard",
-              "weight": 1
-            },
-            {
-              "value": "Luckier",
-              "weight": 1
-            },
-            {
-              "value": "Raging",
-              "weight": 1
-            },
-            {
-              "value": "Phoenix",
-              "weight": 1
-            },
-            {
-              "value": "Exploration",
-              "weight": 1
-            }
-          ]
-        },
-        { "_NAME": "T3",
-          "MIN_ROLLS": 1,
-          "MAX_ROLLS": 1,
-          "POOL": [
-            {
-              "value": "Dummy",
-              "weight": 40
-            },
-            {
-              "value": "Treasure",
-              "weight": 1
-            },
-            {
-              "value": "Copius",
-              "weight": 1
-            },
-            {
-              "value": "Impossible",
-              "weight": 1
-            },
-            {
-              "value": "Trivial",
-              "weight": 1
-            },
-            {
-              "value": "Challenging",
-              "weight": 1
-            },
-            {
-              "value": "Super Lucky",
-              "weight": 1
-            },
-            {
-              "value": "Frenzy",
-              "weight": 1
-            },
-            {
-              "value": "Odyssey",
-              "weight": 1
+              "weight": 10
             }
           ]
         },
@@ -2563,10 +3301,6 @@
             {
               "value": "Dummy",
               "weight": 10
-            },
-            {
-              "value": "Journey",
-              "weight": 1
             }
           ]
         },
@@ -2626,6 +3360,175 @@
             },
             {
               "value": "Dummy",
+              "weight": 1
+            }
+          ]
+        }
+      ],
+      "FINAL_VELARA_POOLS": [
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Finale",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "No Extras",
+              "weight": 1
+            }
+          ]
+        }
+      ],
+      "FINAL_TENOS_POOLS": [
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Finale",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Void Hex",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "No Extras",
+              "weight": 1
+            }
+          ]
+        }
+      ],
+      "FINAL_WENDARR_POOLS": [
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Finale",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "No Extras",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Void Hex",
+              "weight": 1
+            }
+          ]
+        }
+        
+      ],
+      "FINAL_WENDARR_ADDS_POOLS": [
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Mob",
+              "weight": 1
+            }
+          ]
+        }
+      ],
+      "FINAL_IDONA_POOLS": [
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Finale",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "No Extras",
+              "weight": 1
+            }
+          ]
+        }
+      ],
+      "FINAL_VELARA_ADDS_POOLS": [
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Mooore",
+              "weight": 3
+            },
+            {
+              "value": "Mooove",
+              "weight": 5
+            },
+            {
+              "value": "Noooo",
+              "weight": 1
+            },
+            {
+              "value": "Milky",
+              "weight": 3
+            },
+            {
+              "value": "Awkward",
+              "weight": 6
+            },
+            {
+              "value": "Exposed",
+              "weight": 3
+            },
+            {
+              "value": "Static",
+              "weight": 3
+            }
+          ]
+        }
+      ],
+      "FINAL_TENOS_ADDS_POOLS": [
+        {
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Unfair",
               "weight": 1
             }
           ]

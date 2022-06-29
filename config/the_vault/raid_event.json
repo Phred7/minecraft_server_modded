@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "soulShardTradeCost": 750,
   "temporaryModifierMinutes": 5,
   "viewerPositiveModifiers": [
@@ -102,7 +102,7 @@
       "weight": 4
     }
   ],
-  "viewerVoteChance": 0.5,
+  "viewerVoteChance": 0.2,
   "viewerModifiers": [
     {
       "value": "Gilded",

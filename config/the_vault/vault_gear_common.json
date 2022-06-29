@@ -182,7 +182,7 @@
                 "base": 25,
                 "rolls": {
                   "type": "binomial",
-                  "trials": 20,
+                  "trials": 5,
                   "probability": 0.5
                 },
                 "entries": [
@@ -436,7 +436,7 @@
                 "base": 25,
                 "rolls": {
                   "type": "binomial",
-                  "trials": 20,
+                  "trials": 5,
                   "probability": 0.5
                 },
                 "entries": [
@@ -915,7 +915,7 @@
                 "base": 25,
                 "rolls": {
                   "type": "binomial",
-                  "trials": 20,
+                  "trials": 5,
                   "probability": 0.5
                 },
                 "entries": [
@@ -1193,7 +1193,7 @@
                 "base": 25,
                 "rolls": {
                   "type": "binomial",
-                  "trials": 20,
+                  "trials": 5,
                   "probability": 0.5
                 },
                 "entries": [
@@ -1471,7 +1471,7 @@
                 "base": 25,
                 "rolls": {
                   "type": "binomial",
-                  "trials": 20,
+                  "trials": 5,
                   "probability": 0.5
                 },
                 "entries": [
@@ -1749,7 +1749,7 @@
                 "base": 25,
                 "rolls": {
                   "type": "binomial",
-                  "trials": 20,
+                  "trials": 5,
                   "probability": 0.5
                 },
                 "entries": [

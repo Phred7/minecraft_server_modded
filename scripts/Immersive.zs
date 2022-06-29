@@ -228,3 +228,7 @@ craftingTable.addShaped("iehammer", <item:immersiveengineering:hammer>, [
  [<item:minecraft:air>, <tag:items:forge:rods/wooden>, <item:the_vault:gem_pog>],
  [<tag:items:forge:rods/wooden>, <item:minecraft:air>, <item:minecraft:air>]
  ]);
+
+<recipetype:immersiveengineering:crusher>.addRecipe("nether_wart",
+ <item:minecraft:nether_wart_block>, 2500,
+ <item:minecraft:nether_wart> * 4);

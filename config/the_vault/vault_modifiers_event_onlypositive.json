@@ -1,0 +1,884 @@
+{
+  "MAX_MOBS_MODIFIERS": [
+    {
+      "maxMobsAddend": -2,
+      "name": "Personal Space",
+      "icon": "the_vault:textures/gui/modifiers/personalspace.png",
+      "color": "16364031",
+      "description": "No mobs will spawn around you"
+    },
+    {
+      "maxMobsAddend": 4,
+      "name": "Crowded",
+      "icon": "the_vault:textures/gui/modifiers/crowded.png",
+      "color": "15220516",
+      "description": "Spawns mobs around you"
+    },
+    {
+      "maxMobsAddend": 6,
+      "name": "Chaotic",
+      "icon": "the_vault:textures/gui/modifiers/chaotic.png",
+      "color": "9633792",
+      "description": "Spawns A LOT of mobs around you!"
+    },
+    {
+      "maxMobsAddend": 9,
+      "name": "Impossible",
+      "icon": "the_vault:textures/gui/modifiers/impossible.png",
+      "color": "7143424",
+      "description": "This is gonna be tough... good luck."
+    }
+  ],
+  "TIMER_MODIFIERS": [
+    {
+      "timerAddend": -6000,
+      "name": "Fast",
+      "icon": "the_vault:textures/gui/modifiers/fast.png",
+      "color": "16764271",
+      "description": "Removes 5 minutes from the clock."
+    },
+    {
+      "timerAddend": -12000,
+      "name": "Rush",
+      "icon": "the_vault:textures/gui/modifiers/rush.png",
+      "color": "16756847",
+      "description": "Removes 10 minutes from the clock."
+    },
+    {
+      "timerAddend": 6000,
+      "name": "Optimistic",
+      "icon": "the_vault:textures/gui/modifiers/optimistic.png",
+      "color": "3165087",
+      "description": "Adds 5 minutes to the clock."
+    }
+  ],
+  "LEVEL_MODIFIERS": [
+    {
+      "levelAddend": -5,
+      "name": "Easy",
+      "icon": "the_vault:textures/gui/modifiers/easy.png",
+      "color": "7405354",
+      "description": "Your vault level is decreased"
+    },
+    {
+      "levelAddend": -10,
+      "name": "Trivial",
+      "icon": "the_vault:textures/gui/modifiers/trivial.png",
+      "color": "11223035",
+      "description": "Your vault level is heavily decreased"
+    },
+    {
+      "levelAddend": 5,
+      "name": "Difficult",
+      "icon": "the_vault:textures/gui/modifiers/difficult.png",
+      "color": "14811136",
+      "description": "Your vault level is increased"
+    },
+    {
+      "levelAddend": 10,
+      "name": "Hard",
+      "icon": "the_vault:textures/gui/modifiers/hard.png",
+      "color": "13107200",
+      "description": "Your vault level is very increased"
+    },
+    {
+      "levelAddend": 15,
+      "name": "Challenging",
+      "icon": "the_vault:textures/gui/modifiers/challenging.png",
+      "color": "10485760",
+      "description": "Your vault level is far above your level"
+    }
+  ],
+  "EFFECT_MODIFIERS": [
+    {
+      "effect": "minecraft:luck",
+      "value": 1,
+      "operator": "ADD",
+      "type": "hidden",
+      "name": "Lucky",
+      "icon": "the_vault:textures/gui/modifiers/lucky.png",
+      "color": "16771328",
+      "description": "Adds 1 to the current luck amplifier."
+    },
+    {
+      "effect": "minecraft:unluck",
+      "value": 1,
+      "operator": "ADD",
+      "type": "hidden",
+      "name": "Unlucky",
+      "icon": "the_vault:textures/gui/modifiers/unlucky.png",
+      "color": "10441472",
+      "description": "Adds 1 to the current unluck amplifier."
+    },
+    {
+      "effect": "minecraft:hunger",
+      "value": 10,
+      "operator": "ADD",
+      "type": "hidden",
+      "name": "Hunger",
+      "icon": "the_vault:textures/gui/modifiers/hunger.png",
+      "color": "15260365",
+      "description": "Dont eat spider eyes Fundy..."
+    },
+    {
+      "effect": "minecraft:mining_fatigue",
+      "value": 1,
+      "operator": "ADD",
+      "type": "hidden",
+      "name": "Tired",
+      "icon": "the_vault:textures/gui/modifiers/tired.png",
+      "color": "15264225",
+      "description": "You feel tired."
+    },
+    {
+      "effect": "minecraft:slowness",
+      "value": 1,
+      "operator": "ADD",
+      "type": "hidden",
+      "name": "Slowed",
+      "icon": "the_vault:textures/gui/modifiers/slowed.png",
+      "color": "5007238",
+      "description": "Speedrunner? more like Slowrunner..."
+    },
+    {
+      "effect": "minecraft:weakness",
+      "value": 1,
+      "operator": "ADD",
+      "type": "hidden",
+      "name": "Weakened",
+      "icon": "the_vault:textures/gui/modifiers/weakness.png",
+      "color": "10441472",
+      "description": "You shouldn't have done this today"
+    },
+    {
+      "effect": "minecraft:speed",
+      "value": 1,
+      "operator": "ADD",
+      "type": "hidden",
+      "name": "Speedy",
+      "icon": "the_vault:textures/gui/modifiers/speed.png",
+      "color": "52735",
+      "description": "You do be faster tho!"
+    },
+    {
+      "effect": "minecraft:speed",
+      "value": 2,
+      "operator": "ADD",
+      "type": "hidden",
+      "name": "Super Speed",
+      "icon": "the_vault:textures/gui/modifiers/speed.png",
+      "color": "52735",
+      "description": "Super speedy!"
+    },
+    {
+      "effect": "minecraft:luck",
+      "value": 3,
+      "operator": "ADD",
+      "type": "hidden",
+      "name": "Super Lucky",
+      "icon": "the_vault:textures/gui/modifiers/super_luck.png",
+      "color": "14085376",
+      "description": "Opening chests in this vault is very smarts, you are super lucky!"
+    },
+    {
+      "effect": "minecraft:regeneration",
+      "value": 1,
+      "operator": "ADD",
+      "type": "hidden",
+      "name": "Healing",
+      "icon": "the_vault:textures/gui/modifiers/regeneration.png",
+      "color": "65431",
+      "description": "This vault heals you!"
+    },
+    {
+      "effect": "minecraft:regeneration",
+      "value": 2,
+      "operator": "ADD",
+      "type": "hidden",
+      "name": "Super Healing",
+      "icon": "the_vault:textures/gui/modifiers/regeneration.png",
+      "color": "65431",
+      "description": "This vault heals you quite a bit!"
+    }
+  ],
+  "NO_EXIT_MODIFIERS": [
+    {
+      "name": "Raffle",
+      "icon": "the_vault:textures/gui/modifiers/raffle.png",
+      "color": "12910619",
+      "description": "This vault is locked"
+    },
+    {
+      "name": "Locked",
+      "icon": "the_vault:textures/gui/modifiers/no_exit.png",
+      "color": "16711680",
+      "description": "F"
+    }
+  ],
+  "ADDITIONAL_CHEST_MODIFIERS": [
+    {
+      "additionalBonusChestPasses": 1,
+      "chestGenerationAttempts": 96,
+      "name": "Gilded",
+      "icon": "the_vault:textures/gui/modifiers/gilded.png",
+      "color": "16772096",
+      "description": "Adds an additional set of random chests!"
+    },
+    {
+      "additionalBonusChestPasses": 2,
+      "chestGenerationAttempts": 96,
+      "name": "Hoard",
+      "icon": "the_vault:textures/gui/modifiers/hoard.png",
+      "color": "16765440",
+      "description": "Adds 2 additional sets of random chests!"
+    },
+    {
+      "additionalBonusChestPasses": 3,
+      "chestGenerationAttempts": 96,
+      "name": "Treasure",
+      "icon": "the_vault:textures/gui/modifiers/treasure.png",
+      "color": "16760576",
+      "description": "Adds 3 additional sets of random chests!"
+    }
+  ],
+  "SCALE_MODIFIERS": [
+    {
+      "scale": 0.5,
+      "name": "Daycare",
+      "icon": "the_vault:textures/gui/modifiers/daycare.png",
+      "color": "65535",
+      "description": "Hbombs nightmare is here"
+    },
+    {
+      "scale": 1.5,
+      "name": "Giant",
+      "icon": "the_vault:textures/gui/modifiers/daycare.png",
+      "color": "65535",
+      "description": "There be giants"
+    }
+  ],
+  "FRENZY_MODIFIERS": [
+    {
+      "damageMultiplier": 3.0,
+      "additionalMovementSpeed": 0.1,
+      "name": "Frenzy",
+      "icon": "the_vault:textures/gui/modifiers/frenzy.png",
+      "color": "65535",
+      "description": "Mobs are on a frenzy, making them extremely hurtful & fast, but also very weak..."
+    }
+  ],
+  "TRAPPED_CHESTS_MODIFIERS": [
+    {
+      "chanceOfTrappedChests": 0.0,
+      "name": "Safe Zone",
+      "icon": "the_vault:textures/gui/modifiers/safezone.png",
+      "color": "65535",
+      "description": "No chests will be trapped in this vault!"
+    },
+    {
+      "chanceOfTrappedChests": 3.0,
+      "name": "Trapped",
+      "icon": "the_vault:textures/gui/modifiers/trapped.png",
+      "color": "65535",
+      "description": "Watch out, there be traps... everywhere."
+    }
+ ],
+  "LEVELS": [
+    { "MIN_LEVEL": 0,
+      "DEFAULT_POOLS": [
+        {  "_NAME": "Mob Pool",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 72
+            },
+            {
+              "value": "Personal Space",
+              "weight": 25
+            }
+          ]
+        },
+        { "_NAME": "Luck Modifier",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Lucky",
+              "weight": 1
+            },
+            {
+              "value": "Dummy",
+              "weight": 20
+            }
+          ]
+        },
+        { "_NAME": "Difficulty",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Trivial",
+              "weight": 1
+            },
+            {
+              "value": "Easy",
+              "weight": 4
+            },
+            {
+              "value": "Dummy",
+              "weight": 60
+            }
+          ]
+        },
+        { "_NAME": "Curses",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 160
+            }
+          ]
+        },
+        { "_NAME": "Time Effect",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 40
+            },
+            {
+              "value": "Optimistic",
+              "weight": 3
+            }
+          ]
+        },
+        { "_NAME": "Chest Mods",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 20
+            },
+            {
+              "value": "Gilded",
+              "weight": 1
+            }
+          ]
+        },
+        { "_NAME": "Trap Modifications",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 40
+            },
+            {
+              "value": "Safe Zone",
+              "weight": 2
+            }
+          ]
+        },
+        { "_NAME": "Scale Modifications",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 40
+            }
+          ]
+        },
+        { "_NAME": "Mob Buff Modifications",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 40
+            }
+          ]
+        },
+        { "_NAME": "Boosts",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Speedy",
+              "weight": 4
+            },
+            {
+              "value": "Healing",
+              "weight": 4
+            },
+            {
+              "value": "Dummy",
+              "weight": 60
+            }
+          ]
+        },
+        { "_NAME": "Exit Modifications",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 10
+            }
+          ]
+        }
+      ],
+      "RAFFLE_POOLS": [
+        {  "_NAME": "Mob Pool",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 96
+            },
+            {
+              "value": "Personal Space",
+              "weight": 15
+            }
+          ]
+        },
+        { "_NAME": "Luck Modifier",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Lucky",
+              "weight": 1
+            },
+            {
+              "value": "Dummy",
+              "weight": 20
+            }
+          ]
+        },
+        { "_NAME": "Difficulty",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Trivial",
+              "weight": 1
+            },
+            {
+              "value": "Easy",
+              "weight": 4
+            },
+            {
+              "value": "Dummy",
+              "weight": 80
+            }
+          ]
+        },
+        { "_NAME": "Curses",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 160
+            }
+          ]
+        },
+        { "_NAME": "Time Effect",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 40
+            },
+            {
+              "value": "Optimistic",
+              "weight": 3
+            }
+          ]
+        },
+        { "_NAME": "Chest Mods",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 20
+            },
+            {
+              "value": "Gilded",
+              "weight": 1
+            }
+          ]
+        },
+        { "_NAME": "Trap Modifications",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 40
+            },
+            {
+              "value": "Safe Zone",
+              "weight": 2
+            }
+          ]
+        },
+        { "_NAME": "Scale Modifications",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 40
+            }
+          ]
+        },
+        { "_NAME": "Mob Buff Modifications",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 40
+            }
+          ]
+        },
+        { "_NAME": "Boosts",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Speedy",
+              "weight": 4
+            },
+            {
+              "value": "Healing",
+              "weight": 4
+            },
+            {
+              "value": "Dummy",
+              "weight": 40
+            }
+          ]
+        },
+        { "_NAME": "Exit Modifications",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 10
+            }
+          ]
+        }
+      ]
+    },
+    { "MIN_LEVEL": 25,
+      "DEFAULT_POOLS": [
+        {  "_NAME": "Mob Pool",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 72
+            },
+            {
+              "value": "Personal Space",
+              "weight": 10
+            }
+          ]
+        },
+        { "_NAME": "Luck Modifier",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Lucky",
+              "weight": 1
+            },
+            {
+              "value": "Dummy",
+              "weight": 16
+            }
+          ]
+        },
+        { "_NAME": "Difficulty",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Trivial",
+              "weight": 1
+            },
+            {
+              "value": "Easy",
+              "weight": 4
+            },
+            {
+              "value": "Dummy",
+              "weight": 80
+            }
+          ]
+        },
+        { "_NAME": "Curses",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 160
+            }
+          ]
+        },
+        { "_NAME": "Time Effect",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 60
+            },
+            {
+              "value": "Optimistic",
+              "weight": 3
+            }
+          ]
+        },
+        { "_NAME": "Chest Mods",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 20
+            },
+            {
+              "value": "Gilded",
+              "weight": 1
+            }
+          ]
+        },
+        { "_NAME": "Trap Modifications",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 42
+            },
+            {
+              "value": "Safe Zone",
+              "weight": 2
+            }
+          ]
+        },
+        { "_NAME": "Scale Modifications",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 40
+            }
+          ]
+        },
+        { "_NAME": "Mob Buff Modifications",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 40
+            }
+          ]
+        },
+        { "_NAME": "Boosts",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Speedy",
+              "weight": 4
+            },
+            {
+              "value": "Healing",
+              "weight": 4
+            },
+            {
+              "value": "Dummy",
+              "weight": 40
+            }
+          ]
+        },
+        { "_NAME": "Exit Modifications",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 20
+            }
+          ]
+        }
+      ],
+      "RAFFLE_POOLS": [
+        {  "_NAME": "Mob Pool",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 96
+            },
+            {
+              "value": "Personal Space",
+              "weight": 15
+            }
+          ]
+        },
+        { "_NAME": "Luck Modifier",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Lucky",
+              "weight": 1
+            },
+            {
+              "value": "Dummy",
+              "weight": 20
+            }
+          ]
+        },
+        { "_NAME": "Difficulty",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Trivial",
+              "weight": 1
+            },
+            {
+              "value": "Easy",
+              "weight": 4
+            },
+            {
+              "value": "Dummy",
+              "weight": 80
+            }
+          ]
+        },
+        { "_NAME": "Curses",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 160
+            }
+          ]
+        },
+        { "_NAME": "Time Effect",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 50
+            },
+            {
+              "value": "Optimistic",
+              "weight": 3
+            }
+          ]
+        },
+        { "_NAME": "Chest Mods",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 20
+            },
+            {
+              "value": "Gilded",
+              "weight": 1
+            }
+          ]
+        },
+        { "_NAME": "Trap Modifications",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 45
+            },
+            {
+              "value": "Safe Zone",
+              "weight": 2
+            }
+          ]
+        },
+        { "_NAME": "Scale Modifications",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 40
+            }
+          ]
+        },
+        { "_NAME": "Mob Buff Modifications",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 40
+            }
+          ]
+        },
+        { "_NAME": "Boosts",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Speedy",
+              "weight": 4
+            },
+            {
+              "value": "Healing",
+              "weight": 4
+            },
+            {
+              "value": "Dummy",
+              "weight": 40
+            }
+          ]
+        },
+        { "_NAME": "Exit Modifications",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Raffle",
+              "weight": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

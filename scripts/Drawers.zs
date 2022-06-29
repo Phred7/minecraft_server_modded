@@ -39,9 +39,9 @@ craftingTable.addShaped("storagedrawersdiamond_storage_upgrade", <item:storagedr
 ]);
 
 craftingTable.addShaped("storagedrawersvoid_upgrade", <item:storagedrawers:void_upgrade>, [
-    [<item:the_vault:gem_echo>, <item:minecraft:netherite_ingot>, <item:the_vault:gem_echo>],
-    [<item:minecraft:netherite_ingot>, <item:storagedrawers:upgrade_template>, <item:minecraft:netherite_ingot>],
-    [<item:the_vault:gem_echo>, <item:minecraft:netherite_ingot>, <item:the_vault:gem_echo>],
+    [<item:minecraft:netherite_ingot>, <item:minecraft:lava_bucket>, <item:minecraft:netherite_ingot>],
+    [<item:compressium:endstone_2>, <item:storagedrawers:upgrade_template>, <item:compressium:endstone_2>],
+    [<item:minecraft:netherite_ingot>, <item:the_vault:gem_echo>, <item:minecraft:netherite_ingot>],
 ]);
 
 craftingTable.addShaped("storagedrawersdrawer_controler", <item:storagedrawers:controller>, [
@@ -285,9 +285,9 @@ craftingTable.addShaped("framedcompactdrawersframed_full_two", <item:framedcompa
 ]);
 
 craftingTable.addShaped("framedcompactdrawersframed_full_four", <item:framedcompactdrawers:framed_full_four>, [
-    [<tag:items:storagedrawers:drawers>, <tag:items:forge:rods/wooden>, <tag:items:storagedrawers:drawers>],
-    [<tag:items:forge:rods/wooden>, <tag:items:forge:rods/wooden>, <tag:items:forge:rods/wooden>],
-    [<tag:items:storagedrawers:drawers>, <tag:items:forge:rods/wooden>, <tag:items:storagedrawers:drawers>]
+    [<tag:items:forge:chests>, <tag:items:forge:rods/wooden>, <tag:items:forge:chests>],
+    [<item:the_vault:gem_benitoite>, <tag:items:forge:rods/wooden>, <item:the_vault:gem_benitoite>],
+    [<tag:items:forge:chests>, <tag:items:forge:rods/wooden>, <tag:items:forge:chests>]
 ]);
 
 craftingTable.addShaped("framedcompactdrawersframed_half_one", <item:framedcompactdrawers:framed_half_one>, [

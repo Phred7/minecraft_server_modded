@@ -40,3 +40,9 @@ craftingTable.addShaped("fluxnetworksflux_point", <item:fluxnetworks:flux_point>
     [<item:fluxnetworks:flux_core>, <item:the_vault:perfect_black_opal>, <item:fluxnetworks:flux_core>],
     [<tag:items:the_vault:perfectcommongems>, <item:fluxnetworks:flux_core>, <item:the_vault:vault_diamond>]
 ]);
+
+craftingTable.addShaped("fluxnetworksflux_controller", <item:fluxnetworks:flux_controller>, [
+    [<item:fluxnetworks:flux_block>, <item:fluxnetworks:flux_core>, <item:fluxnetworks:flux_block>],
+    [<item:fluxnetworks:flux_point>, <item:the_vault:omega_pog>, <item:fluxnetworks:flux_plug>],
+    [<item:fluxnetworks:flux_block>, <item:fluxnetworks:flux_block>, <item:fluxnetworks:flux_block>]
+]);

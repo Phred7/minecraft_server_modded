@@ -2,7 +2,7 @@
   "itemEffects": [
     {
       "itemId": "the_vault:jade_apple",
-      "absorption": true,
+      "absorption": false,
       "absorptionAmount": 0.0,
       "effects": [
         {
@@ -18,7 +18,7 @@
     },
     {
       "itemId": "the_vault:cobalt_apple",
-      "absorption": true,
+      "absorption": false,
       "absorptionAmount": 0.0,
       "effects": [
         {
@@ -42,7 +42,7 @@
     },
     {
       "itemId": "the_vault:pixie_apple",
-      "absorption": true,
+      "absorption": false,
       "absorptionAmount": 0.0,
       "effects": [
         {

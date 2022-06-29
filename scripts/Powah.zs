@@ -175,3 +175,45 @@ craftingTable.addShaped("powahdielectric_casing", <item:powah:dielectric_casing>
 	[<item:powah:dielectric_rod>, <tag:items:the_vault:gems>, <item:powah:dielectric_rod>],
 	[<tag:items:forge:storage_blocks/iron>, <item:powah:dielectric_rod_horizontal>, <tag:items:forge:storage_blocks/iron>]
 ]);
+
+craftingTable.addShaped("powahsolar_panel_starter", <item:powah:solar_panel_starter>, [
+	[<item:powah:photoelectric_pane>, <tag:items:the_vault:gems>, <item:powah:photoelectric_pane>],
+	[<item:powah:capacitor_basic_tiny>, <item:powah:dielectric_casing>, <item:powah:capacitor_basic_tiny>],
+	[<item:powah:dielectric_paste>, <item:powah:dielectric_paste>, <item:powah:dielectric_paste>]
+]);
+
+craftingTable.addShaped("powahsolar_panel_basic", <item:powah:solar_panel_basic>, [
+	[<item:powah:solar_panel_starter>, <tag:items:the_vault:gems>, <item:powah:solar_panel_starter>],
+	[<item:powah:capacitor_basic>, <item:powah:dielectric_casing>, <item:powah:capacitor_basic>],
+	[<tag:items:forge:ingots/iron>, <tag:items:forge:ingots/iron>, <tag:items:forge:ingots/iron>]
+]);
+
+craftingTable.addShaped("powahsolar_panel_hardened", <item:powah:solar_panel_hardened>, [
+	[<item:powah:solar_panel_basic>, <tag:items:the_vault:gems>, <item:powah:solar_panel_basic>],
+	[<item:powah:capacitor_hardened>, <item:powah:dielectric_casing>, <item:powah:capacitor_hardened>],
+	[<item:powah:steel_energized>, <item:powah:steel_energized>, <item:powah:steel_energized>]
+]);
+
+craftingTable.addShaped("powahsolar_panel_blazing", <item:powah:solar_panel_blazing>, [
+	[<item:powah:solar_panel_hardened>, <tag:items:the_vault:gems>, <item:powah:solar_panel_hardened>],
+	[<item:powah:capacitor_blazing>, <item:powah:dielectric_casing>, <item:powah:capacitor_blazing>],
+	[<item:powah:crystal_blazing>, <item:powah:crystal_blazing>, <item:powah:crystal_blazing>]
+]);
+
+craftingTable.addShaped("powahsolar_panel_niotic", <item:powah:solar_panel_niotic>, [
+	[<item:powah:solar_panel_blazing>, <tag:items:the_vault:playergems>, <item:powah:solar_panel_blazing>],
+	[<item:powah:capacitor_niotic>, <item:powah:dielectric_casing>, <item:powah:capacitor_niotic>],
+	[<item:powah:crystal_niotic>, <item:powah:crystal_niotic>, <item:powah:crystal_niotic>]
+]);
+
+craftingTable.addShaped("powahsolar_panel_spirited", <item:powah:solar_panel_spirited>, [
+	[<item:powah:solar_panel_niotic>, <tag:items:the_vault:playergems>, <item:powah:solar_panel_niotic>],
+	[<item:powah:capacitor_spirited>, <item:powah:dielectric_casing>, <item:powah:capacitor_spirited>],
+	[<item:powah:crystal_spirited>, <item:powah:crystal_spirited>, <item:powah:crystal_spirited>]
+]);
+
+craftingTable.addShaped("powahsolar_panel_nitro", <item:powah:solar_panel_nitro>, [
+	[<item:powah:solar_panel_spirited>, <tag:items:the_vault:playergems>, <item:powah:solar_panel_spirited>],
+	[<item:powah:capacitor_nitro>, <item:powah:dielectric_casing>, <item:powah:capacitor_nitro>],
+	[<item:powah:crystal_nitro>, <item:powah:crystal_nitro>, <item:powah:crystal_nitro>]
+]);

@@ -174,7 +174,7 @@ craftingTable.addShaped("mekanismqio_drive_time_dilating", <item:mekanism:qio_dr
 
 craftingTable.addShaped("mekanismqio_drive_supermassive", <item:mekanism:qio_drive_supermassive>, [
     [<item:mekanism:pellet_antimatter>, <item:mekanism:qio_drive_time_dilating>, <item:mekanism:pellet_antimatter>],
-    [<item:mekanism:qio_drive_time_dilating>, <item:the_vault:omega_pog>, <item:mekanism:qio_drive_time_dilating>],
+    [<item:mekanism:qio_drive_time_dilating>, <item:the_vault:echo_pog>, <item:mekanism:qio_drive_time_dilating>],
     [<item:mekanism:ultimate_control_circuit>, <item:mekanism:qio_drive_time_dilating>, <item:mekanism:ultimate_control_circuit>]
 ]);
 
@@ -200,6 +200,12 @@ craftingTable.addShaped("mekanism_ultimate_energy_cube", <item:mekanism:ultimate
     [<item:the_vault:vault_diamond_block>, <item:mekanism:ultimate_control_circuit>, <item:the_vault:vault_diamond_block>],
     [<item:the_vault:echo_pog>, <item:mekanism:elite_energy_cube>, <item:the_vault:echo_pog>],
     [<item:the_vault:vault_diamond_block>, <item:mekanism:ultimate_control_circuit>, <item:the_vault:vault_diamond_block>]
+]);
+
+craftingTable.addShaped("mekanism_qio_redstone_adapter", <item:mekanism:qio_redstone_adapter>, [
+    [<item:mekanism:pellet_polonium>, <item:minecraft:redstone_torch>, <item:mekanism:pellet_polonium>],
+    [<item:minecraft:air>, <item:compressium:redstone_2>, <item:minecraft:air>],
+    [<item:mekanism:pellet_polonium>, <item:mekanism:teleportation_core>, <item:mekanism:pellet_polonium>]
 ]);
 
 <recipetype:mekanism:crushing>.addJSONRecipe("vault_apple_jade", { 

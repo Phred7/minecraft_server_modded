@@ -744,7 +744,7 @@
     "buffLevelConfiguration": [
       {
         "regainBuffChance": 0.05,
-        "healthPercentage": 0.05,
+        "healthPercentage": 0.1,
         "effectDuration": 100,
         "effect": "the_vault:execute",
         "amplifier": 0,
@@ -756,7 +756,7 @@
       },
       {
         "regainBuffChance": 0.10,
-        "healthPercentage": 0.10,
+        "healthPercentage": 0.15,
         "effectDuration": 100,
         "effect": "the_vault:execute",
         "amplifier": 0,
@@ -768,105 +768,7 @@
       },
       {
         "regainBuffChance": 0.15,
-        "healthPercentage": 0.15,
-        "effectDuration": 100,
-        "effect": "the_vault:execute",
-        "amplifier": 0,
-        "type": "icon_only",
-        "learningCost": 2,
-        "behavior": "RELEASE_TO_PERFORM",
-        "cooldown": 3600,
-        "levelRequirement": 50
-      },
-      {
-        "regainBuffChance": 0.20,
-        "healthPercentage": 0.20,
-        "effectDuration": 100,
-        "effect": "the_vault:execute",
-        "amplifier": 0,
-        "type": "icon_only",
-        "learningCost": 2,
-        "behavior": "RELEASE_TO_PERFORM",
-        "cooldown": 3600,
-        "levelRequirement": 50
-      },
-      {
-        "regainBuffChance": 0.25,
-        "healthPercentage": 0.25,
-        "effectDuration": 100,
-        "effect": "the_vault:execute",
-        "amplifier": 0,
-        "type": "icon_only",
-        "learningCost": 3,
-        "behavior": "RELEASE_TO_PERFORM",
-        "cooldown": 3600,
-        "levelRequirement": 50
-      },
-      {
-        "regainBuffChance": 0.30,
-        "healthPercentage": 0.37,
-        "effectDuration": 100,
-        "effect": "the_vault:execute",
-        "amplifier": 0,
-        "type": "icon_only",
-        "learningCost": 3,
-        "behavior": "RELEASE_TO_PERFORM",
-        "cooldown": 3600,
-        "levelRequirement": 50
-      },
-      {
-        "regainBuffChance": 0.35,
-        "healthPercentage": 0.29,
-        "effectDuration": 100,
-        "effect": "the_vault:execute",
-        "amplifier": 0,
-        "type": "icon_only",
-        "learningCost": 4,
-        "behavior": "RELEASE_TO_PERFORM",
-        "cooldown": 3600,
-        "levelRequirement": 50
-      },
-      {
-        "regainBuffChance": 0.40,
-        "healthPercentage": 0.31,
-        "effectDuration": 100,
-        "effect": "the_vault:execute",
-        "amplifier": 0,
-        "type": "icon_only",
-        "learningCost": 4,
-        "behavior": "RELEASE_TO_PERFORM",
-        "cooldown": 3600,
-        "levelRequirement": 50
-      },
-      {
-        "regainBuffChance": 0.45,
-        "healthPercentage": 0.33,
-        "effectDuration": 100,
-        "effect": "the_vault:execute",
-        "amplifier": 0,
-        "type": "icon_only",
-        "learningCost": 5,
-        "behavior": "RELEASE_TO_PERFORM",
-        "cooldown": 3600,
-        "levelRequirement": 50
-      },
-      {
-        "regainBuffChance": 0.50,
-        "healthPercentage": 0.35,
-        "effectDuration": 100,
-        "effect": "the_vault:execute",
-        "amplifier": 0,
-        "type": "icon_only",
-        "learningCost": 5,
-        "behavior": "RELEASE_TO_PERFORM",
-        "cooldown": 3600,
-        "levelRequirement": 50
-      }
-    ],
-    "damageLevelConfiguration": [
-      {
-        "damagePercentMissingHealth": 0.1,
-        "healthPercentage": 0.0,
+        "healthPercentage": 0.2,
         "effectDuration": 100,
         "effect": "the_vault:execute",
         "amplifier": 0,
@@ -876,6 +778,32 @@
         "cooldown": 3600,
         "levelRequirement": 50
       },
+      {
+        "regainBuffChance": 0.20,
+        "healthPercentage": 0.25,
+        "effectDuration": 100,
+        "effect": "the_vault:execute",
+        "amplifier": 0,
+        "type": "icon_only",
+        "learningCost": 1,
+        "behavior": "RELEASE_TO_PERFORM",
+        "cooldown": 3600,
+        "levelRequirement": 50
+      },
+      {
+        "regainBuffChance": 0.25,
+        "healthPercentage": 0.3,
+        "effectDuration": 100,
+        "effect": "the_vault:execute",
+        "amplifier": 0,
+        "type": "icon_only",
+        "learningCost": 2,
+        "behavior": "RELEASE_TO_PERFORM",
+        "cooldown": 3600,
+        "levelRequirement": 50
+      }
+    ],
+    "damageLevelConfiguration": [
       {
         "damagePercentMissingHealth": 0.2,
         "healthPercentage": 0.0,
@@ -889,37 +817,13 @@
         "levelRequirement": 50
       },
       {
-        "damagePercentMissingHealth": 0.3,
-        "healthPercentage": 0.0,
-        "effectDuration": 100,
-        "effect": "the_vault:execute",
-        "amplifier": 0,
-        "type": "icon_only",
-        "learningCost": 2,
-        "behavior": "RELEASE_TO_PERFORM",
-        "cooldown": 3600,
-        "levelRequirement": 50
-      },
-      {
         "damagePercentMissingHealth": 0.4,
         "healthPercentage": 0.0,
         "effectDuration": 100,
         "effect": "the_vault:execute",
         "amplifier": 0,
         "type": "icon_only",
-        "learningCost": 2,
-        "behavior": "RELEASE_TO_PERFORM",
-        "cooldown": 3600,
-        "levelRequirement": 50
-      },
-      {
-        "damagePercentMissingHealth": 0.5,
-        "healthPercentage": 0.0,
-        "effectDuration": 100,
-        "effect": "the_vault:execute",
-        "amplifier": 0,
-        "type": "icon_only",
-        "learningCost": 3,
+        "learningCost": 1,
         "behavior": "RELEASE_TO_PERFORM",
         "cooldown": 3600,
         "levelRequirement": 50
@@ -931,19 +835,7 @@
         "effect": "the_vault:execute",
         "amplifier": 0,
         "type": "icon_only",
-        "learningCost": 3,
-        "behavior": "RELEASE_TO_PERFORM",
-        "cooldown": 3600,
-        "levelRequirement": 50
-      },
-      {
-        "damagePercentMissingHealth": 0.7,
-        "healthPercentage": 0.0,
-        "effectDuration": 100,
-        "effect": "the_vault:execute",
-        "amplifier": 0,
-        "type": "icon_only",
-        "learningCost": 4,
+        "learningCost": 1,
         "behavior": "RELEASE_TO_PERFORM",
         "cooldown": 3600,
         "levelRequirement": 50
@@ -955,19 +847,7 @@
         "effect": "the_vault:execute",
         "amplifier": 0,
         "type": "icon_only",
-        "learningCost": 4,
-        "behavior": "RELEASE_TO_PERFORM",
-        "cooldown": 3600,
-        "levelRequirement": 50
-      },
-      {
-        "damagePercentMissingHealth": 0.9,
-        "healthPercentage": 0.0,
-        "effectDuration": 100,
-        "effect": "the_vault:execute",
-        "amplifier": 0,
-        "type": "icon_only",
-        "learningCost": 5,
+        "learningCost": 1,
         "behavior": "RELEASE_TO_PERFORM",
         "cooldown": 3600,
         "levelRequirement": 50
@@ -979,7 +859,7 @@
         "effect": "the_vault:execute",
         "amplifier": 0,
         "type": "icon_only",
-        "learningCost": 5,
+        "learningCost": 2,
         "behavior": "RELEASE_TO_PERFORM",
         "cooldown": 3600,
         "levelRequirement": 50
@@ -987,17 +867,6 @@
     ],
     "name": "Execute",
     "levelConfiguration": [
-      {
-        "healthPercentage": 0.05,
-        "effectDuration": 100,
-        "effect": "the_vault:execute",
-        "amplifier": 0,
-        "type": "icon_only",
-        "learningCost": 1,
-        "behavior": "RELEASE_TO_PERFORM",
-        "cooldown": 3600,
-        "levelRequirement": 0
-      },
       {
         "healthPercentage": 0.1,
         "effectDuration": 100,
@@ -1015,7 +884,7 @@
         "effect": "the_vault:execute",
         "amplifier": 0,
         "type": "icon_only",
-        "learningCost": 2,
+        "learningCost": 1,
         "behavior": "RELEASE_TO_PERFORM",
         "cooldown": 3600,
         "levelRequirement": 0
@@ -1026,7 +895,7 @@
         "effect": "the_vault:execute",
         "amplifier": 0,
         "type": "icon_only",
-        "learningCost": 2,
+        "learningCost": 1,
         "behavior": "RELEASE_TO_PERFORM",
         "cooldown": 3600,
         "levelRequirement": 0
@@ -1037,62 +906,18 @@
         "effect": "the_vault:execute",
         "amplifier": 0,
         "type": "icon_only",
-        "learningCost": 3,
+        "learningCost": 1,
         "behavior": "RELEASE_TO_PERFORM",
         "cooldown": 3600,
         "levelRequirement": 0
       },
       {
-        "healthPercentage": 0.27,
+        "healthPercentage": 0.3,
         "effectDuration": 100,
         "effect": "the_vault:execute",
         "amplifier": 0,
         "type": "icon_only",
-        "learningCost": 3,
-        "behavior": "RELEASE_TO_PERFORM",
-        "cooldown": 3600,
-        "levelRequirement": 0
-      },
-      {
-        "healthPercentage": 0.29,
-        "effectDuration": 100,
-        "effect": "the_vault:execute",
-        "amplifier": 0,
-        "type": "icon_only",
-        "learningCost": 4,
-        "behavior": "RELEASE_TO_PERFORM",
-        "cooldown": 3600,
-        "levelRequirement": 0
-      },
-      {
-        "healthPercentage": 0.31,
-        "effectDuration": 100,
-        "effect": "the_vault:execute",
-        "amplifier": 0,
-        "type": "icon_only",
-        "learningCost": 4,
-        "behavior": "RELEASE_TO_PERFORM",
-        "cooldown": 3600,
-        "levelRequirement": 0
-      },
-      {
-        "healthPercentage": 0.33,
-        "effectDuration": 100,
-        "effect": "the_vault:execute",
-        "amplifier": 0,
-        "type": "icon_only",
-        "learningCost": 5,
-        "behavior": "RELEASE_TO_PERFORM",
-        "cooldown": 3600,
-        "levelRequirement": 0
-      },
-      {
-        "healthPercentage": 0.35,
-        "effectDuration": 100,
-        "effect": "the_vault:execute",
-        "amplifier": 0,
-        "type": "icon_only",
-        "learningCost": 5,
+        "learningCost": 2,
         "behavior": "RELEASE_TO_PERFORM",
         "cooldown": 3600,
         "levelRequirement": 0
@@ -1986,6 +1811,7 @@
       {
         "additionalCount": 1,
         "numberOfEternals": 1,
+        "summonedEternalsCap": 2,
         "ancientChance": 0.0,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -1997,6 +1823,7 @@
       {
         "additionalCount": 1,
         "numberOfEternals": 1,
+        "summonedEternalsCap": 2,
         "ancientChance": 0.05,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -2008,6 +1835,7 @@
       {
         "additionalCount": 1,
         "numberOfEternals": 2,
+        "summonedEternalsCap": 3,
         "ancientChance": 0.05,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -2019,6 +1847,7 @@
       {
         "additionalCount": 1,
         "numberOfEternals": 2,
+        "summonedEternalsCap": 3,
         "ancientChance": 0.1,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -2030,6 +1859,7 @@
       {
         "additionalCount": 1,
         "numberOfEternals": 3,
+        "summonedEternalsCap": 4,
         "ancientChance": 0.1,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -2039,8 +1869,9 @@
         "levelRequirement": 25
       },
       {
-        "additionalCount": 2,
+        "additionalCount": 1,
         "numberOfEternals": 3,
+        "summonedEternalsCap": 4,
         "ancientChance": 0.15,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -2050,8 +1881,9 @@
         "levelRequirement": 25
       },
       {
-        "additionalCount": 2,
+        "additionalCount": 1,
         "numberOfEternals": 3,
+        "summonedEternalsCap": 4,
         "ancientChance": 0.15,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -2061,8 +1893,9 @@
         "levelRequirement": 25
       },
       {
-        "additionalCount": 2,
-        "numberOfEternals": 4,
+        "additionalCount": 1,
+        "numberOfEternals": 3,
+        "summonedEternalsCap": 4,
         "ancientChance": 0.2,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -2072,8 +1905,9 @@
         "levelRequirement": 25
       },
       {
-        "additionalCount": 2,
-        "numberOfEternals": 4,
+        "additionalCount": 1,
+        "numberOfEternals": 3,
+        "summonedEternalsCap": 3,
         "ancientChance": 0.25,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -2083,8 +1917,9 @@
         "levelRequirement": 25
       },
       {
-        "additionalCount": 3,
-        "numberOfEternals": 5,
+        "additionalCount": 2,
+        "numberOfEternals": 3,
+        "summonedEternalsCap": 5,
         "ancientChance": 0.25,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -2097,6 +1932,7 @@
     "damageLevelConfiguration": [
       {
         "numberOfEternals": 1,
+        "summonedEternalsCap": 1,
         "increasedDamagePercent": 0.2,
         "ancientChance": 0.0,
         "despawnTime": 2400,
@@ -2108,6 +1944,7 @@
       },
       {
         "numberOfEternals": 1,
+        "summonedEternalsCap": 1,
         "increasedDamagePercent": 0.4,
         "ancientChance": 0.05,
         "despawnTime": 2400,
@@ -2119,6 +1956,7 @@
       },
       {
         "numberOfEternals": 1,
+        "summonedEternalsCap": 1,
         "increasedDamagePercent": 0.6,
         "ancientChance": 0.1,
         "despawnTime": 2400,
@@ -2130,6 +1968,7 @@
       },
       {
         "numberOfEternals": 1,
+        "summonedEternalsCap": 1,
         "increasedDamagePercent": 0.8,
         "ancientChance": 0.15,
         "despawnTime": 2400,
@@ -2141,6 +1980,7 @@
       },
       {
         "numberOfEternals": 1,
+        "summonedEternalsCap": 1,
         "increasedDamagePercent": 1.0,
         "ancientChance": 0.15,
         "despawnTime": 2400,
@@ -2152,6 +1992,7 @@
       },
       {
         "numberOfEternals": 2,
+        "summonedEternalsCap": 2,
         "increasedDamagePercent": 1.2,
         "ancientChance": 0.2,
         "despawnTime": 2400,
@@ -2163,6 +2004,7 @@
       },
       {
         "numberOfEternals": 2,
+        "summonedEternalsCap": 2,
         "increasedDamagePercent": 1.4,
         "ancientChance": 0.3,
         "despawnTime": 2400,
@@ -2174,6 +2016,7 @@
       },
       {
         "numberOfEternals": 2,
+        "summonedEternalsCap": 2,
         "increasedDamagePercent": 1.6,
         "ancientChance": 0.4,
         "despawnTime": 2400,
@@ -2185,6 +2028,7 @@
       },
       {
         "numberOfEternals": 2,
+        "summonedEternalsCap": 2,
         "increasedDamagePercent": 1.8,
         "ancientChance": 0.6,
         "despawnTime": 2400,
@@ -2195,7 +2039,8 @@
         "levelRequirement": 25
       },
       {
-        "numberOfEternals": 3,
+        "numberOfEternals": 2,
+        "summonedEternalsCap": 2,
         "increasedDamagePercent": 2.0,
         "ancientChance": 0.75,
         "despawnTime": 2400,
@@ -2209,6 +2054,7 @@
     "debuffLevelConfiguration": [
       {
         "numberOfEternals": 1,
+        "summonedEternalsCap": 1,
         "applyDebuffChance": 1.0,
         "debuffDurationTicks": 200,
         "debuffAmplifier": 0,
@@ -2222,6 +2068,7 @@
       },
       {
         "numberOfEternals": 1,
+        "summonedEternalsCap": 1,
         "applyDebuffChance": 1.0,
         "debuffDurationTicks": 200,
         "debuffAmplifier": 0,
@@ -2235,6 +2082,7 @@
       },
       {
         "numberOfEternals": 2,
+        "summonedEternalsCap": 2,
         "applyDebuffChance": 1.0,
         "debuffDurationTicks": 200,
         "debuffAmplifier": 1,
@@ -2248,6 +2096,7 @@
       },
       {
         "numberOfEternals": 2,
+        "summonedEternalsCap": 2,
         "applyDebuffChance": 1.0,
         "debuffDurationTicks": 200,
         "debuffAmplifier": 1,
@@ -2261,6 +2110,7 @@
       },
       {
         "numberOfEternals": 3,
+        "summonedEternalsCap": 3,
         "applyDebuffChance": 1.0,
         "debuffDurationTicks": 200,
         "debuffAmplifier": 2,
@@ -2274,6 +2124,7 @@
       },
       {
         "numberOfEternals": 3,
+        "summonedEternalsCap": 3,
         "applyDebuffChance": 1.0,
         "debuffDurationTicks": 200,
         "debuffAmplifier": 2,
@@ -2287,6 +2138,7 @@
       },
       {
         "numberOfEternals": 3,
+        "summonedEternalsCap": 3,
         "applyDebuffChance": 1.0,
         "debuffDurationTicks": 200,
         "debuffAmplifier": 3,
@@ -2299,7 +2151,8 @@
         "levelRequirement": 25
       },
       {
-        "numberOfEternals": 4,
+        "numberOfEternals": 3,
+        "summonedEternalsCap": 3,
         "applyDebuffChance": 1.0,
         "debuffDurationTicks": 200,
         "debuffAmplifier": 3,
@@ -2312,7 +2165,8 @@
         "levelRequirement": 25
       },
       {
-        "numberOfEternals": 4,
+        "numberOfEternals": 3,
+        "summonedEternalsCap": 3,
         "applyDebuffChance": 1.0,
         "debuffDurationTicks": 200,
         "debuffAmplifier": 4,
@@ -2325,7 +2179,8 @@
         "levelRequirement": 25
       },
       {
-        "numberOfEternals": 5,
+        "numberOfEternals": 3,
+        "summonedEternalsCap": 3,
         "applyDebuffChance": 1.0,
         "debuffDurationTicks": 200,
         "debuffAmplifier": 4,
@@ -2342,6 +2197,7 @@
     "levelConfiguration": [
       {
         "numberOfEternals": 1,
+        "summonedEternalsCap": 1,
         "ancientChance": 0.0,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -2352,6 +2208,7 @@
       },
       {
         "numberOfEternals": 1,
+        "summonedEternalsCap": 1,
         "ancientChance": 0.05,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -2362,6 +2219,7 @@
       },
       {
         "numberOfEternals": 2,
+        "summonedEternalsCap": 2,
         "ancientChance": 0.05,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -2372,6 +2230,7 @@
       },
       {
         "numberOfEternals": 2,
+        "summonedEternalsCap": 2,
         "ancientChance": 0.1,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -2382,6 +2241,7 @@
       },
       {
         "numberOfEternals": 3,
+        "summonedEternalsCap": 3,
         "ancientChance": 0.1,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -2392,6 +2252,7 @@
       },
       {
         "numberOfEternals": 3,
+        "summonedEternalsCap": 3,
         "ancientChance": 0.15,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -2402,6 +2263,7 @@
       },
       {
         "numberOfEternals": 4,
+        "summonedEternalsCap": 3,
         "ancientChance": 0.15,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -2412,6 +2274,7 @@
       },
       {
         "numberOfEternals": 4,
+        "summonedEternalsCap": 3,
         "ancientChance": 0.2,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -2422,6 +2285,7 @@
       },
       {
         "numberOfEternals": 5,
+        "summonedEternalsCap": 3,
         "ancientChance": 0.25,
         "despawnTime": 2400,
         "vaultOnly": true,
@@ -2432,6 +2296,7 @@
       },
       {
         "numberOfEternals": 5,
+        "summonedEternalsCap": 3,
         "ancientChance": 0.3,
         "despawnTime": 2400,
         "vaultOnly": true,

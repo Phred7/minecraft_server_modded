@@ -10,7 +10,7 @@ import mods.botania.ElvenTrade;
 
 craftingTable.addShaped("darkutilsplayerdamagetrap", <item:darkutils:rune_damage_player>, [
     [<item:the_vault:vault_nugget>, <item:minecraft:netherite_sword>, <item:the_vault:vault_nugget>],
-    [<item:minecraft:phantom_membrane>, <item:the_vault:omega_pog>, <item:minecraft:phantom_membrane>],
+    [<item:minecraft:phantom_membrane>, <item:the_vault:gem_pog>, <item:minecraft:phantom_membrane>],
     [<item:darkutils:blank_plate>, <item:the_vault:perfect_black_opal>, <item:darkutils:blank_plate>]
 ]);
 

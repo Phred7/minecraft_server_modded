@@ -22,8 +22,8 @@ craftingTable.addShaped("material_stonework_factory", <item:industrialforegoing:
 
 craftingTable.addShaped("enchantment_extractor", <item:industrialforegoing:enchantment_extractor>, [
     [<tag:items:forge:plastic>, <item:quark:charred_nether_bricks>, <tag:items:forge:plastic>],
-    [<item:minecraft:lectern>, <item:industrialforegoing:machine_frame_advanced>, <item:minecraft:lectern>],
-    [<item:the_vault:echo_pog>, <item:the_vault:omega_pog>, <item:the_vault:echo_pog>]
+    [<item:minecraft:lectern>, <item:industrialforegoing:machine_frame_supreme>, <item:minecraft:lectern>],
+    [<item:the_vault:omega_pog>, <item:the_vault:echo_pog>, <item:the_vault:omega_pog>]
 ]);
 
 craftingTable.addShaped("mob_crusher", <item:industrialforegoing:mob_crusher>, [

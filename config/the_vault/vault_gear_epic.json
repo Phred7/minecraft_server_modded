@@ -179,10 +179,10 @@
           "MIN_VAULT_LEVEL": {
             "pools": [
               {
-                "base": 40,
+                "base": 25,
                 "rolls": {
                   "type": "binomial",
-                  "trials": 30,
+                  "trials": 15,
                   "probability": 0.5
                 },
                 "entries": [
@@ -433,10 +433,10 @@
           "MIN_VAULT_LEVEL": {
             "pools": [
               {
-                "base": 40,
+                "base": 25,
                 "rolls": {
                   "type": "binomial",
-                  "trials": 30,
+                  "trials": 15,
                   "probability": 0.5
                 },
                 "entries": [
@@ -912,10 +912,10 @@
           "MIN_VAULT_LEVEL": {
             "pools": [
               {
-                "base": 40,
+                "base": 25,
                 "rolls": {
                   "type": "binomial",
-                  "trials": 30,
+                  "trials": 15,
                   "probability": 0.5
                 },
                 "entries": [
@@ -1190,10 +1190,10 @@
           "MIN_VAULT_LEVEL": {
             "pools": [
               {
-                "base": 40,
+                "base": 25,
                 "rolls": {
                   "type": "binomial",
-                  "trials": 30,
+                  "trials": 15,
                   "probability": 0.5
                 },
                 "entries": [
@@ -1468,10 +1468,10 @@
           "MIN_VAULT_LEVEL": {
             "pools": [
               {
-                "base": 40,
+                "base": 25,
                 "rolls": {
                   "type": "binomial",
-                  "trials": 30,
+                  "trials": 15,
                   "probability": 0.5
                 },
                 "entries": [
@@ -1746,10 +1746,10 @@
           "MIN_VAULT_LEVEL": {
             "pools": [
               {
-                "base": 40,
+                "base": 25,
                 "rolls": {
                   "type": "binomial",
-                  "trials": 30,
+                  "trials": 15,
                   "probability": 0.5
                 },
                 "entries": [
