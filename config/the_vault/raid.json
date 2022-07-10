@@ -1,226 +1,94 @@
 {
   "mobPools": {
-    "fgroup1": [
+    "ranged": [
       { "level": 0,
         "mobPool": {
           "mobs": [
             {
-              "value": "minecraft:stray",
-              "weight": 4
-            },
-            {
-              "value": "the_vault:vault_fighter",
-              "weight": 2
+              "value": "minecraft:skeleton",
+              "weight": 1
             }
           ]
         }
-      }
-    ],
-    "fgroup2": [
-      { "level": 0,
+      },
+      { "level": 115,
         "mobPool": {
           "mobs": [
             {
-              "value": "minecraft:stray",
-              "weight": 4
+              "value": "minecraft:skeleton",
+              "weight": 1
             },
             {
-              "value": "minecraft:vindicator",
-              "weight": 2
+              "value": "minecraft:stray",
+              "weight": 1
             }
           ]
         }
-      }
-    ],
-    "fgroup3": [
-      { "level": 0,
+      },
+      { "level": 250,
         "mobPool": {
           "mobs": [
             {
               "value": "minecraft:pillager",
-              "weight": 4
+              "weight": 1
             },
             {
-              "value": "minecraft:vindicator",
-              "weight": 2
-            }
-          ]
-        }
-      }
-    ],
-    "fgroup4": [
-      { "level": 0,
-        "mobPool": {
-          "mobs": [
-            {
-              "value": "minecraft:vex",
-              "weight": 2
-            },
-            {
-              "value": "minecraft:vindicator",
+              "value": "minecraft:skeleton",
               "weight": 4
-            }
-          ]
-        }
-      }
-    ],
-    "fgroup5": [
-      { "level": 0,
-        "mobPool": {
-          "mobs": [
+            },
             {
               "value": "minecraft:stray",
               "weight": 2
-            },
-            {
-              "value": "minecraft:spider",
-              "weight": 4
             }
           ]
         }
       }
     ],
-    "fgroup6": [
+    "superranged": [
       { "level": 0,
         "mobPool": {
           "mobs": [
             {
-              "value": "minecraft:vex",
-              "weight": 2
+              "value": "minecraft:skeleton",
+              "weight": 1
+            }
+          ]
+        }
+      },
+      { "level": 115,
+        "mobPool": {
+          "mobs": [
+            {
+              "value": "minecraft:skeleton",
+              "weight": 1
             },
             {
-              "value": "minecraft:spider",
+              "value": "minecraft:stray",
               "weight": 4
             }
           ]
         }
-      }
-    ],
-    "fgroup7": [
-      { "level": 0,
-        "mobPool": {
-          "mobs": [
-            {
-              "value": "minecraft:ravager",
-              "weight": 2
-            }
-          ]
-        }
-      }
-    ],
-    "fgroup8": [
-      { "level": 0,
+      },
+      { "level": 250,
         "mobPool": {
           "mobs": [
             {
               "value": "minecraft:pillager",
-              "weight": 2
+              "weight": 12
             },
             {
-              "value": "minecraft:spider",
+              "value": "minecraft:skeleton",
+              "weight": 1
+            },
+            {
+              "value": "minecraft:stray",
               "weight": 4
             }
           ]
         }
       }
     ],
-    "fgroup9": [
-      { "level": 0,
-        "mobPool": {
-          "mobs": [
-            {
-              "value": "the_vault:vault_guardian",
-              "weight": 2
-            }
-          ]
-        }
-      }
-    ],
-    "fgroup10": [
-      { "level": 0,
-        "mobPool": {
-          "mobs": [
-            {
-              "value": "minecraft:ravager",
-              "weight": 1
-            },
-            {
-              "value": "minecraft:zombie",
-              "weight": 6
-            }
-          ]
-        }
-      }
-    ],
-    "fgroup11": [
-      { "level": 0,
-        "mobPool": {
-          "mobs": [
-            {
-              "value": "minecraft:ravager",
-              "weight": 1
-            },
-            {
-              "value": "the_vault:vault_guardian",
-              "weight": 6
-            }
-          ]
-        }
-      }
-    ],
-    "fgroup12": [
-      { "level": 0,
-        "mobPool": {
-          "mobs": [
-            {
-              "value": "the_vault:boogieman",
-              "weight": 1
-            },
-            {
-              "value": "the_vault:blue_blaze",
-              "weight": 3
-            }
-          ]
-        }
-      }
-    ],
-    "fgroup13": [
-      { "level": 0,
-        "mobPool": {
-          "mobs": [
-            {
-              "value": "the_vault:robot",
-              "weight": 1
-            }
-          ]
-        }
-      }
-    ],
-    "fgroup14": [
-      { "level": 0,
-        "mobPool": {
-          "mobs": [
-            {
-              "value": "the_vault:arena_boss",
-              "weight": 1
-            }
-          ]
-        }
-      }
-    ],
-    "testgroup": [
-      { "level": 0,
-        "mobPool": {
-          "mobs": [
-            {
-              "value": "minecraft:magma_cube",
-              "weight": 4
-            }
-          ]
-        }
-      }
-    ],
-    "wutax": [
+    "melee": [
       { "level": 0,
         "mobPool": {
           "mobs": [
@@ -639,7 +507,7 @@
     ]
   },
   "raidWaves": [
-    { "_comment": "wavecomp1",
+    { "_comment": "original weight 80",
       "value": {
         "waves": [
           {
@@ -647,93 +515,50 @@
               {
                 "min": 2,
                 "max": 3,
-                "mobPool": "fgroup1"
-              }
-            ]
-          },
-          {
-            "waveMobs": [
-              {
-                "min": 3,
-                "max": 4,
-                "mobPool": "fgroup2"
-              }
-            ]
-          },
-          {
-            "waveMobs": [
-              {
-                "min": 3,
-                "max": 4,
-                "mobPool": "fgroup3"
-              }
-            ]
-          }
-        ]
-      },
-      "weight": 100
-    },
-    { "_comment": "wavecomp2",
-      "value": {
-        "waves": [
-          {
-            "waveMobs": [
+                "mobPool": "ranged"
+              },
               {
                 "min": 2,
                 "max": 3,
-                "mobPool": "fgroup1"
-              }
-            ]
-          },
-          {
-            "waveMobs": [
-              {
-                "min": 3,
-                "max": 4,
-                "mobPool": "fgroup3"
-              }
-            ]
-          },
-          {
-            "waveMobs": [
-              {
-                "min": 3,
-                "max": 4,
-                "mobPool": "fgroup4"
-              }
-            ]
-          }
-        ]
-      },
-      "weight": 100
-    },
-    { "_comment": "wavecomp3",
-      "value": {
-        "waves": [
-          {
-            "waveMobs": [
+                "mobPool": "melee"
+              },
               {
                 "min": 2,
                 "max": 3,
-                "mobPool": "fgroup5"
+                "mobPool": "creepers"
               }
             ]
           },
           {
             "waveMobs": [
               {
-                "min": 3,
-                "max": 4,
-                "mobPool": "fgroup2"
+                "min": 4,
+                "max": 5,
+                "mobPool": "ranged"
+              },
+              {
+                "min": 4,
+                "max": 6,
+                "mobPool": "melee"
+              },
+              {
+                "min": 2,
+                "max": 3,
+                "mobPool": "creepers"
               }
             ]
           },
           {
             "waveMobs": [
               {
-                "min": 3,
-                "max": 4,
-                "mobPool": "fgroup6"
+                "min": 6,
+                "max": 7,
+                "mobPool": "ranged"
+              },
+              {
+                "min": 5,
+                "max": 8,
+                "mobPool": "melee"
               }
             ]
           }
@@ -741,7 +566,7 @@
       },
       "weight": 80
     },
-    { "_comment": "wavecomp4",
+    { "_comment": "the mixer weight 40",
       "value": {
         "waves": [
           {
@@ -749,33 +574,78 @@
               {
                 "min": 2,
                 "max": 3,
-                "mobPool": "fgroup1"
+                "mobPool": "ranged"
+              },
+              {
+                "min": 1,
+                "max": 2,
+                "mobPool": "spiderbomb"
+              },
+              {
+                "min": 2,
+                "max": 3,
+                "mobPool": "melee"
+              },
+              {
+                "min": 2,
+                "max": 3,
+                "mobPool": "creepers"
               }
             ]
           },
           {
             "waveMobs": [
               {
-                "min": 3,
-                "max": 4,
-                "mobPool": "fgroup2"
+                "min": 2,
+                "max": 3,
+                "mobPool": "vexes"
+              },
+              {
+                "min": 1,
+                "max": 2,
+                "mobPool": "spiderbomb"
+              },
+              {
+                "min": 2,
+                "max": 3,
+                "mobPool": "ranged"
+              },
+              {
+                "min": 5,
+                "max": 8,
+                "mobPool": "melee"
               }
             ]
           },
           {
             "waveMobs": [
               {
-                "min": 3,
-                "max": 4,
-                "mobPool": "fgroup7"
+                "min": 2,
+                "max": 3,
+                "mobPool": "vexes"
+              },
+              {
+                "min": 2,
+                "max": 3,
+                "mobPool": "ranged"
+              },
+              {
+                "min": 5,
+                "max": 8,
+                "mobPool": "melee"
+              },
+              {
+                "min": 5,
+                "max": 8,
+                "mobPool": "vaultfighters"
               }
             ]
           }
         ]
       },
-      "weight": 80
+      "weight": 40
     },
-    { "_comment": "wavecomp5",
+    { "_comment": "variation short 40",
       "value": {
         "waves": [
           {
@@ -783,33 +653,54 @@
               {
                 "min": 2,
                 "max": 3,
-                "mobPool": "fgroup2"
+                "mobPool": "ranged"
+              },
+              {
+                "min": 1,
+                "max": 2,
+                "mobPool": "spiderbomb"
+              },
+              {
+                "min": 2,
+                "max": 3,
+                "mobPool": "melee"
+              },
+              {
+                "min": 2,
+                "max": 3,
+                "mobPool": "vaultfighters"
               }
             ]
           },
           {
             "waveMobs": [
               {
-                "min": 3,
-                "max": 4,
-                "mobPool": "fgroup8"
-              }
-            ]
-          },
-          {
-            "waveMobs": [
+                "min": 2,
+                "max": 3,
+                "mobPool": "vexes"
+              },
               {
-                "min": 3,
-                "max": 4,
-                "mobPool": "fgroup9"
+                "min": 1,
+                "max": 2,
+                "mobPool": "creepers"
+              },
+              {
+                "min": 2,
+                "max": 3,
+                "mobPool": "superranged"
+              },
+              {
+                "min": 5,
+                "max": 8,
+                "mobPool": "melee"
               }
             ]
           }
         ]
       },
-      "weight": 80
+      "weight": 40
     },
-    { "_comment": "wavecomp6",
+    { "_comment": "variation long 40",
       "value": {
         "waves": [
           {
@@ -817,7 +708,46 @@
               {
                 "min": 2,
                 "max": 3,
-                "mobPool": "fgroup2"
+                "mobPool": "ranged"
+              },
+              {
+                "min": 1,
+                "max": 2,
+                "mobPool": "spiderbomb"
+              },
+              {
+                "min": 2,
+                "max": 3,
+                "mobPool": "melee"
+              },
+              {
+                "min": 2,
+                "max": 3,
+                "mobPool": "vaultfighters"
+              }
+            ]
+          },
+          {
+            "waveMobs": [
+              {
+                "min": 2,
+                "max": 3,
+                "mobPool": "vexes"
+              },
+              {
+                "min": 1,
+                "max": 2,
+                "mobPool": "creepers"
+              },
+              {
+                "min": 2,
+                "max": 3,
+                "mobPool": "superranged"
+              },
+              {
+                "min": 5,
+                "max": 8,
+                "mobPool": "melee"
               }
             ]
           },
@@ -826,24 +756,54 @@
               {
                 "min": 3,
                 "max": 4,
-                "mobPool": "fgroup3"
+                "mobPool": "ranged"
+              },
+              {
+                "min": 2,
+                "max": 3,
+                "mobPool": "spiderbomb"
+              },
+              {
+                "min": 3,
+                "max": 4,
+                "mobPool": "melee"
+              },
+              {
+                "min": 2,
+                "max": 3,
+                "mobPool": "vaultfighters"
               }
             ]
           },
           {
             "waveMobs": [
               {
-                "min": 3,
+                "min": 2,
+                "max": 3,
+                "mobPool": "vexes"
+              },
+              {
+                "min": 2,
                 "max": 4,
-                "mobPool": "fgroup10"
+                "mobPool": "creepers"
+              },
+              {
+                "min": 2,
+                "max": 4,
+                "mobPool": "superranged"
+              },
+              {
+                "min": 5,
+                "max": 8,
+                "mobPool": "melee"
               }
             ]
           }
         ]
       },
-      "weight": 80
+      "weight": 40
     },
-    { "_comment": "wavecomp7",
+    { "_comment": "spiders and ranged long 40",
       "value": {
         "waves": [
           {
@@ -851,7 +811,12 @@
               {
                 "min": 2,
                 "max": 3,
-                "mobPool": "fgroup9"
+                "mobPool": "ranged"
+              },
+              {
+                "min": 1,
+                "max": 2,
+                "mobPool": "spiderbomb"
               }
             ]
           },
@@ -860,7 +825,12 @@
               {
                 "min": 3,
                 "max": 4,
-                "mobPool": "fgroup9"
+                "mobPool": "ranged"
+              },
+              {
+                "min": 2,
+                "max": 4,
+                "mobPool": "spiderbomb"
               }
             ]
           },
@@ -869,15 +839,269 @@
               {
                 "min": 3,
                 "max": 4,
-                "mobPool": "fgroup11"
+                "mobPool": "ranged"
+              },
+              {
+                "min": 2,
+                "max": 4,
+                "mobPool": "spiderbomb"
+              },
+              {
+                "min": 1,
+                "max": 2,
+                "mobPool": "superranged"
+              }
+            ]
+          },
+          {
+            "waveMobs": [
+              {
+                "min": 3,
+                "max": 4,
+                "mobPool": "spiderbomb"
+              },
+              {
+                "min": 3,
+                "max": 5,
+                "mobPool": "spiderbomb"
+              },
+              {
+                "min": 1,
+                "max": 2,
+                "mobPool": "superranged"
               }
             ]
           }
         ]
       },
-      "weight": 80
+      "weight": 40
     },
-    { "_comment": "wavecomp8",
+    { "_comment": "troll 20",
+      "value": {
+        "waves": [
+          {
+            "waveMobs": [
+              {
+                "min": 1,
+                "max": 1,
+                "mobPool": "troll"
+              }
+            ]
+          },
+          {
+            "waveMobs": [
+              {
+                "min": 1,
+                "max": 1,
+                "mobPool": "troll"
+              }
+            ]
+          },
+          {
+            "waveMobs": [
+              {
+                "min": 14,
+                "max": 20,
+                "mobPool": "troll"
+              }
+            ]
+          }
+        ]
+      },
+      "weight": 20
+    },
+    { "_comment": "guardians 20",
+      "value": {
+        "waves": [
+          {
+            "waveMobs": [
+              {
+                "min": 1,
+                "max": 3,
+                "mobPool": "melee"
+              },
+              {
+                "min": 1,
+                "max": 3,
+                "mobPool": "ranged"
+              },
+              {
+                "min": 1,
+                "max": 1,
+                "mobPool": "spiderbomb"
+              }
+            ]
+          },
+          {
+            "waveMobs": [
+              {
+                "min": 2,
+                "max": 5,
+                "mobPool": "melee"
+              },
+              {
+                "min": 2,
+                "max": 4,
+                "mobPool": "ranged"
+              },
+              {
+                "min": 1,
+                "max": 1,
+                "mobPool": "spiderbomb"
+              }
+            ]
+          },
+          {
+            "waveMobs": [
+              {
+                "min": 2,
+                "max": 5,
+                "mobPool": "melee"
+              },
+              {
+                "min": 1,
+                "max": 1,
+                "mobPool": "guardians"
+              }
+            ]
+          }
+        ]
+      },
+      "weight": 20
+    },
+    { "_comment": "silverfish 20",
+      "value": {
+        "waves": [
+          {
+            "waveMobs": [
+              {
+                "min": 4,
+                "max": 8,
+                "mobPool": "silverfish"
+              },
+              {
+                "min": 1,
+                "max": 3,
+                "mobPool": "ranged"
+              }
+            ]
+          },
+          {
+            "waveMobs": [
+              {
+                "min": 6,
+                "max": 10,
+                "mobPool": "silverfish"
+              },
+              {
+                "min": 2,
+                "max": 6,
+                "mobPool": "ranged"
+              }
+            ]
+          },
+          {
+            "waveMobs": [
+              {
+                "min": 8,
+                "max": 14,
+                "mobPool": "silverfish"
+              },
+              {
+                "min": 2,
+                "max": 6,
+                "mobPool": "superranged"
+              }
+            ]
+          }
+        ]
+      },
+      "weight": 20
+    },
+    { "_comment": "guardians long 20",
+      "value": {
+        "waves": [
+          {
+            "waveMobs": [
+              {
+                "min": 1,
+                "max": 3,
+                "mobPool": "melee"
+              },
+              {
+                "min": 1,
+                "max": 3,
+                "mobPool": "ranged"
+              },
+              {
+                "min": 1,
+                "max": 1,
+                "mobPool": "spiderbomb"
+              },
+              {
+                "min": 1,
+                "max": 2,
+                "mobPool": "vaultfighters"
+              }
+            ]
+          },
+          {
+            "waveMobs": [
+              {
+                "min": 2,
+                "max": 3,
+                "mobPool": "superranged"
+              },
+              {
+                "min": 3,
+                "max": 4,
+                "mobPool": "vaultfighters"
+              },
+              {
+                "min": 1,
+                "max": 1,
+                "mobPool": "guardians"
+              }
+            ]
+          },
+          {
+            "waveMobs": [
+              {
+                "min": 2,
+                "max": 5,
+                "mobPool": "melee"
+              },
+              {
+                "min": 1,
+                "max": 1,
+                "mobPool": "guardians"
+              }
+            ]
+          },
+          {
+            "waveMobs": [
+              {
+                "min": 2,
+                "max": 3,
+                "mobPool": "superranged"
+              },
+              {
+                "min": 3,
+                "max": 4,
+                "mobPool": "vaultfighters"
+              },
+              {
+                "min": 1,
+                "max": 1,
+                "mobPool": "guardians"
+              }
+            ]
+          }
+        ]
+      },
+      "weight": 20
+    },
+    { "_comment": "creeper nightmare weight 20",
       "value": {
         "waves": [
           {
@@ -885,31 +1109,162 @@
               {
                 "min": 2,
                 "max": 3,
-                "mobPool": "fgroup14"
+                "mobPool": "ranged"
+              },
+              {
+                "min": 10,
+                "max": 12,
+                "mobPool": "creepers"
               }
             ]
           },
           {
             "waveMobs": [
               {
-                "min": 3,
+                "min": 2,
                 "max": 4,
-                "mobPool": "fgroup12"
+                "mobPool": "ranged"
+              },
+              {
+                "min": 12,
+                "max": 18,
+                "mobPool": "creepers"
               }
             ]
           },
           {
             "waveMobs": [
               {
-                "min": 3,
+                "min": 2,
                 "max": 4,
-                "mobPool": "fgroup13"
+                "mobPool": "ranged"
+              },
+              {
+                "min": 14,
+                "max": 20,
+                "mobPool": "creepers"
               }
             ]
           }
         ]
       },
-      "weight": 80000
+      "weight": 20
+    },
+    { "_comment": "spiderbomb weight 20",
+      "value": {
+        "waves": [
+          {
+            "waveMobs": [
+              {
+                "min": 6,
+                "max": 9,
+                "mobPool": "spiderbomb"
+              }
+            ]
+          },
+          {
+            "waveMobs": [
+              {
+                "min": 8,
+                "max": 14,
+                "mobPool": "spiderbomb"
+              }
+            ]
+          },
+          {
+            "waveMobs": [
+              {
+                "min": 11,
+                "max": 17,
+                "mobPool": "spiderbomb"
+              }
+            ]
+          }
+        ]
+      },
+      "weight": 20
+    },
+    { "_comment": "vaultfighters weight 40",
+      "value": {
+        "waves": [
+          {
+            "waveMobs": [
+              {
+                "min": 4,
+                "max": 6,
+                "mobPool": "vaultfighters"
+              },
+              {
+                "min": 1,
+                "max": 2,
+                "mobPool": "ranged"
+              }
+            ]
+          },
+          {
+            "waveMobs": [
+              {
+                "min": 6,
+                "max": 8,
+                "mobPool": "vaultfighters"
+              },
+              {
+                "min": 1,
+                "max": 2,
+                "mobPool": "ranged"
+              }
+            ]
+          },
+          {
+            "waveMobs": [
+              {
+                "min": 7,
+                "max": 10,
+                "mobPool": "vaultfighters"
+              },
+              {
+                "min": 1,
+                "max": 3,
+                "mobPool": "ranged"
+              }
+              
+            ]
+          }
+        ]
+      },
+      "weight": 40
+    },
+    { "_comment": "ravagerfest weight 1",
+      "value": {
+        "waves": [
+          {
+            "waveMobs": [
+              {
+                "min": 1,
+                "max": 1,
+                "mobPool": "ravagerfest"
+              }
+            ]
+          }
+        ]
+      },
+      "weight": 1
+    },
+    { "_comment": "the troll goblins 2",
+      "value": {
+        "waves": [
+          {
+            "waveMobs": [
+              {
+                "min": 10,
+                "max": 16,
+                "mobPool": "goblins"
+              }
+            ]
+          }
+        ]
+      },
+      "weight": 2
     }
   ],
   "amountLevels": [

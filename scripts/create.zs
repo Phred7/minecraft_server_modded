@@ -222,16 +222,16 @@ craftingTable.addShaped("brass_casing", <item:create:brass_casing> *4, [
     [<tag:items:minecraft:planks>, <tag:items:minecraft:planks>, <tag:items:minecraft:planks>]
 ]);
 
-<recipetype:create:mixing>.addRecipe("mixing_healing_potion", "heated",<fluid:create:potion>.withTag({Potion: "minecraft:healing"}) *1000, [
+<recipetype:create:mixing>.addRecipe("mixing_healing_potion", "heated",<fluid:create:potion>.withTag({Potion: "minecraft:healing", Bottle:"REGULAR"}) *1000, [
     <item:minecraft:golden_apple>,], [<fluid:create:potion>.withTag({Potion: "minecraft:awkward", Bottle:"REGULAR"}) *1000]);
 
-<recipetype:create:mixing>.addRecipe("mixing_healing_potion_2", "heated",<fluid:create:potion>.withTag({Potion: "minecraft:strong_healing"}) *1000, [
+<recipetype:create:mixing>.addRecipe("mixing_healing_potion_2", "heated",<fluid:create:potion>.withTag({Potion: "minecraft:strong_healing", Bottle:"REGULAR"}) *1000, [
     <item:minecraft:glowstone_dust>,], [<fluid:create:potion>.withTag({Potion: "minecraft:healing", Bottle:"REGULAR"}) *1000]);
 
-<recipetype:create:mixing>.addRecipe("mixing_regen_potion", "heated",<fluid:create:potion>.withTag({Potion: "minecraft:regeneration"}) *1000, [
+<recipetype:create:mixing>.addRecipe("mixing_regen_potion", "heated",<fluid:create:potion>.withTag({Potion: "minecraft:regeneration", Bottle:"REGULAR"}) *1000, [
     <item:the_vault:vault_essence>,], [<fluid:create:potion>.withTag({Potion: "minecraft:awkward", Bottle:"REGULAR"}) *1000]);
 
-<recipetype:create:mixing>.addRecipe("mixing_regen_potion_2", "heated",<fluid:create:potion>.withTag({Potion: "minecraft:strong_regeneration"}) *1000, [
+<recipetype:create:mixing>.addRecipe("mixing_regen_potion_2", "heated",<fluid:create:potion>.withTag({Potion: "minecraft:strong_regeneration", Bottle:"REGULAR"}) *1000, [
     <item:minecraft:glowstone_dust>,], [<fluid:create:potion>.withTag({Potion: "minecraft:regeneration", Bottle:"REGULAR"}) *1000]);
 
 <recipetype:create:crushing>.addJSONRecipe("vault_apple_jade", { 

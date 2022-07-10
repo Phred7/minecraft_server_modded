@@ -1,43 +1,43 @@
 OpenJDK 64-Bit Server VM (25.312-b07) for linux-amd64 JRE (1.8.0_312-8u312-b07-0ubuntu1~20.04-b07), built on Nov  3 2021 13:54:59 by "buildd" with gcc 9.3.0
-Memory: 4k page, physical 24560436k(18668680k free), swap 2097148k(2097148k free)
+Memory: 4k page, physical 24560436k(18387476k free), swap 2097148k(2097148k free)
 CommandLine flags: -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:G1HeapRegionSize=16777216 -XX:G1HeapWastePercent=5 -XX:G1MaxNewSizePercent=50 -XX:G1MixedGCCountTarget=4 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1NewSizePercent=40 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:G1ReservePercent=15 -XX:GCLogFileSize=1048576 -XX:InitialHeapSize=15032385536 -XX:InitialTenuringThreshold=1 -XX:InitiatingHeapOccupancyPercent=20 -XX:MaxGCPauseMillis=200 -XX:MaxHeapSize=15032385536 -XX:MaxTenuringThreshold=1 -XX:NumberOfGCLogFiles=5 -XX:+ParallelRefProcEnabled -XX:+PerfDisableSharedMem -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:SurvivorRatio=32 -XX:+UnlockExperimentalVMOptions -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseG1GC -XX:+UseGCLogFileRotation 
-2022-07-09T19:11:05.253-0700: 5.639: [GC pause (Metadata GC Threshold) (young) (initial-mark), 0.0262958 secs]
-   [Parallel Time: 21.9 ms, GC Workers: 8]
-      [GC Worker Start (ms): Min: 5638.9, Avg: 5639.0, Max: 5639.1, Diff: 0.2]
-      [Ext Root Scanning (ms): Min: 0.5, Avg: 0.8, Max: 1.0, Diff: 0.5, Sum: 6.1]
+2022-07-09T19:14:53.762-0700: 5.503: [GC pause (Metadata GC Threshold) (young) (initial-mark), 0.0220566 secs]
+   [Parallel Time: 18.1 ms, GC Workers: 8]
+      [GC Worker Start (ms): Min: 5503.1, Avg: 5503.2, Max: 5503.3, Diff: 0.2]
+      [Ext Root Scanning (ms): Min: 0.7, Avg: 0.9, Max: 1.2, Diff: 0.5, Sum: 7.4]
       [Update RS (ms): Min: 0.0, Avg: 0.0, Max: 0.0, Diff: 0.0, Sum: 0.0]
          [Processed Buffers: Min: 0, Avg: 0.0, Max: 0, Diff: 0, Sum: 0]
       [Scan RS (ms): Min: 0.0, Avg: 0.0, Max: 0.0, Diff: 0.0, Sum: 0.0]
-      [Code Root Scanning (ms): Min: 0.0, Avg: 1.3, Max: 5.1, Diff: 5.1, Sum: 10.6]
-      [Object Copy (ms): Min: 13.1, Avg: 17.1, Max: 19.6, Diff: 6.5, Sum: 136.5]
-      [Termination (ms): Min: 0.0, Avg: 2.5, Max: 2.8, Diff: 2.8, Sum: 19.8]
-         [Termination Attempts: Min: 1, Avg: 1.0, Max: 1, Diff: 0, Sum: 8]
-      [GC Worker Other (ms): Min: 0.0, Avg: 0.0, Max: 0.0, Diff: 0.0, Sum: 0.1]
-      [GC Worker Total (ms): Min: 21.6, Avg: 21.7, Max: 21.7, Diff: 0.1, Sum: 173.2]
-      [GC Worker End (ms): Min: 5660.6, Avg: 5660.6, Max: 5660.7, Diff: 0.0]
+      [Code Root Scanning (ms): Min: 0.0, Avg: 0.3, Max: 1.4, Diff: 1.4, Sum: 2.1]
+      [Object Copy (ms): Min: 15.2, Avg: 16.6, Max: 16.9, Diff: 1.6, Sum: 132.5]
+      [Termination (ms): Min: 0.0, Avg: 0.0, Max: 0.0, Diff: 0.0, Sum: 0.0]
+         [Termination Attempts: Min: 1, Avg: 21.5, Max: 30, Diff: 29, Sum: 172]
+      [GC Worker Other (ms): Min: 0.0, Avg: 0.0, Max: 0.0, Diff: 0.0, Sum: 0.2]
+      [GC Worker Total (ms): Min: 17.7, Avg: 17.8, Max: 17.9, Diff: 0.2, Sum: 142.4]
+      [GC Worker End (ms): Min: 5521.0, Avg: 5521.0, Max: 5521.0, Diff: 0.0]
    [Code Root Fixup: 0.1 ms]
    [Code Root Purge: 0.0 ms]
    [Clear CT: 0.1 ms]
-   [Other: 4.3 ms]
+   [Other: 3.8 ms]
       [Choose CSet: 0.0 ms]
-      [Ref Proc: 3.8 ms]
+      [Ref Proc: 3.4 ms]
       [Ref Enq: 0.1 ms]
       [Redirty Cards: 0.1 ms]
       [Humongous Register: 0.0 ms]
       [Humongous Reclaim: 0.0 ms]
       [Free CSet: 0.1 ms]
-   [Eden: 288.0M(5728.0M)->0.0B(5648.0M) Survivors: 0.0B->81920.0K Heap: 288.0M(14336.0M)->70987.2K(14336.0M)]
- [Times: user=0.19 sys=0.01, real=0.03 secs] 
-2022-07-09T19:11:05.280-0700: 5.665: [GC concurrent-root-region-scan-start]
-2022-07-09T19:11:05.303-0700: 5.688: [GC concurrent-root-region-scan-end, 0.0232440 secs]
-2022-07-09T19:11:05.303-0700: 5.688: [GC concurrent-mark-start]
-2022-07-09T19:11:05.303-0700: 5.689: [GC concurrent-mark-end, 0.0004011 secs]
-2022-07-09T19:11:05.304-0700: 5.689: [GC remark 2022-07-09T19:11:05.304-0700: 5.689: [Finalize Marking, 0.0001320 secs] 2022-07-09T19:11:05.304-0700: 5.689: [GC ref-proc, 0.0012958 secs] 2022-07-09T19:11:05.305-0700: 5.691: [Unloading, 0.0017820 secs], 0.0033945 secs]
- [Times: user=0.01 sys=0.01, real=0.00 secs] 
-2022-07-09T19:11:05.307-0700: 5.693: [GC cleanup 87371K->87371K(14336M), 0.0009098 secs]
- [Times: user=0.00 sys=0.00, real=0.00 secs] 
+   [Eden: 288.0M(5728.0M)->0.0B(5648.0M) Survivors: 0.0B->81920.0K Heap: 288.0M(14336.0M)->72492.8K(14336.0M)]
+ [Times: user=0.16 sys=0.00, real=0.03 secs] 
+2022-07-09T19:14:53.785-0700: 5.525: [GC concurrent-root-region-scan-start]
+2022-07-09T19:14:53.805-0700: 5.545: [GC concurrent-root-region-scan-end, 0.0199928 secs]
+2022-07-09T19:14:53.805-0700: 5.545: [GC concurrent-mark-start]
+2022-07-09T19:14:53.805-0700: 5.545: [GC concurrent-mark-end, 0.0003661 secs]
+2022-07-09T19:14:53.805-0700: 5.546: [GC remark 2022-07-09T19:14:53.805-0700: 5.546: [Finalize Marking, 0.0001664 secs] 2022-07-09T19:14:53.805-0700: 5.546: [GC ref-proc, 0.0090113 secs] 2022-07-09T19:14:53.814-0700: 5.555: [Unloading, 0.0018604 secs], 0.0112669 secs]
+ [Times: user=0.07 sys=0.00, real=0.01 secs] 
+2022-07-09T19:14:53.817-0700: 5.557: [GC cleanup 88878K->88878K(14336M), 0.0009229 secs]
+ [Times: user=0.01 sys=0.00, real=0.00 secs] 
 Heap
- garbage-first heap   total 14680064K, used 234827K [0x0000000440000000, 0x0000000441001c00, 0x00000007c0000000)
-  region size 16384K, 16 young (262144K), 5 survivors (81920K)
- Metaspace       used 26135K, capacity 27656K, committed 27904K, reserved 1073152K
-  class space    used 3327K, capacity 3751K, committed 3840K, reserved 1048576K
+ garbage-first heap   total 14680064K, used 154412K [0x0000000440000000, 0x0000000441001c00, 0x00000007c0000000)
+  region size 16384K, 11 young (180224K), 5 survivors (81920K)
+ Metaspace       used 20945K, capacity 21941K, committed 22192K, reserved 1069056K
+  class space    used 2614K, capacity 2854K, committed 2944K, reserved 1048576K

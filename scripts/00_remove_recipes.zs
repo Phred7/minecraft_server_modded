@@ -68,6 +68,7 @@ craftingTable.removeRecipe(<item:appliedenergistics2:drive>);
 craftingTable.removeRecipe(<item:waystones:warp_stone>);
 craftingTable.removeRecipe(<item:industrialforegoing:machine_frame_pity>);
 craftingTable.removeRecipe(<item:thermal:machine_frame>);
+craftingTable.removeRecipe(<item:thermal:device_rock_gen>);
 craftingTable.removeRecipe(<item:easy_villagers:trader>);
 craftingTable.removeRecipe(<item:easy_villagers:breeder>);
 craftingTable.removeRecipe(<item:easy_villagers:farmer>);
