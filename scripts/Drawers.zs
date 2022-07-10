@@ -274,38 +274,38 @@ craftingTable.addShaped("storagedrawersdark_oak_half_drawer4", <item:storagedraw
 
 craftingTable.addShaped("framedcompactdrawersframed_full_one", <item:framedcompactdrawers:framed_full_one>, [
     [<tag:items:forge:rods/wooden>, <tag:items:forge:rods/wooden>, <tag:items:forge:rods/wooden>],
-    [<item:minecraft:air>, <tag:items:storagedrawers:drawers>, <item:minecraft:air>],
+    [<item:the_vault:gem_benitoite>, <tag:items:forge:chests>, <item:the_vault:gem_benitoite>],
     [<tag:items:forge:rods/wooden>, <tag:items:forge:rods/wooden>, <tag:items:forge:rods/wooden>]
 ]);
 
 craftingTable.addShaped("framedcompactdrawersframed_full_two", <item:framedcompactdrawers:framed_full_two>, [
-    [<tag:items:forge:rods/wooden>, <tag:items:storagedrawers:drawers>, <tag:items:forge:rods/wooden>],
-    [<tag:items:forge:rods/wooden>, <tag:items:forge:rods/wooden>, <tag:items:forge:rods/wooden>],
-    [<tag:items:forge:rods/wooden>, <tag:items:storagedrawers:drawers>, <tag:items:forge:rods/wooden>]
-]);
-
-craftingTable.addShaped("framedcompactdrawersframed_full_four", <item:framedcompactdrawers:framed_full_four>, [
-    [<tag:items:forge:chests>, <tag:items:forge:rods/wooden>, <tag:items:forge:chests>],
-    [<item:the_vault:gem_benitoite>, <tag:items:forge:rods/wooden>, <item:the_vault:gem_benitoite>],
-    [<tag:items:forge:chests>, <tag:items:forge:rods/wooden>, <tag:items:forge:chests>]
-]);
-
-craftingTable.addShaped("framedcompactdrawersframed_half_one", <item:framedcompactdrawers:framed_half_one>, [
     [<tag:items:forge:rods/wooden>, <tag:items:minecraft:wooden_slabs>, <tag:items:forge:rods/wooden>],
-    [<item:minecraft:air>, <tag:items:storagedrawers:drawers>, <item:minecraft:air>],
+    [<item:the_vault:gem_benitoite>, <tag:items:forge:chests>, <item:the_vault:gem_benitoite>],
     [<tag:items:forge:rods/wooden>, <tag:items:minecraft:wooden_slabs>, <tag:items:forge:rods/wooden>]
 ]);
 
+craftingTable.addShaped("framedcompactdrawersframed_full_four", <item:framedcompactdrawers:framed_full_four>, [
+    [<tag:items:minecraft:wooden_slabs>, <tag:items:forge:rods/wooden>, <tag:items:minecraft:wooden_slabs>],
+    [<item:the_vault:gem_benitoite>, <tag:items:forge:chests>, <item:the_vault:gem_benitoite>],
+    [<tag:items:minecraft:wooden_slabs>, <tag:items:forge:rods/wooden>, <tag:items:minecraft:wooden_slabs>],
+]);
+
+craftingTable.addShaped("framedcompactdrawersframed_half_one", <item:framedcompactdrawers:framed_half_one>, [
+    [<item:minecraft:air>, <tag:items:minecraft:wooden_slabs>, <item:minecraft:air>],
+    [<item:the_vault:gem_benitoite>, <tag:items:forge:chests>, <item:the_vault:gem_benitoite>],
+    [<item:minecraft:air>, <tag:items:minecraft:wooden_slabs>, <item:minecraft:air>],
+]);
+
 craftingTable.addShaped("framedcompactdrawersframed_half_two", <item:framedcompactdrawers:framed_half_two>, [
-    [<tag:items:forge:rods/wooden>, <tag:items:storagedrawers:drawers>, <tag:items:forge:rods/wooden>],
-    [<tag:items:forge:rods/wooden>, <tag:items:minecraft:wooden_slabs>, <tag:items:forge:rods/wooden>],
-    [<tag:items:forge:rods/wooden>, <tag:items:storagedrawers:drawers>, <tag:items:forge:rods/wooden>]
+    [<tag:items:minecraft:wooden_slabs>, <item:minecraft:air>, <tag:items:minecraft:wooden_slabs>],
+    [<item:the_vault:gem_benitoite>, <tag:items:forge:chests>, <item:the_vault:gem_benitoite>],
+    [<tag:items:minecraft:wooden_slabs>, <item:minecraft:air>, <tag:items:minecraft:wooden_slabs>],
 ]);
 
 craftingTable.addShaped("framedcompactdrawersframed_half_four", <item:framedcompactdrawers:framed_half_four>, [
-    [<tag:items:storagedrawers:drawers>, <tag:items:forge:rods/wooden>, <tag:items:storagedrawers:drawers>],
-    [<tag:items:forge:rods/wooden>, <tag:items:minecraft:wooden_slabs>, <tag:items:forge:rods/wooden>],
-    [<tag:items:storagedrawers:drawers>, <tag:items:forge:rods/wooden>, <tag:items:storagedrawers:drawers>]
+    [<tag:items:minecraft:wooden_slabs>, <tag:items:minecraft:wooden_slabs>, <tag:items:minecraft:wooden_slabs>],
+    [<item:the_vault:gem_benitoite>, <tag:items:forge:chests>, <item:the_vault:gem_benitoite>],
+    [<tag:items:minecraft:wooden_slabs>, <tag:items:minecraft:wooden_slabs>, <tag:items:minecraft:wooden_slabs>],
 ]);
 
 craftingTable.addShapeless("concealment_key", <item:storagedrawers:shroud_key>, [

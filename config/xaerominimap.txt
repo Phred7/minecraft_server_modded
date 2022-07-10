@@ -1,5 +1,5 @@
 #CONFIG ONLY OPTIONS
-ignoreUpdate:332
+ignoreUpdate:333
 updateNotification:true
 settingsButton:false
 allowWrongWorldTeleportation:false
@@ -13,7 +13,7 @@ caveZoom:2
 showPlayers:true
 showHostile:true
 showMobs:true
-showItems:true
+showItems:false
 showOther:true
 showOtherTeam:true
 showTamed:true
@@ -25,7 +25,7 @@ oldDeathpoints:true
 distance:1
 showCoords:true
 lockNorth:true
-zoom:3
+zoom:4
 minimapSize:0
 entityAmount:1
 chunkGrid:-1
