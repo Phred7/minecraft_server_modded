@@ -1,8 +1,8 @@
 OpenJDK 64-Bit Server VM (25.312-b07) for linux-amd64 JRE (1.8.0_312-8u312-b07-0ubuntu1~20.04-b07), built on Nov  3 2021 13:54:59 by "buildd" with gcc 9.3.0
-Memory: 4k page, physical 24560436k(18979220k free), swap 2097148k(2097148k free)
+Memory: 4k page, physical 24560436k(19259556k free), swap 2097148k(2097148k free)
 CommandLine flags: -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:G1HeapRegionSize=16777216 -XX:G1HeapWastePercent=5 -XX:G1MaxNewSizePercent=50 -XX:G1MixedGCCountTarget=4 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1NewSizePercent=40 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:G1ReservePercent=15 -XX:GCLogFileSize=1048576 -XX:InitialHeapSize=15032385536 -XX:InitialTenuringThreshold=1 -XX:InitiatingHeapOccupancyPercent=20 -XX:MaxGCPauseMillis=200 -XX:MaxHeapSize=15032385536 -XX:MaxTenuringThreshold=1 -XX:NumberOfGCLogFiles=5 -XX:+ParallelRefProcEnabled -XX:+PerfDisableSharedMem -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:SurvivorRatio=32 -XX:+UnlockExperimentalVMOptions -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseG1GC -XX:+UseGCLogFileRotation 
 Heap
  garbage-first heap   total 14680064K, used 0K [0x0000000440000000, 0x0000000441001c00, 0x00000007c0000000)
   region size 16384K, 1 young (16384K), 0 survivors (0K)
- Metaspace       used 4397K, capacity 4594K, committed 4864K, reserved 1056768K
+ Metaspace       used 4395K, capacity 4594K, committed 4864K, reserved 1056768K
   class space    used 463K, capacity 490K, committed 512K, reserved 1048576K
