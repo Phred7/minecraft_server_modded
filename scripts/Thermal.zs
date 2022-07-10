@@ -108,9 +108,3 @@ craftingTable.addShaped("thermal_vecuumulator", <item:thermal:device_collector>,
     [<tag:items:forge:storage_blocks/tin>, <item:minecraft:hopper>, <tag:items:forge:storage_blocks/tin>],
     [<item:the_vault:perfect_alexandrite>, <item:thermal:redstone_servo>, <item:the_vault:perfect_alexandrite>]
 ]);
-
-craftingTable.addShaped("thermal_igneous_extruder", <item:thermal:device_rock_gen>, [
-    [<item:thermal:invar_block>, <item:thermal:constantan_gear>, <item:thermal:invar_block>],
-    [<item:the_vault:echo_pog>, <item:thermal:machine_frame>, <item:the_vault:echo_pog>],
-    [<item:thermal:invar_block>, <item:thermal:redstone_servo>, <item:thermal:invar_block>]
-]);

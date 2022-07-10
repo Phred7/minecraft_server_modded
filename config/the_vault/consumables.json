@@ -2,7 +2,7 @@
   "itemEffects": [
     {
       "itemId": "the_vault:jade_apple",
-      "absorption": true,
+      "absorption": false,
       "absorptionAmount": 0.0,
       "effects": [
         {
@@ -18,7 +18,7 @@
     },
     {
       "itemId": "the_vault:cobalt_apple",
-      "absorption": true,
+      "absorption": false,
       "absorptionAmount": 0.0,
       "effects": [
         {
@@ -42,7 +42,7 @@
     },
     {
       "itemId": "the_vault:pixie_apple",
-      "absorption": true,
+      "absorption": false,
       "absorptionAmount": 0.0,
       "effects": [
         {
@@ -237,7 +237,7 @@
 
     ],
     "the_vault:pixie_apple": [
-      "Gives you Jump 2 and Slow Falling for 2 minutes"
+      "Gives you Speed 5, Jump 2 and Slow Falling for 2 minutes"
     ],
     "the_vault:ghost_apple": [
       "Vault Powerup!",

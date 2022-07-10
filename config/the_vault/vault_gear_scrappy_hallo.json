@@ -1,0 +1,5434 @@
+{
+  "TIERS": [
+    {
+      "NAME": "1",
+      "BASE_ATTRIBUTES": {
+        "the_vault:sword": {
+          "ATTACK_DAMAGE": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 6.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 7.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 20,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 0.1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "base": -0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "ADD"
+            }
+          },
+          "ATTACK_SPEED": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 16,
+                  "probability": 0.1
+                },
+                "entries": [
+                  {
+                    "value": 0.1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "base": -1.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "MULTIPLY"
+            }
+          },
+          "DURABILITY": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 1561,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 2031,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_LEVEL_CHANCE": {
+            "pools": [
+              {
+                "base": 0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MAX_LEVEL": {
+            "pools": [
+              {
+                "base": 15,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MODIFIERS_TO_ROLL": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MAX_REPAIRS": {
+            "pools": [
+              {
+                "base": 3,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MIN_VAULT_LEVEL": {
+            "pools": [
+              {
+                "base": 5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          }
+        },
+        "the_vault:axe": {
+          "ATTACK_DAMAGE": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 8.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 9.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 20,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 0.1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "base": 0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "ADD"
+            }
+          },
+          "ATTACK_SPEED": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 10,
+                  "probability": 0.1
+                },
+                "entries": [
+                  {
+                    "value": 0.1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "base": -1.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "MULTIPLY"
+            }
+          },
+          "DURABILITY": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 1561,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 2031,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_LEVEL_CHANCE": {
+            "pools": [
+              {
+                "base": 0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MAX_LEVEL": {
+            "pools": [
+              {
+                "base": 15,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MODIFIERS_TO_ROLL": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MAX_REPAIRS": {
+            "pools": [
+              {
+                "base": 3,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MIN_VAULT_LEVEL": {
+            "pools": [
+              {
+                "base": 5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          }
+        },
+        "the_vault:dagger": {
+          "ATTACK_DAMAGE": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 3.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 4.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 20,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 0.1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "base": -0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "ADD"
+            }
+          },
+          "ATTACK_SPEED": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 20,
+                  "probability": 0.1
+                },
+                "entries": [
+                  {
+                    "value": 0.1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "base": -1.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "MULTIPLY"
+            }
+          },
+          "DURABILITY": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 1561,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 2031,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_LEVEL_CHANCE": {
+            "pools": [
+              {
+                "base": 0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MAX_LEVEL": {
+            "pools": [
+              {
+                "base": 15,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MODIFIERS_TO_ROLL": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MAX_REPAIRS": {
+            "pools": [
+              {
+                "base": 3,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MIN_VAULT_LEVEL": {
+            "pools": [
+              {
+                "base": 5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          }
+        },
+        "the_vault:helmet": {
+          "ARMOR": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                "type": "binomial",
+                "trials": 2,
+                "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1.0,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ARMOR_TOUGHNESS": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                "type": "binomial",
+                "trials": 5,
+                "probability": 0.5
+                  },
+                  "entries": [
+                    {
+                      "value": 0.1,
+                      "operator": {
+                        "type": "ADD"
+                      },
+                      "weight": 1
+                    }
+                  ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "KNOCKBACK_RESISTANCE": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 0.01,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "DURABILITY": {
+            "pools": [
+              {
+                "base": 1000,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 6,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 100,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_LEVEL_CHANCE": {
+            "pools": [
+              {
+                "base": 0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MAX_LEVEL": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 1,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MODIFIERS_TO_ROLL": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 1,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MAX_REPAIRS": {
+            "pools": [
+              {
+                "base": 5,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MIN_VAULT_LEVEL": {
+            "pools": [
+              {
+                "base": 20,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 20,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          }
+        },
+        "the_vault:chestplate": {
+          "ARMOR": {
+            "pools": [
+              {
+                "base": 3.0,
+                "rolls": {
+                "type": "binomial",
+                "trials": 2,
+                "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1.0,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ARMOR_TOUGHNESS": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                "type": "binomial",
+                "trials": 5,
+                "probability": 0.5
+                  },
+                  "entries": [
+                    {
+                      "value": 0.1,
+                      "operator": {
+                        "type": "ADD"
+                      },
+                      "weight": 1
+                    }
+                  ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "KNOCKBACK_RESISTANCE": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 0.01,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "DURABILITY": {
+            "pools": [
+              {
+                "base": 1400,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 6,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 100,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_LEVEL_CHANCE": {
+            "pools": [
+              {
+                "base": 0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MAX_LEVEL": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 1,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MODIFIERS_TO_ROLL": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 1,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MAX_REPAIRS": {
+            "pools": [
+              {
+                "base": 5,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MIN_VAULT_LEVEL": {
+            "pools": [
+              {
+                "base": 20,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 20,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          }
+        },
+        "the_vault:leggings": {
+          "ARMOR": {
+            "pools": [
+              {
+                "base": 3.0,
+                "rolls": {
+                "type": "binomial",
+                "trials": 2,
+                "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1.0,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ARMOR_TOUGHNESS": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                "type": "binomial",
+                "trials": 5,
+                "probability": 0.5
+                  },
+                  "entries": [
+                    {
+                      "value": 0.1,
+                      "operator": {
+                        "type": "ADD"
+                      },
+                      "weight": 1
+                    }
+                  ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "KNOCKBACK_RESISTANCE": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 0.01,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "DURABILITY": {
+            "pools": [
+              {
+                "base": 1300,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 6,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 100,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_LEVEL_CHANCE": {
+            "pools": [
+              {
+                "base": 0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MAX_LEVEL": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 1,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MODIFIERS_TO_ROLL": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 1,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MAX_REPAIRS": {
+            "pools": [
+              {
+                "base": 5,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MIN_VAULT_LEVEL": {
+            "pools": [
+              {
+                "base": 20,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 20,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          }
+        },
+        "the_vault:boots": {
+          "ARMOR": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                "type": "binomial",
+                "trials": 2,
+                "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1.0,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ARMOR_TOUGHNESS": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                "type": "binomial",
+                "trials": 5,
+                "probability": 0.5
+                  },
+                  "entries": [
+                    {
+                      "value": 0.1,
+                      "operator": {
+                        "type": "ADD"
+                      },
+                      "weight": 1
+                    }
+                  ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "KNOCKBACK_RESISTANCE": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 0.01,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "DURABILITY": {
+            "pools": [
+              {
+                "base": 1200,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 6,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 100,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_LEVEL_CHANCE": {
+            "pools": [
+              {
+                "base": 0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MAX_LEVEL": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 1,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MODIFIERS_TO_ROLL": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 1,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MAX_REPAIRS": {
+            "pools": [
+              {
+                "base": 5,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MIN_VAULT_LEVEL": {
+            "pools": [
+              {
+                "base": 20,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 20,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          }
+        },
+        "the_vault:etching": {
+          "GEAR_SET": {
+            "pools": [
+              {
+                "base": "NONE",
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": "ASSASSIN",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "DRAGON",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "GOBLIN",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "GOLEM",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "RIFT",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "VAMPIRE",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "BRUTE",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "TITAN",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "DRYAD",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "NINJA",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "TREASURE_HUNTER",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          }
+        }
+      },
+      "BASE_MODIFIERS": {
+        "the_vault:sword": {
+          "ADD_ATTACK_DAMAGE": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_ATTACK_SPEED": {
+            "pools": [
+              {
+                "base": 0.3,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_DURABILITY": {
+            "pools": [
+              {
+                "base": 500,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_LEECH_RATIO": {
+            "pools": [
+              {
+                "base": 0.2,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_PARRY_CHANCE": {
+            "pools": [
+              {
+                "base": 0.05,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_HEALTH": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_EFFECTS": {
+            "pools": [
+              {
+                "base": [],
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "MERGE"
+            }
+          }
+        },
+        "the_vault:axe": {
+          "ADD_ATTACK_DAMAGE": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_ATTACK_SPEED": {
+            "pools": [
+              {
+                "base": 0.3,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_DURABILITY": {
+            "pools": [
+              {
+                "base": 500,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_LEECH_RATIO": {
+            "pools": [
+              {
+                "base": 0.2,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_PARRY_CHANCE": {
+            "pools": [
+              {
+                "base": 0.05,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_HEALTH": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_EFFECTS": {
+            "pools": [
+              {
+                "base": [],
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "MERGE"
+            }
+          }
+        },
+        "the_vault:dagger": {
+          "ADD_ATTACK_DAMAGE": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_ATTACK_SPEED": {
+            "pools": [
+              {
+                "base": 0.3,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_DURABILITY": {
+            "pools": [
+              {
+                "base": 500,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_LEECH_RATIO": {
+            "pools": [
+              {
+                "base": 0.2,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_PARRY_CHANCE": {
+            "pools": [
+              {
+                "base": 0.05,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_HEALTH": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_EFFECTS": {
+            "pools": [
+              {
+                "base": [],
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "MERGE"
+            }
+          }
+        },
+        "the_vault:helmet": {
+          "ADD_ARMOR": {
+            "value": {
+              "pools": [
+                {
+                  "base": 1.0,
+                  "rolls": {
+                    "type": "empty"
+                  },
+                  "entries": []
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              } 
+            },
+            "weight": 1
+          },
+          "ADD_ARMOR_TOUGHNESS": {
+            "value": {
+              "pools": [
+                {
+                  "base": 0.1,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                    },
+                    "entries": [
+                      {
+                        "value": 0.1,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "ADD_KNOCKBACK_RESISTANCE": {
+            "value": {
+              "pools": [
+                {
+                  "base": 0.01,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                    },
+                    "entries": [
+                      {
+                        "value": 0.01,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "ADD_DURABILITY": {
+            "value": {
+              "pools": [
+                {
+                  "base": 300,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                    },
+                    "entries": [
+                      {
+                        "value": 100,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      },
+                      {
+                        "value": 50,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 2
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "EXTRA_PARRY_CHANCE": {
+            "value": {
+              "pools": [
+                {
+                  "base": 0.01,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.2
+                    },
+                    "entries": [
+                      {
+                        "value": 0.01,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "EXTRA_HEALTH": {
+            "value": {
+              "pools": [
+                {
+                  "base": 1.0,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 3,
+                  "probability": 0.5
+                    },
+                    "entries": [
+                      {
+                        "value": 1.0,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "EXTRA_EFFECTS": {
+            "value": {
+              "pools": [
+                {
+                  "base": [],
+                  "rolls": {
+                    "type": "constant",
+                    "value": 1
+                  },
+                  "entries": [
+                    {
+                      "value": [
+                        {
+                          "effect": "minecraft:luck",
+                          "amplifier": 1,
+                          "type": "icon_only",
+                          "operator": "add",
+                          "cost": 0,
+                          "levelRequirement": 0
+                        }
+                      ],
+                      "operator": {
+                        "type": "SET"
+                      },
+                      "weight": 2
+                    },
+                    {
+                      "value": [
+                        {
+                          "effect": "minecraft:night_vision",
+                          "amplifier": 1,
+                          "type": "icon_only",
+                          "operator": "add",
+                          "cost": 0,
+                          "levelRequirement": 0
+                        }
+                      ],
+                      "operator": {
+                        "type": "SET"
+                      },
+                      "weight": 5
+                    },
+                    {
+                      "value": [
+                        {
+                          "effect": "minecraft:water_breathing",
+                          "amplifier": 1,
+                          "type": "icon_only",
+                          "operator": "add",
+                          "cost": 0,
+                          "levelRequirement": 0
+                        }
+                      ],
+                      "operator": {
+                        "type": "SET"
+                      },
+                      "weight": 5
+                    }
+                  ]
+                }
+              ],
+              "collector": {
+                "type": "MERGE"
+              }
+            },
+            "weight": 1
+          }
+        },
+        "the_vault:chestplate": {
+          "ADD_ARMOR": {
+            "value": {
+              "pools": [
+                {
+                  "base": 1.0,
+                  "rolls": {
+                    "type": "empty"
+                  },
+                  "entries": []
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "ADD_ARMOR_TOUGHNESS": {
+            "value": {
+              "pools": [
+                {
+                  "base": 0.1,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                    },
+                    "entries": [
+                      {
+                        "value": 0.1,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "ADD_KNOCKBACK_RESISTANCE": {
+            "value": {
+              "pools": [
+                {
+                  "base": 0.01,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                    },
+                    "entries": [
+                      {
+                        "value": 0.01,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "ADD_DURABILITY": {
+            "value": {
+              "pools": [
+                {
+                  "base": 300,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                    },
+                    "entries": [
+                      {
+                        "value": 100,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      },
+                      {
+                        "value": 50,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 2
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "EXTRA_PARRY_CHANCE": {
+            "value": {
+              "pools": [
+                {
+                  "base": 0.01,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.2
+                    },
+                    "entries": [
+                      {
+                        "value": 0.01,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "EXTRA_HEALTH": {
+            "value": {
+              "pools": [
+                {
+                  "base": 1.0,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 3,
+                  "probability": 0.5
+                    },
+                    "entries": [
+                      {
+                        "value": 1.0,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "EXTRA_EFFECTS": {
+            "value": {
+              "pools": [
+                {
+                  "base": [],
+                  "rolls": {
+                    "type": "constant",
+                    "value": 1
+                  },
+                  "entries": [
+                    {
+                      "value": [
+                        {
+                          "effect": "minecraft:luck",
+                          "amplifier": 1,
+                          "type": "icon_only",
+                          "operator": "add",
+                          "cost": 0,
+                          "levelRequirement": 0
+                        }
+                      ],
+                      "operator": {
+                        "type": "SET"
+                      },
+                      "weight": 2
+                    },
+                    {
+                      "value": [
+                        {
+                          "effect": "minecraft:fire_resistance",
+                          "amplifier": 1,
+                          "type": "icon_only",
+                          "operator": "add",
+                          "cost": 0,
+                          "levelRequirement": 0
+                        }
+                      ],
+                      "operator": {
+                        "type": "SET"
+                      },
+                      "weight": 2
+                    }
+                  ]
+                }
+              ],
+              "collector": {
+                "type": "MERGE"
+              }
+            },
+            "weight": 1
+          }
+        },
+        "the_vault:leggings": {
+          "value": {
+            "ADD_ARMOR": {
+              "pools": [
+                {
+                  "base": 1.0,
+                  "rolls": {
+                    "type": "empty"
+                  },
+                  "entries": []
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "ADD_ARMOR_TOUGHNESS": {
+            "value": {
+              "pools": [
+                {
+                  "base": 0.1,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                    },
+                    "entries": [
+                      {
+                        "value": 0.1,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "ADD_KNOCKBACK_RESISTANCE": {
+            "value": {
+              "pools": [
+                {
+                  "base": 0.01,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                    },
+                    "entries": [
+                      {
+                        "value": 0.01,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "ADD_DURABILITY": {
+            "value": {
+              "pools": [
+                {
+                  "base": 300,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                    },
+                    "entries": [
+                      {
+                        "value": 100,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      },
+                      {
+                        "value": 50,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 2
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "EXTRA_PARRY_CHANCE": {
+            "value": {
+              "pools": [
+                {
+                  "base": 0.01,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.2
+                    },
+                    "entries": [
+                      {
+                        "value": 0.01,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "EXTRA_HEALTH": {
+            "value": {
+              "pools": [
+                {
+                  "base": 1.0,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 3,
+                  "probability": 0.5
+                    },
+                    "entries": [
+                      {
+                        "value": 1.0,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "EXTRA_EFFECTS": {
+            "value": {
+              "pools": [
+                {
+                  "base": [],
+                  "rolls": {
+                    "type": "constant",
+                    "value": 1
+                  },
+                  "entries": [
+                    {
+                      "value": [
+                        {
+                          "effect": "minecraft:regeneration",
+                          "amplifier": 1,
+                          "type": "icon_only",
+                          "operator": "add",
+                          "cost": 0,
+                          "levelRequirement": 0
+                        }
+                      ],
+                      "operator": {
+                        "type": "SET"
+                      },
+                      "weight": 1
+                    },
+                    {
+                      "value": [
+                        {
+                          "effect": "minecraft:speed",
+                          "amplifier": 1,
+                          "type": "icon_only",
+                          "operator": "add",
+                          "cost": 0,
+                          "levelRequirement": 0
+                        }
+                      ],
+                      "operator": {
+                        "type": "SET"
+                      },
+                      "weight": 4
+                    },
+                    {
+                      "value": [
+                        {
+                          "effect": "minecraft:slow_falling",
+                          "amplifier": 1,
+                          "type": "icon_only",
+                          "operator": "add",
+                          "cost": 0,
+                          "levelRequirement": 0
+                        }
+                      ],
+                      "operator": {
+                        "type": "SET"
+                      },
+                      "weight": 3
+                    }
+                  ]
+                }
+              ],
+              "collector": {
+                "type": "MERGE"
+              }
+            },
+            "weight": 1
+          }
+        },
+        "the_vault:boots": {
+          "ADD_ARMOR": {
+            "value": {
+              "pools": [
+                {
+                  "base": 1.0,
+                  "rolls": {
+                    "type": "empty"
+                  },
+                  "entries": []
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "ADD_ARMOR_TOUGHNESS": {
+            "value": {
+              "pools": [
+                {
+                  "base": 0.1,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                    },
+                    "entries": [
+                      {
+                        "value": 0.1,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "ADD_KNOCKBACK_RESISTANCE": {
+            "value": {
+              "pools": [
+                {
+                  "base": 0.01,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                    },
+                    "entries": [
+                      {
+                        "value": 0.01,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "ADD_DURABILITY": {
+            "value": {
+              "pools": [
+                {
+                  "base": 300,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.5
+                    },
+                    "entries": [
+                      {
+                        "value": 100,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      },
+                      {
+                        "value": 50,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 2
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "EXTRA_PARRY_CHANCE": {
+            "value": {
+              "pools": [
+                {
+                  "base": 0.01,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 5,
+                  "probability": 0.2
+                    },
+                    "entries": [
+                      {
+                        "value": 0.01,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "EXTRA_HEALTH": {
+            "value": {
+              "pools": [
+                {
+                  "base": 1.0,
+                  "rolls": {
+                  "type": "binomial",
+                  "trials": 3,
+                  "probability": 0.5
+                    },
+                    "entries": [
+                      {
+                        "value": 1.0,
+                        "operator": {
+                          "type": "ADD"
+                        },
+                        "weight": 1
+                      }
+                    ]
+                }
+              ],
+              "collector": {
+                "type": "SET"
+              }
+            },
+            "weight": 1
+          },
+          "EXTRA_EFFECTS": {
+            "value": {
+              "pools": [
+                {
+                  "base": [],
+                  "rolls": {
+                    "type": "constant",
+                    "value": 1
+                  },
+                  "entries": [
+                    {
+                      "value": [
+                        {
+                          "effect": "minecraft:speed",
+                          "amplifier": 1,
+                          "type": "icon_only",
+                          "operator": "add",
+                          "cost": 0,
+                          "levelRequirement": 0
+                        }
+                      ],
+                      "operator": {
+                        "type": "SET"
+                      },
+                      "weight": 4
+                    },
+                    {
+                      "value": [
+                        {
+                          "effect": "minecraft:jump_boost",
+                          "amplifier": 1,
+                          "type": "icon_only",
+                          "operator": "add",
+                          "cost": 0,
+                          "levelRequirement": 0
+                        }
+                      ],
+                      "operator": {
+                        "type": "SET"
+                      },
+                      "weight": 4
+                    }
+                  ]
+                }
+              ],
+              "collector": {
+                "type": "MERGE"
+              }
+            },
+            "weight": 1
+          }
+        },
+        "the_vault:etching": {}
+      }
+    },
+    {
+      "NAME": "2",
+      "BASE_ATTRIBUTES": {
+        "the_vault:sword": {
+          "ATTACK_DAMAGE": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 6.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 7.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 20,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 0.1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "base": -0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "ADD"
+            }
+          },
+          "ATTACK_SPEED": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 16,
+                  "probability": 0.1
+                },
+                "entries": [
+                  {
+                    "value": 0.1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "base": -1.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "MULTIPLY"
+            }
+          },
+          "DURABILITY": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 1561,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 2031,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_LEVEL_CHANCE": {
+            "pools": [
+              {
+                "base": 0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MAX_LEVEL": {
+            "pools": [
+              {
+                "base": 15,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MODIFIERS_TO_ROLL": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MAX_REPAIRS": {
+            "pools": [
+              {
+                "base": 3,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MIN_VAULT_LEVEL": {
+            "pools": [
+              {
+                "base": 5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          }
+        },
+        "the_vault:axe": {
+          "ATTACK_DAMAGE": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 8.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 9.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 20,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 0.1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "base": 0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "ADD"
+            }
+          },
+          "ATTACK_SPEED": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 10,
+                  "probability": 0.1
+                },
+                "entries": [
+                  {
+                    "value": 0.1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "base": -1.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "MULTIPLY"
+            }
+          },
+          "DURABILITY": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 1561,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 2031,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_LEVEL_CHANCE": {
+            "pools": [
+              {
+                "base": 0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MAX_LEVEL": {
+            "pools": [
+              {
+                "base": 15,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MODIFIERS_TO_ROLL": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MAX_REPAIRS": {
+            "pools": [
+              {
+                "base": 3,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MIN_VAULT_LEVEL": {
+            "pools": [
+              {
+                "base": 5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          }
+        },
+        "the_vault:dagger": {
+          "ATTACK_DAMAGE": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 3.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 4.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 20,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 0.1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "base": -0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "ADD"
+            }
+          },
+          "ATTACK_SPEED": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 20,
+                  "probability": 0.1
+                },
+                "entries": [
+                  {
+                    "value": 0.1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              },
+              {
+                "base": -1.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "MULTIPLY"
+            }
+          },
+          "DURABILITY": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 1561,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 2031,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_LEVEL_CHANCE": {
+            "pools": [
+              {
+                "base": 0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MAX_LEVEL": {
+            "pools": [
+              {
+                "base": 15,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MODIFIERS_TO_ROLL": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MAX_REPAIRS": {
+            "pools": [
+              {
+                "base": 3,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MIN_VAULT_LEVEL": {
+            "pools": [
+              {
+                "base": 5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          }
+        },
+        "the_vault:helmet": {
+          "ARMOR": {
+            "pools": [
+              {
+                "base": 3.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 2,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1.0,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ARMOR_TOUGHNESS": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 2.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 3.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "KNOCKBACK_RESISTANCE": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 4,
+                  "probability": 0.4
+                },
+                "entries": [
+                  {
+                    "value": 0.1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "DURABILITY": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 1561,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 2031,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_LEVEL_CHANCE": {
+            "pools": [
+              {
+                "base": 0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MAX_LEVEL": {
+            "pools": [
+              {
+                "base": 15,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MODIFIERS_TO_ROLL": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MAX_REPAIRS": {
+            "pools": [
+              {
+                "base": 3,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MIN_VAULT_LEVEL": {
+            "pools": [
+              {
+                "base": 5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          }
+        },
+        "the_vault:chestplate": {
+          "ARMOR": {
+            "pools": [
+              {
+                "base": 8.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 2,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1.0,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ARMOR_TOUGHNESS": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 2.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 3.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "KNOCKBACK_RESISTANCE": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 4,
+                  "probability": 0.4
+                },
+                "entries": [
+                  {
+                    "value": 0.1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "DURABILITY": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 1561,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 2031,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_LEVEL_CHANCE": {
+            "pools": [
+              {
+                "base": 0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MAX_LEVEL": {
+            "pools": [
+              {
+                "base": 15,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MODIFIERS_TO_ROLL": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MAX_REPAIRS": {
+            "pools": [
+              {
+                "base": 3,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MIN_VAULT_LEVEL": {
+            "pools": [
+              {
+                "base": 5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          }
+        },
+        "the_vault:leggings": {
+          "ARMOR": {
+            "pools": [
+              {
+                "base": 6.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 2,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1.0,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ARMOR_TOUGHNESS": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 2.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 3.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "KNOCKBACK_RESISTANCE": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 4,
+                  "probability": 0.4
+                },
+                "entries": [
+                  {
+                    "value": 0.1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "DURABILITY": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 1561,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 2031,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_LEVEL_CHANCE": {
+            "pools": [
+              {
+                "base": 0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MAX_LEVEL": {
+            "pools": [
+              {
+                "base": 15,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MODIFIERS_TO_ROLL": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MAX_REPAIRS": {
+            "pools": [
+              {
+                "base": 3,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MIN_VAULT_LEVEL": {
+            "pools": [
+              {
+                "base": 5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          }
+        },
+        "the_vault:boots": {
+          "ARMOR": {
+            "pools": [
+              {
+                "base": 3.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 2,
+                  "probability": 0.5
+                },
+                "entries": [
+                  {
+                    "value": 1.0,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ARMOR_TOUGHNESS": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 2.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 3.0,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "KNOCKBACK_RESISTANCE": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "binomial",
+                  "trials": 4,
+                  "probability": 0.4
+                },
+                "entries": [
+                  {
+                    "value": 0.1,
+                    "operator": {
+                      "type": "ADD"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "DURABILITY": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": 1561,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": 2031,
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_LEVEL_CHANCE": {
+            "pools": [
+              {
+                "base": 0.5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MAX_LEVEL": {
+            "pools": [
+              {
+                "base": 15,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "GEAR_MODIFIERS_TO_ROLL": {
+            "pools": [
+              {
+                "base": 0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MAX_REPAIRS": {
+            "pools": [
+              {
+                "base": 3,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "MIN_VAULT_LEVEL": {
+            "pools": [
+              {
+                "base": 5,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          }
+        },
+        "the_vault:etching": {
+          "GEAR_SET": {
+            "pools": [
+              {
+                "base": "NONE",
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": "ASSASSIN",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "DRAGON",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "GOBLIN",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "GOLEM",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "RIFT",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "VAMPIRE",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "BRUTE",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "TITAN",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "DRYAD",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "NINJA",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": "TREASURE_HUNTER",
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          }
+        }
+      },
+      "BASE_MODIFIERS": {
+        "the_vault:sword": {
+          "ADD_ATTACK_DAMAGE": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_ATTACK_SPEED": {
+            "pools": [
+              {
+                "base": 0.3,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_DURABILITY": {
+            "pools": [
+              {
+                "base": 500,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_LEECH_RATIO": {
+            "pools": [
+              {
+                "base": 0.2,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_PARRY_CHANCE": {
+            "pools": [
+              {
+                "base": 0.05,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_HEALTH": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_EFFECTS": {
+            "pools": [
+              {
+                "base": [],
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "MERGE"
+            }
+          }
+        },
+        "the_vault:axe": {
+          "ADD_ATTACK_DAMAGE": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_ATTACK_SPEED": {
+            "pools": [
+              {
+                "base": 0.3,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_DURABILITY": {
+            "pools": [
+              {
+                "base": 500,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_LEECH_RATIO": {
+            "pools": [
+              {
+                "base": 0.2,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_PARRY_CHANCE": {
+            "pools": [
+              {
+                "base": 0.05,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_HEALTH": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_EFFECTS": {
+            "pools": [
+              {
+                "base": [],
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "MERGE"
+            }
+          }
+        },
+        "the_vault:dagger": {
+          "ADD_ATTACK_DAMAGE": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_ATTACK_SPEED": {
+            "pools": [
+              {
+                "base": 0.3,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_DURABILITY": {
+            "pools": [
+              {
+                "base": 500,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_LEECH_RATIO": {
+            "pools": [
+              {
+                "base": 0.2,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_PARRY_CHANCE": {
+            "pools": [
+              {
+                "base": 0.05,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_HEALTH": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_EFFECTS": {
+            "pools": [
+              {
+                "base": [],
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "MERGE"
+            }
+          }
+        },
+        "the_vault:helmet": {
+          "ADD_ARMOR": {
+            "pools": [
+              {
+                "base": 1.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_ARMOR_TOUGHNESS": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_KNOCKBACK_RESISTANCE": {
+            "pools": [
+              {
+                "base": 0.2,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_DURABILITY": {
+            "pools": [
+              {
+                "base": 500,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_PARRY_CHANCE": {
+            "pools": [
+              {
+                "base": 0.05,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_HEALTH": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_EFFECTS": {
+            "pools": [
+              {
+                "base": [],
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "MERGE"
+            }
+          }
+        },
+        "the_vault:chestplate": {
+          "ADD_ARMOR": {
+            "pools": [
+              {
+                "base": 1.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_ARMOR_TOUGHNESS": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_KNOCKBACK_RESISTANCE": {
+            "pools": [
+              {
+                "base": 0.2,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_DURABILITY": {
+            "pools": [
+              {
+                "base": 500,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_PARRY_CHANCE": {
+            "pools": [
+              {
+                "base": 0.05,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_HEALTH": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_EFFECTS": {
+            "pools": [
+              {
+                "base": [],
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "MERGE"
+            }
+          }
+        },
+        "the_vault:leggings": {
+          "ADD_ARMOR": {
+            "pools": [
+              {
+                "base": 1.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_ARMOR_TOUGHNESS": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_KNOCKBACK_RESISTANCE": {
+            "pools": [
+              {
+                "base": 0.2,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_DURABILITY": {
+            "pools": [
+              {
+                "base": 500,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_PARRY_CHANCE": {
+            "pools": [
+              {
+                "base": 0.05,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_HEALTH": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_EFFECTS": {
+            "pools": [
+              {
+                "base": [],
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "MERGE"
+            }
+          }
+        },
+        "the_vault:boots": {
+          "ADD_ARMOR": {
+            "pools": [
+              {
+                "base": 1.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_ARMOR_TOUGHNESS": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_KNOCKBACK_RESISTANCE": {
+            "pools": [
+              {
+                "base": 0.2,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "ADD_DURABILITY": {
+            "pools": [
+              {
+                "base": 500,
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_PARRY_CHANCE": {
+            "pools": [
+              {
+                "base": 0.05,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_HEALTH": {
+            "pools": [
+              {
+                "base": 2.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "SET"
+            }
+          },
+          "EXTRA_EFFECTS": {
+            "pools": [
+              {
+                "base": [],
+                "rolls": {
+                  "type": "constant",
+                  "value": 1
+                },
+                "entries": [
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:resistance",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 1,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 2
+                  },
+                  {
+                    "value": [
+                      {
+                        "effect": "minecraft:luck",
+                        "amplifier": 2,
+                        "type": "icon_only",
+                        "operator": "add",
+                        "cost": 0,
+                        "levelRequirement": 0
+                      }
+                    ],
+                    "operator": {
+                      "type": "SET"
+                    },
+                    "weight": 1
+                  }
+                ]
+              }
+            ],
+            "collector": {
+              "type": "MERGE"
+            }
+          }
+        },
+        "the_vault:etching": {}
+      }
+    }
+  ]
+}
