@@ -1,23 +1,23 @@
 {
-  "health": 175000.0,
-  "extraHealthPerPlayer": 75000.0,
+  "health": 100000.0,
+  "extraHealthPerPlayer": 10000.0,
   "meleeAttack": {
-    "baseDamage": 47.5,
-    "extraDamagePerPlayer": 2.5,
+    "baseDamage": 45.0,
+    "extraDamagePerPlayer": 2.0,
     "knockback": 5.0
   },
   "basicAttack": {
-    "baseDamage": 130.0,
-    "extraDamagePerPlayer": 25
+    "baseDamage": 125.0,
+    "extraDamagePerPlayer": 20
   },
   "laserAttack": {
-    "baseDamage": 60.0,
-    "extraDamagePerPlayer": 12.5,
+    "baseDamage": 50.0,
+    "extraDamagePerPlayer": 10.0,
     "tickDelay": 20
   },
   "eyeStalk": {
-    "baseDamage": 22.5,
-    "extraDamagePerPlayer": 3.5,
+    "baseDamage": 20.0,
+    "extraDamagePerPlayer": 3.0,
     "knockback": 10.0
   }
 }
