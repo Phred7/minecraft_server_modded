@@ -2434,6 +2434,34 @@
           }
         },
         "the_vault:idol_malevolence": {
+          "ATTACK_DAMAGE": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "ADD"
+            }
+          },
+          "ATTACK_SPEED": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "MULTIPLY"
+            }
+          },
           "IDOL_TYPE": {
             "pools": [
               {
@@ -11905,6 +11933,34 @@
           }
         },
         "the_vault:idol_malevolence": {
+          "ATTACK_DAMAGE": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "ADD"
+            }
+          },
+          "ATTACK_SPEED": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "MULTIPLY"
+            }
+          },
           "IDOL_TYPE": {
             "pools": [
               {
@@ -21299,6 +21355,34 @@
           }
         },
         "the_vault:idol_malevolence": {
+          "ATTACK_DAMAGE": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "ADD"
+            }
+          },
+          "ATTACK_SPEED": {
+            "pools": [
+              {
+                "base": 0.0,
+                "rolls": {
+                  "type": "empty"
+                },
+                "entries": []
+              }
+            ],
+            "collector": {
+              "type": "MULTIPLY"
+            }
+          },
           "IDOL_TYPE": {
             "pools": [
               {

@@ -17,7 +17,10 @@
 	  "minecraft:birch_boat",
 	  "minecraft:jungle_boat",
 	  "minecraft:dark_oak_boat",
+	  "minecraft:egg",
+	  "minecraft:turtle_egg",
 	  "byg:aspen_boat",
+	  "modularrouters:*",
 	  "fluxnetworks:*",
 	  "byg:baobab_boat",
 	  "byg:blue_enchanted_boat",
@@ -57,6 +60,7 @@
 	  "minecraft:wither_skeleton_skull",
 	  "waystones:warp_scroll",
 	  "rftoolsutility:*",
+	  "create:*",
 	  "the_vault:key_press",
 	  "mekanism:digital_miner",
 	  "minecraft:armor_stand",
@@ -99,6 +103,8 @@
 	  "the_vault:vault_stew_omega",
 	  "rftoolsstorage:modular_storage",
 	  "rftoolsstorage:storage_scanner",
+	  "rftoolsutility:syringe",
+	  "industrialforegoing:mob_imprisonment_tool",
 	  "rftoolsstorage:dimensional_tablet",
 	  "rftoolsbuilder:builder",
 	  "cfm:post_box",
@@ -107,6 +113,7 @@
 	  "buildinggadgets:gadget_copy_paste",
 	  "buildinggadgets:gadget_destruction",
 	  "mekanism:teleporter_frame",
+	  "waystones:warp_plate",
 	  "refinedstorage:portable_grid"
 	],
 	"BLOCK_BLACKLIST": [
@@ -117,6 +124,8 @@
 	  "darkutils:vector_plate_fast",
 	  "darkutils:vector_plate_extreme",
 	  "minecraft:dispenser",
+	  "rftoolsutility:syringe",
+	  "industrialforegoing:mob_imprisonment_tool",
 	  "engineersdecor:factory_placer",
 	  "industrialforegoing:block_placer",
 	  "appliedenergistics2:spatial_pylon",
@@ -134,6 +143,7 @@
 	  "industrialforegoing:mob_slaughter_factory",
 	  "dimstorage:dimensional_chest",
 	  "darkutils:rune_damage_player",
+	  "modularrouters:*",
 	  "minecraft:minecart",
 	  "minecraft:oak_boat",
 	  "minecraft:spruce_boat",
@@ -263,40 +273,40 @@
 	  }
 	],
 	"VAULT_COOP_OBJECTIVES": [
-	  {
-		  "level": 0,
-		  "outcomes": [
-			{
-			  "value": "the_vault:summon_and_kill_boss",
-			  "weight": 14
-			}
-		  ]
-		},
 		{
-			"level": 25,
+			"level": 0,
 			"outcomes": [
 			  {
 				"value": "the_vault:summon_and_kill_boss",
-				"weight": 10
-			  },
-			  {
-				"value": "the_vault:scavenger_hunt",
-				"weight": 10
+				"weight": 14
 			  }
 			]
-		},
-		{
-			"level": 50,
-			"outcomes": [
-			  {
-				"value": "the_vault:summon_and_kill_boss",
-				"weight": 10
-			  },
-			  {
-				"value": "the_vault:scavenger_hunt",
-				"weight": 10
-			  }
-			]
-		}
+		  },
+		  {
+			  "level": 25,
+			  "outcomes": [
+				{
+				  "value": "the_vault:summon_and_kill_boss",
+				  "weight": 14
+				},
+				{
+				  "value": "the_vault:scavenger_hunt",
+				  "weight": 2
+				}
+			  ]
+		  },
+		  {
+			  "level": 50,
+			  "outcomes": [
+				{
+				  "value": "the_vault:summon_and_kill_boss",
+				  "weight": 14
+				},
+				{
+				  "value": "the_vault:scavenger_hunt",
+				  "weight": 5
+				}
+			  ]
+		  }
 	]
   }
