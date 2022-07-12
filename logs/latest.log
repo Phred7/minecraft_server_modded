@@ -1,46 +1,64 @@
-[11Jul2022 08:00:00.962] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
-[11Jul2022 10:16:41.295] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
-[11Jul2022 10:16:54.640] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@43a6f0d7
-[11Jul2022 10:16:54.887] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.159:56618] logged in with entity id 53148 at (-853.3370253020842, 94.0, -390.9068163683873)
-[11Jul2022 10:16:54.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
-[11Jul2022 10:16:54.926] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
-[11Jul2022 10:39:53.877] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
-[11Jul2022 10:40:04.378] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: You logged in from another location
-[11Jul2022 10:40:04.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
-[11Jul2022 10:40:04.680] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.159:56630] logged in with entity id 61193 at (-849.3124263611543, 64.0, -382.65905370765756)
-[11Jul2022 10:40:04.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
-[11Jul2022 10:40:04.797] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
-[11Jul2022 10:40:38.041] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
-[11Jul2022 10:40:38.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
-[11Jul2022 10:41:09.886] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
-[11Jul2022 10:41:20.523] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@33438c86
-[11Jul2022 10:41:20.771] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.159:56640] logged in with entity id 62169 at (-849.3124263611543, 64.0, -382.65905370765756)
-[11Jul2022 10:41:20.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
-[11Jul2022 10:41:20.809] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
-[11Jul2022 10:41:21.753] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Wrong location! (-45, -23) should be (-44, -23), CowEntity['Cow'/62603, l='ServerLevel[Vault-Hunters]', x=-704.01, y=69.00, z=-356.93]
-[11Jul2022 10:46:21.042] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Timed out
-[11Jul2022 10:46:21.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
-[11Jul2022 12:07:42.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[11Jul2022 12:07:42.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[11Jul2022 12:07:42.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[11Jul2022 12:07:42.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[11Jul2022 12:07:42.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:overworld
-[11Jul2022 12:07:43.113] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
-[11Jul2022 12:07:43.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_nether
-[11Jul2022 12:07:43.114] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11Jul2022 12:07:43.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_end
-[11Jul2022 12:07:43.115] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11Jul2022 12:07:43.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:the_other_side
-[11Jul2022 12:07:43.116] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
-[11Jul2022 12:07:43.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/appliedenergistics2:spatial_storage
-[11Jul2022 12:07:43.116] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[11Jul2022 12:07:43.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:vault
-[11Jul2022 12:07:43.118] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
-[11Jul2022 12:07:43.188] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
-[11Jul2022 12:07:43.200] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11Jul2022 12:07:43.201] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11Jul2022 12:07:43.201] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
-[11Jul2022 12:07:43.201] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[11Jul2022 12:07:43.202] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
-[11Jul2022 12:07:43.231] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
-[11Jul2022 12:07:43.414] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread Query Listener stopped
+[12Jul2022 08:00:00.596] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[12Jul2022 12:10:37.896] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[12Jul2022 12:10:37.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[12Jul2022 12:10:38.020] [Thread-646/INFO] [FTB Utilities Backups/]: Backing up 6484 files...
+[12Jul2022 12:10:38.026] [Thread-646/INFO] [FTB Utilities Backups/]: Compressing 6484 files...
+[12Jul2022 12:15:35.032] [Thread-646/INFO] [FTB Utilities Backups/]: Done compressing in 04:57 seconds (5.5GB)!
+[12Jul2022 12:15:35.040] [Thread-646/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-07-12-12-10-37.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
+[12Jul2022 12:15:35.045] [Thread-646/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 04:57! (5.5GB | 22.0GB)
+[12Jul2022 12:46:02.008] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[12Jul2022 12:46:17.147] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@d75e4fa
+[12Jul2022 12:46:17.427] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.159:56700] logged in with entity id 4538 at (-849.5321073917538, 64.0, -385.4454886529709)
+[12Jul2022 12:46:17.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[12Jul2022 12:46:17.732] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[12Jul2022 12:46:18.094] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[12Jul2022 12:46:18.096] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[12Jul2022 12:46:18.103] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[12Jul2022 12:46:18.103] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[12Jul2022 12:46:18.260] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[12Jul2022 12:46:18.262] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[12Jul2022 12:46:18.263] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[12Jul2022 12:46:18.263] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[12Jul2022 12:46:18.264] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[12Jul2022 12:46:18.264] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[12Jul2022 12:46:18.265] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[12Jul2022 12:46:18.267] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[12Jul2022 12:46:18.268] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[12Jul2022 12:46:18.269] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[12Jul2022 12:46:18.270] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[12Jul2022 12:46:18.271] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[12Jul2022 12:46:21.783] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Wrong location! (-45, -23) should be (-44, -23), CowEntity['Cow'/4945, l='ServerLevel[Vault-Hunters]', x=-704.15, y=69.00, z=-354.84]
+[12Jul2022 12:46:22.168] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7e0a2e4e
+[12Jul2022 13:21:20.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> test
+[12Jul2022 13:30:39.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808's ping is 3571ms
+[12Jul2022 13:31:46.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Nave808] test
+[12Jul2022 13:32:03.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808's ping is 2864ms
+[12Jul2022 13:45:07.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808's ping is 827ms
+[12Jul2022 13:48:30.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808's ping is 409ms
+[12Jul2022 13:49:32.767] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[12Jul2022 13:50:16.709] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[12Jul2022 13:50:16.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[12Jul2022 14:04:31.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[12Jul2022 14:04:31.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Jul2022 14:04:31.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Jul2022 14:04:31.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Jul2022 14:04:31.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:overworld
+[12Jul2022 14:04:31.996] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
+[12Jul2022 14:04:31.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_nether
+[12Jul2022 14:04:31.997] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Jul2022 14:04:31.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_end
+[12Jul2022 14:04:31.998] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Jul2022 14:04:31.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:the_other_side
+[12Jul2022 14:04:31.999] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[12Jul2022 14:04:31.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/appliedenergistics2:spatial_storage
+[12Jul2022 14:04:32.000] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[12Jul2022 14:04:32.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:vault
+[12Jul2022 14:04:32.001] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[12Jul2022 14:04:32.073] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
+[12Jul2022 14:04:32.079] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Jul2022 14:04:32.080] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Jul2022 14:04:32.080] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[12Jul2022 14:04:32.080] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[12Jul2022 14:04:32.081] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[12Jul2022 14:04:32.090] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
+[12Jul2022 14:04:32.187] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread Query Listener stopped
