@@ -1,7 +1,7 @@
 {
   "playerUUID": "b8bed4fd-6c2f-4f4f-a216-118ed8719365",
   "playerNickname": "Phred7",
-  "timestamp": 1657433481,
+  "timestamp": 1657680305,
   "vaultRuns": 29,
   "vaultWins": 5,
   "vaultDeaths": 2,
@@ -14,9 +14,9 @@
     "minecraft:generic.max_health": 24.0,
     "minecraft:generic.knockback_resistance": 0.09,
     "minecraft:generic.movement_speed": 0.12000000208616257,
-    "minecraft:generic.attack_damage": 6.0,
+    "minecraft:generic.attack_damage": 8.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 1.4400000607967378,
+    "minecraft:generic.attack_speed": 1.9199998903274533,
     "minecraft:generic.armor": 11.0,
     "minecraft:generic.armor_toughness": 0.5,
     "minecraft:generic.luck": 0.0,
@@ -49,9 +49,9 @@
   "thornsDamage": 0.0,
   "equipment": {
     "MAINHAND": {
-      "itemKey": "minecraft:netherite_pickaxe",
+      "itemKey": "minecraft:netherite_sword",
       "count": 1,
-      "nbt": "{RepairCost:31,Enchantments:[{lvl:5s,id:\"minecraft:efficiency\"},{lvl:1s,id:\"minecraft:silk_touch\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:1171}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:6s,id:\"minecraft:sharpness\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:3s,id:\"minecraft:sweeping\"},{lvl:3s,id:\"minecraft:looting\"}],Damage:4}"
     },
     "OFFHAND": {
       "itemKey": "the_vault:idol_timekeeper",
