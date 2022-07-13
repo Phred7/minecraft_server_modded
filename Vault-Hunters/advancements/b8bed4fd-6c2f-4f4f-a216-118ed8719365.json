@@ -2010,6 +2010,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/cyan_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2022-07-12 21:05:53 -0700"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/warped_window_pane": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:48 -0700"
@@ -4430,6 +4436,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/fluid_grid/fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2022-07-12 21:05:53 -0700"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hanging_sign_crimson": {
     "criteria": {
       "has_plank": "2022-06-01 22:00:11 -0700"
@@ -4667,6 +4679,12 @@
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:48 -0700"
+    },
+    "done": true
+  },
+  "refinedstorage:viewing_items": {
+    "criteria": {
+      "grid_in_inventory": "2022-07-12 21:05:53 -0700"
     },
     "done": true
   },
@@ -7883,6 +7901,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:45 -0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/brown_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2022-07-12 21:05:53 -0700"
     },
     "done": true
   },
@@ -11132,6 +11156,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/pink_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2022-07-12 21:05:53 -0700"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/treated_wood_vertical_from_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:48 -0700"
@@ -12038,6 +12068,18 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/magenta_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2022-07-12 21:05:53 -0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/pattern_grid/pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2022-07-12 21:05:53 -0700"
+    },
+    "done": true
+  },
   "botania:recipes/botania/shimmerrock": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:43 -0700"
@@ -12113,6 +12155,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:44 -0700"
+    },
+    "done": true
+  },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2022-07-12 21:33:08 -0700"
     },
     "done": true
   },
@@ -14876,6 +14924,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/gray_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2022-07-12 21:05:53 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:44 -0700"
@@ -16850,6 +16904,12 @@
     },
     "done": true
   },
+  "refinedstorage:drives": {
+    "criteria": {
+      "disk_drive_in_inventory": "2022-07-12 21:26:48 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/acacia/acacia_modern_desk_left": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:48 -0700"
@@ -18266,6 +18326,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/green_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2022-07-12 21:05:53 -0700"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/heart_light": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:49 -0700"
@@ -19004,6 +19070,12 @@
     },
     "done": true
   },
+  "refinedstorage:storing_items": {
+    "criteria": {
+      "storage_disk_in_inventory": "2022-07-12 21:37:33 -0700"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/windows/spruce_window": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:48 -0700"
@@ -19199,6 +19271,12 @@
   "create:recipes/create.base/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:48 -0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/white_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2022-07-12 21:05:53 -0700"
     },
     "done": true
   },
@@ -19985,6 +20063,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:45 -0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/red_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2022-07-12 21:05:53 -0700"
     },
     "done": true
   },
@@ -20801,6 +20885,12 @@
   "mcwfurnitures:recipes/crimson/crimson_double_desk_left": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:46 -0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/orange_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2022-07-12 21:05:53 -0700"
     },
     "done": true
   },
@@ -22358,6 +22448,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/lime_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2022-07-12 21:05:53 -0700"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/black_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:46 -0700"
@@ -22880,6 +22976,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/yellow_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2022-07-12 21:05:53 -0700"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_dolomite_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:46 -0700"
@@ -22901,6 +23003,12 @@
   "comforts:sleeping_bag_light_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:49 -0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/black_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2022-07-12 21:05:53 -0700"
     },
     "done": true
   },
@@ -23855,6 +23963,12 @@
   "mcwwindows:recipes/strip/stripped_dark_oak_log_window": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:44 -0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/light_gray_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2022-07-12 21:05:53 -0700"
     },
     "done": true
   },
@@ -26113,6 +26227,12 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2022-07-12 21:05:53 -0700"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/insulating_glass_from_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:45 -0700"
@@ -26356,6 +26476,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:48 -0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/blue_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2022-07-12 21:05:53 -0700"
     },
     "done": true
   },
@@ -26794,6 +26920,12 @@
   "ironchest:recipes/ironchest/upgrades/diamond_to_crystal_chest_upgrade": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:47 -0700"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/refinedstorage/crafting_grid/purple_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2022-07-12 21:05:53 -0700"
     },
     "done": true
   },

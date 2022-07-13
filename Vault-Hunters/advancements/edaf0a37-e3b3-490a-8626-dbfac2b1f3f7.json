@@ -12460,6 +12460,12 @@
     },
     "done": true
   },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2022-07-12 21:19:11 -0700"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/green_grid": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:56 -0700"
@@ -19579,6 +19585,12 @@
   "mcwdoors:recipes/birch/birch_japanese_door": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:37:54 -0700"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_items": {
+    "criteria": {
+      "storage_disk_in_inventory": "2022-07-12 21:21:36 -0700"
     },
     "done": true
   },
