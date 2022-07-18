@@ -1,20 +1,20 @@
 {
   "playerUUID": "7b32f24d-ed03-4bd7-a77c-f948cfe5052a",
   "playerNickname": "rorysun",
-  "timestamp": 1657337807,
-  "vaultRuns": 7,
-  "vaultWins": 2,
+  "timestamp": 1658117408,
+  "vaultRuns": 9,
+  "vaultWins": 3,
   "vaultDeaths": 0,
   "artifactCount": 0,
   "inVault": false,
-  "powerLevel": 30,
-  "vaultLevel": 25,
-  "levelPercent": 0.49497777,
+  "powerLevel": 31,
+  "vaultLevel": 26,
+  "levelPercent": 0.24495652,
   "attributes": {
     "minecraft:generic.max_health": 20.0,
-    "minecraft:generic.knockback_resistance": 0.0,
+    "minecraft:generic.knockback_resistance": 0.10000000149011612,
     "minecraft:generic.movement_speed": 0.10000000149011612,
-    "minecraft:generic.attack_damage": 4.0,
+    "minecraft:generic.attack_damage": 1.0,
     "minecraft:generic.attack_knockback": 0.0,
     "minecraft:generic.attack_speed": 4.800000011920929,
     "minecraft:generic.armor": 10.0,
@@ -48,6 +48,10 @@
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
+    "MAINHAND": {
+      "itemKey": "quark:yellow_blossom_leaves",
+      "count": 44
+    },
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
       "count": 1,
@@ -56,17 +60,17 @@
     "LEGS": {
       "itemKey": "minecraft:netherite_leggings",
       "count": 1,
-      "nbt": "{RepairCost:3,Damage:0,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:1}"
     },
     "CHEST": {
       "itemKey": "minecraft:elytra",
       "count": 1,
-      "nbt": "{RepairCost:3,Damage:106,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:136}"
     },
     "HEAD": {
       "itemKey": "minecraft:netherite_helmet",
       "count": 1,
-      "nbt": "{RepairCost:3,Damage:0,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:1}"
     }
   },
   "abilities": {
@@ -83,10 +87,12 @@
     "Elvish": 1,
     "Reach": 1,
     "Haste": 1,
-    "Soul Hunter": 1
+    "Soul Hunter": 1,
+    "Stone Skin": 1
   },
   "researches": [
-    "Waystones"
+    "Waystones",
+    "More Lights"
   ],
   "eternals": []
 }
