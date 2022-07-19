@@ -1,7 +1,7 @@
 #Enables backups to run automatically.
 auto = true
 #If set to true, no messages will be displayed in chat/status bar.
-silent = true
+silent = false
 #The number of backup files to keep.
 #More backups = more space used
 #0 - Infinite
@@ -13,12 +13,12 @@ backups_to_keep = 12
 #360 - backups every 6 hours
 #1440 - backups once every day
 #Range: 1 ~ 43800
-backup_timer = 240
+backup_timer = 120
 #0 - Disabled (output = folders)
 #1 - Best speed
 #9 - Smallest file size
 #Range: 0 ~ 9
-compression_level = 2
+compression_level = 3
 #Absolute path to backups folder.
 folder = ""
 #Prints (current size | total size) when backup is done.
