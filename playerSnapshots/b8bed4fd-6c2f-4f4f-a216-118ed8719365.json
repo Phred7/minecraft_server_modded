@@ -1,7 +1,7 @@
 {
   "playerUUID": "b8bed4fd-6c2f-4f4f-a216-118ed8719365",
   "playerNickname": "Phred7",
-  "timestamp": 1658207444,
+  "timestamp": 1658209791,
   "vaultRuns": 35,
   "vaultWins": 7,
   "vaultDeaths": 2,
@@ -9,7 +9,7 @@
   "inVault": false,
   "powerLevel": 36,
   "vaultLevel": 31,
-  "levelPercent": 0.30137256,
+  "levelPercent": 0.3097255,
   "attributes": {
     "minecraft:generic.max_health": 26.0,
     "minecraft:generic.knockback_resistance": 0.3000000014901162,
@@ -24,7 +24,7 @@
     "forge:swim_speed": 1.0,
     "forge:nametag_distance": 64.0,
     "forge:entity_gravity": 0.08,
-    "forge:reach_distance": 7.0,
+    "forge:reach_distance": 8.0,
     "the_vault:generic.crit_chance": 0.0,
     "the_vault:generic.crit_multiplier": 0.0,
     "the_vault:generic.tp_chance": 0.0,
@@ -41,16 +41,21 @@
     "Idona": 0
   },
   "parry": 0.0,
-  "resistance": 0.02,
-  "cooldownReduction": 0.07,
+  "resistance": 0.049999997,
+  "cooldownReduction": 0.11,
   "fatalStrikeChance": 0.0,
   "fatalStrikeDamage": 0.0,
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
     "MAINHAND": {
-      "itemKey": "the_vault:candy_bar",
-      "count": 20
+      "itemKey": "minecraft:golden_carrot",
+      "count": 63
+    },
+    "OFFHAND": {
+      "itemKey": "the_vault:idol_timekeeper",
+      "count": 1,
+      "nbt": "{Damage:0,Vault:{Attributes:[{BaseValue:\"normal\",Id:\"the_vault:gear_roll_pool\"},{BaseValue:-3721803768935852622L,Id:\"the_vault:gear_random_seed\"},{BaseValue:\"IDENTIFIED\",Id:\"the_vault:gear_state\"},{BaseValue:0,Id:\"the_vault:gear_tier\"},{BaseValue:\"Common+\",Id:\"the_vault:gear_roll_type\"},{BaseValue:\"OMEGA\",Id:\"the_vault:gear_rarity\"},{BaseValue:0,Id:\"the_vault:gear_model\"},{BaseValue:11546150,Id:\"the_vault:gear_color\"},{BaseValue:820,Id:\"the_vault:durability\"},{BaseValue:\"TIMEKEEPER\",Id:\"the_vault:idol_type\"},{BaseValue:1.0f,Id:\"the_vault:gear_level_chance\"},{BaseValue:5,Id:\"the_vault:gear_max_level\"},{BaseValue:0,Id:\"the_vault:gear_modifiers_to_roll\"},{BaseValue:0.0d,Id:\"forge:reach\"},{BaseValue:{Effects:[]},Id:\"the_vault:effect_immunity\"},{BaseValue:{EffectClouds:[]},Id:\"the_vault:effect_cloud\"},{BaseValue:0.0f,Id:\"the_vault:cooldown_reduction\"},{BaseValue:0b,Id:\"the_vault:soulbound\"},{BaseValue:0.03d,Id:\"minecraft:add_attack_speed\"},{BaseValue:0.04f,Id:\"the_vault:add_cooldown_reduction_2\"},{BaseValue:5.0f,Id:\"the_vault:gear_level\"},{BaseValue:{EffectClouds:[{Radius:2.0f,Potion:\"minecraft:empty\",Color:2824704,AffectsOwner:0b,Duration:40,Effects:[{Effect:\"minecraft:weakness\",Duration:40,Amplifier:0,ShowIcon:1b,ShowParticles:0b}],Name:\"Weakening I\",Chance:0.04f}]},Id:\"the_vault:add_weakening_cloud\"},{BaseValue:0.04f,Id:\"the_vault:add_cooldown_reduction\"},{BaseValue:{Id:\"minecraft:poison\",Effects:[{}]},Id:\"the_vault:add_poison_immunity\"},{BaseValue:1.0d,Id:\"forge:add_reach\"},{BaseValue:0.03f,Id:\"the_vault:extra_resistance\"}]}}"
     },
     "FEET": {
       "itemKey": "the_vault:boots",
