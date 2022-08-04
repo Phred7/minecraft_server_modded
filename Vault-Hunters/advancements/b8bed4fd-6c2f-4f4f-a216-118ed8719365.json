@@ -14792,6 +14792,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/dark_oak/dark_oak_pult_1": {
+    "criteria": {
+      "has_planks": "2022-07-23 19:47:46 -0700"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/drawer": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:45 -0700"
@@ -14831,6 +14837,24 @@
   "botania:recipes/botania/apothecary_taiga": {
     "criteria": {
       "has_the_recipe": "2022-05-20 15:03:50 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak/dark_oak_pult_4": {
+    "criteria": {
+      "has_planks": "2022-07-23 19:47:46 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak/dark_oak_pult_3": {
+    "criteria": {
+      "has_planks": "2022-07-23 19:47:46 -0700"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak/dark_oak_pult_2": {
+    "criteria": {
+      "has_planks": "2022-07-23 19:47:46 -0700"
     },
     "done": true
   },
@@ -25211,6 +25235,7 @@
       "minecraft:stone_shore": "2022-05-28 22:03:23 -0700",
       "minecraft:mushroom_field_shore": "2022-05-25 00:27:54 -0700",
       "minecraft:swamp": "2022-05-22 17:52:26 -0700",
+      "minecraft:snowy_taiga_hills": "2022-07-23 20:09:36 -0700",
       "minecraft:savanna": "2022-05-22 16:27:29 -0700",
       "minecraft:plains": "2022-05-20 16:22:47 -0700"
     },

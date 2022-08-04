@@ -1,26 +1,130 @@
-[21Jul2022 08:00:00.578] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
-[21Jul2022 20:00:00.577] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
-[21Jul2022 21:07:13.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[21Jul2022 21:07:13.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[21Jul2022 21:07:13.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[21Jul2022 21:07:13.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[21Jul2022 21:07:13.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:overworld
-[21Jul2022 21:07:13.585] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
-[21Jul2022 21:07:13.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_nether
-[21Jul2022 21:07:13.587] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21Jul2022 21:07:13.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_end
-[21Jul2022 21:07:13.589] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21Jul2022 21:07:13.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:the_other_side
-[21Jul2022 21:07:13.590] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
-[21Jul2022 21:07:13.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/appliedenergistics2:spatial_storage
-[21Jul2022 21:07:13.591] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[21Jul2022 21:07:13.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:vault
-[21Jul2022 21:07:13.595] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
-[21Jul2022 21:07:13.667] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
-[21Jul2022 21:07:13.691] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21Jul2022 21:07:13.693] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21Jul2022 21:07:13.694] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
-[21Jul2022 21:07:13.694] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[21Jul2022 21:07:13.697] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
-[21Jul2022 21:07:13.760] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
-[21Jul2022 21:07:13.995] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread Query Listener stopped
+[03Aug2022 08:00:00.863] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[03Aug2022 12:13:29.906] [User Authenticator #14/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[03Aug2022 12:13:50.067] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@667cdfe0
+[03Aug2022 12:13:50.213] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.159:55094] logged in with entity id 818473 at (-856.1794380241008, 94.0, -393.81050207171745)
+[03Aug2022 12:13:50.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[03Aug2022 12:13:50.251] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[03Aug2022 12:13:50.273] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[03Aug2022 12:13:50.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[03Aug2022 12:13:50.561] [Thread-7850/INFO] [FTB Utilities Backups/]: Deleting backup to free space: 2022-07-30-08-51-11.zip
+[03Aug2022 12:13:50.728] [Thread-7850/INFO] [FTB Utilities Backups/]: Backing up 7088 files...
+[03Aug2022 12:13:50.729] [Thread-7850/INFO] [FTB Utilities Backups/]: Compressing 7088 files...
+[03Aug2022 12:15:05.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> test
+[03Aug2022 12:18:56.762] [Thread-7850/INFO] [FTB Utilities Backups/]: Done compressing in 05:06 seconds (5.9GB)!
+[03Aug2022 12:18:56.766] [Thread-7850/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-08-03-12-13-50.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
+[03Aug2022 12:18:56.767] [Thread-7850/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 05:06! (5.9GB | 29.3GB)
+[03Aug2022 13:32:13.042] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[03Aug2022 13:32:13.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[03Aug2022 13:32:13.196] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity DolphinEntity['Dolphin'/833558, l='ServerLevel[Vault-Hunters]', x=-695.24, y=57.22, z=-495.76] left loaded chunk area
+[03Aug2022 13:37:29.873] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[03Aug2022 13:37:44.211] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@17b50459
+[03Aug2022 13:37:44.356] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.159:55264] logged in with entity id 834526 at (-747.5020791247072, 59.0, -447.5222744310643)
+[03Aug2022 13:37:44.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[03Aug2022 13:37:44.378] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[03Aug2022 13:37:44.659] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Wrong location! (-44, -31) should be (-44, -32), DolphinEntity['Dolphin'/834650, l='ServerLevel[Vault-Hunters]', x=-695.24, y=57.22, z=-495.76]
+[03Aug2022 13:56:18.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
+[03Aug2022 13:56:28.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered an Afterlife, Fast, Resilient Vault!
+[03Aug2022 13:56:28.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2882ms or 57 ticks behind
+[03Aug2022 13:56:28.948] [Worker-Main-218671/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"the_vault:janitors_broom",Count:1b,tag:{RepairCost:0,Damage:0,display:{Name:'{"text":"Douwsky\'s Janitor\'s Broom"}'}}}
+[03Aug2022 13:56:28.949] [Worker-Main-218671/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[03Aug2022 13:56:28.976] [Worker-Main-218671/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"the_vault:janitors_broom",Count:1b,tag:{RepairCost:0,Damage:0,display:{Name:'{"text":"Douwsky\'s Janitor\'s Broom"}'}}}
+[03Aug2022 13:56:28.977] [Worker-Main-218671/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[03Aug2022 14:09:49.365] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1568713, y=30, z=4465} BlockPos{x=1568711, y=30, z=4465}
+[03Aug2022 14:09:49.404] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1568714, y=30, z=4465} BlockPos{x=1568711, y=30, z=4465}
+[03Aug2022 14:09:49.648] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1568713, y=32, z=4465} BlockPos{x=1568711, y=30, z=4465}
+[03Aug2022 14:09:49.705] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1568712, y=32, z=4465} BlockPos{x=1568711, y=30, z=4465}
+[03Aug2022 14:13:50.274] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[03Aug2022 14:13:50.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[03Aug2022 14:13:50.493] [Thread-7934/INFO] [FTB Utilities Backups/]: Deleting backup to free space: 2022-07-30-10-51-12.zip
+[03Aug2022 14:13:50.648] [Thread-7934/INFO] [FTB Utilities Backups/]: Backing up 7104 files...
+[03Aug2022 14:13:50.649] [Thread-7934/INFO] [FTB Utilities Backups/]: Compressing 7104 files...
+[03Aug2022 14:18:43.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> test
+[03Aug2022 14:18:54.534] [Thread-7934/INFO] [FTB Utilities Backups/]: Done compressing in 05:03 seconds (5.9GB)!
+[03Aug2022 14:18:54.534] [Thread-7934/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-08-03-14-13-50.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
+[03Aug2022 14:18:54.534] [Thread-7934/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 05:04! (5.9GB | 29.3GB)
+[03Aug2022 14:19:10.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 bailed.
+[03Aug2022 14:19:12.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
+[03Aug2022 15:02:23.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
+[03Aug2022 15:06:04.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered a Luckier, Difficult, Tired, Safe Zone, Daycare, Hunger, Extended, Clumsy, Personal Space, Frail, Gilded, Poisonous Vault!
+[03Aug2022 15:06:04.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2611ms or 52 ticks behind
+[03Aug2022 15:18:02.471] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Black Stained Glass'/886132, l='ServerLevel[Vault-Hunters]', x=1576461.75, y=14.54, z=4068.32]
+[03Aug2022 15:18:56.421] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1576467, y=14, z=4032} BlockPos{x=1576457, y=14, z=4037}
+[03Aug2022 15:21:07.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 12 blocks]
+[03Aug2022 15:21:07.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
+[03Aug2022 15:21:07.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:block.end_portal.spawn to Nave808]
+[03Aug2022 15:24:07.031] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/886945, l='ServerLevel[Vault-Hunters]', x=1576744.25, y=24.36, z=4220.60]
+[03Aug2022 15:24:07.032] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Blue Smooth Sandstone'/886946, l='ServerLevel[Vault-Hunters]', x=1576748.50, y=23.57, z=4219.29]
+[03Aug2022 15:24:07.032] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sand'/886947, l='ServerLevel[Vault-Hunters]', x=1576750.65, y=25.74, z=4223.39]
+[03Aug2022 15:24:07.032] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Blue Sand'/886949, l='ServerLevel[Vault-Hunters]', x=1576751.30, y=25.58, z=4219.27]
+[03Aug2022 15:24:07.032] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/886951, l='ServerLevel[Vault-Hunters]', x=1576747.74, y=22.26, z=4220.62]
+[03Aug2022 15:24:07.032] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Holly Planks'/886952, l='ServerLevel[Vault-Hunters]', x=1576749.36, y=25.33, z=4224.50]
+[03Aug2022 15:24:07.232] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/886988, l='ServerLevel[Vault-Hunters]', x=1576751.35, y=24.32, z=4220.52]
+[03Aug2022 15:24:07.833] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/887054, l='ServerLevel[Vault-Hunters]', x=1576751.29, y=20.41, z=4220.55]
+[03Aug2022 15:24:07.834] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Blue Smooth Sandstone'/887055, l='ServerLevel[Vault-Hunters]', x=1576753.67, y=23.38, z=4219.30]
+[03Aug2022 15:24:07.834] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/887056, l='ServerLevel[Vault-Hunters]', x=1576752.40, y=20.28, z=4221.52]
+[03Aug2022 15:24:07.834] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/887058, l='ServerLevel[Vault-Hunters]', x=1576753.60, y=25.43, z=4224.32]
+[03Aug2022 15:24:07.834] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Blue Smooth Sandstone'/887059, l='ServerLevel[Vault-Hunters]', x=1576752.36, y=21.62, z=4219.71]
+[03Aug2022 15:24:07.834] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Blue Sand'/887060, l='ServerLevel[Vault-Hunters]', x=1576750.49, y=19.63, z=4219.33]
+[03Aug2022 15:24:07.835] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/887061, l='ServerLevel[Vault-Hunters]', x=1576748.26, y=20.31, z=4221.52]
+[03Aug2022 15:24:07.835] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/887063, l='ServerLevel[Vault-Hunters]', x=1576752.64, y=24.65, z=4224.47]
+[03Aug2022 15:24:07.835] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/887064, l='ServerLevel[Vault-Hunters]', x=1576752.58, y=19.74, z=4220.71]
+[03Aug2022 15:24:07.930] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Blue Smooth Sandstone'/887088, l='ServerLevel[Vault-Hunters]', x=1576745.47, y=20.70, z=4219.61]
+[03Aug2022 15:24:07.930] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Blue Sand'/887092, l='ServerLevel[Vault-Hunters]', x=1576752.68, y=18.51, z=4219.35]
+[03Aug2022 15:24:07.930] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/887094, l='ServerLevel[Vault-Hunters]', x=1576754.37, y=22.46, z=4220.47]
+[03Aug2022 15:24:08.826] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Blue Smooth Sandstone'/887137, l='ServerLevel[Vault-Hunters]', x=1576739.51, y=24.57, z=4219.68]
+[03Aug2022 15:24:08.826] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Blue Sand'/887138, l='ServerLevel[Vault-Hunters]', x=1576740.64, y=26.48, z=4219.71]
+[03Aug2022 15:24:08.826] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/887139, l='ServerLevel[Vault-Hunters]', x=1576738.43, y=23.26, z=4222.45]
+[03Aug2022 15:24:14.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.generic.explode to Nave808]
+[03Aug2022 15:24:58.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 12 blocks]
+[03Aug2022 15:24:58.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
+[03Aug2022 15:24:58.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:block.end_portal.spawn to Nave808]
+[03Aug2022 15:26:32.982] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1576841, y=7, z=4443} BlockPos{x=1576841, y=7, z=4445}
+[03Aug2022 15:28:41.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 12 blocks]
+[03Aug2022 15:28:41.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
+[03Aug2022 15:28:41.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:block.end_portal.spawn to Nave808]
+[03Aug2022 15:31:26.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 bailed.
+[03Aug2022 15:31:26.935] [Worker-Main-219379/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID b706ee78-8faa-42fa-9812-ae713d990e0f
+[03Aug2022 16:07:07.749] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[03Aug2022 16:13:50.275] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[03Aug2022 16:13:50.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[03Aug2022 16:13:50.458] [Thread-8026/INFO] [FTB Utilities Backups/]: Deleting backup to free space: 2022-07-30-12-51-12.zip
+[03Aug2022 16:13:50.608] [Thread-8026/INFO] [FTB Utilities Backups/]: Backing up 7138 files...
+[03Aug2022 16:13:50.608] [Thread-8026/INFO] [FTB Utilities Backups/]: Compressing 7138 files...
+[03Aug2022 16:18:55.688] [Thread-8026/INFO] [FTB Utilities Backups/]: Done compressing in 05:05 seconds (5.9GB)!
+[03Aug2022 16:18:55.717] [Thread-8026/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-08-03-16-13-50.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
+[03Aug2022 16:18:55.718] [Thread-8026/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 05:05! (5.9GB | 29.4GB)
+[03Aug2022 18:13:50.321] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[03Aug2022 18:13:50.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[03Aug2022 18:13:50.507] [Thread-8083/INFO] [FTB Utilities Backups/]: Deleting backup to free space: 2022-07-30-14-51-12.zip
+[03Aug2022 18:13:50.658] [Thread-8083/INFO] [FTB Utilities Backups/]: Backing up 7138 files...
+[03Aug2022 18:13:50.659] [Thread-8083/INFO] [FTB Utilities Backups/]: Compressing 7138 files...
+[03Aug2022 18:18:13.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] you online rn?
+[03Aug2022 18:18:58.075] [Thread-8083/INFO] [FTB Utilities Backups/]: Done compressing in 05:07 seconds (5.9GB)!
+[03Aug2022 18:18:58.075] [Thread-8083/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-08-03-18-13-50.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
+[03Aug2022 18:18:58.075] [Thread-8083/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 05:07! (5.9GB | 29.4GB)
+[03Aug2022 18:26:48.227] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[03Aug2022 18:26:48.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[03Aug2022 19:39:40.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[03Aug2022 19:39:40.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Aug2022 19:39:40.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Aug2022 19:39:40.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Aug2022 19:39:40.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:overworld
+[03Aug2022 19:39:41.073] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
+[03Aug2022 19:39:41.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_nether
+[03Aug2022 19:39:41.076] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Aug2022 19:39:41.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_end
+[03Aug2022 19:39:41.077] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Aug2022 19:39:41.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:the_other_side
+[03Aug2022 19:39:41.078] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[03Aug2022 19:39:41.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/appliedenergistics2:spatial_storage
+[03Aug2022 19:39:41.078] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[03Aug2022 19:39:41.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:vault
+[03Aug2022 19:39:41.091] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[03Aug2022 19:39:41.172] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
+[03Aug2022 19:39:41.297] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Aug2022 19:39:41.300] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Aug2022 19:39:41.301] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[03Aug2022 19:39:41.302] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[03Aug2022 19:39:41.314] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[03Aug2022 19:39:41.729] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
+[03Aug2022 19:39:42.240] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread Query Listener stopped
