@@ -72,7 +72,17 @@ def git_add(file: str) -> None:
 
 def git_change_branch(branch_name: str) -> None:
     os.system(f"git checkout {branch_name}")
+    
+def save() -> None:
+    os.system("/home/phred7/minecraft_servers/tools/mcrcon/mcrcon -H 192.168.1.159 -P 25575 -p 	gremlincraft_rcon_ -w 0.5 \"say ---saving world---\" save-off save-all save-off")
+
+	
+def reenable_save() -> None:
+    os.system("/home/phred7/minecraft_servers/tools/mcrcon/mcrcon -H 192.168.1.159 -P 25575 -p 	gremlincraft_rcon_ -w 0.5 save-on \"say ---saving world complete---\"")
 
 
 if __name__ == "__main__":
+    save()
     backup_to_github()
+    reenable_save()
+    
