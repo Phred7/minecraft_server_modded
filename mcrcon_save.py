@@ -4,7 +4,9 @@
 import os
 
 def save() -> None:
-	os.system("/home/mcserver/tools/mcrcon/mcrcon -H 10.0.2.15 -P 25575 -p gremlincraft_rcon_ save-all")
+	os.system("/home/phred7/minecraft_servers/tools/mcrcon/mcrcon -H 192.168.1.159 -P 25575 -p gremlincraft_rcon_ save-off")
+	os.system("/home/phred7/minecraft_servers/tools/mcrcon/mcrcon -H 192.168.1.159 -P 25575 -p gremlincraft_rcon_ save-all")
+	os.system("/home/phred7/minecraft_servers/tools/mcrcon/mcrcon -H 192.168.1.159 -P 25575 -p gremlincraft_rcon_ save-on")
 
 
 if __name__ == "__main__":
