@@ -20,3 +20,22 @@ add 'gc.log.0.current'
 add 'logs/debug.log'
 add 'logs/latest.log'
 add 'mc_cron.log'
+[main 229f34e] automatic backup.
+ 17 files changed, 73 insertions(+), 1 deletion(-)
+ rewrite mc_cron.log (100%)
+To github.com:Phred7/minecraft_server_modded.git
+   09c856d..229f34e  main -> main
+Starting backup to github.
+*************** Pulling ***************
+*************** Done Pulling ***************
+
+*************** Adding Changes ***************
+*************** Done Adding Changes ***************
+
+*************** Commiting ***************
+*************** Done Commiting ***************
+
+*************** Pushing ***************
+*************** Done Pushing ***************
+
+Backup to github complete.
