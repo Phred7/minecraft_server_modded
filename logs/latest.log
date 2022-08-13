@@ -1096,3 +1096,55 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [13Aug2022 13:52:18.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [13Aug2022 13:52:19.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [13Aug2022 13:52:20.930] [RCON Client /192.168.1.159 #12/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.159 shutting down
+[13Aug2022 13:52:32.716] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.159 started
+[13Aug2022 13:52:32.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[13Aug2022 13:52:33.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[13Aug2022 13:52:33.718] [RCON Client /192.168.1.159 #13/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.159 shutting down
+[13Aug2022 13:54:31.730] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[13Aug2022 13:54:38.262] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1d982a54
+[13Aug2022 13:54:38.392] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.100:56555] logged in with entity id 240 at (-854.07881152449, 103.0, -385.1730864649477)
+[13Aug2022 13:54:38.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[13Aug2022 13:54:38.707] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[13Aug2022 13:54:39.307] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[13Aug2022 13:54:39.309] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[13Aug2022 13:54:39.314] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[13Aug2022 13:54:39.314] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[13Aug2022 13:54:39.503] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[13Aug2022 13:54:39.506] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[13Aug2022 13:54:39.509] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[13Aug2022 13:54:39.511] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[13Aug2022 13:54:39.511] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[13Aug2022 13:54:39.513] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[13Aug2022 13:54:39.514] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[13Aug2022 13:54:39.518] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[13Aug2022 13:54:39.521] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[13Aug2022 13:54:39.524] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[13Aug2022 13:54:39.527] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[13Aug2022 13:54:39.530] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[13Aug2022 13:54:43.780] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@75b0b55f
+[13Aug2022 13:55:21.971] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
+[13Aug2022 13:55:21.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
+[13Aug2022 13:58:36.413] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[13Aug2022 13:58:42.925] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@207ba391
+[13Aug2022 13:58:43.019] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.100:52614] logged in with entity id 1778 at (-853.9003166374625, 102.0, -388.0366273099974)
+[13Aug2022 13:58:43.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[13Aug2022 13:58:43.105] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[13Aug2022 13:59:46.767] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
+[13Aug2022 13:59:46.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
+[13Aug2022 14:04:57.126] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[13Aug2022 14:05:03.411] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5ca15853
+[13Aug2022 14:05:03.494] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.100:56294] logged in with entity id 3371 at (-846.6184772779981, 102.0, -392.7570571996031)
+[13Aug2022 14:05:03.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[13Aug2022 14:05:03.557] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[13Aug2022 14:05:29.620] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
+[13Aug2022 14:05:29.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
+[13Aug2022 14:05:38.253] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[13Aug2022 14:05:45.204] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@12bf95f3
+[13Aug2022 14:05:45.272] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.100:56357] logged in with entity id 4759 at (-849.8467378738595, 102.0, -394.44286642067567)
+[13Aug2022 14:05:45.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[13Aug2022 14:05:45.334] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[13Aug2022 14:06:11.263] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.159 started
+[13Aug2022 14:06:11.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[13Aug2022 14:06:12.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[13Aug2022 14:06:13.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[13Aug2022 14:06:14.656] [RCON Client /192.168.1.159 #14/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.159 shutting down

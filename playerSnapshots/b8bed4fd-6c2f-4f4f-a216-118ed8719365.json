@@ -1,7 +1,7 @@
 {
   "playerUUID": "b8bed4fd-6c2f-4f4f-a216-118ed8719365",
   "playerNickname": "Phred7",
-  "timestamp": 1660366675,
+  "timestamp": 1660424773,
   "vaultRuns": 37,
   "vaultWins": 8,
   "vaultDeaths": 2,
@@ -14,9 +14,9 @@
     "minecraft:generic.max_health": 26.0,
     "minecraft:generic.knockback_resistance": 0.3000000014901162,
     "minecraft:generic.movement_speed": 0.12000000208616257,
-    "minecraft:generic.attack_damage": 13.899999999999997,
+    "minecraft:generic.attack_damage": 4.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 1.2720000031590446,
+    "minecraft:generic.attack_speed": 4.800000011920929,
     "minecraft:generic.armor": 16.0,
     "minecraft:generic.armor_toughness": 1.4,
     "minecraft:generic.luck": 0.0,
@@ -49,9 +49,8 @@
   "thornsDamage": 0.0,
   "equipment": {
     "MAINHAND": {
-      "itemKey": "the_vault:axe",
-      "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:5s,id:\"minecraft:sharpness\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Vault:{Attributes:[{BaseValue:\"normal\",Id:\"the_vault:gear_roll_pool\"},{BaseValue:8757846593598478419L,Id:\"the_vault:gear_random_seed\"},{BaseValue:\"IDENTIFIED\",Id:\"the_vault:gear_state\"},{BaseValue:0,Id:\"the_vault:gear_tier\"},{BaseValue:\"Scrappy\",Id:\"the_vault:gear_roll_type\"},{BaseValue:\"SCRAPPY\",Id:\"the_vault:gear_rarity\"},{BaseValue:6,Id:\"the_vault:gear_model\"},{BaseValue:16701501,Id:\"the_vault:gear_color\"},{BaseValue:9.899999999999997d,Id:\"minecraft:attack_damage\"},{BaseValue:-2.9400000000000013d,Id:\"minecraft:attack_speed\"},{BaseValue:2250,Id:\"the_vault:durability\"},{BaseValue:0.5f,Id:\"the_vault:gear_level_chance\"},{BaseValue:0,Id:\"the_vault:gear_max_level\"},{BaseValue:0,Id:\"the_vault:gear_modifiers_to_roll\"},{BaseValue:5,Id:\"the_vault:max_repairs\"},{BaseValue:25,Id:\"the_vault:min_vault_level\"},{BaseValue:{Effects:[]},Id:\"the_vault:effect_immunity\"},{BaseValue:{EffectClouds:[]},Id:\"the_vault:effect_cloud\"},{BaseValue:0.0f,Id:\"the_vault:cooldown_reduction\"},{BaseValue:0b,Id:\"the_vault:soulbound\"}]},Damage:1090}"
+      "itemKey": "minecraft:golden_carrot",
+      "count": 62
     },
     "OFFHAND": {
       "itemKey": "the_vault:idol_timekeeper",
