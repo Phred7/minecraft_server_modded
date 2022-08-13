@@ -1091,3 +1091,8 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [13Aug2022 13:42:16.188] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.159 started
 [13Aug2022 13:42:16.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
 [13Aug2022 13:42:16.190] [RCON Client /192.168.1.159 #11/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.159 shutting down
+[13Aug2022 13:52:17.834] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.159 started
+[13Aug2022 13:52:17.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[13Aug2022 13:52:18.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[13Aug2022 13:52:19.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[13Aug2022 13:52:20.930] [RCON Client /192.168.1.159 #12/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.159 shutting down
