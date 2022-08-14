@@ -1159,3 +1159,19 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [13Aug2022 15:00:02.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [13Aug2022 15:00:03.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [13Aug2022 15:00:04.438] [RCON Client /192.168.1.159 #16/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.159 shutting down
+[13Aug2022 15:00:34.165] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.159 started
+[13Aug2022 15:00:34.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[13Aug2022 15:00:35.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[13Aug2022 15:00:35.168] [RCON Client /192.168.1.159 #17/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.159 shutting down
+[13Aug2022 15:19:54.359] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[13Aug2022 15:19:54.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[13Aug2022 15:19:54.530] [Thread-119/INFO] [FTB Utilities Backups/]: Backing up 7397 files...
+[13Aug2022 15:19:54.531] [Thread-119/INFO] [FTB Utilities Backups/]: Compressing 7397 files...
+[13Aug2022 15:25:46.480] [Thread-119/INFO] [FTB Utilities Backups/]: Done compressing in 05:51 seconds (6.0GB)!
+[13Aug2022 15:25:46.496] [Thread-119/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-08-13-15-19-54.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
+[13Aug2022 15:25:46.535] [Thread-119/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 05:52! (6.0GB | 30.1GB)
+[13Aug2022 19:00:01.361] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.159 started
+[13Aug2022 19:00:01.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[13Aug2022 19:00:02.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[13Aug2022 19:00:03.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[13Aug2022 19:00:04.443] [RCON Client /192.168.1.159 #18/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.159 shutting down
