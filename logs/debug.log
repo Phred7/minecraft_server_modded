@@ -14084,3 +14084,222 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [15Aug2022 15:00:03.253] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
 [15Aug2022 15:00:03.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [15Aug2022 15:00:04.319] [RCON Client /192.168.1.159 #44/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.159 shutting down
+[15Aug2022 15:00:17.510] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 15:00:17.527] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 15:00:36.544] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.159 started
+[15Aug2022 15:00:36.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[15Aug2022 15:00:37.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[15Aug2022 15:00:37.546] [RCON Client /192.168.1.159 #45/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.159 shutting down
+[15Aug2022 15:03:00.319] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[15Aug2022 15:03:00.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[15Aug2022 15:03:00.510] [Thread-1370/INFO] [FTB Utilities Backups/]: Deleting backup to free space: 2022-08-14-01-22-53.zip
+[15Aug2022 15:03:00.676] [Thread-1370/INFO] [FTB Utilities Backups/]: Deleting backup to free space: 2022-08-15-00-28-14.zip
+[15Aug2022 15:03:00.851] [Thread-1370/INFO] [FTB Utilities Backups/]: Backing up 7438 files...
+[15Aug2022 15:03:00.852] [Thread-1370/INFO] [FTB Utilities Backups/]: Compressing 7438 files...
+[15Aug2022 15:05:17.830] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 15:05:17.857] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 15:08:35.159] [Thread-1370/INFO] [FTB Utilities Backups/]: Done compressing in 05:34 seconds (6.0GB)!
+[15Aug2022 15:08:35.164] [Thread-1370/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-08-15-15-03-00.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
+[15Aug2022 15:08:35.165] [Thread-1370/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 05:34! (6.0GB | 24.1GB)
+[15Aug2022 15:10:17.590] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 15:10:17.609] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 15:15:17.587] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 15:15:17.610] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 15:20:17.596] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 15:20:17.616] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 15:25:17.589] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 15:25:17.607] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 15:30:17.577] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 15:30:17.595] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 15:35:17.586] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 15:35:17.603] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 15:40:17.601] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 15:40:17.618] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 15:45:17.603] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 15:45:17.620] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 15:50:17.600] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 15:50:17.618] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 15:55:17.592] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 15:55:17.611] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 16:00:17.601] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 16:00:17.619] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 16:05:17.605] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 16:05:17.627] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 16:10:17.588] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 16:10:17.606] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 16:15:17.586] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 16:15:17.604] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 16:20:17.592] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 16:20:17.609] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 16:25:17.584] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 16:25:17.603] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 16:30:17.605] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 16:30:17.622] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 16:35:17.602] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 16:35:17.621] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 16:40:17.592] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 16:40:17.610] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 16:45:17.612] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 16:45:17.632] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 16:49:36.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
+[15Aug2022 16:49:48.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered an Afterlife, Tired Vault!
+[15Aug2022 16:50:17.857] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 16:50:17.875] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 16:55:17.775] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 16:55:17.794] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 16:56:36.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 12 blocks]
+[15Aug2022 16:56:36.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
+[15Aug2022 16:56:36.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:block.end_portal.spawn to Nave808]
+[15Aug2022 17:00:17.607] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 17:00:17.625] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 17:03:00.326] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[15Aug2022 17:03:00.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[15Aug2022 17:03:00.529] [Thread-1449/INFO] [FTB Utilities Backups/]: Backing up 7455 files...
+[15Aug2022 17:03:00.529] [Thread-1449/INFO] [FTB Utilities Backups/]: Compressing 7455 files...
+[15Aug2022 17:05:17.540] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 17:05:17.572] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 17:08:37.220] [Thread-1449/INFO] [FTB Utilities Backups/]: Done compressing in 05:36 seconds (6.0GB)!
+[15Aug2022 17:08:37.283] [Thread-1449/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-08-15-17-03-00.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
+[15Aug2022 17:08:37.284] [Thread-1449/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 05:36! (6.0GB | 30.2GB)
+[15Aug2022 17:10:17.659] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 17:10:17.678] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 17:11:12.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 bailed.
+[15Aug2022 17:14:39.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
+[15Aug2022 17:14:43.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered an Afterlife, Speedy, Plentiful, Unlucky Scavenger Vault!
+[15Aug2022 17:14:43.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3337ms or 66 ticks behind
+[15Aug2022 17:15:22.188] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 17:15:22.206] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 17:16:26.770] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1699816, y=8, z=3875} BlockPos{x=1699817, y=7, z=3875}
+[15Aug2022 17:20:21.003] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 17:20:21.021] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 17:25:21.047] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 17:25:21.065] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 17:30:21.108] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 17:30:21.127] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 17:32:34.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 25 blocks]
+[15Aug2022 17:32:34.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound the_vault:puzzle/completion_major to Nave808]
+[15Aug2022 17:32:34.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 1699545, 22, 4242]
+[15Aug2022 17:35:20.995] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 17:35:21.014] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 17:40:19.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 bailed.
+[15Aug2022 17:40:22.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3440ms or 68 ticks behind
+[15Aug2022 17:40:25.023] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 17:40:25.044] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 17:42:28.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
+[15Aug2022 17:42:59.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered an Afterlife, Crowded, Speedy, Raffle, Frail Vault!
+[15Aug2022 17:42:59.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3127ms or 62 ticks behind
+[15Aug2022 17:45:12.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 defeated Pau1_!
+[15Aug2022 17:45:28.204] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 17:45:28.222] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 17:50:28.101] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 17:50:28.121] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 17:51:51.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
+[15Aug2022 17:52:00.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered an Afterlife, Difficult, Fast Vault!
+[15Aug2022 17:52:00.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2576ms or 51 ticks behind
+[15Aug2022 17:55:30.830] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 17:55:30.848] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 17:57:03.583] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Jungle Button'/257560, l='ServerLevel[Vault-Hunters]', x=1716116.46, y=31.69, z=3768.72]
+[15Aug2022 17:57:03.583] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone Wall'/257564, l='ServerLevel[Vault-Hunters]', x=1716120.48, y=29.27, z=3772.33]
+[15Aug2022 17:57:03.584] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Pine Trapdoor'/257565, l='ServerLevel[Vault-Hunters]', x=1716121.66, y=33.32, z=3765.38]
+[15Aug2022 17:57:03.584] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Fence'/257566, l='ServerLevel[Vault-Hunters]', x=1716120.30, y=31.63, z=3766.60]
+[15Aug2022 17:57:03.584] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/257567, l='ServerLevel[Vault-Hunters]', x=1716119.66, y=31.30, z=3766.29]
+[15Aug2022 17:57:03.584] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Slab'/257569, l='ServerLevel[Vault-Hunters]', x=1716116.40, y=34.35, z=3768.35]
+[15Aug2022 17:57:03.585] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stripped Dark Oak Wood'/257570, l='ServerLevel[Vault-Hunters]', x=1716116.56, y=30.46, z=3766.27]
+[15Aug2022 17:57:03.585] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Jungle Fence Gate'/257571, l='ServerLevel[Vault-Hunters]', x=1716117.58, y=34.59, z=3764.45]
+[15Aug2022 17:57:03.585] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Travertine Cobble'/257572, l='ServerLevel[Vault-Hunters]', x=1716122.75, y=34.68, z=3766.28]
+[15Aug2022 17:57:03.585] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Barrel'/257573, l='ServerLevel[Vault-Hunters]', x=1716118.35, y=26.31, z=3767.37]
+[15Aug2022 17:57:04.390] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/257679, l='ServerLevel[Vault-Hunters]', x=1716137.70, y=24.56, z=3767.53]
+[15Aug2022 17:57:04.390] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Holly Planks'/257680, l='ServerLevel[Vault-Hunters]', x=1716140.29, y=25.73, z=3769.64]
+[15Aug2022 17:57:04.390] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sand'/257681, l='ServerLevel[Vault-Hunters]', x=1716135.32, y=25.73, z=3768.55]
+[15Aug2022 17:57:04.391] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Fence'/257684, l='ServerLevel[Vault-Hunters]', x=1716139.74, y=27.35, z=3766.37]
+[15Aug2022 17:57:04.391] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stripped Dark Oak Wood'/257685, l='ServerLevel[Vault-Hunters]', x=1716138.38, y=29.28, z=3769.43]
+[15Aug2022 17:57:04.391] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Slab'/257686, l='ServerLevel[Vault-Hunters]', x=1716137.42, y=31.51, z=3769.42]
+[15Aug2022 17:57:04.391] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Travertine Bricks'/257687, l='ServerLevel[Vault-Hunters]', x=1716138.44, y=26.42, z=3769.35]
+[15Aug2022 17:57:04.391] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Barrel'/257688, l='ServerLevel[Vault-Hunters]', x=1716140.67, y=26.45, z=3769.30]
+[15Aug2022 17:57:04.391] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bell'/257689, l='ServerLevel[Vault-Hunters]', x=1716138.67, y=30.49, z=3765.60]
+[15Aug2022 17:57:04.392] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Pine Trapdoor'/257690, l='ServerLevel[Vault-Hunters]', x=1716135.54, y=26.60, z=3765.73]
+[15Aug2022 17:57:04.392] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dense Grit Sand'/257691, l='ServerLevel[Vault-Hunters]', x=1716136.49, y=25.50, z=3767.66]
+[15Aug2022 17:57:04.392] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/257692, l='ServerLevel[Vault-Hunters]', x=1716137.26, y=25.67, z=3764.52]
+[15Aug2022 17:57:04.392] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/257693, l='ServerLevel[Vault-Hunters]', x=1716139.59, y=24.70, z=3767.30]
+[15Aug2022 17:57:04.829] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sand'/257763, l='ServerLevel[Vault-Hunters]', x=1716118.61, y=25.69, z=3782.72]
+[15Aug2022 17:57:04.829] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/257764, l='ServerLevel[Vault-Hunters]', x=1716119.42, y=24.66, z=3778.29]
+[15Aug2022 17:57:04.829] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone Stairs'/257765, l='ServerLevel[Vault-Hunters]', x=1716116.55, y=25.32, z=3781.67]
+[15Aug2022 17:57:04.829] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/257766, l='ServerLevel[Vault-Hunters]', x=1716124.75, y=25.60, z=3776.36]
+[15Aug2022 17:57:04.830] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dense Grit Sand'/257767, l='ServerLevel[Vault-Hunters]', x=1716123.41, y=25.71, z=3782.37]
+[15Aug2022 17:57:04.830] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Holly Planks'/257768, l='ServerLevel[Vault-Hunters]', x=1716124.52, y=25.41, z=3779.27]
+[15Aug2022 17:57:04.830] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/257769, l='ServerLevel[Vault-Hunters]', x=1716124.54, y=24.54, z=3777.63]
+[15Aug2022 17:57:04.830] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Travertine Bricks'/257770, l='ServerLevel[Vault-Hunters]', x=1716123.60, y=25.61, z=3773.37]
+[15Aug2022 17:57:04.830] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/257771, l='ServerLevel[Vault-Hunters]', x=1716120.35, y=24.50, z=3777.26]
+[15Aug2022 17:57:05.332] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/257821, l='ServerLevel[Vault-Hunters]', x=1716118.64, y=23.69, z=3779.32]
+[15Aug2022 17:57:05.332] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/257822, l='ServerLevel[Vault-Hunters]', x=1716120.48, y=23.72, z=3781.47]
+[15Aug2022 17:57:05.402] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/257878, l='ServerLevel[Vault-Hunters]', x=1716118.36, y=19.40, z=3765.57]
+[15Aug2022 17:57:05.403] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/257879, l='ServerLevel[Vault-Hunters]', x=1716117.59, y=24.45, z=3764.62]
+[15Aug2022 17:57:05.403] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sand'/257880, l='ServerLevel[Vault-Hunters]', x=1716117.32, y=22.57, z=3762.44]
+[15Aug2022 17:57:05.403] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/257881, l='ServerLevel[Vault-Hunters]', x=1716115.54, y=21.42, z=3766.26]
+[15Aug2022 17:57:05.403] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/257882, l='ServerLevel[Vault-Hunters]', x=1716122.61, y=21.59, z=3762.66]
+[15Aug2022 17:57:05.403] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/257883, l='ServerLevel[Vault-Hunters]', x=1716115.29, y=23.48, z=3763.50]
+[15Aug2022 17:57:05.403] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/257884, l='ServerLevel[Vault-Hunters]', x=1716117.46, y=20.40, z=3768.34]
+[15Aug2022 17:57:05.404] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/257886, l='ServerLevel[Vault-Hunters]', x=1716115.36, y=21.62, z=3767.28]
+[15Aug2022 17:57:05.404] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sand'/257888, l='ServerLevel[Vault-Hunters]', x=1716118.28, y=22.68, z=3761.60]
+[15Aug2022 17:57:05.404] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/257890, l='ServerLevel[Vault-Hunters]', x=1716121.62, y=24.69, z=3762.74]
+[15Aug2022 17:57:05.404] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone Stairs'/257891, l='ServerLevel[Vault-Hunters]', x=1716116.54, y=25.52, z=3768.34]
+[15Aug2022 17:57:05.683] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/257958, l='ServerLevel[Vault-Hunters]', x=1716141.27, y=25.75, z=3772.47]
+[15Aug2022 17:57:05.683] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dense Grit Sand'/257959, l='ServerLevel[Vault-Hunters]', x=1716139.47, y=25.26, z=3774.28]
+[15Aug2022 17:57:05.683] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/257960, l='ServerLevel[Vault-Hunters]', x=1716140.50, y=27.65, z=3772.66]
+[15Aug2022 17:57:05.683] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Blue Sand'/257961, l='ServerLevel[Vault-Hunters]', x=1716142.57, y=25.55, z=3772.45]
+[15Aug2022 17:57:05.684] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sand'/257962, l='ServerLevel[Vault-Hunters]', x=1716141.46, y=25.59, z=3773.45]
+[15Aug2022 17:57:05.684] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Holly Planks'/257963, l='ServerLevel[Vault-Hunters]', x=1716141.34, y=25.60, z=3771.57]
+[15Aug2022 17:57:05.684] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Blue Smooth Sandstone'/257964, l='ServerLevel[Vault-Hunters]', x=1716142.51, y=26.32, z=3771.49]
+[15Aug2022 17:57:05.684] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Ebony Slab'/257965, l='ServerLevel[Vault-Hunters]', x=1716143.67, y=28.54, z=3770.48]
+[15Aug2022 17:57:05.684] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Black Concrete Powder'/257966, l='ServerLevel[Vault-Hunters]', x=1716144.70, y=25.44, z=3767.57]
+[15Aug2022 17:57:05.685] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stripped Dark Oak Wood'/257969, l='ServerLevel[Vault-Hunters]', x=1716138.55, y=30.42, z=3772.68]
+[15Aug2022 17:57:05.685] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Vermilion Sculk Tendrils'/257971, l='ServerLevel[Vault-Hunters]', x=1716144.52, y=27.56, z=3769.61]
+[15Aug2022 17:57:05.685] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Hardened Stone Bricks'/257972, l='ServerLevel[Vault-Hunters]', x=1716143.60, y=25.66, z=3772.39]
+[15Aug2022 17:57:05.794] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/257995, l='ServerLevel[Vault-Hunters]', x=1716122.46, y=17.33, z=3764.71]
+[15Aug2022 17:57:05.794] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/257996, l='ServerLevel[Vault-Hunters]', x=1716125.69, y=17.52, z=3762.55]
+[15Aug2022 17:57:05.794] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/257997, l='ServerLevel[Vault-Hunters]', x=1716123.60, y=16.61, z=3764.39]
+[15Aug2022 17:57:05.794] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/257998, l='ServerLevel[Vault-Hunters]', x=1716126.45, y=20.51, z=3762.26]
+[15Aug2022 17:57:05.795] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/258000, l='ServerLevel[Vault-Hunters]', x=1716124.29, y=19.34, z=3760.74]
+[15Aug2022 17:57:05.795] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sand'/258001, l='ServerLevel[Vault-Hunters]', x=1716125.58, y=22.30, z=3765.50]
+[15Aug2022 17:57:05.795] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/258002, l='ServerLevel[Vault-Hunters]', x=1716124.33, y=17.35, z=3762.54]
+[15Aug2022 17:57:05.795] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/258003, l='ServerLevel[Vault-Hunters]', x=1716123.63, y=17.67, z=3764.64]
+[15Aug2022 18:00:30.133] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 18:00:30.152] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 18:03:37.831] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[15Aug2022 18:03:52.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 12 blocks]
+[15Aug2022 18:03:52.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
+[15Aug2022 18:03:52.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:block.end_portal.spawn to Nave808]
+[15Aug2022 18:05:30.088] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 18:05:30.107] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 18:06:33.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.generic.explode to Nave808]
+[15Aug2022 18:10:30.182] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 18:10:30.199] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 18:14:23.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 25 blocks]
+[15Aug2022 18:14:23.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound the_vault:puzzle/completion_major to Nave808]
+[15Aug2022 18:14:23.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 1716024, 22, 4052]
+[15Aug2022 18:15:03.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 defeated Boss!
+[15Aug2022 18:15:30.738] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 18:15:30.760] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 18:20:29.958] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 18:20:29.979] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 18:25:29.946] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 18:25:29.964] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 18:30:29.950] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 18:30:29.970] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 18:35:29.953] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 18:35:29.971] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 18:40:29.944] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 18:40:29.961] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 18:45:29.941] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 18:45:29.959] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 18:50:29.931] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 18:50:29.949] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 18:55:29.935] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 18:55:29.953] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 19:00:01.725] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.159 started
+[15Aug2022 19:00:01.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[15Aug2022 19:00:02.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[15Aug2022 19:00:03.888] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[15Aug2022 19:00:03.907] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[15Aug2022 19:00:03.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[15Aug2022 19:00:04.951] [RCON Client /192.168.1.159 #46/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.159 shutting down
