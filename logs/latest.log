@@ -214,3 +214,29 @@
 [15Aug2022 19:00:02.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [15Aug2022 19:00:03.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [15Aug2022 19:00:04.951] [RCON Client /192.168.1.159 #46/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.159 shutting down
+[15Aug2022 19:01:43.863] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.159 started
+[15Aug2022 19:01:43.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[15Aug2022 19:01:44.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[15Aug2022 19:01:44.868] [RCON Client /192.168.1.159 #47/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.159 shutting down
+[15Aug2022 19:03:00.367] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[15Aug2022 19:03:00.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[15Aug2022 19:03:00.567] [Thread-1542/INFO] [FTB Utilities Backups/]: Deleting backup to free space: 2022-08-15-02-28-14.zip
+[15Aug2022 19:03:00.740] [Thread-1542/INFO] [FTB Utilities Backups/]: Deleting backup to free space: 2022-08-15-11-03-00.zip
+[15Aug2022 19:03:00.917] [Thread-1542/INFO] [FTB Utilities Backups/]: Backing up 7522 files...
+[15Aug2022 19:03:00.917] [Thread-1542/INFO] [FTB Utilities Backups/]: Compressing 7522 files...
+[15Aug2022 19:08:36.117] [Thread-1542/INFO] [FTB Utilities Backups/]: Done compressing in 05:35 seconds (6.1GB)!
+[15Aug2022 19:08:36.124] [Thread-1542/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-08-15-19-03-00.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
+[15Aug2022 19:08:36.125] [Thread-1542/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 05:35! (6.1GB | 24.2GB)
+[15Aug2022 20:00:00.073] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[15Aug2022 21:03:00.369] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[15Aug2022 21:03:00.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[15Aug2022 21:03:00.581] [Thread-1616/INFO] [FTB Utilities Backups/]: Backing up 7522 files...
+[15Aug2022 21:03:00.582] [Thread-1616/INFO] [FTB Utilities Backups/]: Compressing 7522 files...
+[15Aug2022 21:08:36.583] [Thread-1616/INFO] [FTB Utilities Backups/]: Done compressing in 05:36 seconds (6.1GB)!
+[15Aug2022 21:08:36.616] [Thread-1616/INFO] [FTB Utilities Backups/]: Created /home/phred7/minecraft_servers/minecraft_server_modded/backups/2022-08-15-21-03-00.zip from /home/phred7/minecraft_servers/minecraft_server_modded/Vault-Hunters
+[15Aug2022 21:08:36.617] [Thread-1616/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 05:36! (6.1GB | 30.3GB)
+[15Aug2022 22:00:02.030] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.159 started
+[15Aug2022 22:00:02.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[15Aug2022 22:00:03.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[15Aug2022 22:00:04.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[15Aug2022 22:00:05.276] [RCON Client /192.168.1.159 #48/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.159 shutting down
