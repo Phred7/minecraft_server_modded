@@ -1100,3 +1100,10 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [02Sep2022 12:11:21.659] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
 [02Sep2022 12:13:15.484] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@664cfad[id=b8bed4fd-6c2f-4f4f-a216-118ed8719365,name=Phred7,properties={textures=[com.mojang.authlib.properties.Property@3d7d03bc]},legacy=false] (/192.168.1.174:60306): Took too long to log in
 [02Sep2022 12:13:15.530] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@664cfad[id=b8bed4fd-6c2f-4f4f-a216-118ed8719365,name=Phred7,properties={textures=[com.mojang.authlib.properties.Property@3d7d03bc]},legacy=false] (/192.168.1.174:60306) lost connection: Took too long to log in
+[02Sep2022 12:14:51.385] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[02Sep2022 12:16:12.929] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@4af7667a[id=b8bed4fd-6c2f-4f4f-a216-118ed8719365,name=Phred7,properties={textures=[com.mojang.authlib.properties.Property@51a35c6b]},legacy=false] (/192.168.1.174:55314) lost connection: Disconnected
+[02Sep2022 12:18:01.633] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[02Sep2022 12:18:01.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[02Sep2022 12:18:02.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[02Sep2022 12:18:03.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[02Sep2022 12:18:04.769] [RCON Client /192.168.1.179 #3/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
