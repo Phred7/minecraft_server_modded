@@ -6,8 +6,8 @@ import mods.botania.ElvenTrade;
 // adding recipes
 
 craftingTable.addShaped("buildinggadgetsbuildinggadget", <item:buildinggadgets:gadget_building>, [
-    [<tag:items:the_vault:perfectcommongems>, <item:compressium:redstone_1>, <tag:items:the_vault:perfectcommongems>,],
-    [<item:the_vault:vault_diamond>, <item:the_vault:echo_pog>, <item:the_vault:vault_diamond>],
+    [<tag:items:the_vault:perfectcommongems>, <item:compressium:redstone_2>, <tag:items:the_vault:perfectcommongems>,],
+    [<item:the_vault:vault_diamond>, <item:the_vault:gem_pog>, <item:the_vault:vault_diamond>],
     [<tag:items:the_vault:perfectcommongems>, <item:the_vault:perfect_alexandrite>, <tag:items:the_vault:perfectcommongems>]
 ]);
 

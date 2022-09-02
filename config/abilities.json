@@ -1,0 +1,560 @@
+{
+  "NIGHT_VISION": {
+    "name": "Night Vision",
+    "levels": [
+      {
+        "effect": "minecraft:night_vision",
+        "amplifier": 0,
+        "type": "icon_only",
+        "cost": 1,
+        "cooldown": 200,
+        "behavior": "PRESS_TO_TOGGLE"
+      }
+    ]
+  },
+  "INVISIBILITY": {
+    "name": "Invisibility",
+    "levels": [
+      {
+        "effect": "minecraft:invisibility",
+        "amplifier": 0,
+        "type": "icon_only",
+        "cost": 1,
+        "cooldown": 200,
+        "behavior": "PRESS_TO_TOGGLE"
+      }
+    ]
+  },
+  "GHOST_WALK": {
+    "name": "Ghost Walk",
+    "levels": [
+      {
+        "durationTicks": 120,
+        "effect": "the_vault:ghost_walk",
+        "amplifier": 0,
+        "type": "icon_only",
+        "cost": 1,
+        "cooldown": 2000,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "durationTicks": 160,
+        "effect": "the_vault:ghost_walk",
+        "amplifier": 1,
+        "type": "icon_only",
+        "cost": 1,
+        "cooldown": 2000,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "durationTicks": 200,
+        "effect": "the_vault:ghost_walk",
+        "amplifier": 2,
+        "type": "icon_only",
+        "cost": 1,
+        "cooldown": 1800,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "durationTicks": 200,
+        "effect": "the_vault:ghost_walk",
+        "amplifier": 3,
+        "type": "icon_only",
+        "cost": 1,
+        "cooldown": 1600,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "durationTicks": 240,
+        "effect": "the_vault:ghost_walk",
+        "amplifier": 3,
+        "type": "icon_only",
+        "cost": 2,
+        "cooldown": 1200,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "durationTicks": 260,
+        "effect": "the_vault:ghost_walk",
+        "amplifier": 3,
+        "type": "icon_only",
+        "cost": 2,
+        "cooldown": 1000,
+        "behavior": "RELEASE_TO_PERFORM"
+      }
+    ]
+  },
+  "RAMPAGE": {
+    "name": "Rampage",
+    "levels": [
+      {
+        "durationTicks": 60,
+        "damageIncrease": 15,
+        "effect": "the_vault:rampage",
+        "amplifier": 0,
+        "type": "icon_only",
+        "cost": 2,
+        "cooldown": 1200,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "durationTicks": 60,
+        "damageIncrease": 20,
+        "effect": "the_vault:rampage",
+        "amplifier": 1,
+        "type": "icon_only",
+        "cost": 2,
+        "cooldown": 1100,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "durationTicks": 80,
+        "damageIncrease": 25,
+        "effect": "the_vault:rampage",
+        "amplifier": 2,
+        "type": "icon_only",
+        "cost": 2,
+        "cooldown": 1000,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "durationTicks": 80,
+        "damageIncrease": 30,
+        "effect": "the_vault:rampage",
+        "amplifier": 3,
+        "type": "icon_only",
+        "cost": 2,
+        "cooldown": 900,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "durationTicks": 80,
+        "damageIncrease": 32,
+        "effect": "the_vault:rampage",
+        "amplifier": 4,
+        "type": "icon_only",
+        "cost": 2,
+        "cooldown": 900,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "durationTicks": 80,
+        "damageIncrease": 35,
+        "effect": "the_vault:rampage",
+        "amplifier": 5,
+        "type": "icon_only",
+        "cost": 2,
+        "cooldown": 800,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "durationTicks": 80,
+        "damageIncrease": 40,
+        "effect": "the_vault:rampage",
+        "amplifier": 6,
+        "type": "icon_only",
+        "cost": 2,
+        "cooldown": 700,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "durationTicks": 80,
+        "damageIncrease": 40,
+        "effect": "the_vault:rampage",
+        "amplifier": 7,
+        "type": "icon_only",
+        "cost": 2,
+        "cooldown": 640,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "durationTicks": 80,
+        "damageIncrease": 45,
+        "effect": "the_vault:rampage",
+        "amplifier": 8,
+        "type": "icon_only",
+        "cost": 2,
+        "cooldown": 640,
+        "behavior": "RELEASE_TO_PERFORM"
+      }
+    ]
+  },
+  "VEIN_MINER": {
+    "name": "Vein Miner",
+    "levels": [
+      {
+        "blockLimit": 4,
+        "cost": 1,
+        "cooldown": 0,
+        "behavior": "HOLD_TO_ACTIVATE"
+      },
+      {
+        "blockLimit": 8,
+        "cost": 1,
+        "cooldown": 0,
+        "behavior": "HOLD_TO_ACTIVATE"
+      },
+      {
+        "blockLimit": 16,
+        "cost": 1,
+        "cooldown": 0,
+        "behavior": "HOLD_TO_ACTIVATE"
+      },
+      {
+        "blockLimit": 32,
+        "cost": 2,
+        "cooldown": 0,
+        "behavior": "HOLD_TO_ACTIVATE"
+      },
+      {
+        "blockLimit": 64,
+        "cost": 2,
+        "cooldown": 0,
+        "behavior": "HOLD_TO_ACTIVATE"
+      }
+    ]
+  },
+  "SELF_SUSTAIN": {
+    "name": "Self Sustain",
+    "levels": [
+      {
+        "sustain": 1,
+        "cost": 1,
+        "cooldown": 100,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "sustain": 2,
+        "cost": 1,
+        "cooldown": 100,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "sustain": 4,
+        "cost": 1,
+        "cooldown": 100,
+        "behavior": "RELEASE_TO_PERFORM"
+      }
+    ]
+  },
+  "DASH": {
+    "name": "Dash",
+    "levels": [
+      {
+        "extraRadius": 1,
+        "cost": 2,
+        "cooldown": 200,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "extraRadius": 2,
+        "cost": 1,
+        "cooldown": 180,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "extraRadius": 3,
+        "cost": 1,
+        "cooldown": 160,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "extraRadius": 4,
+        "cost": 1,
+        "cooldown": 140,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "extraRadius": 5,
+        "cost": 1,
+        "cooldown": 120,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "extraRadius": 6,
+        "cost": 1,
+        "cooldown": 100,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "extraRadius": 7,
+        "cost": 1,
+        "cooldown": 80,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "extraRadius": 8,
+        "cost": 1,
+        "cooldown": 60,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "extraRadius": 9,
+        "cost": 1,
+        "cooldown": 40,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "extraRadius": 10,
+        "cost": 1,
+        "cooldown": 20,
+        "behavior": "RELEASE_TO_PERFORM"
+      }
+    ]
+  },
+  "MEGA_JUMP": {
+    "name": "Mega Jump",
+    "levels": [
+      {
+        "extraHeight": 0,
+        "cost": 1,
+        "cooldown": 200,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "extraHeight": 2,
+        "cost": 1,
+        "cooldown": 200,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "extraHeight": 4,
+        "cost": 1,
+        "cooldown": 200,
+        "behavior": "RELEASE_TO_PERFORM"
+      }
+    ]
+  },
+  "CLEANSE": {
+    "name": "Cleanse",
+    "levels": [
+      {
+        "cost": 1,
+        "cooldown": 200,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "cost": 1,
+        "cooldown": 180,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "cost": 1,
+        "cooldown": 160,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "cost": 1,
+        "cooldown": 140,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "cost": 1,
+        "cooldown": 120,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "cost": 1,
+        "cooldown": 100,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "cost": 1,
+        "cooldown": 80,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "cost": 1,
+        "cooldown": 60,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "cost": 1,
+        "cooldown": 40,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "cost": 2,
+        "cooldown": 20,
+        "behavior": "RELEASE_TO_PERFORM"
+      }
+    ]
+  },
+  "TANK": {
+    "name": "Tank",
+    "levels": [
+      {
+        "durationTicks": 60,
+        "effect": "the_vault:tank",
+        "amplifier": 0,
+        "type": "icon_only",
+        "cost": 2,
+        "cooldown": 1200,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "durationTicks": 60,
+        "effect": "the_vault:tank",
+        "amplifier": 1,
+        "type": "icon_only",
+        "cost": 2,
+        "cooldown": 1100,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "durationTicks": 60,
+        "effect": "the_vault:tank",
+        "amplifier": 2,
+        "type": "icon_only",
+        "cost": 3,
+        "cooldown": 1000,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "durationTicks": 60,
+        "effect": "the_vault:tank",
+        "amplifier": 3,
+        "type": "icon_only",
+        "cost": 5,
+        "cooldown": 900,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "durationTicks": 60,
+        "effect": "the_vault:tank",
+        "amplifier": 4,
+        "type": "icon_only",
+        "cost": 10,
+        "cooldown": 800,
+        "behavior": "RELEASE_TO_PERFORM"
+      }
+    ]
+  },
+  "EXECUTE": {
+    "name": "Execute",
+    "levels": [
+      {
+        "damageIncrease": 0.1,
+        "effect": "the_vault:execute",
+        "amplifier": 0,
+        "type": "icon_only",
+        "cost": 2,
+        "cooldown": 3600,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "damageIncrease": 0.2,
+        "effect": "the_vault:execute",
+        "amplifier": 1,
+        "type": "icon_only",
+        "cost": 4,
+        "cooldown": 3600,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "damageIncrease": 0.3,
+        "effect": "the_vault:execute",
+        "amplifier": 2,
+        "type": "icon_only",
+        "cost": 4,
+        "cooldown": 3600,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "damageIncrease": 0.4,
+        "effect": "the_vault:execute",
+        "amplifier": 3,
+        "type": "icon_only",
+        "cost": 6,
+        "cooldown": 3600,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "damageIncrease": 0.5,
+        "effect": "the_vault:execute",
+        "amplifier": 4,
+        "type": "icon_only",
+        "cost": 6,
+        "cooldown": 3600,
+        "behavior": "RELEASE_TO_PERFORM"
+      }
+    ]
+  },
+  "SUMMON_ETERNAL": {
+    "name": "Summon Eternal",
+    "levels": [
+      {
+        "despawnTime": 12000,
+        "vaultOnly": true,
+        "count": 1,
+        "cost": 2,
+        "cooldown": 12000,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "despawnTime": 10800,
+        "vaultOnly": true,
+        "count": 1,
+        "cost": 3,
+        "cooldown": 10800,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "despawnTime": 9600,
+        "vaultOnly": true,
+        "count": 1,
+        "cost": 3,
+        "cooldown": 9600,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "despawnTime": 8400,
+        "vaultOnly": true,
+        "count": 2,
+        "cost": 10,
+        "cooldown": 9600,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "despawnTime": 7200,
+        "vaultOnly": true,
+        "count": 2,
+        "cost": 3,
+        "cooldown": 8400,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "despawnTime": 7200,
+        "vaultOnly": true,
+        "count": 2,
+        "cost": 3,
+        "cooldown": 7200,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "despawnTime": 7200,
+        "vaultOnly": true,
+        "count": 2,
+        "cost": 3,
+        "cooldown": 6000,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "despawnTime": 7200,
+        "vaultOnly": true,
+        "count": 3,
+        "cost": 16,
+        "cooldown": 6000,
+        "behavior": "RELEASE_TO_PERFORM"
+      },
+      {
+        "despawnTime": 7200,
+        "vaultOnly": true,
+        "count": 4,
+        "cost": 28,
+        "cooldown": 6000,
+        "behavior": "RELEASE_TO_PERFORM"
+      }
+    ]
+  }
+}
