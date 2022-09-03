@@ -1107,3 +1107,210 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [02Sep2022 12:18:02.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [02Sep2022 12:18:03.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [02Sep2022 12:18:04.769] [RCON Client /192.168.1.179 #3/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[02Sep2022 12:18:31.495] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[02Sep2022 12:18:31.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[02Sep2022 12:18:32.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[02Sep2022 12:18:32.496] [RCON Client /192.168.1.179 #4/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[02Sep2022 12:20:28.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saving the game (this may take a moment!)
+[02Sep2022 12:20:28.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saved the game
+[02Sep2022 12:24:49.895] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[02Sep2022 12:24:59.362] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7e21aa81
+[02Sep2022 12:24:59.385] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: modularrouters:void_module removed now.
+[02Sep2022 12:24:59.399] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: mekanism:transmitter/universal_cable/basic removed now.
+[02Sep2022 12:24:59.404] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: ironfurnaces:item_heater removed now.
+[02Sep2022 12:24:59.406] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: modularrouters:puller_module_2_x4 removed now.
+[02Sep2022 12:24:59.408] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: ironfurnaces:heater removed now.
+[02Sep2022 12:24:59.409] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: modularrouters:puller_module_2 removed now.
+[02Sep2022 12:24:59.409] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: modularrouters:puller_module_1 removed now.
+[02Sep2022 12:24:59.415] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: modularrouters:void_module removed now.
+[02Sep2022 12:24:59.427] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: mekanism:transmitter/universal_cable/basic removed now.
+[02Sep2022 12:24:59.432] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: ironfurnaces:item_heater removed now.
+[02Sep2022 12:24:59.434] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: modularrouters:puller_module_2_x4 removed now.
+[02Sep2022 12:24:59.435] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: ironfurnaces:heater removed now.
+[02Sep2022 12:24:59.436] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: modularrouters:puller_module_2 removed now.
+[02Sep2022 12:24:59.436] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: modularrouters:puller_module_1 removed now.
+[02Sep2022 12:24:59.440] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.174:62988] logged in with entity id 7379 at (-852.1428719552373, 102.0, -384.69999998807907)
+[02Sep2022 12:24:59.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[02Sep2022 12:24:59.529] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[02Sep2022 12:25:27.380] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
+[02Sep2022 12:25:27.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
+[02Sep2022 12:31:18.823] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[02Sep2022 12:31:25.502] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2fb0085e
+[02Sep2022 12:31:25.566] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.174:62060] logged in with entity id 10401 at (-852.1428719552373, 102.0, -384.69999998807907)
+[02Sep2022 12:31:25.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[02Sep2022 12:31:25.598] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[02Sep2022 12:35:01.521] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[02Sep2022 12:35:01.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[02Sep2022 12:35:02.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[02Sep2022 12:35:03.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[02Sep2022 12:35:04.771] [RCON Client /192.168.1.179 #5/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[02Sep2022 12:35:08.633] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[02Sep2022 12:35:08.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[02Sep2022 12:35:09.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[02Sep2022 12:35:09.635] [RCON Client /192.168.1.179 #6/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[02Sep2022 12:50:16.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 opened a Vault!
+[02Sep2022 12:50:26.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 entered an Afterlife, Hoard, Slowed, Fast Vault!
+[02Sep2022 12:50:29.360] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1724285, y=35, z=4186} but found not block entity block Block{minecraft:air} at location
+[02Sep2022 12:50:29.361] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1724285, y=35, z=4186}
+[02Sep2022 12:51:47.580] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[02Sep2022 12:51:47.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[02Sep2022 12:58:06.665] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[02Sep2022 12:58:18.606] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@35e98200
+[02Sep2022 12:58:18.668] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.179:60078] logged in with entity id 22452 at (-1679.438671348243, 101.5, 1439.3579445210244)
+[02Sep2022 12:58:18.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[02Sep2022 12:58:18.682] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[02Sep2022 12:59:22.199] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[02Sep2022 12:59:22.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[02Sep2022 13:02:55.073] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[02Sep2022 13:03:06.704] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@54272dce
+[02Sep2022 13:03:06.766] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.179:49440] logged in with entity id 30398 at (-1679.438671348243, 101.5, 1439.3579445210244)
+[02Sep2022 13:03:06.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[02Sep2022 13:03:06.781] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[02Sep2022 13:03:34.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.generic.explode to 2 players]
+[02Sep2022 13:04:07.080] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[02Sep2022 13:04:07.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[02Sep2022 13:07:20.937] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[02Sep2022 13:07:32.155] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3d85afec
+[02Sep2022 13:07:32.219] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.179:52824] logged in with entity id 36081 at (-1679.438671348243, 101.5, 1439.3579445210244)
+[02Sep2022 13:07:32.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[02Sep2022 13:07:32.231] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[02Sep2022 13:08:34.429] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[02Sep2022 13:08:34.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[02Sep2022 13:10:40.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 bailed.
+[02Sep2022 13:11:24.450] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[02Sep2022 13:11:35.656] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6c52750d
+[02Sep2022 13:11:35.719] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.179:42076] logged in with entity id 38977 at (-1679.438671348243, 101.5, 1439.3579445210244)
+[02Sep2022 13:11:35.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[02Sep2022 13:11:35.733] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[02Sep2022 13:12:35.231] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[02Sep2022 13:12:35.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[02Sep2022 13:16:18.703] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[02Sep2022 13:16:30.055] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@731e41af
+[02Sep2022 13:16:30.116] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.179:51272] logged in with entity id 40291 at (-1679.438671348243, 101.5, 1439.3579445210244)
+[02Sep2022 13:16:30.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[02Sep2022 13:16:30.129] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[02Sep2022 13:18:30.232] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Timed out
+[02Sep2022 13:18:30.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[02Sep2022 13:18:30.300] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[02Sep2022 13:21:55.950] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[02Sep2022 13:22:07.261] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@51112d2f
+[02Sep2022 13:22:07.323] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.179:44728] logged in with entity id 41666 at (-1679.438671348243, 101.5, 1439.3579445210244)
+[02Sep2022 13:22:07.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[02Sep2022 13:22:07.333] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[02Sep2022 13:23:10.231] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[02Sep2022 13:23:10.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[02Sep2022 13:48:25.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 opened a Vault!
+[02Sep2022 13:48:54.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 entered an Afterlife, Unlucky, Slowed, Resilient, Easy, Optimistic Vault!
+[02Sep2022 13:55:27.022] [User Authenticator #12/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[02Sep2022 13:56:48.079] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@b934e0e[id=edaf0a37-e3b3-490a-8626-dbfac2b1f3f7,name=Nave808,properties={textures=[com.mojang.authlib.properties.Property@5435fdb]},legacy=false] (/192.168.1.179:35400) lost connection: Disconnected
+[02Sep2022 13:57:25.878] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@95b7585[id=<null>,name=Nave808,properties={},legacy=false] (/192.168.1.179:51766) lost connection: Disconnected
+[02Sep2022 14:02:22.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 12 blocks]
+[02Sep2022 14:02:22.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
+[02Sep2022 14:02:22.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:block.end_portal.spawn to Phred7]
+[02Sep2022 14:13:54.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 bailed.
+[02Sep2022 14:14:14.392] [User Authenticator #13/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[02Sep2022 14:14:25.705] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@30e84d98
+[02Sep2022 14:14:25.766] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.179:59862] logged in with entity id 72793 at (-1679.438671348243, 101.5, 1439.3579445210244)
+[02Sep2022 14:14:25.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[02Sep2022 14:14:25.778] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[02Sep2022 14:25:01.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> ping Nave808
+[02Sep2022 14:25:04.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> pong
+[02Sep2022 14:32:12.681] [Server thread/INFO] [morpheus/]: Nave808 is now sleeping. 1/2 (50%)
+[02Sep2022 14:32:34.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 opened a Vault!
+[02Sep2022 14:32:54.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 entered an Afterlife, Fast Vault!
+[02Sep2022 14:32:54.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered an Afterlife, Fast Vault!
+[02Sep2022 14:34:13.985] [User Authenticator #14/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[02Sep2022 14:34:24.128] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: You logged in from another location
+[02Sep2022 14:34:24.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[02Sep2022 14:34:24.241] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.179:43930] logged in with entity id 85404 at (1740747.5866796498, 28.0, 4116.137095000558)
+[02Sep2022 14:34:24.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[02Sep2022 14:34:24.269] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[02Sep2022 14:36:13.672] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1740751, y=34, z=4034} BlockPos{x=1740751, y=32, z=4034}
+[02Sep2022 14:38:02.665] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1740851, y=26, z=4072} BlockPos{x=1740850, y=24, z=4073}
+[02Sep2022 14:51:21.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 1740471, 8, 4011]
+[02Sep2022 14:51:27.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 9574 blocks]
+[02Sep2022 14:51:27.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
+[02Sep2022 14:52:04.779] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Soul Shard'/180037, l='ServerLevel[Vault-Hunters]', x=1740472.22, y=25.92, z=4088.37]
+[02Sep2022 14:55:56.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 finished a Cake Hunt!
+[02Sep2022 15:00:01.683] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[02Sep2022 15:00:01.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[02Sep2022 15:00:02.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[02Sep2022 15:00:04.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[02Sep2022 15:00:05.261] [RCON Client /192.168.1.179 #7/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[02Sep2022 15:00:11.192] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[02Sep2022 15:00:11.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[02Sep2022 15:00:12.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[02Sep2022 15:00:12.195] [RCON Client /192.168.1.179 #8/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[02Sep2022 15:03:24.830] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Timed out
+[02Sep2022 15:03:24.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[02Sep2022 15:06:02.491] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[02Sep2022 15:06:12.852] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@33213b09
+[02Sep2022 15:06:12.914] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.179:55376] logged in with entity id 222800 at (-851.622214978756, 102.0, -393.2555519833152)
+[02Sep2022 15:06:12.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[02Sep2022 15:06:12.967] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[02Sep2022 15:17:01.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 has made the advancement [Refined Storage]
+[02Sep2022 15:30:16.530] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[02Sep2022 15:30:16.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[02Sep2022 16:12:48.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 has made the advancement [Storing externally]
+[02Sep2022 16:16:14.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Creative Mode]
+[02Sep2022 16:16:23.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[02Sep2022 16:23:09.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set the time to 1000]
+[02Sep2022 16:23:20.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[02Sep2022 16:24:05.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[02Sep2022 16:24:28.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[02Sep2022 16:24:37.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[02Sep2022 16:24:43.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[02Sep2022 16:24:49.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[02Sep2022 16:25:12.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Gave 1    [Torch] to Phred7]
+[02Sep2022 16:25:30.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[02Sep2022 16:25:38.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[02Sep2022 16:27:36.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[02Sep2022 16:27:58.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[02Sep2022 16:28:45.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[02Sep2022 16:28:58.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[02Sep2022 16:29:10.671] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=61, z=-378} BlockPos{x=-854, y=60, z=-378}
+[02Sep2022 16:29:15.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[02Sep2022 16:29:22.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[02Sep2022 16:29:52.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[02Sep2022 16:30:03.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[02Sep2022 16:34:58.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[02Sep2022 16:35:03.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set the time to 1000]
+[02Sep2022 16:35:15.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Creative Mode]
+[02Sep2022 16:35:20.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[02Sep2022 16:35:25.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Creative Mode]
+[02Sep2022 16:35:41.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[02Sep2022 16:35:49.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[02Sep2022 17:07:41.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 opened a Vault!
+[02Sep2022 17:07:43.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 entered a Lucky, Trapped, Easy, Fast, Stronk, Frail, Crowded Vault!
+[02Sep2022 17:19:14.787] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1749055, y=6, z=4187} BlockPos{x=1749057, y=6, z=4187}
+[02Sep2022 17:20:17.937] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1749045, y=26, z=4105} BlockPos{x=1749045, y=25, z=4105}
+[02Sep2022 17:22:42.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 defeated Boss!
+[02Sep2022 17:37:14.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 opened a Vault!
+[02Sep2022 17:37:21.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 entered an Afterlife, Trapped, Easy, Luckier, Rich, Furious Vault!
+[02Sep2022 17:59:34.695] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 moved wrongly!
+[02Sep2022 17:59:35.095] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 moved wrongly!
+[02Sep2022 17:59:35.696] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 moved wrongly!
+[02Sep2022 17:59:41.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[02Sep2022 17:59:44.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[02Sep2022 18:00:07.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 defeated Boss!
+[02Sep2022 18:00:38.681] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
+[02Sep2022 18:00:38.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
+[02Sep2022 18:06:28.861] [User Authenticator #16/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[02Sep2022 18:06:35.146] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@55159442
+[02Sep2022 18:06:35.208] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.174:57667] logged in with entity id 316630 at (-859.4805130690881, 94.0, -386.49550277719777)
+[02Sep2022 18:06:35.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[02Sep2022 18:06:35.236] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[02Sep2022 18:22:26.730] [User Authenticator #17/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[02Sep2022 18:22:40.956] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@29f87906
+[02Sep2022 18:22:41.018] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.179:38298] logged in with entity id 320523 at (-852.892054041563, 94.0, -395.21312174937106)
+[02Sep2022 18:22:41.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[02Sep2022 18:22:41.073] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[02Sep2022 18:42:13.530] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
+[02Sep2022 18:42:13.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
+[02Sep2022 18:42:21.780] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[02Sep2022 18:42:21.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[02Sep2022 19:00:01.260] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[02Sep2022 19:00:01.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[02Sep2022 19:00:02.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[02Sep2022 19:00:03.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[02Sep2022 19:00:04.307] [RCON Client /192.168.1.179 #9/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
