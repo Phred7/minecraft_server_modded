@@ -1,7 +1,7 @@
 {
   "playerUUID": "b8bed4fd-6c2f-4f4f-a216-118ed8719365",
   "playerNickname": "Phred7",
-  "timestamp": 1662264003,
+  "timestamp": 1662274803,
   "vaultRuns": 42,
   "vaultWins": 11,
   "vaultDeaths": 2,
@@ -14,9 +14,9 @@
     "minecraft:generic.max_health": 26.0,
     "minecraft:generic.knockback_resistance": 0.10000000149011612,
     "minecraft:generic.movement_speed": 0.12000000208616257,
-    "minecraft:generic.attack_damage": 9.0,
+    "minecraft:generic.attack_damage": 4.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 1.4400000607967378,
+    "minecraft:generic.attack_speed": 4.800000011920929,
     "minecraft:generic.armor": 10.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
@@ -49,13 +49,9 @@
   "thornsDamage": 0.0,
   "equipment": {
     "MAINHAND": {
-      "itemKey": "minecraft:netherite_pickaxe",
+      "itemKey": "dankstorage:dank_1",
       "count": 1,
-      "nbt": "{Damage:266,Enchantments:[{lvl:5,id:\"efficiency\"},{lvl:1,id:\"mending\"},{lvl:1,id:\"silk_touch\"},{lvl:3,id:\"unbreaking\"}]}"
-    },
-    "OFFHAND": {
-      "itemKey": "minecraft:torch",
-      "count": 41
+      "nbt": "{inv:{Items:[{Slot:0,ExtendedCount:74,id:\"minecraft:potion\",Count:74b,tag:{Potion:\"minecraft:strong_healing\"}},{Slot:1,ExtendedCount:210,id:\"minecraft:stone\",Count:-46b},{Slot:2,ExtendedCount:157,id:\"minecraft:experience_bottle\",Count:-99b},{Slot:3,ExtendedCount:21,id:\"the_vault:hearty_apple\",Count:21b},{Slot:4,ExtendedCount:69,id:\"the_vault:candy_bar\",Count:69b},{Slot:5,ExtendedCount:3,id:\"the_vault:power_bar\",Count:3b},{Slot:6,ExtendedCount:53,id:\"minecraft:glass_bottle\",Count:53b},{Slot:7,ExtendedCount:199,id:\"minecraft:ender_pearl\",Count:-57b},{Slot:8,ExtendedCount:10,id:\"minecraft:golden_apple\",Count:10b}],LockedSlots:[I;0,0,0,0,0,0,0,0,0]},mode:2,RepairCost:0,selectedSlot:0,display:{Name:\u0027{\"text\":\"Superbank\"}\u0027},construction:0,tag:1b}"
     },
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
@@ -70,7 +66,7 @@
     "CHEST": {
       "itemKey": "minecraft:elytra",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:6}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:0}"
     },
     "HEAD": {
       "itemKey": "minecraft:netherite_helmet",
