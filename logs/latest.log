@@ -53,3 +53,14 @@
 [04Sep2022 12:00:02.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [04Sep2022 12:00:03.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [04Sep2022 12:00:04.244] [RCON Client /192.168.1.179 #33/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[04Sep2022 12:01:10.527] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[04Sep2022 12:01:10.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[04Sep2022 12:01:11.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[04Sep2022 12:01:11.528] [RCON Client /192.168.1.179 #34/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[04Sep2022 13:13:10.729] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[04Sep2022 13:13:10.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[04Sep2022 15:00:01.588] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[04Sep2022 15:00:01.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[04Sep2022 15:00:02.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[04Sep2022 15:00:03.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[04Sep2022 15:00:04.634] [RCON Client /192.168.1.179 #35/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
