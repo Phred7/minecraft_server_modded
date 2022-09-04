@@ -284,3 +284,39 @@ java.lang.NullPointerException: null
 [03Sep2022 19:00:02.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [03Sep2022 19:00:03.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [03Sep2022 19:00:04.686] [RCON Client /192.168.1.179 #23/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[03Sep2022 19:04:18.083] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[03Sep2022 19:04:18.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[03Sep2022 19:04:19.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[03Sep2022 19:04:19.084] [RCON Client /192.168.1.179 #24/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[03Sep2022 19:16:25.243] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[03Sep2022 19:16:30.622] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[03Sep2022 19:25:54.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[03Sep2022 19:26:04.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[03Sep2022 19:31:05.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[03Sep2022 19:31:34.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[03Sep2022 19:57:19.532] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=21, z=-373} BlockPos{x=-854, y=21, z=-371}
+[03Sep2022 19:58:41.984] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=36, z=-374} BlockPos{x=-854, y=34, z=-373}
+[03Sep2022 20:35:41.386] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-851, y=50, z=-368} BlockPos{x=-851, y=50, z=-357}
+[03Sep2022 20:35:41.435] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-851, y=50, z=-368} BlockPos{x=-851, y=50, z=-357}
+[03Sep2022 21:00:00.891] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[03Sep2022 21:03:23.793] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-792, y=55, z=-392} BlockPos{x=-790, y=52, z=-391}
+[03Sep2022 21:42:43.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[03Sep2022 21:42:58.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[03Sep2022 21:52:41.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Gave 1    [Minecart with Hopper] to Phred7]
+[03Sep2022 21:55:55.960] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=21, z=-370} BlockPos{x=-854, y=19, z=-369}
+[03Sep2022 21:55:56.008] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=21, z=-370} BlockPos{x=-854, y=19, z=-369}
+[03Sep2022 21:55:56.458] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=21, z=-373} BlockPos{x=-855, y=20, z=-372}
+[03Sep2022 21:56:12.910] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=26, z=-370} BlockPos{x=-854, y=26, z=-369}
+[03Sep2022 21:56:12.958] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=26, z=-370} BlockPos{x=-854, y=26, z=-369}
+[03Sep2022 21:56:13.009] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=26, z=-371} BlockPos{x=-854, y=26, z=-369}
+[03Sep2022 21:56:13.059] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=26, z=-371} BlockPos{x=-854, y=26, z=-369}
+[03Sep2022 21:56:13.109] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=26, z=-372} BlockPos{x=-854, y=26, z=-369}
+[03Sep2022 21:56:13.158] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=26, z=-372} BlockPos{x=-854, y=26, z=-369}
+[03Sep2022 21:56:13.210] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=26, z=-373} BlockPos{x=-854, y=26, z=-369}
+[03Sep2022 21:56:23.509] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=31, z=-370} BlockPos{x=-854, y=31, z=-369}
+[03Sep2022 21:56:23.560] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=31, z=-370} BlockPos{x=-854, y=31, z=-369}
+[03Sep2022 22:00:01.138] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[03Sep2022 22:00:01.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[03Sep2022 22:00:02.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[03Sep2022 22:00:03.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[03Sep2022 22:00:04.310] [RCON Client /192.168.1.179 #25/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
