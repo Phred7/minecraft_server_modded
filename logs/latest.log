@@ -36,3 +36,251 @@
 [03Sep2022 12:00:02.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [03Sep2022 12:00:03.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [03Sep2022 12:00:04.964] [RCON Client /192.168.1.179 #19/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[03Sep2022 12:00:15.580] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[03Sep2022 12:00:15.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[03Sep2022 12:00:16.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[03Sep2022 12:00:16.581] [RCON Client /192.168.1.179 #20/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[03Sep2022 13:17:26.383] [User Authenticator #19/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[03Sep2022 13:17:32.648] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3924db6c
+[03Sep2022 13:17:32.709] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.174:55183] logged in with entity id 410103 at (-851.6170680419187, 102.0, -381.62605956631967)
+[03Sep2022 13:17:32.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[03Sep2022 13:17:32.731] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[03Sep2022 13:18:01.379] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
+[03Sep2022 13:18:01.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
+[03Sep2022 13:26:36.076] [User Authenticator #20/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[03Sep2022 13:26:37.726] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@3f7f59b9[id=b8bed4fd-6c2f-4f4f-a216-118ed8719365,name=Phred7,properties={textures=[com.mojang.authlib.properties.Property@60b2bd5d]},legacy=false] (/192.168.1.174:56365) lost connection: Disconnected
+[03Sep2022 13:33:01.957] [User Authenticator #21/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[03Sep2022 13:33:08.403] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@469b80e2
+[03Sep2022 13:33:08.466] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.174:57471] logged in with entity id 411585 at (-851.6170680419187, 102.0, -381.62605956631967)
+[03Sep2022 13:33:08.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[03Sep2022 13:33:08.491] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[03Sep2022 13:33:38.929] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
+[03Sep2022 13:33:38.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
+[03Sep2022 13:36:51.484] [User Authenticator #22/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[03Sep2022 13:36:58.500] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@19f39bf5
+[03Sep2022 13:36:58.564] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.174:58263] logged in with entity id 413032 at (-851.6170680419187, 102.0, -381.62605956631967)
+[03Sep2022 13:36:58.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[03Sep2022 13:36:58.588] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[03Sep2022 13:44:39.581] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 671fe8ab-b784-487f-b918-50f7e5af20cb. Existing minecraft:armor_stand#415647, new: minecraft:armor_stand#415647
+[03Sep2022 13:44:40.774] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 7305b3ec-0356-4904-882d-cb31e6b7026d. Existing minecraft:armor_stand#415658, new: minecraft:armor_stand#415658
+[03Sep2022 13:47:26.209] [User Authenticator #23/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[03Sep2022 13:47:38.504] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2142a72d
+[03Sep2022 13:47:38.567] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.179:48792] logged in with entity id 416647 at (-849.475461150317, 94.0, -393.5272681831945)
+[03Sep2022 13:47:38.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[03Sep2022 13:47:38.617] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[03Sep2022 13:48:40.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> well hello
+[03Sep2022 13:48:55.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> wasnt expecting you to be on if im being honest xD
+[03Sep2022 13:48:58.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> mornin
+[03Sep2022 13:49:06.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> fair
+[03Sep2022 13:49:42.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> nice wiring (:
+[03Sep2022 13:49:48.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> thanks?
+[03Sep2022 13:50:00.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> thank you for putting it in the corner :D
+[03Sep2022 13:50:05.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> np np
+[03Sep2022 13:50:08.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> any issues getting it hooked up?
+[03Sep2022 13:50:12.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> nopes
+[03Sep2022 13:50:16.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> noice
+[03Sep2022 13:50:33.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> well im off to suffer again
+[03Sep2022 13:50:38.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> gl hf
+[03Sep2022 13:50:42.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> lmk if you want to run any co-op :)
+[03Sep2022 13:50:47.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> sounds good
+[03Sep2022 14:10:27.753] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[03Sep2022 14:12:54.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> ping
+[03Sep2022 14:13:02.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> pong
+[03Sep2022 14:13:12.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> 157ms
+[03Sep2022 14:13:28.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> that was a lag spike and a half
+[03Sep2022 14:13:35.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> yikes
+[03Sep2022 14:14:02.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> apparently you moved wrongly
+[03Sep2022 14:14:16.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> elytra
+[03Sep2022 14:14:26.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> that'll do it
+[03Sep2022 14:15:38.660] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[03Sep2022 14:21:09.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> heyo... could you make me something when you have a sec? I've got all the materials for it...
+[03Sep2022 14:21:15.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> sure, what is it?
+[03Sep2022 14:21:21.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> another dynamo
+[03Sep2022 14:21:28.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> which kind?
+[03Sep2022 14:21:32.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> sterling
+[03Sep2022 14:21:45.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> just take the one in my workspace and drop the materials somewhere in my room
+[03Sep2022 14:21:51.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> thanks
+[03Sep2022 14:21:55.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> yup!
+[03Sep2022 14:21:59.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> whatcha need it for?
+[03Sep2022 14:22:10.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> my... battery is slowly loosing power
+[03Sep2022 14:22:21.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> oh interesting
+[03Sep2022 14:22:23.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> ok
+[03Sep2022 14:22:32.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> i personally use an on off switch
+[03Sep2022 14:22:40.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> so that it isnt constantly draining since we dont have infinite power
+[03Sep2022 14:22:43.307] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[03Sep2022 14:23:03.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> yeah... that's fair
+[03Sep2022 14:24:04.716] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[03Sep2022 14:28:28.613] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[03Sep2022 14:29:11.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> one more segment
+[03Sep2022 14:29:17.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> just one more then i can build the actual freaking farm
+[03Sep2022 14:32:59.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> lol, how goes it?
+[03Sep2022 14:33:03.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> gud gud
+[03Sep2022 14:33:06.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> you?
+[03Sep2022 14:33:08.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> good!
+[03Sep2022 14:33:11.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> noice!
+[03Sep2022 14:33:12.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> the end is kinda in sight
+[03Sep2022 14:33:19.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> end?
+[03Sep2022 14:33:23.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> oh
+[03Sep2022 14:33:26.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> for the farm
+[03Sep2022 14:33:28.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> nice!
+[03Sep2022 14:33:36.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> yeah!
+[03Sep2022 14:33:39.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> wanna come visit?
+[03Sep2022 14:33:47.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> at some point yeah!
+[03Sep2022 14:33:53.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> cool :)
+[03Sep2022 14:33:56.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> ill let you know when its done
+[03Sep2022 14:34:13.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> awesome!
+[03Sep2022 14:39:03.517] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[03Sep2022 14:45:01.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[03Sep2022 14:46:46.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[03Sep2022 15:00:01.635] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[03Sep2022 15:00:01.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[03Sep2022 15:00:02.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[03Sep2022 15:00:03.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[03Sep2022 15:00:04.817] [RCON Client /192.168.1.179 #21/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[03Sep2022 15:00:10.423] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[03Sep2022 15:00:10.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[03Sep2022 15:00:11.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[03Sep2022 15:00:11.425] [RCON Client /192.168.1.179 #22/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[03Sep2022 15:06:11.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[03Sep2022 15:06:36.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[03Sep2022 15:17:52.115] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-855, y=58, z=-373} BlockPos{x=-860, y=57, z=-369}
+[03Sep2022 15:30:16.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[03Sep2022 15:30:51.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[03Sep2022 15:31:20.284] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-864, y=50, z=-376} BlockPos{x=-863, y=47, z=-376}
+[03Sep2022 15:31:20.333] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-863, y=46, z=-376} BlockPos{x=-863, y=47, z=-376}
+[03Sep2022 15:47:58.204] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-856, y=33, z=-370} BlockPos{x=-858, y=32, z=-369}
+[03Sep2022 15:48:25.445] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-861, y=31, z=-370} BlockPos{x=-860, y=31, z=-371}
+[03Sep2022 15:48:25.494] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-861, y=31, z=-370} BlockPos{x=-860, y=31, z=-371}
+[03Sep2022 15:59:45.744] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=25, z=-374} BlockPos{x=-853, y=25, z=-375}
+[03Sep2022 15:59:45.793] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=25, z=-374} BlockPos{x=-853, y=25, z=-375}
+[03Sep2022 15:59:45.843] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=25, z=-374} BlockPos{x=-853, y=25, z=-375}
+[03Sep2022 15:59:45.894] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=25, z=-374} BlockPos{x=-853, y=25, z=-375}
+[03Sep2022 16:01:16.042] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=18, z=-375} BlockPos{x=-854, y=19, z=-369}
+[03Sep2022 16:01:16.092] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=18, z=-375} BlockPos{x=-854, y=19, z=-369}
+[03Sep2022 16:01:16.142] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=18, z=-375} BlockPos{x=-854, y=19, z=-369}
+[03Sep2022 16:01:23.393] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-855, y=17, z=-371} BlockPos{x=-855, y=16, z=-371}
+[03Sep2022 16:02:31.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> IT IS DONE
+[03Sep2022 16:02:35.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> noice!!!
+[03Sep2022 16:04:38.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> now to go get wither roses
+[03Sep2022 16:04:43.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> ohhh
+[03Sep2022 16:04:46.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> good luck
+[03Sep2022 16:04:54.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> wait... dont you have a farm?
+[03Sep2022 16:05:02.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> yup :)
+[03Sep2022 16:05:07.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> stonks
+[03Sep2022 16:06:25.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 fell out of the world
+[03Sep2022 16:06:26.326] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[03Sep2022 16:06:30.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> oh no
+[03Sep2022 16:06:33.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> i made a mistake
+[03Sep2022 16:06:36.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> this is very bad
+[03Sep2022 16:06:44.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> oh no
+[03Sep2022 16:06:48.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> loose wither?
+[03Sep2022 16:06:55.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> i tried to fly to the palce instead of taking a portal
+[03Sep2022 16:07:03.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> oh...
+[03Sep2022 16:07:08.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> ,......
+[03Sep2022 16:07:13.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> what would it cost to get god help with that
+[03Sep2022 16:07:21.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> cause my grave is in the middle of the void
+[03Sep2022 16:07:52.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> ohhhhh... I missed the deth msg
+[03Sep2022 16:08:04.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> do you have the coords?
+[03Sep2022 16:08:07.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> xaero-waypoint:gui.xaero-deathpoint:D:102:-226:-509:0:false:0:Internal-the-end-waypoints
+[03Sep2022 16:08:30.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> you ready?
+[03Sep2022 16:08:37.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> yeah?
+[03Sep2022 16:08:42.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> what should i be ready for?
+[03Sep2022 16:08:44.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> was gonna tp you to it?
+[03Sep2022 16:08:48.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> just up high
+[03Sep2022 16:08:52.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> its in the middle of the void
+[03Sep2022 16:09:00.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> :)
+[03Sep2022 16:09:08.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> fair enough
+[03Sep2022 16:09:11.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> im ready
+[03Sep2022 16:09:20.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> k might take a sec
+[03Sep2022 16:10:20.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Teleported Nave808 to 102.5, 200.0, -508.5]
+[03Sep2022 16:10:23.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> gl
+[03Sep2022 16:10:32.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[03Sep2022 16:10:38.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 fell out of the world
+[03Sep2022 16:10:39.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Teleported Phred7 to 102.5, 200.0, -508.5]
+[03Sep2022 16:10:46.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> yeah bud that aint gonna work
+[03Sep2022 16:11:09.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> oof okay
+[03Sep2022 16:11:14.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> yeah... ima need to fly
+[03Sep2022 16:11:22.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> i tried using an elytra, didnt work
+[03Sep2022 16:11:32.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set Nave808's game mode to Creative Mode]
+[03Sep2022 16:11:40.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> thanks
+[03Sep2022 16:11:45.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Teleported Nave808 to 102.5, 4.0, -508.5]
+[03Sep2022 16:11:54.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> that was close lol
+[03Sep2022 16:12:22.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> got it, ima get to land real quick
+[03Sep2022 16:12:44.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> clear
+[03Sep2022 16:13:00.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Teleported Phred7 to 0.5, 0.0, 0.5]
+[03Sep2022 16:13:23.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set Nave808's game mode to Survival Mode]
+[03Sep2022 16:13:51.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[03Sep2022 16:14:23.361] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[03Sep2022 16:16:48.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> apparently my perimiter isnt far enough with the water
+[03Sep2022 16:17:02.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> oh yikes
+[03Sep2022 16:17:20.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> easy fix :)
+[03Sep2022 16:31:04.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[03Sep2022 16:31:12.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[03Sep2022 16:32:49.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[03Sep2022 16:32:56.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[03Sep2022 16:34:57.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Creative Mode]
+[03Sep2022 16:35:11.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[03Sep2022 16:43:14.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> this is slow going...
+[03Sep2022 16:43:26.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> but its going
+[03Sep2022 16:43:35.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> oof
+[03Sep2022 16:43:37.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> but good
+[03Sep2022 16:51:13.366] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[03Sep2022 16:55:18.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> wow, apparently i need like 5-6 stacks of wither roses, this might take a while
+[03Sep2022 16:55:27.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> geeeeeeeez
+[03Sep2022 16:55:37.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> currently at about 2.5 xD
+[03Sep2022 17:03:33.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Creative Mode]
+[03Sep2022 17:03:46.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[03Sep2022 17:08:42.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[03Sep2022 17:09:08.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[03Sep2022 17:10:24.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Creative Mode]
+[03Sep2022 17:10:35.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[03Sep2022 17:18:43.303] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-848, y=67, z=-372} BlockPos{x=-850, y=67, z=-370}
+[03Sep2022 17:18:45.149] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-849, y=66, z=-373} BlockPos{x=-847, y=66, z=-370}
+[03Sep2022 17:18:45.201] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-849, y=66, z=-373} BlockPos{x=-847, y=66, z=-370}
+[03Sep2022 17:18:45.251] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-849, y=66, z=-373} BlockPos{x=-847, y=66, z=-370}
+[03Sep2022 17:18:45.299] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-849, y=66, z=-373} BlockPos{x=-847, y=66, z=-370}
+[03Sep2022 17:18:45.352] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-849, y=66, z=-373} BlockPos{x=-847, y=66, z=-370}
+[03Sep2022 17:18:45.403] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-849, y=66, z=-373} BlockPos{x=-847, y=66, z=-370}
+[03Sep2022 17:18:45.451] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-849, y=66, z=-373} BlockPos{x=-847, y=66, z=-370}
+[03Sep2022 17:18:45.502] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-849, y=66, z=-373} BlockPos{x=-847, y=66, z=-370}
+[03Sep2022 17:18:45.553] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-849, y=66, z=-373} BlockPos{x=-847, y=66, z=-370}
+[03Sep2022 17:18:53.250] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-847, y=64, z=-377} BlockPos{x=-849, y=65, z=-368}
+[03Sep2022 17:20:23.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> oh yeah
+[03Sep2022 17:20:27.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> good afk, its all here
+[03Sep2022 17:20:34.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> noice
+[03Sep2022 17:20:58.682] [Server thread/INFO] [morpheus/]: Phred7 is now sleeping. 1/2 (50%)
+[03Sep2022 17:26:55.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> ok
+[03Sep2022 17:26:58.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> time to do the fun part
+[03Sep2022 18:01:45.997] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[03Sep2022 18:10:19.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 has made the advancement [Oh Shiny]
+[03Sep2022 18:14:18.020] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[03Sep2022 18:17:02.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[03Sep2022 18:17:12.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[03Sep2022 18:39:13.139] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity MagmaCubeEntity['Magma Cube'/538886, l='ServerLevel[Vault-Hunters]', x=-1732.45, y=31.71, z=1349.72] left loaded chunk area
+[03Sep2022 18:49:25.479] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/541555, l='ServerLevel[Vault-Hunters]', x=-13630.70, y=81.00, z=11011.30] died, message: 'Weaponsmith was slain by Zombie'
+[03Sep2022 19:00:01.500] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[03Sep2022 19:00:01.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[03Sep2022 19:00:02.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[03Sep2022 19:00:03.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[03Sep2022 19:00:04.686] [RCON Client /192.168.1.179 #23/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down

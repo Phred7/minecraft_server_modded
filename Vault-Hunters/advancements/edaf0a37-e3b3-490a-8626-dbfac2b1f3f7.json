@@ -7333,6 +7333,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2022-09-03 18:10:19 -0600"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/gutter_base_cyan": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:37:57 -0600"
@@ -9420,6 +9426,7 @@
       "minecraft:turtle": "2022-06-07 21:19:10 -0600",
       "minecraft:cow": "2022-05-20 20:30:01 -0600",
       "minecraft:chicken": "2022-05-30 23:44:54 -0600",
+      "minecraft:wolf": "2022-09-03 18:50:38 -0600",
       "minecraft:bee": "2022-05-24 21:06:49 -0600"
     },
     "done": false
