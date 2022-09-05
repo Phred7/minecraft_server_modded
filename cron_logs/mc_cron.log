@@ -26,3 +26,27 @@ add 'cron_logs/mc_cron.log'
 add 'gc.log.2.current'
 add 'logs/debug.log'
 add 'logs/latest.log'
+warning: CRLF will be replaced by LF in cron_logs/mc_cron.log.
+The file will have its original line endings in your working directory
+[main 613a3a88] automatic backup.
+ 17 files changed, 448 insertions(+), 1 deletion(-)
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Automatic saving is now enabled[0m
+[0mStarting backup to github.
+*************** Pulling ***************
+*************** Done Pulling ***************
+
+*************** Adding Changes ***************
+*************** Done Adding Changes ***************
+
+*************** Commiting ***************
+*************** Done Commiting ***************
+
+*************** Pushing ***************
+*************** Done Pushing ***************
+
+Backup to github complete.
