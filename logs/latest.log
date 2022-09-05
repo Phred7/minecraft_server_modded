@@ -64,3 +64,49 @@
 [04Sep2022 15:00:02.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [04Sep2022 15:00:03.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [04Sep2022 15:00:04.634] [RCON Client /192.168.1.179 #35/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[04Sep2022 15:01:24.628] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[04Sep2022 15:01:24.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[04Sep2022 15:01:25.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[04Sep2022 15:01:25.629] [RCON Client /192.168.1.179 #36/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[04Sep2022 17:54:06.752] [User Authenticator #25/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[04Sep2022 17:54:16.248] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1e3d5a35
+[04Sep2022 17:54:16.310] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.174:57833] logged in with entity id 703537 at (-844.9222453951388, 150.0, -393.10047519405066)
+[04Sep2022 17:54:16.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[04Sep2022 17:54:16.330] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[04Sep2022 18:01:26.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 opened a Vault!
+[04Sep2022 18:01:30.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 entered an Afterlife, Plentiful, Healing, Gilded Scavenger Vault!
+[04Sep2022 18:01:34.348] [Worker-Main-31996/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"the_vault:janitors_broom",Count:1b,tag:{RepairCost:0,Damage:0,display:{Name:'{"text":"Douwsky\'s Janitor\'s Broom"}'}}}
+[04Sep2022 18:01:34.349] [Worker-Main-31996/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[04Sep2022 18:09:18.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 12 blocks]
+[04Sep2022 18:09:18.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
+[04Sep2022 18:09:18.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:block.end_portal.spawn to Phred7]
+[04Sep2022 18:11:08.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 12 blocks]
+[04Sep2022 18:11:08.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
+[04Sep2022 18:11:08.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:block.end_portal.spawn to Phred7]
+[04Sep2022 18:14:00.446] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 moved wrongly!
+[04Sep2022 18:19:33.045] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1765256, y=15, z=4214} BlockPos{x=1765255, y=15, z=4212}
+[04Sep2022 18:21:40.899] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1765249, y=13, z=4187} BlockPos{x=1765250, y=13, z=4188}
+[04Sep2022 18:21:44.746] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1765253, y=13, z=4185} BlockPos{x=1765254, y=13, z=4187}
+[04Sep2022 18:24:48.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 bailed.
+[04Sep2022 18:35:16.581] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
+[04Sep2022 18:35:16.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
+[04Sep2022 18:35:26.368] [User Authenticator #26/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[04Sep2022 18:35:32.398] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4481f5e2
+[04Sep2022 18:35:32.460] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.174:49346] logged in with entity id 724018 at (-845.2109308562639, 150.0, -392.8608792752307)
+[04Sep2022 18:35:32.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[04Sep2022 18:35:32.479] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[04Sep2022 18:37:28.699] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=16, z=-370} BlockPos{x=-854, y=14, z=-369}
+[04Sep2022 18:37:28.750] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=16, z=-370} BlockPos{x=-854, y=14, z=-369}
+[04Sep2022 18:37:53.500] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=26, z=-370} BlockPos{x=-854, y=26, z=-369}
+[04Sep2022 18:37:53.699] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=26, z=-371} BlockPos{x=-854, y=24, z=-370}
+[04Sep2022 18:37:53.749] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=26, z=-371} BlockPos{x=-854, y=24, z=-370}
+[04Sep2022 18:38:01.449] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=31, z=-371} BlockPos{x=-854, y=31, z=-370}
+[04Sep2022 18:38:01.500] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=31, z=-371} BlockPos{x=-854, y=31, z=-370}
+[04Sep2022 18:38:08.700] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=36, z=-370} BlockPos{x=-854, y=36, z=-369}
+[04Sep2022 18:38:08.849] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=36, z=-371} BlockPos{x=-854, y=34, z=-370}
+[04Sep2022 18:38:08.899] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-854, y=36, z=-371} BlockPos{x=-854, y=34, z=-370}
+[04Sep2022 19:00:01.694] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[04Sep2022 19:00:01.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[04Sep2022 19:00:02.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[04Sep2022 19:00:03.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[04Sep2022 19:00:04.818] [RCON Client /192.168.1.179 #37/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
