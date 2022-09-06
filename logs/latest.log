@@ -1101,3 +1101,34 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [05Sep2022 19:00:02.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [05Sep2022 19:00:03.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [05Sep2022 19:00:04.736] [RCON Client /192.168.1.179 #5/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[05Sep2022 19:01:14.379] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[05Sep2022 19:01:14.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[05Sep2022 19:01:15.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[05Sep2022 19:01:15.380] [RCON Client /192.168.1.179 #6/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[05Sep2022 19:01:31.576] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[05Sep2022 19:01:31.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[05Sep2022 20:35:25.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[05Sep2022 20:35:25.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Sep2022 20:35:25.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Sep2022 20:35:25.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Sep2022 20:35:25.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:overworld
+[05Sep2022 20:35:26.054] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
+[05Sep2022 20:35:26.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_nether
+[05Sep2022 20:35:26.058] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Sep2022 20:35:26.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_end
+[05Sep2022 20:35:26.058] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Sep2022 20:35:26.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:the_other_side
+[05Sep2022 20:35:26.058] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[05Sep2022 20:35:26.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/appliedenergistics2:spatial_storage
+[05Sep2022 20:35:26.059] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[05Sep2022 20:35:26.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:vault
+[05Sep2022 20:35:26.062] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[05Sep2022 20:35:26.112] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
+[05Sep2022 20:35:26.163] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Sep2022 20:35:26.164] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Sep2022 20:35:26.164] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[05Sep2022 20:35:26.164] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[05Sep2022 20:35:26.165] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[05Sep2022 20:35:26.380] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
+[05Sep2022 20:35:26.385] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Listener stopped
+[05Sep2022 20:35:26.602] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread Query Listener stopped
