@@ -122,3 +122,55 @@ java.lang.RuntimeException: Slot 22 not in valid range - [0,22)
 [06Sep2022 12:00:02.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [06Sep2022 12:00:03.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [06Sep2022 12:00:04.809] [RCON Client /192.168.1.179 #11/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[06Sep2022 12:00:15.340] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[06Sep2022 12:00:15.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[06Sep2022 12:00:16.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[06Sep2022 12:00:16.342] [RCON Client /192.168.1.179 #12/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[06Sep2022 12:13:27.556] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[06Sep2022 12:13:47.788] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4d92343
+[06Sep2022 12:13:47.872] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.179:44184] logged in with entity id 139250 at (-860.0382279651052, 95.0, -390.2992635613202)
+[06Sep2022 12:13:47.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[06Sep2022 12:13:47.900] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[06Sep2022 12:45:06.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
+[06Sep2022 12:45:30.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered an Afterlife Vault!
+[06Sep2022 12:46:56.764] [IO-Worker-11571/WARN] [net.minecraft.world.chunk.storage.RegionFile/]: Saving oversized chunk [113408, 256] (1398783 bytes} to external file ./Vault-Hunters/dimensions/the_vault/vault/region/c.113408.256.mcc
+[06Sep2022 13:07:01.210] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[06Sep2022 13:07:43.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 defeated Boss!
+[06Sep2022 13:08:20.887] [IO-Worker-11800/WARN] [net.minecraft.world.chunk.storage.RegionFile/]: Saving oversized chunk [113408, 256] (1398783 bytes} to external file ./Vault-Hunters/dimensions/the_vault/vault/region/c.113408.256.mcc
+[06Sep2022 13:08:31.966] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[06Sep2022 13:08:31.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[06Sep2022 13:13:11.323] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[06Sep2022 13:13:34.896] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1ffc480e
+[06Sep2022 13:13:34.999] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.179:44192] logged in with entity id 185065 at (-859.5, 94.0, -389.5)
+[06Sep2022 13:13:35.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[06Sep2022 13:13:35.024] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[06Sep2022 13:41:59.530] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 96daba82-9c0b-4a87-90b5-748cc3657114. Existing minecraft:armor_stand#190614, new: minecraft:armor_stand#190614
+[06Sep2022 13:42:03.205] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 6f19e170-8f4a-41cc-bb7c-1efed75f8d26. Existing minecraft:armor_stand#190620, new: minecraft:armor_stand#190620
+[06Sep2022 13:42:06.208] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID e6f02de0-3515-4c95-89d0-2d32ebe6749f. Existing minecraft:armor_stand#190622, new: minecraft:armor_stand#190622
+[06Sep2022 13:42:08.583] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 401dadaa-e246-4073-b9c7-01a1e5bb489b. Existing minecraft:armor_stand#190631, new: minecraft:armor_stand#190631
+[06Sep2022 13:42:40.822] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 4bc92232-c034-490b-a0db-402f4b0ca82b. Existing minecraft:armor_stand#190675, new: minecraft:armor_stand#190675
+[06Sep2022 13:43:32.256] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 302b689e-0562-464a-9255-41b972b45ae3. Existing minecraft:armor_stand#190775, new: minecraft:armor_stand#190775
+[06Sep2022 13:43:36.731] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 245a1c5d-49d8-4d78-b4da-c977cc496f58. Existing minecraft:armor_stand#190781, new: minecraft:armor_stand#190781
+[06Sep2022 13:43:42.310] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID fb833608-3ed3-4098-8417-120f1be667f2. Existing minecraft:armor_stand#190786, new: minecraft:armor_stand#190786
+[06Sep2022 13:43:46.121] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 6c7a20cd-129c-458e-aa60-8237e09f0cec. Existing minecraft:armor_stand#190794, new: minecraft:armor_stand#190794
+[06Sep2022 13:47:07.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
+[06Sep2022 13:47:14.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered an Afterlife, Speedy, Extended, Simple Vault!
+[06Sep2022 13:49:09.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Primed TNT]
+[06Sep2022 13:49:11.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.generic.explode to Nave808]
+[06Sep2022 13:49:12.171] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone Stairs'/194415, l='ServerLevel[Vault-Hunters]', x=1822855.31, y=25.32, z=4162.60]
+[06Sep2022 13:49:12.172] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/194416, l='ServerLevel[Vault-Hunters]', x=1822860.57, y=26.56, z=4158.67]
+[06Sep2022 13:49:12.172] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone Slab'/194419, l='ServerLevel[Vault-Hunters]', x=1822856.58, y=26.47, z=4160.72]
+[06Sep2022 13:49:12.172] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dense Grit Sand'/194421, l='ServerLevel[Vault-Hunters]', x=1822861.25, y=26.64, z=4160.74]
+[06Sep2022 13:49:12.172] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Trapdoor'/194422, l='ServerLevel[Vault-Hunters]', x=1822858.75, y=26.31, z=4159.64]
+[06Sep2022 13:49:12.173] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cut Sandstone Slab'/194424, l='ServerLevel[Vault-Hunters]', x=1822861.67, y=26.58, z=4159.41]
+[06Sep2022 13:49:12.173] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stripped Dark Oak Wood'/194425, l='ServerLevel[Vault-Hunters]', x=1822858.68, y=29.55, z=4160.46]
+[06Sep2022 13:56:52.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.generic.explode to Nave808]
+[06Sep2022 14:06:27.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
+[06Sep2022 14:06:33.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 9741 blocks]
+[06Sep2022 14:06:33.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
+[06Sep2022 14:12:45.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 finished a Cake Hunt!
+[06Sep2022 15:00:01.401] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[06Sep2022 15:00:01.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[06Sep2022 15:00:02.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[06Sep2022 15:00:03.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[06Sep2022 15:00:04.523] [RCON Client /192.168.1.179 #13/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
