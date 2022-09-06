@@ -141,7 +141,8 @@
     },
     {
       "modIds": [
-        "storagedrawers"
+        "storagedrawers",
+        "framedcompactdrawers"
       ],
       "restrictions": {
         "restricts": {
@@ -1058,13 +1059,6 @@
           }
         },
         "the_vault:repair_core": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        },
-        "the_vault:vault_ingot": {
           "restricts": {
             "HITTABILITY": false,
             "USABILITY": false,

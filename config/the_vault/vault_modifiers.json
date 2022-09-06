@@ -2358,11 +2358,15 @@
           "POOL": [
             {
               "value": "Dummy",
-              "weight": 10
+              "weight": 35
             },
             {
               "value": "Journey",
-              "weight": 10
+              "weight": 4
+            },
+            {
+              "value": "Exploration",
+              "weight": 1
             }
           ]
         },
@@ -2576,7 +2580,15 @@
           "POOL": [
             {
               "value": "Dummy",
-              "weight": 10
+              "weight": 35
+            },
+            {
+              "value": "Journey",
+              "weight": 4
+            },
+            {
+              "value": "Exploration",
+              "weight": 1
             }
           ]
         },
@@ -3082,11 +3094,15 @@
           "POOL": [
             {
               "value": "Dummy",
-              "weight": 10
+              "weight": 35
             },
             {
               "value": "Journey",
-              "weight": 10
+              "weight": 4
+            },
+            {
+              "value": "Exploration",
+              "weight": 1
             }
           ]
         },
@@ -3101,6 +3117,62 @@
             {
               "value": "Locked",
               "weight": 1
+            }
+          ]
+        },   
+        { "_NAME": "CatalystMods",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Prismatic",
+              "weight": 1
+            },
+            {
+              "value": "Dummy",
+              "weight": 8
+            }
+          ]
+        },    
+        { "_NAME": "T3",
+          "MIN_ROLLS": 1,
+          "MAX_ROLLS": 1,
+          "POOL": [
+            {
+              "value": "Dummy",
+              "weight": 40
+            },
+            {
+              "value": "Treasure",
+              "weight": 2
+            },
+            {
+              "value": "Copius",
+              "weight": 2
+            },
+            {
+              "value": "Impossible",
+              "weight": 1
+            },
+            {
+              "value": "Trivial",
+              "weight": 2
+            },
+            {
+              "value": "Challenging",
+              "weight": 1
+            },
+            {
+              "value": "Super Lucky",
+              "weight": 2
+            },
+            {
+              "value": "Frenzy",
+              "weight": 1
+            },
+            {
+              "value": "Odyssey",
+              "weight": 2
             }
           ]
         }
@@ -3300,7 +3372,15 @@
           "POOL": [
             {
               "value": "Dummy",
-              "weight": 10
+              "weight": 35
+            },
+            {
+              "value": "Journey",
+              "weight": 4
+            },
+            {
+              "value": "Exploration",
+              "weight": 1
             }
           ]
         },

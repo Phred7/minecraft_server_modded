@@ -437,3 +437,15 @@ craftingTable.addShaped("cobweb", <item:minecraft:cobweb>, [
     [<item:minecraft:air>, <item:the_vault:gem_benitoite>, <item:minecraft:air>],
     [<item:minecraft:string>, <item:minecraft:string>, <item:minecraft:string>],
 ]);
+
+craftingTable.addShaped("heater", <item:ironfurnaces:heater>, [
+    [<item:the_vault:vault_diamond>, <item:rsgauges:industrial_comparator_switch>, <item:the_vault:vault_diamond>],
+    [<tag:items:forge:stone>, <item:compressium:redstone_2>, <tag:items:forge:stone>],
+    [<tag:items:forge:stone>, <item:ironfurnaces:diamond_furnace>, <tag:items:forge:stone>],
+]);
+
+craftingTable.addShaped("heat_transmitter", <item:ironfurnaces:item_heater>, [
+    [<item:the_vault:vault_diamond>, <item:minecraft:comparator>, <item:the_vault:vault_diamond>],
+    [<item:minecraft:repeater>, <item:compressium:redstone_1>, <item:minecraft:repeater>],
+    [<item:the_vault:vault_diamond>, <item:minecraft:comparator>, <item:the_vault:vault_diamond>],
+]);

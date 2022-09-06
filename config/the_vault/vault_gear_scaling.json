@@ -51,7 +51,7 @@
               "tier": 0,
               "rarity": "Scrappy+"
             },
-            "weight": 3
+            "weight": 2
           },
           {
             "value": {
@@ -69,7 +69,7 @@
               "tier": 0,
               "rarity": "Scrappy+"
             },
-            "weight": 3
+            "weight": 2
           },
           {
             "value": {
@@ -572,12 +572,19 @@
               "tier": 0,
               "rarity": "Scrappy+"
             },
-            "weight": 3
+            "weight": 4
           },
           {
             "value": {
               "tier": 0,
               "rarity": "Common+"
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "tier": 0,
+              "rarity": "Rare+"
             },
             "weight": 1
           }
@@ -604,7 +611,7 @@
               "tier": 0,
               "rarity": "Rare+"
             },
-            "weight": 1
+            "weight": 2
           }
         ]
       },

@@ -67,3 +67,15 @@ craftingTable.addShapeless("modularroutersstack_augment", <item:modularrouters:s
 craftingTable.addShapeless("modularroutersaugment_core", <item:modularrouters:augment_core>, [
     <item:modularrouters:blank_module>, <item:the_vault:perfect_alexandrite>, <item:modularrouters:blank_upgrade>
 ]);
+
+craftingTable.addShapeless("modularrouters_void_module", <item:modularrouters:void_module>, [
+    <item:modularrouters:blank_module>, <item:the_vault:perfect_alexandrite>, <item:the_vault:void_liquid_bucket>
+]);
+
+craftingTable.addShapeless("modularrouters_puller_module_1", <item:modularrouters:puller_module_1>, [
+    <item:modularrouters:blank_module>, <item:the_vault:vault_essence>, <item:minecraft:sticky_piston>
+]);
+
+craftingTable.addShapeless("modularrouters_puller_module_2", <item:modularrouters:puller_module_2>, [
+    <item:modularrouters:puller_module_1>, <item:the_vault:vault_diamond_block>, <item:the_vault:vault_essence>
+]);
