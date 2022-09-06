@@ -116,7 +116,7 @@ craftingTable.addShapeless("ae2_capacity_card", <item:appliedenergistics2:capaci
 ]);
 
 craftingTable.addShapeless("ae2_fluix_glass_cable", <item:appliedenergistics2:fluix_glass_cable> *4, [
-    <item:appliedenergistics2:quartz_fiber>, <tag:items:appliedenergistics2:crystals/fluix>, <item:the_vault:gem_larimar>,
+    <item:appliedenergistics2:quartz_fiber>, <tag:items:appliedenergistics2:crystals/fluix>, <tag:items:the_vault:perfectcommongems>,
     <tag:items:appliedenergistics2:crystals/fluix>
 ]);
 

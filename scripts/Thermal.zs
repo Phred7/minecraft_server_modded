@@ -111,6 +111,6 @@ craftingTable.addShaped("thermal_vecuumulator", <item:thermal:device_collector>,
 
 craftingTable.addShaped("thermal_igneous_extruder", <item:thermal:device_rock_gen>, [
     [<item:thermal:invar_block>, <item:thermal:constantan_gear>, <item:thermal:invar_block>],
-    [<item:the_vault:gem_pog>, <item:thermal:machine_frame>, <item:the_vault:gem_pog>],
+    [<item:the_vault:echo_pog>, <item:thermal:machine_frame>, <item:the_vault:echo_pog>],
     [<item:thermal:invar_block>, <item:thermal:redstone_servo>, <item:thermal:invar_block>]
 ]);

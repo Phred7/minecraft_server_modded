@@ -208,12 +208,6 @@ craftingTable.addShaped("mekanism_qio_redstone_adapter", <item:mekanism:qio_reds
     [<item:mekanism:pellet_polonium>, <item:mekanism:teleportation_core>, <item:mekanism:pellet_polonium>]
 ]);
 
-craftingTable.addShaped("mekanism_basic_universal_cable", <item:mekanism:basic_universal_cable> *5, [
-    [<item:minecraft:air>, <tag:items:the_vault:perfectcommongems>, <item:minecraft:air>],
-    [<tag:items:forge:ingots/steel>, <item:compressium:redstone_2>, <tag:items:forge:ingots/steel>],
-    [<item:minecraft:air>, <tag:items:the_vault:perfectcommongems>, <item:minecraft:air>]
-]);
-
 <recipetype:mekanism:crushing>.addJSONRecipe("vault_apple_jade", { 
     "input":{"ingredient":{"item":"the_vault:jade_apple"}},
     "output":{"item":"the_vault:vault_apple"}
