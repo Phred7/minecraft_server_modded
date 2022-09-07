@@ -187,3 +187,105 @@ java.lang.RuntimeException: Slot 22 not in valid range - [0,22)
 [06Sep2022 19:00:02.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [06Sep2022 19:00:04.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [06Sep2022 19:00:05.074] [RCON Client /192.168.1.179 #15/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[06Sep2022 19:02:03.132] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[06Sep2022 19:02:03.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[06Sep2022 19:02:04.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[06Sep2022 19:02:04.133] [RCON Client /192.168.1.179 #16/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[06Sep2022 20:22:28.616] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[06Sep2022 20:22:35.188] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3e24ed33
+[06Sep2022 20:22:35.271] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.174:62294] logged in with entity id 347310 at (-853.2061124926713, 102.0, -393.5643063631136)
+[06Sep2022 20:22:35.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[06Sep2022 20:22:35.328] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[06Sep2022 20:23:36.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> howdy
+[06Sep2022 20:23:39.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> afk?
+[06Sep2022 20:32:22.066] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
+[06Sep2022 20:32:22.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
+[06Sep2022 20:33:44.121] [User Authenticator #12/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[06Sep2022 20:33:50.638] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2bab0a28
+[06Sep2022 20:33:50.729] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.174:63355] logged in with entity id 349787 at (-837.8450026853984, 70.0, -390.577323009716)
+[06Sep2022 20:33:50.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[06Sep2022 20:33:50.778] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[06Sep2022 20:35:54.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 opened a Vault!
+[06Sep2022 20:35:59.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 entered an Afterlife, Trapped, Speedy, Locked Vault!
+[06Sep2022 20:36:04.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[06Sep2022 20:39:05.005] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 moved wrongly!
+[06Sep2022 20:46:55.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> welcome sir
+[06Sep2022 20:47:02.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> sorry, i was indeed afk, good luck with that vault
+[06Sep2022 20:48:00.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> thanks 9/6 obilisks found
+[06Sep2022 20:48:22.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> thats good! how much longer?
+[06Sep2022 20:48:27.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> 10
+[06Sep2022 20:48:35.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> coolio, well dont let me distract you
+[06Sep2022 20:48:42.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> make sure you waypoint the room you want to fight in
+[06Sep2022 20:48:42.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> also the # oif candy bars O used
+[06Sep2022 20:56:52.517] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[06Sep2022 20:56:52.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[06Sep2022 20:56:52.692] [Thread-942/INFO] [FTB Utilities Backups/]: Deleting old backup: 2022-08-15-21-03-00.zip
+[06Sep2022 20:56:52.693] [Thread-942/INFO] [FTB Utilities Backups/]: Deleting backup to free space: 2022-08-15-23-03-00.zip
+[06Sep2022 20:56:52.693] [Thread-942/INFO] [FTB Utilities Backups/]: Deleting backup to free space: 2022-08-16-12-08-47.zip
+[06Sep2022 20:56:52.693] [Thread-942/INFO] [FTB Utilities Backups/]: Deleting backup to free space: 2022-08-16-14-08-47.zip
+[06Sep2022 20:56:52.693] [Thread-942/INFO] [FTB Utilities Backups/]: Backing up 7897 files...
+[06Sep2022 20:56:52.694] [Thread-942/INFO] [FTB Utilities Backups/]: Compressing 7897 files...
+[06Sep2022 20:57:07.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[06Sep2022 20:57:16.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[06Sep2022 20:58:43.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 defeated Boss!
+[06Sep2022 20:58:59.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> congrats!
+[06Sep2022 20:59:07.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> shit bro
+[06Sep2022 20:59:09.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> hows the heart rate?
+[06Sep2022 20:59:12.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> that was close
+[06Sep2022 20:59:18.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> higher than it should be lol
+[06Sep2022 20:59:20.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> totem popped kind of close?
+[06Sep2022 20:59:24.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> didnt
+[06Sep2022 20:59:30.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> well thats good
+[06Sep2022 20:59:34.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> had 15 sec left wit a blaze
+[06Sep2022 20:59:38.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> oh shit
+[06Sep2022 20:59:41.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> yeah, thats dicy
+[06Sep2022 20:59:51.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> yeah... It regended all the way once
+[06Sep2022 20:59:57.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> oof
+[06Sep2022 20:59:57.521] [Thread-942/INFO] [FTB Utilities Backups/]: Done compressing in 03:04 seconds (6.2GB)!
+[06Sep2022 20:59:57.522] [Thread-942/INFO] [FTB Utilities Backups/]: Created /home/mcserver/repositories/minecraft_server_modded-main/backups/2022-09-06-20-56-52.zip from /home/mcserver/repositories/minecraft_server_modded-main/Vault-Hunters
+[06Sep2022 20:59:57.550] [Thread-942/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 03:04! (6.2GB)
+[06Sep2022 20:59:58.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> yeah
+[06Sep2022 21:00:00.380] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[06Sep2022 21:00:01.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> dont use ranged weapons
+[06Sep2022 21:00:04.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> but... aparently I did okay
+[06Sep2022 21:00:04.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> that makes them teleport
+[06Sep2022 21:00:07.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> oh yeah I knwo
+[06Sep2022 21:00:12.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> just making sure xD
+[06Sep2022 21:00:12.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> was just a very open room
+[06Sep2022 21:00:21.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> ahhhh
+[06Sep2022 21:00:23.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> that would do it
+[06Sep2022 21:00:45.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> yeah... doesnt help I tried to clear high blacks away cuz I anticipated a different one (was a water room)
+[06Sep2022 21:00:57.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> oooh
+[06Sep2022 21:01:05.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> but I think we gud
+[06Sep2022 21:01:07.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> that would do it
+[06Sep2022 21:01:20.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> I have another key peice now...
+[06Sep2022 21:01:22.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> wanna vc?
+[06Sep2022 21:01:25.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> (boss crate)
+[06Sep2022 21:01:27.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Phred7> sure
+[06Sep2022 21:01:29.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> nice!!!
+[06Sep2022 21:02:03.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nave808> in gremlincraft
+[06Sep2022 21:17:45.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 opened a Vault!
+[06Sep2022 21:17:51.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered an Afterlife, Hoard, Easy, Weakened Vault!
+[06Sep2022 21:17:51.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 entered an Afterlife, Hoard, Easy, Weakened Vault!
+[06Sep2022 21:17:54.805] [Worker-Main-14398/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"the_vault:janitors_broom",Count:1b,tag:{RepairCost:0,Damage:0,display:{Name:'{"text":"Douwsky\'s Janitor\'s Broom"}'}}}
+[06Sep2022 21:17:54.806] [Worker-Main-14398/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[06Sep2022 21:21:34.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 12 blocks]
+[06Sep2022 21:21:34.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
+[06Sep2022 21:21:34.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:block.end_portal.spawn to 2 players]
+[06Sep2022 21:29:13.272] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone'/450185, l='ServerLevel[Vault-Hunters]', x=1839419.82, y=10.39, z=4191.35]
+[06Sep2022 21:37:41.669] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Nether Door'/463210, l='ServerLevel[Vault-Hunters]', x=1838965.42, y=27.31, z=4161.66]
+[06Sep2022 21:37:41.670] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sandstone'/463212, l='ServerLevel[Vault-Hunters]', x=1838965.45, y=30.47, z=4158.50]
+[06Sep2022 21:37:41.670] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Barrel'/463213, l='ServerLevel[Vault-Hunters]', x=1838967.35, y=27.36, z=4158.40]
+[06Sep2022 21:37:41.670] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Slab'/463214, l='ServerLevel[Vault-Hunters]', x=1838969.67, y=32.51, z=4158.37]
+[06Sep2022 21:37:41.670] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sand'/463216, l='ServerLevel[Vault-Hunters]', x=1838965.52, y=28.51, z=4158.40]
+[06Sep2022 21:37:41.670] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stripped Palo Verde Wood'/463217, l='ServerLevel[Vault-Hunters]', x=1838967.75, y=26.68, z=4162.72]
+[06Sep2022 21:37:41.670] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Smooth Sandstone'/463221, l='ServerLevel[Vault-Hunters]', x=1838966.60, y=27.69, z=4161.25]
+[06Sep2022 21:38:27.934] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[06Sep2022 21:41:38.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 bailed.
+[06Sep2022 21:41:40.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 bailed.
+[06Sep2022 21:41:40.729] [Worker-Main-14599/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 2e0222d4-1e58-402a-a6e5-f56d5272f1db
+[06Sep2022 22:00:01.198] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[06Sep2022 22:00:01.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[06Sep2022 22:00:02.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[06Sep2022 22:00:03.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[06Sep2022 22:00:04.373] [RCON Client /192.168.1.179 #17/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
