@@ -64,3 +64,31 @@
 [07Sep2022 15:00:02.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [07Sep2022 15:00:03.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [07Sep2022 15:00:04.443] [RCON Client /192.168.1.179 #27/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[07Sep2022 15:01:45.329] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[07Sep2022 15:01:45.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[07Sep2022 15:01:46.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[07Sep2022 15:01:46.331] [RCON Client /192.168.1.179 #28/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[07Sep2022 16:19:43.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
+[07Sep2022 16:19:45.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered an Afterlife, Journey, Fast Vault!
+[07Sep2022 16:23:27.366] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal Ore'/631738, l='ServerLevel[Vault-Hunters]', x=1863336.49, y=17.26, z=4121.56]
+[07Sep2022 16:23:27.366] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal Ore'/631739, l='ServerLevel[Vault-Hunters]', x=1863335.27, y=16.36, z=4122.60]
+[07Sep2022 16:23:27.965] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Ore'/631744, l='ServerLevel[Vault-Hunters]', x=1863335.38, y=17.75, z=4121.61]
+[07Sep2022 16:23:27.965] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Redstone Ore'/631745, l='ServerLevel[Vault-Hunters]', x=1863334.51, y=18.72, z=4122.60]
+[07Sep2022 16:25:25.264] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/633495, l='ServerLevel[Vault-Hunters]', x=1863337.26, y=43.70, z=4094.45]
+[07Sep2022 16:25:25.764] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone'/633497, l='ServerLevel[Vault-Hunters]', x=1863336.43, y=43.27, z=4094.32]
+[07Sep2022 16:25:26.714] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lapis Lazuli Ore'/633499, l='ServerLevel[Vault-Hunters]', x=1863335.33, y=44.63, z=4094.40]
+[07Sep2022 16:30:51.173] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1863452, y=8, z=4402} BlockPos{x=1863453, y=8, z=4402}
+[07Sep2022 16:30:51.223] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1863451, y=7, z=4402} BlockPos{x=1863453, y=8, z=4402}
+[07Sep2022 16:30:51.261] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1863450, y=7, z=4402} BlockPos{x=1863453, y=8, z=4402}
+[07Sep2022 16:31:00.216] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/651823, l='ServerLevel[Vault-Hunters]', x=1863436.50, y=12.88, z=4405.50]
+[07Sep2022 16:31:00.216] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/651827, l='ServerLevel[Vault-Hunters]', x=1863438.50, y=8.88, z=4398.50]
+[07Sep2022 16:31:00.415] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/651836, l='ServerLevel[Vault-Hunters]', x=1863438.50, y=9.88, z=4401.50]
+[07Sep2022 16:31:32.355] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[07Sep2022 16:41:06.798] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[07Sep2022 16:41:55.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 defeated Boss!
+[07Sep2022 16:42:05.640] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1864002, y=29, z=4018} BlockPos{x=1864028, y=23, z=4122}
+[07Sep2022 19:00:01.397] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[07Sep2022 19:00:01.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[07Sep2022 19:00:02.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[07Sep2022 19:00:03.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[07Sep2022 19:00:04.490] [RCON Client /192.168.1.179 #29/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
