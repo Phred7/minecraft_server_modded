@@ -92,3 +92,33 @@
 [07Sep2022 19:00:02.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [07Sep2022 19:00:03.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [07Sep2022 19:00:04.490] [RCON Client /192.168.1.179 #29/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[07Sep2022 19:01:22.034] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[07Sep2022 19:01:22.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[07Sep2022 19:01:23.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[07Sep2022 19:01:23.035] [RCON Client /192.168.1.179 #30/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[07Sep2022 19:30:50.324] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[07Sep2022 19:30:50.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[07Sep2022 20:26:27.596] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[07Sep2022 20:26:38.736] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4a98c749
+[07Sep2022 20:26:38.815] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.179:50982] logged in with entity id 692288 at (-857.2447821014057, 86.0, -383.66865892439216)
+[07Sep2022 20:26:38.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[07Sep2022 20:26:38.836] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[07Sep2022 20:31:39.395] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[07Sep2022 20:35:51.285] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[07Sep2022 20:42:31.297] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[07Sep2022 20:42:35.564] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[07Sep2022 20:42:35.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[07Sep2022 20:56:52.562] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[07Sep2022 20:56:52.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[07Sep2022 20:56:52.630] [Thread-2083/INFO] [FTB Utilities Backups/]: Deleting backup to free space: 2022-09-06-20-56-52.zip
+[07Sep2022 20:56:52.769] [Thread-2083/INFO] [FTB Utilities Backups/]: Backing up 8019 files...
+[07Sep2022 20:56:52.769] [Thread-2083/INFO] [FTB Utilities Backups/]: Compressing 8019 files...
+[07Sep2022 20:59:51.763] [Thread-2083/INFO] [FTB Utilities Backups/]: Done compressing in 02:58 seconds (6.3GB)!
+[07Sep2022 20:59:51.763] [Thread-2083/INFO] [FTB Utilities Backups/]: Created /home/mcserver/repositories/minecraft_server_modded-main/backups/2022-09-07-20-56-52.zip from /home/mcserver/repositories/minecraft_server_modded-main/Vault-Hunters
+[07Sep2022 20:59:51.768] [Thread-2083/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 02:59! (6.3GB)
+[07Sep2022 21:00:00.380] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[07Sep2022 22:00:01.094] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[07Sep2022 22:00:01.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[07Sep2022 22:00:02.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[07Sep2022 22:00:03.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[07Sep2022 22:00:04.138] [RCON Client /192.168.1.179 #31/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
