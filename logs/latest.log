@@ -1069,3 +1069,110 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [09Sep2022 12:00:02.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [09Sep2022 12:00:03.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [09Sep2022 12:00:04.485] [RCON Client /192.168.1.179 #3/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[09Sep2022 12:00:20.360] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[09Sep2022 12:00:20.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[09Sep2022 12:00:21.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[09Sep2022 12:00:21.361] [RCON Client /192.168.1.179 #4/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[09Sep2022 12:59:38.040] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[09Sep2022 12:59:49.348] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@227aa725
+[09Sep2022 12:59:49.479] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.179:32940] logged in with entity id 822 at (-857.6756503778676, 94.0, -389.6363443153965)
+[09Sep2022 12:59:49.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[09Sep2022 12:59:49.563] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[09Sep2022 12:59:49.647] [Server thread/ERROR] [net.minecraft.world.storage.DimensionSavedDataManager/]: Error loading saved data: the_vault_SoulShardTrader
+java.lang.ArrayIndexOutOfBoundsException: null
+	at java.lang.System.arraycopy(Native Method) ~[?:1.8.0_342]
+	at java.io.PushbackInputStream.unread(PushbackInputStream.java:235) ~[?:1.8.0_342]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_215756_a(DimensionSavedDataManager.java:119) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_215755_a(DimensionSavedDataManager.java:92) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_223409_c(DimensionSavedDataManager.java:68) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_215753_b(DimensionSavedDataManager.java:52) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_215752_a(DimensionSavedDataManager.java:37) ~[?:?]
+	at iskallia.vault.world.data.SoulShardTraderData.get(SoulShardTraderData.java:168) ~[the_vault:1.8.3p1.13.8]
+	at iskallia.vault.world.data.SoulShardTraderData.get(SoulShardTraderData.java:164) ~[the_vault:1.8.3p1.13.8]
+	at iskallia.vault.Vault.onPlayerLoggedIn(Vault.java:106) ~[the_vault:1.8.3p1.13.8]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.fml.hooks.BasicEventHooks.firePlayerLoggedIn(BasicEventHooks.java:44) ~[forge:?]
+	at net.minecraft.server.management.PlayerList.func_72355_a(PlayerList.java:232) ~[?:?]
+	at net.minecraft.network.login.ServerLoginNetHandler.func_147326_c(ServerLoginNetHandler.java:118) ~[?:?]
+	at net.minecraft.network.login.ServerLoginNetHandler.func_73660_a(ServerLoginNetHandler.java:65) ~[?:?]
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:222) ~[?:?]
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[09Sep2022 12:59:49.877] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[09Sep2022 12:59:49.878] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[09Sep2022 12:59:49.881] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[09Sep2022 12:59:49.881] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[09Sep2022 12:59:49.964] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[09Sep2022 12:59:49.965] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[09Sep2022 12:59:49.966] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[09Sep2022 12:59:49.967] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[09Sep2022 12:59:49.967] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[09Sep2022 12:59:49.968] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[09Sep2022 12:59:49.968] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[09Sep2022 12:59:49.969] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[09Sep2022 12:59:49.970] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[09Sep2022 12:59:49.972] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[09Sep2022 12:59:49.973] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[09Sep2022 12:59:49.974] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[09Sep2022 12:59:51.807] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@588ce3ac
+[09Sep2022 13:16:47.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
+[09Sep2022 13:16:52.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered an Afterlife, Journey, Lucky, Safe Zone, Weakened Vault!
+[09Sep2022 13:23:45.265] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1879979, y=15, z=4141} BlockPos{x=1879979, y=14, z=4142}
+[09Sep2022 13:23:56.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 12 blocks]
+[09Sep2022 13:23:56.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
+[09Sep2022 13:23:56.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:block.end_portal.spawn to Nave808]
+[09Sep2022 13:29:06.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound the_vault:puzzle_completion_major to Nave808]
+[09Sep2022 13:29:06.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 25 blocks]
+[09Sep2022 13:30:58.170] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22713, l='ServerLevel[Vault-Hunters]', x=1880183.48, y=30.25, z=4319.42]
+[09Sep2022 13:30:58.170] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22714, l='ServerLevel[Vault-Hunters]', x=1880183.67, y=29.45, z=4318.35]
+[09Sep2022 13:30:58.171] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22715, l='ServerLevel[Vault-Hunters]', x=1880184.34, y=30.33, z=4320.50]
+[09Sep2022 13:30:58.171] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22716, l='ServerLevel[Vault-Hunters]', x=1880184.59, y=30.61, z=4318.58]
+[09Sep2022 13:30:58.171] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22717, l='ServerLevel[Vault-Hunters]', x=1880184.40, y=31.59, z=4318.50]
+[09Sep2022 13:30:58.171] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22718, l='ServerLevel[Vault-Hunters]', x=1880183.32, y=29.67, z=4317.69]
+[09Sep2022 13:30:58.171] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22719, l='ServerLevel[Vault-Hunters]', x=1880183.28, y=30.63, z=4317.37]
+[09Sep2022 13:30:58.171] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22720, l='ServerLevel[Vault-Hunters]', x=1880184.40, y=29.71, z=4317.31]
+[09Sep2022 13:30:58.171] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22721, l='ServerLevel[Vault-Hunters]', x=1880184.47, y=29.47, z=4321.46]
+[09Sep2022 13:30:58.172] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22722, l='ServerLevel[Vault-Hunters]', x=1880185.29, y=30.32, z=4321.62]
+[09Sep2022 13:30:58.172] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22723, l='ServerLevel[Vault-Hunters]', x=1880185.47, y=30.73, z=4319.63]
+[09Sep2022 13:30:58.172] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22724, l='ServerLevel[Vault-Hunters]', x=1880185.33, y=31.39, z=4320.74]
+[09Sep2022 13:30:58.172] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22725, l='ServerLevel[Vault-Hunters]', x=1880185.48, y=30.72, z=4318.41]
+[09Sep2022 13:30:58.172] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22726, l='ServerLevel[Vault-Hunters]', x=1880185.43, y=29.65, z=4318.41]
+[09Sep2022 13:30:58.172] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22727, l='ServerLevel[Vault-Hunters]', x=1880183.36, y=31.57, z=4317.51]
+[09Sep2022 13:30:58.172] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22728, l='ServerLevel[Vault-Hunters]', x=1880185.56, y=29.39, z=4317.61]
+[09Sep2022 13:30:58.173] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22733, l='ServerLevel[Vault-Hunters]', x=1880184.30, y=28.41, z=4320.55]
+[09Sep2022 13:30:58.173] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22737, l='ServerLevel[Vault-Hunters]', x=1880186.35, y=30.57, z=4318.67]
+[09Sep2022 13:30:58.173] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Basalt'/22738, l='ServerLevel[Vault-Hunters]', x=1880185.32, y=32.60, z=4321.44]
+[09Sep2022 13:30:58.856] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Tubium Ore'/22779, l='ServerLevel[Vault-Hunters]', x=1880185.40, y=28.48, z=4318.70]
+[09Sep2022 13:36:13.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 25 blocks]
+[09Sep2022 13:36:13.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound the_vault:puzzle/completion_major to Nave808]
+[09Sep2022 13:36:13.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 1880264, 22, 4140]
+[09Sep2022 13:41:33.772] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1880060, y=36, z=4155} BlockPos{x=1880060, y=37, z=4155}
+[09Sep2022 13:41:33.817] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1880060, y=36, z=4155} BlockPos{x=1880060, y=37, z=4155}
+[09Sep2022 13:42:29.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 bailed.
+[09Sep2022 14:50:34.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
+[09Sep2022 14:50:44.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered a Raffle, Gilded, Difficult Vault!
+[09Sep2022 14:50:57.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.generic.explode to Nave808]
+[09Sep2022 14:52:11.498] [Worker-Main-3598/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"the_vault:janitors_broom",Count:1b,tag:{RepairCost:0,Damage:0,display:{Name:'{"text":"Douwsky\'s Janitor\'s Broom"}'}}}
+[09Sep2022 14:52:11.499] [Worker-Main-3598/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[09Sep2022 14:56:10.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 defeated pomodoko!
+[09Sep2022 14:59:08.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
+[09Sep2022 14:59:14.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered a Plentiful, Crowded, Raffle, Difficult, Safe Zone, Speedy Vault!
+[09Sep2022 14:59:15.300] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1896456, y=16, z=4063} but found not block entity block Block{minecraft:air} at location
+[09Sep2022 14:59:15.300] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1896456, y=16, z=4063}
+[09Sep2022 14:59:23.336] [Worker-Main-3666/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"the_vault:janitors_broom",Count:1b,tag:{RepairCost:0,Damage:0,display:{Name:'{"text":"Douwsky\'s Janitor\'s Broom"}'}}}
+[09Sep2022 14:59:23.337] [Worker-Main-3666/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[09Sep2022 14:59:24.668] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1896169, y=10, z=4321} but found not block entity block Block{minecraft:air} at location
+[09Sep2022 14:59:24.669] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1896169, y=10, z=4321}
+[09Sep2022 15:00:01.413] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[09Sep2022 15:00:01.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[09Sep2022 15:00:02.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[09Sep2022 15:00:03.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[09Sep2022 15:00:04.829] [RCON Client /192.168.1.179 #5/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
