@@ -1063,3 +1063,9 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [09Sep2022 09:12:33.698] [Server thread/INFO] [FTB Utilities Backups/]: Backups folder - /home/mcserver/repositories/minecraft_server_modded-main/backups
 [09Sep2022 09:12:33.709] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [openloader] Found status: BETA Current: 9.0.3 Target: 9.0.3
 [09Sep2022 10:24:08.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Automatic saving is now disabled
+[09Sep2022 10:24:32.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Automatic saving is now enabled
+[09Sep2022 12:00:01.435] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[09Sep2022 12:00:01.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[09Sep2022 12:00:02.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[09Sep2022 12:00:03.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[09Sep2022 12:00:04.485] [RCON Client /192.168.1.179 #3/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
