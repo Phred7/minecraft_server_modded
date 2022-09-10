@@ -1860,6 +1860,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/windows/warped_stem_window2": {
+    "criteria": {
+      "has_planks": "2022-09-10 13:01:22 -0600"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_white": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:46 -0600"
@@ -15560,6 +15566,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_standard_from_slab": {
+    "criteria": {
+      "has_steel_scaffolding_standard": "2022-09-10 14:32:02 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:47 -0600"
@@ -19190,6 +19202,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/warped/warped_pult_1": {
+    "criteria": {
+      "has_planks": "2022-09-10 13:01:22 -0600"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/scoria_pillar_from_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:44 -0600"
@@ -19214,9 +19232,27 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/warped/warped_pult_4": {
+    "criteria": {
+      "has_planks": "2022-09-10 13:01:22 -0600"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_gabbro_bricks_wall_from_fancy_gabbro_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:48 -0600"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/warped/warped_pult_2": {
+    "criteria": {
+      "has_planks": "2022-09-10 13:01:22 -0600"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/warped/warped_pult_3": {
+    "criteria": {
+      "has_planks": "2022-09-10 13:01:22 -0600"
     },
     "done": true
   },
@@ -20801,6 +20837,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_constantan_from_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:49 -0600"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/windows/warped_stem_window": {
+    "criteria": {
+      "has_planks": "2022-09-10 13:01:22 -0600"
     },
     "done": true
   },
