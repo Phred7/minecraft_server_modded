@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_dark_oak": {
+    "criteria": {
+      "has_plank": "2022-09-10 11:40:51 -0600"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/nugget_steel_recycle_sword_from_blasting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:50 -0600"
@@ -14471,6 +14477,12 @@
   "botania:recipes/botania/spawner_claw": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:49 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_plank": "2022-09-10 11:40:51 -0600"
     },
     "done": true
   },

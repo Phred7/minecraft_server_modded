@@ -22,3 +22,43 @@
 [10Sep2022 09:00:02.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [10Sep2022 09:00:03.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [10Sep2022 09:00:04.525] [RCON Client /192.168.1.179 #7/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[10Sep2022 09:00:15.964] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[10Sep2022 09:00:15.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[10Sep2022 09:00:16.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[10Sep2022 09:00:16.968] [RCON Client /192.168.1.179 #8/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[10Sep2022 11:34:02.020] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[10Sep2022 11:34:08.583] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@192cebba
+[10Sep2022 11:34:08.713] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.174:58096] logged in with entity id 2372 at (-848.6502989087543, 102.0, -383.99780391102837)
+[10Sep2022 11:34:08.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[10Sep2022 11:34:08.789] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[10Sep2022 11:34:09.191] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[10Sep2022 11:34:09.192] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[10Sep2022 11:34:09.194] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[10Sep2022 11:34:09.194] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[10Sep2022 11:34:09.241] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[10Sep2022 11:34:09.241] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[10Sep2022 11:34:09.242] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[10Sep2022 11:34:09.242] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[10Sep2022 11:34:09.243] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[10Sep2022 11:34:09.243] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[10Sep2022 11:34:09.243] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[10Sep2022 11:34:09.244] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[10Sep2022 11:34:09.244] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[10Sep2022 11:34:09.245] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[10Sep2022 11:34:09.246] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[10Sep2022 11:34:09.247] [Server thread/ERROR] [iskallia.vault.Vault/]: Relic set <> is not defined.
+[10Sep2022 11:34:11.091] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6919d1b9
+[10Sep2022 11:39:54.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 opened a Vault!
+[10Sep2022 11:39:57.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 entered an Afterlife, Extended, Lucky, Slowed, Frail Vault!
+[10Sep2022 11:40:07.344] [Worker-Main-10046/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"the_vault:janitors_broom",Count:1b,tag:{RepairCost:0,Damage:0,display:{Name:'{"text":"Douwsky\'s Janitor\'s Broom"}'}}}
+[10Sep2022 11:40:07.344] [Worker-Main-10046/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[10Sep2022 11:44:44.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 12 blocks]
+[10Sep2022 11:44:44.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
+[10Sep2022 11:44:44.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:block.end_portal.spawn to Phred7]
+[10Sep2022 11:45:44.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Creative Mode]
+[10Sep2022 11:47:11.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[10Sep2022 12:00:02.021] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[10Sep2022 12:00:02.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[10Sep2022 12:00:03.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[10Sep2022 12:00:04.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[10Sep2022 12:00:05.128] [RCON Client /192.168.1.179 #9/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
