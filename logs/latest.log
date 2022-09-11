@@ -26,3 +26,50 @@
 [11Sep2022 09:00:02.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [11Sep2022 09:00:03.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [11Sep2022 09:00:04.951] [RCON Client /192.168.1.179 #21/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[11Sep2022 09:00:15.586] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[11Sep2022 09:00:15.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[11Sep2022 09:00:16.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[11Sep2022 09:00:16.587] [RCON Client /192.168.1.179 #22/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[11Sep2022 10:18:05.204] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[11Sep2022 10:18:11.898] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@428b4a67
+[11Sep2022 10:18:11.994] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.174:49682] logged in with entity id 296015 at (-851.097981315138, 46.0, -370.9127839803825)
+[11Sep2022 10:18:11.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[11Sep2022 10:18:12.015] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[11Sep2022 10:18:48.578] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/296740, l='ServerLevel[Vault-Hunters]', x=-844.20, y=16.50, z=-370.50]
+[11Sep2022 10:30:47.327] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/299428, l='ServerLevel[Vault-Hunters]', x=-842.20, y=16.50, z=-369.50]
+[11Sep2022 10:30:47.327] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/299430, l='ServerLevel[Vault-Hunters]', x=-842.20, y=16.50, z=-371.50]
+[11Sep2022 10:39:48.426] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/301410, l='ServerLevel[Vault-Hunters]', x=-842.20, y=16.50, z=-368.50]
+[11Sep2022 10:39:48.426] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/301411, l='ServerLevel[Vault-Hunters]', x=-842.20, y=16.50, z=-369.50]
+[11Sep2022 10:39:48.827] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/301418, l='ServerLevel[Vault-Hunters]', x=-844.20, y=16.50, z=-368.50]
+[11Sep2022 10:41:11.528] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/301752, l='ServerLevel[Vault-Hunters]', x=-841.20, y=16.50, z=-368.50]
+[11Sep2022 10:41:11.528] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/301753, l='ServerLevel[Vault-Hunters]', x=-841.20, y=16.50, z=-369.50]
+[11Sep2022 10:45:46.727] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/302735, l='ServerLevel[Vault-Hunters]', x=-842.20, y=16.50, z=-368.50]
+[11Sep2022 10:45:46.727] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/302736, l='ServerLevel[Vault-Hunters]', x=-842.20, y=16.50, z=-369.50]
+[11Sep2022 10:45:46.727] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/302737, l='ServerLevel[Vault-Hunters]', x=-842.20, y=16.50, z=-370.50]
+[11Sep2022 10:45:46.727] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/302738, l='ServerLevel[Vault-Hunters]', x=-842.20, y=16.50, z=-371.50]
+[11Sep2022 10:45:59.527] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/302842, l='ServerLevel[Vault-Hunters]', x=-844.20, y=16.50, z=-371.50]
+[11Sep2022 10:48:03.528] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/303625, l='ServerLevel[Vault-Hunters]', x=-844.20, y=16.50, z=-368.50]
+[11Sep2022 10:50:07.528] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/304368, l='ServerLevel[Vault-Hunters]', x=-844.20, y=16.50, z=-368.50]
+[11Sep2022 10:54:02.927] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/305893, l='ServerLevel[Vault-Hunters]', x=-843.20, y=16.50, z=-371.50]
+[11Sep2022 10:54:27.727] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/306067, l='ServerLevel[Vault-Hunters]', x=-843.20, y=16.50, z=-368.50]
+[11Sep2022 10:54:52.727] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/306221, l='ServerLevel[Vault-Hunters]', x=-844.20, y=16.50, z=-370.50]
+[11Sep2022 10:55:42.728] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
+[11Sep2022 10:55:42.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
+[11Sep2022 10:57:09.053] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[11Sep2022 10:57:15.547] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2beeab69
+[11Sep2022 10:57:15.640] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.174:58513] logged in with entity id 307383 at (-851.045419170717, 49.0, -373.70304434284793)
+[11Sep2022 10:57:15.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[11Sep2022 10:57:15.669] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[11Sep2022 11:00:58.226] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/309436, l='ServerLevel[Vault-Hunters]', x=-843.20, y=16.50, z=-368.50]
+[11Sep2022 11:02:49.426] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/310314, l='ServerLevel[Vault-Hunters]', x=-841.20, y=16.50, z=-371.50]
+[11Sep2022 11:03:52.035] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/310698, l='ServerLevel[Vault-Hunters]', x=-844.20, y=16.50, z=-370.50]
+[11Sep2022 11:05:18.827] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/311255, l='ServerLevel[Vault-Hunters]', x=-844.20, y=16.50, z=-370.50]
+[11Sep2022 11:05:43.428] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/311568, l='ServerLevel[Vault-Hunters]', x=-843.20, y=16.50, z=-369.50]
+[11Sep2022 11:06:20.032] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/311774, l='ServerLevel[Vault-Hunters]', x=-840.20, y=16.50, z=-368.50]
+[11Sep2022 11:07:59.380] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
+[11Sep2022 11:07:59.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
+[11Sep2022 12:00:01.642] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[11Sep2022 12:00:01.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[11Sep2022 12:00:02.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[11Sep2022 12:00:03.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[11Sep2022 12:00:04.690] [RCON Client /192.168.1.179 #23/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
