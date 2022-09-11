@@ -215,3 +215,72 @@ java.lang.RuntimeException: Slot 5 not in valid range - [0,5)
 [10Sep2022 15:00:02.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [10Sep2022 15:00:04.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [10Sep2022 15:00:05.118] [RCON Client /192.168.1.179 #11/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[10Sep2022 15:01:32.563] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[10Sep2022 15:01:32.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[10Sep2022 15:01:33.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[10Sep2022 15:01:33.564] [RCON Client /192.168.1.179 #12/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[10Sep2022 15:07:47.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 opened a Vault!
+[10Sep2022 15:08:03.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 entered an Afterlife, Personal Space, Difficult, Resilient Vault!
+[10Sep2022 15:13:46.579] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Concrete'/185733, l='ServerLevel[Vault-Hunters]', x=1956194.32, y=28.50, z=4134.26]
+[10Sep2022 15:13:46.580] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gabbro Cobblestone'/185734, l='ServerLevel[Vault-Hunters]', x=1956193.39, y=29.63, z=4136.64]
+[10Sep2022 15:13:46.580] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coarse Dirt'/185735, l='ServerLevel[Vault-Hunters]', x=1956192.45, y=27.41, z=4131.74]
+[10Sep2022 15:13:46.580] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gold Ore'/185736, l='ServerLevel[Vault-Hunters]', x=1956193.32, y=29.69, z=4130.73]
+[10Sep2022 15:13:46.580] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/185737, l='ServerLevel[Vault-Hunters]', x=1956192.27, y=27.71, z=4130.39]
+[10Sep2022 15:13:46.580] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Red Concrete'/185739, l='ServerLevel[Vault-Hunters]', x=1956190.74, y=31.72, z=4129.67]
+[10Sep2022 15:13:46.581] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Red Alabaster Cobble'/185740, l='ServerLevel[Vault-Hunters]', x=1956194.37, y=30.49, z=4133.65]
+[10Sep2022 15:13:46.581] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Mossy Cobblestone'/185741, l='ServerLevel[Vault-Hunters]', x=1956193.68, y=28.49, z=4130.56]
+[10Sep2022 15:13:46.581] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Pollen Dust'/185742, l='ServerLevel[Vault-Hunters]', x=1956192.63, y=31.29, z=4130.28]
+[10Sep2022 15:13:46.581] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gabbro Bricks'/185743, l='ServerLevel[Vault-Hunters]', x=1956194.67, y=27.36, z=4132.54]
+[10Sep2022 15:13:46.581] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gabbro Cobblestone'/185744, l='ServerLevel[Vault-Hunters]', x=1956192.27, y=29.25, z=4136.43]
+[10Sep2022 15:13:47.328] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gabbro Bricks'/185794, l='ServerLevel[Vault-Hunters]', x=1956196.45, y=33.47, z=4132.71]
+[10Sep2022 15:13:47.328] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Concrete'/185795, l='ServerLevel[Vault-Hunters]', x=1956195.63, y=33.70, z=4130.54]
+[10Sep2022 15:13:47.328] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gabbro Cobblestone'/185796, l='ServerLevel[Vault-Hunters]', x=1956196.59, y=33.68, z=4131.68]
+[10Sep2022 15:13:47.329] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gabbro Bricks'/185797, l='ServerLevel[Vault-Hunters]', x=1956194.55, y=31.59, z=4128.56]
+[10Sep2022 15:13:47.329] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gabbro Cobblestone'/185798, l='ServerLevel[Vault-Hunters]', x=1956196.75, y=30.28, z=4134.34]
+[10Sep2022 15:26:02.057] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1955707, y=14, z=4248} BlockPos{x=1955706, y=13, z=4248}
+[10Sep2022 15:26:02.110] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1955707, y=14, z=4248} BlockPos{x=1955706, y=13, z=4248}
+[10Sep2022 15:26:02.160] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1955707, y=14, z=4248} BlockPos{x=1955706, y=13, z=4248}
+[10Sep2022 15:26:02.209] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1955707, y=14, z=4248} BlockPos{x=1955706, y=13, z=4248}
+[10Sep2022 15:27:19.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 12 blocks]
+[10Sep2022 15:27:19.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
+[10Sep2022 15:27:19.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:block.end_portal.spawn to Phred7]
+[10Sep2022 15:30:54.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Primed TNT]
+[10Sep2022 15:31:07.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Potion]
+[10Sep2022 15:32:05.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 bailed.
+[10Sep2022 15:32:17.479] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
+[10Sep2022 15:32:17.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
+[10Sep2022 15:33:58.006] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[10Sep2022 15:34:04.301] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@41037b22
+[10Sep2022 15:34:04.410] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.174:54269] logged in with entity id 189166 at (-859.5002724645625, 94.0, -389.51959810620843)
+[10Sep2022 15:34:04.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[10Sep2022 15:34:04.440] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[10Sep2022 15:50:40.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 opened a Vault!
+[10Sep2022 15:50:57.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 entered an Afterlife, Unlucky, Difficult Vault!
+[10Sep2022 16:00:15.929] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1963978, y=13, z=4416} but found not block entity block Block{minecraft:air} at location
+[10Sep2022 16:00:15.929] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1963978, y=13, z=4416}
+[10Sep2022 16:06:59.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 25 blocks]
+[10Sep2022 16:06:59.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound the_vault:puzzle/completion_major to Phred7]
+[10Sep2022 16:06:59.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at 1963784, 22, 4242]
+[10Sep2022 16:12:49.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 bailed.
+[10Sep2022 16:14:33.529] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
+[10Sep2022 16:14:33.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
+[10Sep2022 16:34:39.021] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[10Sep2022 16:34:44.996] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1977bd83
+[10Sep2022 16:34:45.096] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.174:54980] logged in with entity id 224153 at (-850.9698920130102, 103.0, -383.2935247361009)
+[10Sep2022 16:34:45.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[10Sep2022 16:34:45.120] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[10Sep2022 17:10:16.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 has reached the goal [The Andesite Age]
+[10Sep2022 17:12:12.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[10Sep2022 17:13:32.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[10Sep2022 17:30:37.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[10Sep2022 17:30:49.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[10Sep2022 17:35:09.014] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sugar Cane'/240922, l='ServerLevel[Vault-Hunters]', x=-860.88, y=68.63, z=-383.43]
+[10Sep2022 17:35:36.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[10Sep2022 17:35:45.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[10Sep2022 17:47:55.428] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
+[10Sep2022 17:47:55.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
+[10Sep2022 19:00:01.629] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[10Sep2022 19:00:01.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[10Sep2022 19:00:02.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[10Sep2022 19:00:03.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[10Sep2022 19:00:04.675] [RCON Client /192.168.1.179 #13/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down

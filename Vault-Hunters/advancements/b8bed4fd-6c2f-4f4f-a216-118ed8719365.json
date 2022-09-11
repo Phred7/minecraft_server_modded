@@ -725,6 +725,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2022-09-10 17:10:16 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:43 -0600"
@@ -5492,6 +5498,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2022-09-10 17:10:16 -0600"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_dark_scoria_wall": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:45 -0600"
@@ -7313,6 +7325,12 @@
   "create:recipes/create.palettes/weathered_limestone_bricks_wall_from_weathered_limestone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:43 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/basin": {
+    "criteria": {
+      "has_item": "2022-09-10 17:05:01 -0600"
     },
     "done": true
   },
@@ -9164,6 +9182,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2022-09-10 17:10:16 -0600"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/silver_to_gold_chest_upgrade": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:45 -0600"
@@ -10742,6 +10766,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_mixer": {
+    "criteria": {
+      "has_item": "2022-09-10 17:05:01 -0600"
+    },
+    "done": true
+  },
   "mininggadgets:recipes/mininggadgets/upgrade_fortune_3": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:49 -0600"
@@ -11051,6 +11081,12 @@
   "botania:recipes/botania/fel_pumpkin": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:50 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/cart_assembler": {
+    "criteria": {
+      "has_item": "2022-09-10 17:05:01 -0600"
     },
     "done": true
   },
@@ -11852,6 +11888,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/cogwheel": {
+    "criteria": {
+      "has_item": "2022-09-10 17:05:01 -0600"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:44 -0600"
@@ -11879,6 +11921,12 @@
   "appliedenergistics2:recipes/appliedenergistics2/block_cutter/walls/quartz_pillar_wall": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:47 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/belt_connector": {
+    "criteria": {
+      "has_item": "2022-09-10 17:05:01 -0600"
     },
     "done": true
   },
@@ -12539,6 +12587,12 @@
   "botania:recipes/botania/cosmetic_questgiver_mark": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:49 -0600"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2022-09-10 17:15:13 -0600"
     },
     "done": true
   },
@@ -13325,6 +13379,12 @@
   "decorative_blocks:recipes/decorations/acacia_support": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:46 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2022-09-10 17:10:16 -0600"
     },
     "done": true
   },
@@ -14270,6 +14330,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/andesite_casing": {
+    "criteria": {
+      "has_item": "2022-09-10 17:05:01 -0600"
+    },
+    "done": true
+  },
   "botania:recipes/botania/metamorphic_swamp_cobblestone_stairs": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:43 -0600"
@@ -14543,6 +14609,12 @@
   "mcwwindows:recipes/mosaic_block/pink_mosaic_glass": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:49 -0600"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2022-09-10 17:05:01 -0600"
     },
     "done": true
   },
@@ -14885,6 +14957,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:44 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/wrench": {
+    "criteria": {
+      "has_item": "2022-09-10 17:05:01 -0600"
     },
     "done": true
   },
@@ -15905,6 +15983,12 @@
   "neoncraft:recipes/wallneon_letter_r_craft": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:46 -0600"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2022-09-10 17:10:16 -0600"
     },
     "done": true
   },
@@ -17492,6 +17576,12 @@
     },
     "done": true
   },
+  "create:windmill": {
+    "criteria": {
+      "0": "2022-09-10 17:17:12 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:43 -0600"
@@ -17786,6 +17876,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/water_wheel": {
+    "criteria": {
+      "has_item": "2022-09-10 17:05:01 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:44 -0600"
@@ -17837,6 +17933,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:48 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2022-09-10 17:10:16 -0600"
     },
     "done": true
   },
@@ -21932,6 +22034,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2022-09-10 17:05:01 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:46 -0600"
@@ -22115,6 +22223,12 @@
   "mcwdoors:recipes/dark_oak/dark_oak_classic_door": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:50 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/chute": {
+    "criteria": {
+      "has_item": "2022-09-10 17:05:01 -0600"
     },
     "done": true
   },
@@ -25088,6 +25202,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/large_cogwheel": {
+    "criteria": {
+      "has_item": "2022-09-10 17:05:01 -0600"
+    },
+    "done": true
+  },
   "botania:recipes/botania/slab_recombine/metamorphic_plains_cobblestone": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:46 -0600"
@@ -26246,6 +26366,12 @@
     },
     "done": true
   },
+  "create:its_alive": {
+    "criteria": {
+      "0": "2022-09-10 17:23:14 -0600"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/controller_slave": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:44 -0600"
@@ -27347,6 +27473,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:44 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/windmill_bearing": {
+    "criteria": {
+      "has_item": "2022-09-10 17:05:01 -0600"
     },
     "done": true
   },
