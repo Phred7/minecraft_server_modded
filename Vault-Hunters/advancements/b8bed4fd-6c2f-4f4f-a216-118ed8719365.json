@@ -12258,6 +12258,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2022-09-10 22:00:16 -0600"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/crafting_grid/magenta_crafting_grid": {
     "criteria": {
       "refinedstorage:grid": "2022-07-12 22:05:53 -0600"
@@ -17164,6 +17170,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2022-05-20 17:43:38 -0600"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2022-09-10 22:00:16 -0600"
     },
     "done": true
   },
@@ -24340,6 +24352,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/hempcrete": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:48 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2022-09-10 22:00:16 -0600"
     },
     "done": true
   },
