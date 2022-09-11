@@ -995,6 +995,12 @@
     },
     "done": true
   },
+  "create:press": {
+    "criteria": {
+      "0": "2022-09-10 21:33:59 -0600"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/jungle/jungle_western_door": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:48 -0600"
@@ -1417,10 +1423,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2022-09-10 21:40:15 -0600",
       "minecraft:nether_wastes": "2022-05-20 22:40:50 -0600",
-      "minecraft:soul_sand_valley": "2022-05-21 22:02:51 -0600"
+      "minecraft:soul_sand_valley": "2022-05-21 22:02:51 -0600",
+      "minecraft:warped_forest": "2022-09-10 21:41:07 -0600",
+      "minecraft:basalt_deltas": "2022-09-10 21:40:47 -0600"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/create.palettes/fancy_granite_bricks_stairs": {
     "criteria": {
@@ -5282,6 +5291,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2022-09-10 21:55:41 -0600"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/jungle_lower_roof": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:44 -0600"
@@ -7280,6 +7295,12 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2022-09-10 21:48:06 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:47 -0600"
@@ -7877,6 +7898,13 @@
   "supplementaries:recipes/flute": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:48 -0600"
+    },
+    "done": true
+  },
+  "create:mixer": {
+    "criteria": {
+      "0": "2022-09-10 21:37:18 -0600",
+      "1": "2022-09-10 21:46:25 -0600"
     },
     "done": true
   },
@@ -12404,6 +12432,12 @@
     },
     "done": true
   },
+  "create:speedometer": {
+    "criteria": {
+      "0": "2022-09-10 19:53:37 -0600"
+    },
+    "done": true
+  },
   "modularrouters:recipes/modularrouters/bulk_item_filter": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:44 -0600"
@@ -12947,6 +12981,12 @@
   "botania:recipes/botania/manasteel_pick": {
     "criteria": {
       "has_item": "2022-05-22 18:30:36 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-09-10 21:43:56 -0600"
     },
     "done": true
   },
@@ -14048,6 +14088,13 @@
     },
     "done": true
   },
+  "create:basin": {
+    "criteria": {
+      "0": "2022-09-10 21:34:27 -0600",
+      "1": "2022-09-10 21:46:20 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:46 -0600"
@@ -14432,6 +14479,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2022-09-10 21:32:33 -0600"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone/stone_window": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:48 -0600"
@@ -14525,6 +14578,12 @@
   "mcwroofs:recipes/birch_lower_roof": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:49 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2022-09-10 21:48:06 -0600"
     },
     "done": true
   },
@@ -15656,6 +15715,12 @@
     },
     "done": true
   },
+  "create:blaze_burner": {
+    "criteria": {
+      "0": "2022-09-10 21:44:05 -0600"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/insulating_glass_to_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:49 -0600"
@@ -15797,6 +15862,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:46 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/brass_casing": {
+    "criteria": {
+      "has_item": "2022-09-10 21:48:06 -0600"
     },
     "done": true
   },
@@ -15959,6 +16030,12 @@
   "modularrouters:recipes/modularrouters/mimic_augment": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:45 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2022-09-10 21:34:00 -0600"
     },
     "done": true
   },
@@ -16427,6 +16504,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:44 -0600"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2022-09-10 19:53:35 -0600"
     },
     "done": true
   },
@@ -23534,6 +23617,12 @@
     },
     "done": true
   },
+  "create:maxed_windmill": {
+    "criteria": {
+      "0": "2022-09-10 20:07:07 -0600"
+    },
+    "done": true
+  },
   "botania:recipes/botania/floating_clayconia_chibi": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:44 -0600"
@@ -25649,6 +25738,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2022-09-10 21:40:19 -0600"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/jungle/jungle_nightstand_10": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:44 -0600"
@@ -26291,6 +26386,12 @@
   "botania:recipes/botania/aura_ring_greater": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:49 -0600"
+    },
+    "done": true
+  },
+  "create:polished_rose_quartz": {
+    "criteria": {
+      "0": "2022-09-10 21:56:25 -0600"
     },
     "done": true
   },

@@ -284,3 +284,37 @@ java.lang.RuntimeException: Slot 5 not in valid range - [0,5)
 [10Sep2022 19:00:02.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [10Sep2022 19:00:03.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [10Sep2022 19:00:04.675] [RCON Client /192.168.1.179 #13/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[10Sep2022 19:00:59.064] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[10Sep2022 19:00:59.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[10Sep2022 19:01:00.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[10Sep2022 19:01:00.065] [RCON Client /192.168.1.179 #14/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[10Sep2022 19:50:24.096] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[10Sep2022 19:50:30.095] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3aca9fa6
+[10Sep2022 19:50:30.199] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.174:61782] logged in with entity id 245805 at (-851.017160217785, 103.0, -382.640425832776)
+[10Sep2022 19:50:30.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[10Sep2022 19:50:30.225] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[10Sep2022 20:07:07.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 has reached the goal [A strong breeze]
+[10Sep2022 20:21:19.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[10Sep2022 20:21:28.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[10Sep2022 20:41:56.676] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Phred7 lost connection: Disconnected
+[10Sep2022 20:41:56.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 left the game
+[10Sep2022 21:00:00.813] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[10Sep2022 21:23:21.360] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[10Sep2022 21:23:27.247] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@15057308
+[10Sep2022 21:23:27.345] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Phred7[/192.168.1.174:49771] logged in with entity id 256905 at (-849.1599785892196, 40.0, -372.48632691043235)
+[10Sep2022 21:23:27.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 joined the game
+[10Sep2022 21:23:27.386] [Server thread/INFO] [Waila/]: Syncing config to Phred7 (b8bed4fd-6c2f-4f4f-a216-118ed8719365)
+[10Sep2022 21:33:59.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 has made the advancement [Press Goes 'Bonk!']
+[10Sep2022 21:39:56.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[10Sep2022 21:40:19.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 has made the advancement [Those Were the Days]
+[10Sep2022 21:41:07.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 has completed the challenge [Hot Tourist Destinations]
+[10Sep2022 21:43:56.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 has made the advancement [A Terrible Fortress]
+[10Sep2022 21:44:04.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[10Sep2022 21:44:08.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Spectator Mode]
+[10Sep2022 21:44:29.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Phred7: Set own game mode to Survival Mode]
+[10Sep2022 21:46:25.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Phred7 has made the advancement [Mixin' It Up]
+[10Sep2022 22:00:01.117] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[10Sep2022 22:00:01.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[10Sep2022 22:00:02.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[10Sep2022 22:00:03.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[10Sep2022 22:00:04.247] [RCON Client /192.168.1.179 #15/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
