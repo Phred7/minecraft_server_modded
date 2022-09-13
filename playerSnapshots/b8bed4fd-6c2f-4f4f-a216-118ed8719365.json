@@ -1,7 +1,7 @@
 {
   "playerUUID": "b8bed4fd-6c2f-4f4f-a216-118ed8719365",
   "playerNickname": "Phred7",
-  "timestamp": 1663041603,
+  "timestamp": 1663052404,
   "vaultRuns": 54,
   "vaultWins": 15,
   "vaultDeaths": 2,
@@ -48,9 +48,13 @@
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
+    "MAINHAND": {
+      "itemKey": "minecraft:dried_kelp_block",
+      "count": 64
+    },
     "OFFHAND": {
       "itemKey": "minecraft:torch",
-      "count": 13
+      "count": 12
     },
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
@@ -65,7 +69,7 @@
     "CHEST": {
       "itemKey": "minecraft:elytra",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:5}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:8}"
     },
     "HEAD": {
       "itemKey": "minecraft:netherite_helmet",
