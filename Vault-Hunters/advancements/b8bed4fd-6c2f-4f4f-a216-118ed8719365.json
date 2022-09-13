@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2022-09-12 18:39:37 -0600"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/jungle_log_bridge_middle": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:47 -0600"
@@ -16882,6 +16888,12 @@
   "botania:recipes/botania/mossy_dreamwood_planks": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:47 -0600"
+    },
+    "done": true
+  },
+  "create:electron_tube": {
+    "criteria": {
+      "0": "2022-09-12 18:39:37 -0600"
     },
     "done": true
   },
