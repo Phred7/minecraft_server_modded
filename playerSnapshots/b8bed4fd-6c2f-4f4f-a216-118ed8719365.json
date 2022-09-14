@@ -1,7 +1,7 @@
 {
   "playerUUID": "b8bed4fd-6c2f-4f4f-a216-118ed8719365",
   "playerNickname": "Phred7",
-  "timestamp": 1663153203,
+  "timestamp": 1663167603,
   "vaultRuns": 54,
   "vaultWins": 15,
   "vaultDeaths": 2,
@@ -50,7 +50,7 @@
   "equipment": {
     "MAINHAND": {
       "itemKey": "minecraft:stone",
-      "count": 52
+      "count": 50
     },
     "OFFHAND": {
       "itemKey": "minecraft:torch",
@@ -64,12 +64,12 @@
     "LEGS": {
       "itemKey": "minecraft:netherite_leggings",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:0}"
+      "nbt": "{Enchantments:[{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:2}"
     },
     "CHEST": {
       "itemKey": "minecraft:elytra",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:2}"
+      "nbt": "{RepairCost:3,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:1}"
     },
     "HEAD": {
       "itemKey": "minecraft:netherite_helmet",
