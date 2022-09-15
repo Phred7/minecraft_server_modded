@@ -2,7 +2,13 @@ Automatic saving is now disabled[0m
 [0mSaving the game (this may take a moment!)[0m
 Saved the game[0m
 [0mSaving is already turned off[0m
-[0mAlready up to date.
+[0mssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+warning: CRLF will be replaced by LF in cron_logs/mc_cron.log.
+The file will have its original line endings in your working directory
 add 'Vault-Hunters/DIM-1/data/raids.dat'
 add 'Vault-Hunters/DIM1/data/raids_end.dat'
 add 'Vault-Hunters/data/raids.dat'
@@ -26,9 +32,10 @@ add 'Vault-Hunters/region/r.32347.-43444.mca'
 add 'Vault-Hunters/region/r.43103.-8175.mca'
 add 'Vault-Hunters/stats/b8bed4fd-6c2f-4f4f-a216-118ed8719365.json'
 add 'cron_logs/mc_cron.log'
-add 'gc.log.0.current'
-add 'local/ftbutilities/backups.json'
+remove 'gc.log.0.current'
+remove 'gc.log.1'
 add 'logs/debug.log'
 add 'logs/latest.log'
 add 'playerSnapshots/b8bed4fd-6c2f-4f4f-a216-118ed8719365.json'
-add 'logs/2022-09-14-1.log.gz'
+add 'gc.log.0'
+add 'gc.log.1.current'
