@@ -129,3 +129,42 @@
 [16Sep2022 12:00:02.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [16Sep2022 12:00:03.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [16Sep2022 12:00:04.635] [RCON Client /192.168.1.179 #93/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[16Sep2022 12:00:16.198] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[16Sep2022 12:00:16.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[16Sep2022 12:00:17.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[16Sep2022 12:00:17.199] [RCON Client /192.168.1.179 #94/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[16Sep2022 13:16:06.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Sep2022 13:16:06.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Sep2022 13:16:06.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Sep2022 13:16:06.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:overworld
+[16Sep2022 13:16:06.185] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1964]: java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+[16Sep2022 13:16:06.185] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1964]: 	at org.jline.terminal.impl.AbstractPosixTerminal.getAttributes(AbstractPosixTerminal.java:46)
+[16Sep2022 13:16:06.185] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1964]: 	at org.jline.terminal.impl.AbstractTerminal.enterRawMode(AbstractTerminal.java:117)
+[16Sep2022 13:16:06.185] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1964]: 	at org.jline.reader.impl.LineReaderImpl.handleSignal(LineReaderImpl.java:1043)
+[16Sep2022 13:16:06.185] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1964]: 	at org.jline.terminal.impl.AbstractTerminal.raise(AbstractTerminal.java:81)
+[16Sep2022 13:16:06.185] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1964]: 	at org.jline.terminal.impl.PosixSysTerminal.lambda$handle$1(PosixSysTerminal.java:65)
+[16Sep2022 13:16:06.185] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1964]: 	at org.jline.utils.Signals.lambda$register$1(Signals.java:52)
+[16Sep2022 13:16:06.185] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1964]: 	at com.sun.proxy.$Proxy96.handle(Unknown Source)
+[16Sep2022 13:16:06.185] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1964]: 	at sun.misc.Signal$1.run(Signal.java:212)
+[16Sep2022 13:16:06.185] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1964]: 	at java.lang.Thread.run(Thread.java:750)
+[16Sep2022 13:16:06.186] [SIGCONT handler/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+[16Sep2022 13:16:06.186] [SIGCONT handler/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42)
+[16Sep2022 13:16:06.186] [SIGCONT handler/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175)
+[16Sep2022 13:16:06.186] [SIGCONT handler/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87)
+[16Sep2022 13:16:06.186] [SIGCONT handler/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.AbstractPosixTerminal.getAttributes(AbstractPosixTerminal.java:44)
+[16Sep2022 13:16:06.186] [SIGCONT handler/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: 	... 8 more
+[16Sep2022 13:16:06.182] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54) ~[jline-3.12.1.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[jline-3.12.1.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-3.12.1.jar:?]
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:60) ~[forge:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:84) ~[?:?]
+Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42) ~[jline-3.12.1.jar:?]
+	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-3.12.1.jar:?]
+	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-3.12.1.jar:?]
+	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-3.12.1.jar:?]
+	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-3.12.1.jar:?]
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-3.12.1.jar:?]
+	... 4 more
