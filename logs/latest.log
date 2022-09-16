@@ -110,3 +110,13 @@
 [16Sep2022 05:00:02.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [16Sep2022 05:00:03.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [16Sep2022 05:00:04.512] [RCON Client /192.168.1.179 #89/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[16Sep2022 05:00:15.147] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[16Sep2022 05:00:15.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[16Sep2022 05:00:16.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[16Sep2022 05:00:16.149] [RCON Client /192.168.1.179 #90/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[16Sep2022 09:00:00.814] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[16Sep2022 09:00:01.217] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[16Sep2022 09:00:01.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[16Sep2022 09:00:02.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[16Sep2022 09:00:03.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[16Sep2022 09:00:04.264] [RCON Client /192.168.1.179 #91/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
