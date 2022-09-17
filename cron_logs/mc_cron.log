@@ -21,3 +21,22 @@ add 'cron_logs/mc_cron.log'
 add 'gc.log.0.current'
 add 'logs/debug.log'
 add 'logs/latest.log'
+[main bcd1f111] automatic backup.
+ 18 files changed, 524 insertions(+)
+To github.com:Phred7/minecraft_server_modded.git
+   db769483..bcd1f111  main -> main
+Automatic saving is now enabled[0m
+[0mStarting backup to github.
+*************** Pulling ***************
+*************** Done Pulling ***************
+
+*************** Adding Changes ***************
+*************** Done Adding Changes ***************
+
+*************** Commiting ***************
+*************** Done Commiting ***************
+
+*************** Pushing ***************
+*************** Done Pushing ***************
+
+Backup to github complete.
