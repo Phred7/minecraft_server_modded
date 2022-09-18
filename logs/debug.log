@@ -10471,3 +10471,94 @@ java.lang.ArrayIndexOutOfBoundsException: 2
 [18Sep2022 12:00:03.358] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
 [18Sep2022 12:00:03.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [18Sep2022 12:00:04.383] [RCON Client /192.168.1.179 #15/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[18Sep2022 12:00:15.794] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[18Sep2022 12:00:15.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[18Sep2022 12:00:16.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[18Sep2022 12:00:16.795] [RCON Client /192.168.1.179 #16/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
+[18Sep2022 12:00:42.958] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 12:00:42.971] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 12:05:42.998] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 12:05:43.011] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 12:10:42.958] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 12:10:42.969] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 12:15:42.960] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 12:15:42.972] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 12:20:36.152] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[18Sep2022 12:20:36.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[18Sep2022 12:20:36.229] [Thread-661/INFO] [FTB Utilities Backups/]: Deleting backup to free space: 2022-09-13-23-00-27.zip
+[18Sep2022 12:20:36.238] [Thread-661/INFO] [FTB Utilities Backups/]: Backing up 8531 files...
+[18Sep2022 12:20:36.239] [Thread-661/INFO] [FTB Utilities Backups/]: Compressing 8531 files...
+[18Sep2022 12:20:42.952] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 12:20:42.965] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 12:24:34.564] [Thread-661/INFO] [FTB Utilities Backups/]: Done compressing in 03:58 seconds (6.5GB)!
+[18Sep2022 12:24:34.568] [Thread-661/INFO] [FTB Utilities Backups/]: Created /home/mcserver/repositories/minecraft_server_modded-main/backups/2022-09-18-12-20-36.zip from /home/mcserver/repositories/minecraft_server_modded-main/Vault-Hunters
+[18Sep2022 12:24:34.569] [Thread-661/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 03:58! (6.5GB | 19.4GB)
+[18Sep2022 12:25:42.958] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 12:25:42.969] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 12:30:42.959] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 12:30:42.970] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 12:35:42.958] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 12:35:42.970] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 12:40:42.959] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 12:40:42.970] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 12:45:42.959] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 12:45:42.970] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 12:50:42.958] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 12:50:42.969] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 12:55:42.958] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 12:55:42.969] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 13:00:42.959] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 13:00:42.971] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 13:05:42.959] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 13:05:42.971] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 13:10:42.959] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 13:10:42.970] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 13:15:42.958] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 13:15:42.969] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 13:20:42.959] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 13:20:42.970] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 13:25:42.959] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 13:25:42.971] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 13:30:43.046] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 13:30:43.058] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 13:35:42.958] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 13:35:42.969] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 13:40:42.959] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 13:40:42.970] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 13:45:42.959] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 13:45:42.970] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 13:50:42.959] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 13:50:42.970] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 13:55:42.959] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 13:55:42.969] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 14:00:42.958] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 14:00:42.969] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 14:05:42.958] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 14:05:42.969] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 14:10:42.959] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 14:10:42.971] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 14:15:42.958] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 14:15:42.969] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 14:20:42.993] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 14:20:43.004] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 14:25:42.960] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 14:25:42.973] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 14:30:43.043] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 14:30:43.054] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 14:35:42.959] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 14:35:42.970] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 14:40:42.961] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 14:40:42.976] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 14:45:42.959] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 14:45:42.970] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 14:50:42.959] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 14:50:42.971] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 14:55:42.958] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 14:55:42.970] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 15:00:01.463] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.179 started
+[18Sep2022 15:00:01.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[18Sep2022 15:00:02.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[18Sep2022 15:00:03.471] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[18Sep2022 15:00:03.482] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[18Sep2022 15:00:03.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[18Sep2022 15:00:04.507] [RCON Client /192.168.1.179 #17/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.179 shutting down
