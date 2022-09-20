@@ -1,22 +1,22 @@
 {
   "playerUUID": "edaf0a37-e3b3-490a-8626-dbfac2b1f3f7",
   "playerNickname": "Nave808",
-  "timestamp": 1663621203,
-  "vaultRuns": 147,
+  "timestamp": 1663626576,
+  "vaultRuns": 148,
   "vaultWins": 88,
   "vaultDeaths": 7,
   "artifactCount": 2,
   "inVault": false,
   "powerLevel": 97,
   "vaultLevel": 83,
-  "levelPercent": 0.0040808083,
+  "levelPercent": 0.29656565,
   "attributes": {
     "minecraft:generic.max_health": 28.0,
     "minecraft:generic.knockback_resistance": 0.0,
     "minecraft:generic.movement_speed": 0.12000000208616257,
-    "minecraft:generic.attack_damage": 17.0,
+    "minecraft:generic.attack_damage": 10.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 1.9199998903274533,
+    "minecraft:generic.attack_speed": 4.4000000059604645,
     "minecraft:generic.armor": 10.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
@@ -48,34 +48,25 @@
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
-    "MAINHAND": {
-      "itemKey": "minecraft:netherite_sword",
-      "count": 1,
-      "nbt": "{RepairCost:15,Enchantments:[{lvl:2s,id:\"minecraft:fire_aspect\"},{lvl:5s,id:\"minecraft:smite\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:4s,id:\"minecraft:looting\"},{lvl:3s,id:\"minecraft:sweeping\"}],display:{Name:\u0027{\"text\":\"WorldSlayer\"}\u0027},Damage:3}"
-    },
-    "OFFHAND": {
-      "itemKey": "minecraft:gravel",
-      "count": 31
-    },
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:3s,id:\"minecraft:depth_strider\"},{lvl:4s,id:\"minecraft:feather_falling\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:soul_speed\"}],Damage:31}"
+      "nbt": "{RepairCost:3,Damage:31,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:3s,id:\"minecraft:depth_strider\"},{lvl:4s,id:\"minecraft:feather_falling\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:soul_speed\"}]}"
     },
     "LEGS": {
       "itemKey": "minecraft:netherite_leggings",
       "count": 1,
-      "nbt": "{RepairCost:1,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:26}"
+      "nbt": "{RepairCost:1,Damage:26,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
     },
     "CHEST": {
       "itemKey": "minecraft:elytra",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}],Damage:22}"
+      "nbt": "{RepairCost:3,Damage:26,Enchantments:[{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"}]}"
     },
     "HEAD": {
       "itemKey": "minecraft:netherite_helmet",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:1s,id:\"minecraft:aqua_affinity\"}],Damage:24}"
+      "nbt": "{RepairCost:3,Damage:24,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:1s,id:\"minecraft:aqua_affinity\"}]}"
     }
   },
   "abilities": {
@@ -120,7 +111,8 @@
     "Thermal Expansion",
     "Applied Energistics",
     "Drawers",
-    "Phytogenic Insulator"
+    "Phytogenic Insulator",
+    "Easy Villagers"
   ],
   "eternals": [
     {
