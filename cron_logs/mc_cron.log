@@ -19,3 +19,23 @@ add 'gc.log.0.current'
 add 'local/ftbutilities/backups.json'
 add 'logs/debug.log'
 add 'logs/latest.log'
+[main 4b5edc4f] automatic backup.
+ 18 files changed, 426 insertions(+), 8 deletions(-)
+To github.com:Phred7/minecraft_server_modded.git
+   6f7273bc..4b5edc4f  main -> main
+Connection failed.
+Error 113: No route to host
+Starting backup to github.
+*************** Pulling ***************
+*************** Done Pulling ***************
+
+*************** Adding Changes ***************
+*************** Done Adding Changes ***************
+
+*************** Commiting ***************
+*************** Done Commiting ***************
+
+*************** Pushing ***************
+*************** Done Pushing ***************
+
+Backup to github complete.
