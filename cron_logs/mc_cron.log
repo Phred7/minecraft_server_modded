@@ -1,8 +1,6 @@
-Automatic saving is now disabled[0m
-[0mSaving the game (this may take a moment!)[0m
-Saved the game[0m
-[0mSaving is already turned off[0m
-[0mAlready up to date.
+Connection failed.
+Error 113: No route to host
+Already up to date.
 add 'Vault-Hunters/DIM-1/data/raids.dat'
 add 'Vault-Hunters/DIM1/data/raids_end.dat'
 add 'Vault-Hunters/data/raids.dat'
@@ -20,4 +18,3 @@ add 'cron_logs/mc_cron.log'
 add 'gc.log.0.current'
 add 'logs/debug.log'
 add 'logs/latest.log'
-add 'logs/2022-09-19-1.log.gz'
