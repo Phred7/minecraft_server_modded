@@ -3,39 +3,29 @@ Error 113: No route to host
 Already up to date.
 add 'Vault-Hunters/DIM-1/data/raids.dat'
 add 'Vault-Hunters/DIM1/data/raids_end.dat'
+add 'Vault-Hunters/data/capabilities.dat'
 add 'Vault-Hunters/data/raids.dat'
-add 'Vault-Hunters/data/the_vault_SoulShardTrader.dat'
+add 'Vault-Hunters/data/the_vault_PlayerTalents.dat'
 add 'Vault-Hunters/dimensions/appliedenergistics2/spatial_storage/data/raids.dat'
 add 'Vault-Hunters/dimensions/the_vault/the_other_side/data/raids.dat'
 add 'Vault-Hunters/dimensions/the_vault/vault/data/raids.dat'
 add 'Vault-Hunters/level.dat'
 add 'Vault-Hunters/level.dat_old'
 add 'Vault-Hunters/region/r.-1.-1.mca'
+add 'Vault-Hunters/region/r.-2.-1.mca'
 add 'Vault-Hunters/region/r.0.-1.mca'
 add 'Vault-Hunters/region/r.0.0.mca'
 add 'Vault-Hunters/region/r.32347.-43444.mca'
 add 'Vault-Hunters/region/r.43103.-8175.mca'
 add 'cron_logs/mc_cron.log'
 add 'gc.log.0.current'
+add 'logs/crafttweaker.log'
+add 'logs/debug-1.log.gz'
+add 'logs/debug-2.log.gz'
+add 'logs/debug-3.log.gz'
+add 'logs/debug-4.log.gz'
+add 'logs/debug-5.log.gz'
 add 'logs/debug.log'
 add 'logs/latest.log'
-[main 1f14d8f2] automatic backup.
- 18 files changed, 380 insertions(+), 13 deletions(-)
-To github.com:Phred7/minecraft_server_modded.git
-   a093f39c..1f14d8f2  main -> main
-Connection failed.
-Error 113: No route to host
-Starting backup to github.
-*************** Pulling ***************
-*************** Done Pulling ***************
-
-*************** Adding Changes ***************
-*************** Done Adding Changes ***************
-
-*************** Commiting ***************
-*************** Done Commiting ***************
-
-*************** Pushing ***************
-*************** Done Pushing ***************
-
-Backup to github complete.
+add 'server.properties'
+add 'logs/2022-09-21-1.log.gz'
