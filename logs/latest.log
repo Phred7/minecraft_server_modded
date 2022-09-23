@@ -10677,3 +10677,12 @@
 [22Sep2022 16:11:59.774] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/722558, l='ServerLevel[Vault-Hunters]', x=-840.20, y=16.50, z=-369.50]
 [22Sep2022 16:12:17.275] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
 [22Sep2022 16:12:17.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[22Sep2022 19:14:22.970] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[22Sep2022 19:14:22.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[22Sep2022 19:14:23.058] [Thread-835/INFO] [FTB Utilities Backups/]: Deleting backup to free space: 2022-09-18-12-20-36.zip
+[22Sep2022 19:14:23.063] [Thread-835/INFO] [FTB Utilities Backups/]: Backing up 8589 files...
+[22Sep2022 19:14:23.064] [Thread-835/INFO] [FTB Utilities Backups/]: Compressing 8589 files...
+[22Sep2022 19:17:50.995] [Thread-835/INFO] [FTB Utilities Backups/]: Done compressing in 03:27 seconds (6.5GB)!
+[22Sep2022 19:17:50.995] [Thread-835/INFO] [FTB Utilities Backups/]: Created /home/mcserver/repositories/minecraft_server_modded-main/backups/2022-09-22-19-14-22.zip from /home/mcserver/repositories/minecraft_server_modded-main/Vault-Hunters
+[22Sep2022 19:17:51.001] [Thread-835/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 03:28! (6.5GB | 19.5GB)
+[22Sep2022 21:00:00.788] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
