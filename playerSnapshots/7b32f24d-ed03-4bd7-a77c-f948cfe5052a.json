@@ -1,7 +1,7 @@
 {
   "playerUUID": "7b32f24d-ed03-4bd7-a77c-f948cfe5052a",
   "playerNickname": "rorysun",
-  "timestamp": 1658117408,
+  "timestamp": 1664153841,
   "vaultRuns": 9,
   "vaultWins": 3,
   "vaultDeaths": 0,
@@ -14,7 +14,7 @@
     "minecraft:generic.max_health": 20.0,
     "minecraft:generic.knockback_resistance": 0.10000000149011612,
     "minecraft:generic.movement_speed": 0.10000000149011612,
-    "minecraft:generic.attack_damage": 1.0,
+    "minecraft:generic.attack_damage": 4.0,
     "minecraft:generic.attack_knockback": 0.0,
     "minecraft:generic.attack_speed": 4.800000011920929,
     "minecraft:generic.armor": 10.0,
@@ -48,10 +48,6 @@
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
-    "MAINHAND": {
-      "itemKey": "quark:yellow_blossom_leaves",
-      "count": 44
-    },
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
       "count": 1,
