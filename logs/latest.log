@@ -16,3 +16,6 @@
 [28Sep2022 04:51:07.381] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1141684, l='ServerLevel[Vault-Hunters]', x=-648.77, y=70.00, z=-377.84]
 [28Sep2022 05:15:46.681] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1147526, l='ServerLevel[Vault-Hunters]', x=-648.31, y=70.00, z=-377.53]
 [28Sep2022 09:00:00.395] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[28Sep2022 11:05:00.488] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Timed out
+[28Sep2022 11:05:00.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[28Sep2022 11:05:00.547] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
