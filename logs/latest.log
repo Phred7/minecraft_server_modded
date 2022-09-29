@@ -1061,3 +1061,28 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [29Sep2022 00:45:16.874] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [openloader] Starting version check at https://updates.blamejared.com/get?n=openloader&gv=1.16.5
 [29Sep2022 00:45:17.091] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [openloader] Found status: BETA Current: 9.0.3 Target: 9.0.3
 [29Sep2022 09:00:00.434] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[29Sep2022 10:30:02.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[29Sep2022 10:30:02.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Sep2022 10:30:02.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Sep2022 10:30:02.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Sep2022 10:30:02.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:overworld
+[29Sep2022 10:30:03.196] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
+[29Sep2022 10:30:03.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_nether
+[29Sep2022 10:30:03.197] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Sep2022 10:30:03.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_end
+[29Sep2022 10:30:03.198] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Sep2022 10:30:03.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:the_other_side
+[29Sep2022 10:30:03.198] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[29Sep2022 10:30:03.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/appliedenergistics2:spatial_storage
+[29Sep2022 10:30:03.198] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[29Sep2022 10:30:03.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:vault
+[29Sep2022 10:30:03.199] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[29Sep2022 10:30:03.245] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
+[29Sep2022 10:30:03.247] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Sep2022 10:30:03.248] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Sep2022 10:30:03.248] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[29Sep2022 10:30:03.248] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[29Sep2022 10:30:03.248] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[29Sep2022 10:30:03.255] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
+[29Sep2022 10:30:03.260] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Listener stopped
+[29Sep2022 10:30:03.343] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread Query Listener stopped

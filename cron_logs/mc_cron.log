@@ -18,3 +18,23 @@ add 'cron_logs/mc_cron.log'
 add 'gc.log.0.current'
 add 'logs/debug.log'
 add 'logs/latest.log'
+[main 9462df95] automatic backup.
+ 17 files changed, 477 insertions(+)
+To github.com:Phred7/minecraft_server_modded.git
+   7484483a..9462df95  main -> main
+Connection failed.
+Error 113: No route to host
+Starting backup to github.
+*************** Pulling ***************
+*************** Done Pulling ***************
+
+*************** Adding Changes ***************
+*************** Done Adding Changes ***************
+
+*************** Commiting ***************
+*************** Done Commiting ***************
+
+*************** Pushing ***************
+*************** Done Pushing ***************
+
+Backup to github complete.
