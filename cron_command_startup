@@ -1,0 +1,2 @@
+@reboot (cd /home/mcserver/repositories/minecraft_server_modded-main/ && ./startup_script.sh > home/mcserver/repositories/minecraft_server_modded-main/cron_logs/startup.log 2>&1)
+

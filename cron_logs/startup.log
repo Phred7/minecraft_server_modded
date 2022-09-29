@@ -1,0 +1,82 @@
+[32m[10:57:23] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.34, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[m[32m[10:57:23] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_342 by Private Build
+[m[32m[10:57:23] [main/INFO] [ne.mi.fm.lo.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[m[32m[10:57:23] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/home/mcserver/repositories/minecraft_server_modded-main/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[m[32m[10:57:24] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
+[m[32m[10:57:24] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [shetiphian.core.mixins.MixinConnector]
+[m[32m[10:57:24] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
+[m[32m[10:57:24] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[m[32m[10:57:24] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[m[32m[10:57:24] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [eutros.framedcompactdrawers.MixinConnector]
+[m[32m[10:57:24] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.performant.coremod.mixin.Connector]
+[m[32m[10:57:24] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [iskallia.vault.MixinConnector]
+[m[32m[10:57:24] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[m[32m[10:57:24] [main/INFO] [co.pe.co.Performant/]: Performant configs loaded
+[m[32m[10:57:24] [main/INFO] [ne.mi.co.Co.placebo/COREMODLOG]: Patching ItemStack#onItemUse
+[m[32m[10:57:25] [main/INFO] [ne.mi.co.Co.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[m[32m[10:57:25] [main/INFO] [ne.mi.co.Co.the_vault/COREMODLOG]: Adding 'reach_set_server_entity_interact' ASM patch...
+[m[32m[10:57:25] [main/INFO] [ne.mi.co.Co.the_vault/COREMODLOG]: Added 'reach_set_server_entity_interact' ASM patch!
+[m[32m[10:57:25] [main/INFO] [co.pe.co.Performant/]: Not enabling mixin forcom.performant.coremod.mixin.forge.BasicEventHooksMixin as config disables it.
+[m[32m[10:57:25] [main/INFO] [co.pe.co.Performant/]: Not enabling mixin forcom.performant.coremod.mixin.world.WorldMixin as config disables it.
+[m[32m[10:57:25] [main/INFO] [co.pe.co.Performant/]: Not enabling mixin forcom.performant.coremod.mixin.entity.LivingEntityUpdateEventMixin as config disables it.
+[m[32m[10:57:26] [main/INFO] [ne.mi.co.Co.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[m[33m[10:57:28] [main/WARN] [mixin/]: Mixin ispawner-common.mixins.json:MixinItemPlacementContext has multiple constructors, (Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;Lnet/minecraft/util/math/BlockRayTraceResult;)V was selected
+
+[m[32m[10:57:28] [main/INFO] [ne.mi.co.Co.placebo/COREMODLOG]: Patching ItemStack#onItemUse
+[m[32m[10:57:30] [main/INFO] [ne.mi.co.Co.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
+[m[32m[10:57:31] [main/INFO] [PluginManager/]: Scanning classes for titanium
+[m[32m[10:57:31] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class IndustrialForegoingResourcePlugin for plugin resources
+[m[32m[10:57:31] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class DefaultResourceRegistryPlugin for plugin resources
+[m[32m[10:57:32] [modloading-worker-4/INFO] [wi.rs.ModRsGauges/]: Gauges and Switches GIT id #900a6ee.
+[m[32m[10:57:32] [modloading-worker-3/INFO] [ne.mi.co.Co.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
+[m[32m[10:57:32] [modloading-worker-5/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[m[32m[10:57:32] [modloading-worker-2/INFO] [PluginManager/]: Scanning classes for industrialforegoing
+[m[32m[10:57:32] [modloading-worker-2/INFO] [PluginManager/]: Found FeaturePluginInstance for class ImmersiveEngineeringPlugin for plugin immersiveengineering
+[m[32m[10:57:32] [modloading-worker-2/INFO] [PluginManager/]: Found FeaturePluginInstance for class CuriosPlugin for plugin curios
+[m[32m[10:57:32] [modloading-worker-2/INFO] [PluginManager/]: Constructed class ImmersiveEngineeringPlugin for plugin immersiveengineering for mod industrialforegoing
+[m[32m[10:57:32] [modloading-worker-2/INFO] [PluginManager/]: Constructed class CuriosPlugin for plugin curios for mod industrialforegoing
+[m[32m[10:57:32] [modloading-worker-2/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class ImmersiveEngineeringPlugin
+[m[32m[10:57:32] [modloading-worker-2/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class CuriosPlugin
+[m[32m[10:57:32] [modloading-worker-2/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class ImmersiveEngineeringPlugin
+[m[32m[10:57:32] [modloading-worker-2/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class CuriosPlugin
+[m[32m[10:57:33] [modloading-worker-4/INFO] [co.re.re.ap.API/]: Found 1 RS API injection point
+[m[32m[10:57:33] [modloading-worker-4/INFO] [co.re.re.ap.API/]: Injected RS API in com.refinedmods.refinedstorageaddons.RSAddons RSAPI
+[m[32m[10:57:33] [modloading-worker-5/INFO] [ir.IronFurnaces/]: Initializing Update Checker...
+[m[32m[10:57:33] [ Iron Furnaces Update Checker/INFO] [ir.IronFurnaces/]: Starting Update Check...
+[m[32m[10:57:33] [modloading-worker-5/INFO] [mo.pi.bl.BlockCarpentryMain/]: Registering all blocks and items from BlockCarpentry
+[m[32m[10:57:33] [modloading-worker-1/INFO] [ne.mi.co.Co.placebo/COREMODLOG]: Patching LootTableManager#apply
+[m[32m[10:57:33] [modloading-worker-5/INFO] [mo.pi.bl.se.Registration/]: Registering blocks from BlockCarpentry
+[m[32m[10:57:33] [modloading-worker-5/INFO] [mo.pi.bl.se.Registration/]: Registering items from BlockCarpentry
+[m[32m[10:57:33] [modloading-worker-5/INFO] [mo.pi.bl.se.Registration/]: Registering tiles from BlockCarpentry
+[m[32m[10:57:33] [modloading-worker-5/INFO] [mo.pi.bl.se.Registration/]: Registering containers from BlockCarpentry
+[m[32m[10:57:33] [modloading-worker-5/INFO] [mo.pi.bl.se.Registration/]: Registering points of interest from Blockcarpentry
+[m[32m[10:57:33] [modloading-worker-5/INFO] [mo.pi.bl.BlockCarpentryMain/]: Registered all blocks and items from BlockCarpentry
+[m[33m[10:57:33] [modloading-worker-5/WARN] [mixin/]: @Final field field_187234_c:Ljava/util/Map; in performant.mixins.json:entity.EntityDataManagerMixin should be final
+[m[32m[10:57:33] [modloading-worker-2/INFO] [PluginManager/]: Executing phase INIT for plugin class ImmersiveEngineeringPlugin
+[m[32m[10:57:33] [modloading-worker-2/INFO] [PluginManager/]: Executing phase INIT for plugin class CuriosPlugin
+[m[32m[10:57:34] [modloading-worker-2/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class ImmersiveEngineeringPlugin
+[m[32m[10:57:34] [modloading-worker-2/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class CuriosPlugin
+[m[32m[10:57:34] [ Iron Furnaces Update Checker/INFO] [ir.IronFurnaces/]: Update Check done!
+[m[32m[10:57:34] [ Iron Furnaces Update Checker/INFO] [ir.IronFurnaces/]: Iron Furnaces is up to date!
+[m[32m[10:57:34] [modloading-worker-1/INFO] [ne.mi.co.Co.the_vault/COREMODLOG]: Adding 'reach_set_server_entity_interact' ASM patch...
+[m[32m[10:57:34] [modloading-worker-1/INFO] [ne.mi.co.Co.the_vault/COREMODLOG]: Added 'reach_set_server_entity_interact' ASM patch!
+[mBacking-up
+
+Starting backup to github.
+*************** Pulling ***************
+Traceback (most recent call last):
+  File "/home/mcserver/repositories/minecraft_server_modded-main/backup_server.py", line 86, in <module>
+    backup_to_github()
+  File "/home/mcserver/repositories/minecraft_server_modded-main/backup_server.py", line 37, in backup_to_github
+    git_pull()
+  File "/home/mcserver/repositories/minecraft_server_modded-main/backup_server.py", line 58, in git_pull
+    subprocess.call(["git", "pull"])
+  File "/usr/lib/python3.10/subprocess.py", line 347, in call
+    return p.wait(timeout=timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1204, in wait
+    return self._wait(timeout=timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1938, in _wait
+    (pid, sts) = self._try_wait(0)
+  File "/usr/lib/python3.10/subprocess.py", line 1896, in _try_wait
+    (pid, sts) = os.waitpid(self.pid, wait_flags)
+KeyboardInterrupt
