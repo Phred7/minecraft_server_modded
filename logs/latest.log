@@ -23,3 +23,19 @@
 [01Oct2022 08:09:34.290] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/213240, l='ServerLevel[Vault-Hunters]', x=-652.48, y=70.00, z=-381.30]
 [01Oct2022 08:30:36.040] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/218428, l='ServerLevel[Vault-Hunters]', x=-651.71, y=70.00, z=-377.58]
 [01Oct2022 09:00:00.382] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[01Oct2022 09:08:42.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 was slain by Zombie
+[01Oct2022 09:08:54.362] [Server thread/WARN] [AE2:S/]: Exceeded time limit of 25 ms after processing 16 queued tick callbacks (56 remain)
+[01Oct2022 09:12:35.008] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[01Oct2022 09:24:09.799] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity VillagerEntity['Villager'/240956, l='ServerLevel[Vault-Hunters]', x=47.96, y=65.00, z=31.51] left loaded chunk area
+[01Oct2022 09:28:29.851] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[01Oct2022 09:44:30.781] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[01Oct2022 10:10:43.622] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[01Oct2022 11:21:37.590] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[01Oct2022 11:21:37.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[01Oct2022 11:37:26.586] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[01Oct2022 11:37:26.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[01Oct2022 11:37:26.655] [Thread-1425/INFO] [FTB Utilities Backups/]: Backing up 8640 files...
+[01Oct2022 11:37:26.656] [Thread-1425/INFO] [FTB Utilities Backups/]: Compressing 8640 files...
+[01Oct2022 11:40:33.933] [Thread-1425/INFO] [FTB Utilities Backups/]: Done compressing in 03:07 seconds (6.5GB)!
+[01Oct2022 11:40:33.938] [Thread-1425/INFO] [FTB Utilities Backups/]: Created /home/mcserver/repositories/minecraft_server_modded-main/backups/2022-10-01-11-37-26.zip from /home/mcserver/repositories/minecraft_server_modded-main/Vault-Hunters
+[01Oct2022 11:40:33.948] [Thread-1425/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 03:07! (6.5GB | 19.6GB)
