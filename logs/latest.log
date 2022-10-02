@@ -44,3 +44,20 @@
 [01Oct2022 12:24:37.945] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.200:51470] logged in with entity id 284959 at (-858.5, 86.0, -383.5)
 [01Oct2022 12:24:37.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
 [01Oct2022 12:24:37.971] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[01Oct2022 15:01:00.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
+[01Oct2022 15:01:11.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered a Simple, Trivial, Crowded, Extended, Slowed, Hunger Scavenger Vault!
+[01Oct2022 15:01:11.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[01Oct2022 15:01:20.867] [Worker-Main-31324/WARN] [net.minecraft.entity.item.ItemFrameEntity/]: Unable to load item from: {id:"the_vault:janitors_broom",Count:1b,tag:{RepairCost:0,Damage:0,display:{Name:'{"text":"Douwsky\'s Janitor\'s Broom"}'}}}
+[01Oct2022 15:01:20.868] [Worker-Main-31324/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[01Oct2022 15:22:09.210] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=2047928, y=6, z=4411} BlockPos{x=2047928, y=7, z=4411}
+[01Oct2022 15:24:44.311] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[01Oct2022 15:27:36.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 finished a Scavenger Hunt!
+[01Oct2022 15:34:59.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 opened a Vault!
+[01Oct2022 15:35:09.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 entered a Weakened, Crowded, Raffle Vault!
+[01Oct2022 15:41:11.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
+[01Oct2022 15:41:17.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 9758 blocks]
+[01Oct2022 15:41:17.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Successfully filled 1 blocks]
+[01Oct2022 15:46:15.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:entity.generic.explode to Nave808]
+[01Oct2022 15:46:40.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 defeated Monni_21!
+[01Oct2022 17:10:05.388] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[01Oct2022 17:10:05.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
