@@ -1,7 +1,7 @@
 {
   "playerUUID": "b8bed4fd-6c2f-4f4f-a216-118ed8719365",
   "playerNickname": "Phred7",
-  "timestamp": 1663864503,
+  "timestamp": 1664683051,
   "vaultRuns": 54,
   "vaultWins": 15,
   "vaultDeaths": 2,
@@ -14,9 +14,9 @@
     "minecraft:generic.max_health": 28.0,
     "minecraft:generic.knockback_resistance": 0.10000000149011612,
     "minecraft:generic.movement_speed": 0.12000000208616257,
-    "minecraft:generic.attack_damage": 4.0,
+    "minecraft:generic.attack_damage": 13.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 4.800000011920929,
+    "minecraft:generic.attack_speed": 1.2000000029802322,
     "minecraft:generic.armor": 10.0,
     "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
@@ -49,13 +49,14 @@
   "thornsDamage": 0.0,
   "equipment": {
     "MAINHAND": {
-      "itemKey": "minecraft:golden_carrot",
-      "count": 27
+      "itemKey": "minecraft:netherite_axe",
+      "count": 1,
+      "nbt": "{Damage:353}"
     },
     "FEET": {
       "itemKey": "minecraft:netherite_boots",
       "count": 1,
-      "nbt": "{RepairCost:1,Enchantments:[{lvl:3s,id:\"minecraft:depth_strider\"},{lvl:4s,id:\"minecraft:feather_falling\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:0}"
+      "nbt": "{RepairCost:1,Enchantments:[{lvl:3s,id:\"minecraft:depth_strider\"},{lvl:4s,id:\"minecraft:feather_falling\"},{lvl:1s,id:\"minecraft:mending\"},{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:3}"
     },
     "LEGS": {
       "itemKey": "minecraft:netherite_leggings",
@@ -65,12 +66,12 @@
     "CHEST": {
       "itemKey": "minecraft:elytra",
       "count": 1,
-      "nbt": "{RepairCost:3,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}],Damage:0}"
+      "nbt": "{RepairCost:3,Damage:239,Enchantments:[{lvl:1s,id:\"minecraft:mending\"},{lvl:3s,id:\"minecraft:unbreaking\"}]}"
     },
     "HEAD": {
       "itemKey": "minecraft:netherite_helmet",
       "count": 1,
-      "nbt": "{Enchantments:[{lvl:1,id:\"aqua_affinity\"},{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}],Damage:0}"
+      "nbt": "{Damage:2,Enchantments:[{lvl:1,id:\"aqua_affinity\"},{lvl:1,id:\"mending\"},{lvl:4,id:\"protection\"},{lvl:3,id:\"unbreaking\"}]}"
     }
   },
   "abilities": {
