@@ -2019,6 +2019,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_silver_to_nugget_silver": {
+    "criteria": {
+      "has_ingot_silver": "2022-10-02 21:42:37 -0600"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_dolomite_stairs": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:48 -0600"
@@ -3513,6 +3519,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_to_nugget_nickel": {
+    "criteria": {
+      "has_ingot_nickel": "2022-10-02 21:42:37 -0600"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/sand_paper": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:48 -0600"
@@ -4211,6 +4223,7 @@
       "minecraft:evoker": "2022-05-24 22:34:34 -0600",
       "minecraft:phantom": "2022-05-29 12:59:35 -0600",
       "minecraft:witch": "2022-05-22 00:46:44 -0600",
+      "minecraft:husk": "2022-10-02 21:35:02 -0600",
       "minecraft:shulker": "2022-05-21 23:35:43 -0600",
       "minecraft:cave_spider": "2022-05-22 00:38:02 -0600",
       "minecraft:enderman": "2022-05-21 23:00:48 -0600",
@@ -6857,6 +6870,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2022-10-02 21:14:24 -0600"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_limestone_bricks_stairs_from_fancy_limestone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:45 -0600"
@@ -8892,6 +8911,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_plank": "2022-10-02 21:23:17 -0600"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:44 -0600"
@@ -9287,6 +9312,12 @@
       "has_the_recipe": "2022-05-20 16:03:50 -0600"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:turtle": "2022-10-02 21:14:24 -0600"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/polished_weathered_limestone_slab": {
     "criteria": {
@@ -12744,6 +12775,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/heavy_engineering": {
+    "criteria": {
+      "has_component_steel": "2022-10-02 21:42:25 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:43 -0600"
@@ -13809,6 +13846,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2022-10-02 21:27:19 -0600"
     },
     "done": true
   },
@@ -15028,6 +15071,12 @@
   "botania:recipes/botania/metamorphic_desert_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:44 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/string": {
+    "criteria": {
+      "has_plank": "2022-10-02 21:25:12 -0600"
     },
     "done": true
   },
@@ -19258,6 +19307,12 @@
   "neoncraft:recipes/wallneon_letter_c_craft": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:48 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/rope_arrow": {
+    "criteria": {
+      "has_plank": "2022-10-02 21:25:12 -0600"
     },
     "done": true
   },
@@ -24940,6 +24995,12 @@
   "mcwfurnitures:recipes/spruce/spruce_box_2": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:46 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_jungle": {
+    "criteria": {
+      "has_plank": "2022-10-02 21:23:17 -0600"
     },
     "done": true
   },
