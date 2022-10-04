@@ -6,3 +6,27 @@
 [03Oct2022 11:40:37.449] [Thread-3465/INFO] [FTB Utilities Backups/]: Done compressing in 03:10 seconds (6.6GB)!
 [03Oct2022 11:40:37.450] [Thread-3465/INFO] [FTB Utilities Backups/]: Created /home/mcserver/repositories/minecraft_server_modded-main/backups/2022-10-03-11-37-26.zip from /home/mcserver/repositories/minecraft_server_modded-main/Vault-Hunters
 [03Oct2022 11:40:37.450] [Thread-3465/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 03:10! (6.6GB | 19.7GB)
+[03Oct2022 19:59:07.357] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Nave808 is edaf0a37-e3b3-490a-8626-dbfac2b1f3f7
+[03Oct2022 19:59:26.816] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@72c33323
+[03Oct2022 19:59:26.921] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nave808[/192.168.1.200:46278] logged in with entity id 1306660 at (-851.1686899981804, 94.0, -392.87658230350183)
+[03Oct2022 19:59:26.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 joined the game
+[03Oct2022 19:59:26.954] [Server thread/INFO] [Waila/]: Syncing config to Nave808 (edaf0a37-e3b3-490a-8626-dbfac2b1f3f7)
+[03Oct2022 19:59:32.344] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1307374, l='ServerLevel[Vault-Hunters]', x=-815.20, y=16.50, z=-373.50]
+[03Oct2022 19:59:32.751] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1307378, l='ServerLevel[Vault-Hunters]', x=-817.20, y=16.50, z=-371.50]
+[03Oct2022 19:59:34.739] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1307401, l='ServerLevel[Vault-Hunters]', x=-827.20, y=16.50, z=-371.50]
+[03Oct2022 19:59:58.992] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1307612, l='ServerLevel[Vault-Hunters]', x=-819.20, y=16.50, z=-371.50]
+[03Oct2022 19:59:59.791] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1307620, l='ServerLevel[Vault-Hunters]', x=-823.20, y=16.50, z=-372.50]
+[03Oct2022 20:00:01.791] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1307651, l='ServerLevel[Vault-Hunters]', x=-833.20, y=16.50, z=-372.50]
+[03Oct2022 20:00:02.990] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1307663, l='ServerLevel[Vault-Hunters]', x=-839.20, y=16.50, z=-371.50]
+[03Oct2022 20:00:25.689] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1307831, l='ServerLevel[Vault-Hunters]', x=-823.20, y=16.50, z=-373.50]
+[03Oct2022 20:00:25.889] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1307834, l='ServerLevel[Vault-Hunters]', x=-824.20, y=16.50, z=-373.50]
+[03Oct2022 20:00:26.490] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1307848, l='ServerLevel[Vault-Hunters]', x=-827.20, y=16.50, z=-369.50]
+[03Oct2022 20:00:27.091] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1307851, l='ServerLevel[Vault-Hunters]', x=-830.20, y=16.50, z=-368.50]
+[03Oct2022 20:00:27.690] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1307859, l='ServerLevel[Vault-Hunters]', x=-833.20, y=16.50, z=-371.50]
+[03Oct2022 20:00:29.689] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1307883, l='ServerLevel[Vault-Hunters]', x=-843.20, y=16.50, z=-371.50]
+[03Oct2022 20:00:49.789] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1308022, l='ServerLevel[Vault-Hunters]', x=-814.20, y=16.50, z=-369.50]
+[03Oct2022 20:00:51.189] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1308042, l='ServerLevel[Vault-Hunters]', x=-821.20, y=16.50, z=-368.50]
+[03Oct2022 20:00:51.789] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1308048, l='ServerLevel[Vault-Hunters]', x=-824.20, y=16.50, z=-369.50]
+[03Oct2022 20:00:53.789] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1308072, l='ServerLevel[Vault-Hunters]', x=-834.20, y=16.50, z=-369.50]
+[03Oct2022 20:00:55.191] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/1308090, l='ServerLevel[Vault-Hunters]', x=-841.20, y=16.50, z=-368.50]
+[03Oct2022 21:00:00.377] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!

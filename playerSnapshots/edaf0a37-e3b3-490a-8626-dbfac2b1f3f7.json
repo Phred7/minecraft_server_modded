@@ -1,7 +1,7 @@
 {
   "playerUUID": "edaf0a37-e3b3-490a-8626-dbfac2b1f3f7",
   "playerNickname": "Nave808",
-  "timestamp": 1664765873,
+  "timestamp": 1664855853,
   "vaultRuns": 154,
   "vaultWins": 92,
   "vaultDeaths": 8,
@@ -11,14 +11,14 @@
   "vaultLevel": 85,
   "levelPercent": 0.8730505,
   "attributes": {
-    "minecraft:generic.max_health": 34.0,
-    "minecraft:generic.knockback_resistance": 0.37000000000000005,
+    "minecraft:generic.max_health": 28.0,
+    "minecraft:generic.knockback_resistance": 0.0,
     "minecraft:generic.movement_speed": 0.14000000268220902,
     "minecraft:generic.attack_damage": 10.0,
     "minecraft:generic.attack_knockback": 0.0,
-    "minecraft:generic.attack_speed": 4.800000011920929,
-    "minecraft:generic.armor": 26.0,
-    "minecraft:generic.armor_toughness": 5.1,
+    "minecraft:generic.attack_speed": 4.4000000059604645,
+    "minecraft:generic.armor": 0.0,
+    "minecraft:generic.armor_toughness": 0.0,
     "minecraft:generic.luck": 0.0,
     "botania:pixie_spawn_chance": 0.0,
     "forge:swim_speed": 1.0,
@@ -40,33 +40,17 @@
     "Wendarr": 3,
     "Idona": -6
   },
-  "parry": 0.02,
-  "resistance": 0.03,
-  "cooldownReduction": 0.049999997,
+  "parry": 0.0,
+  "resistance": 0.0,
+  "cooldownReduction": 0.0,
   "fatalStrikeChance": 0.0,
   "fatalStrikeDamage": 0.0,
   "thornsChance": 0.0,
   "thornsDamage": 0.0,
   "equipment": {
-    "FEET": {
-      "itemKey": "the_vault:boots",
-      "count": 1,
-      "nbt": "{RepairCost:3,\"quark:RuneAttached\":1b,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:depth_strider\"},{lvl:3s,id:\"minecraft:unbreaking\"}],\"quark:RuneColor\":{id:\"quark:blank_rune\",Count:1b},Vault:{Attributes:[{BaseValue:\"normal\",Id:\"the_vault:gear_roll_pool\"},{BaseValue:4844197571864340930L,Id:\"the_vault:gear_random_seed\"},{BaseValue:\"IDENTIFIED\",Id:\"the_vault:gear_state\"},{BaseValue:0,Id:\"the_vault:gear_tier\"},{BaseValue:\"Scrappy+\",Id:\"the_vault:gear_roll_type\"},{BaseValue:\"OMEGA\",Id:\"the_vault:gear_rarity\"},{BaseValue:17,Id:\"the_vault:gear_model\"},{BaseValue:-1,Id:\"the_vault:gear_color\"},{BaseValue:6.0d,Id:\"minecraft:armor\"},{BaseValue:1.3d,Id:\"minecraft:armor_toughness\"},{BaseValue:0.09999999999999999d,Id:\"minecraft:knockback_resistance\"},{BaseValue:1600,Id:\"the_vault:durability\"},{BaseValue:0.5f,Id:\"the_vault:gear_level_chance\"},{BaseValue:3,Id:\"the_vault:gear_max_level\"},{BaseValue:0,Id:\"the_vault:gear_modifiers_to_roll\"},{BaseValue:2,Id:\"the_vault:max_repairs\"},{BaseValue:36,Id:\"the_vault:min_vault_level\"},{BaseValue:0.0d,Id:\"forge:reach\"},{BaseValue:0.0f,Id:\"the_vault:feather_feet\"},{BaseValue:{Effects:[]},Id:\"the_vault:effect_immunity\"},{BaseValue:{EffectClouds:[]},Id:\"the_vault:effect_cloud\"},{BaseValue:0.0f,Id:\"the_vault:cooldown_reduction\"},{BaseValue:0b,Id:\"the_vault:soulbound\"},{BaseValue:450,Id:\"the_vault:add_durability_2\"},{BaseValue:0.01f,Id:\"the_vault:add_extra_resistance\"},{BaseValue:3.0f,Id:\"the_vault:gear_level\"},{BaseValue:0.30000000000000004d,Id:\"minecraft:add_armor_toughness\"},{BaseValue:0.02f,Id:\"the_vault:add_cooldown_reduction_2\"},{BaseValue:0.03d,Id:\"minecraft:add_knockback_resistance\"}]},Damage:0}"
-    },
-    "LEGS": {
-      "itemKey": "the_vault:leggings",
-      "count": 1,
-      "nbt": "{RepairCost:7,\"quark:RuneAttached\":1b,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"},{lvl:3s,id:\"minecraft:thorns\"}],\"quark:RuneColor\":{id:\"quark:blank_rune\",Count:1b},Vault:{Attributes:[{BaseValue:\"Rare+\",Id:\"the_vault:gear_roll_type\"},{BaseValue:-8819154350986960490L,Id:\"the_vault:gear_random_seed\"},{BaseValue:\"IDENTIFIED\",Id:\"the_vault:gear_state\"},{BaseValue:0,Id:\"the_vault:gear_tier\"},{BaseValue:\"RARE\",Id:\"the_vault:gear_rarity\"},{BaseValue:18,Id:\"the_vault:gear_model\"},{BaseValue:-1,Id:\"the_vault:gear_color\"},{BaseValue:5.0d,Id:\"minecraft:armor\"},{BaseValue:0.8999999999999999d,Id:\"minecraft:armor_toughness\"},{BaseValue:0.04d,Id:\"minecraft:knockback_resistance\"},{BaseValue:1500,Id:\"the_vault:durability\"},{BaseValue:0.5f,Id:\"the_vault:gear_level_chance\"},{BaseValue:3,Id:\"the_vault:gear_max_level\"},{BaseValue:0,Id:\"the_vault:gear_modifiers_to_roll\"},{BaseValue:5,Id:\"the_vault:max_repairs\"},{BaseValue:40,Id:\"the_vault:min_vault_level\"},{BaseValue:0.0d,Id:\"forge:reach\"},{BaseValue:{Effects:[]},Id:\"the_vault:effect_immunity\"},{BaseValue:{EffectClouds:[]},Id:\"the_vault:effect_cloud\"},{BaseValue:0.0f,Id:\"the_vault:cooldown_reduction\"},{BaseValue:0b,Id:\"the_vault:soulbound\"},{BaseValue:0.04d,Id:\"minecraft:add_knockback_resistance_2\"},{BaseValue:3.0f,Id:\"the_vault:gear_level\"},{BaseValue:1.0d,Id:\"minecraft:add_armor\"},{BaseValue:350,Id:\"the_vault:add_durability_2\"},{BaseValue:0.4d,Id:\"minecraft:add_armor_toughness\"}]},Damage:0}"
-    },
-    "CHEST": {
-      "itemKey": "the_vault:chestplate",
-      "count": 1,
-      "nbt": "{RepairCost:3,\"quark:RuneAttached\":1b,Enchantments:[{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"}],\"quark:RuneColor\":{id:\"quark:blank_rune\",Count:1b},Vault:{Attributes:[{BaseValue:\"normal\",Id:\"the_vault:gear_roll_pool\"},{BaseValue:0,Id:\"the_vault:gear_tier\"},{BaseValue:\"Rare+\",Id:\"the_vault:gear_roll_type\"},{BaseValue:-1,Id:\"the_vault:gear_color\"},{BaseValue:0.5f,Id:\"the_vault:gear_level_chance\"},{BaseValue:\"IDENTIFIED\",Id:\"the_vault:gear_state\"},{BaseValue:1b,Id:\"the_vault:reforged\"},{BaseValue:-2374841977766930382L,Id:\"the_vault:gear_random_seed\"},{BaseValue:\"RARE\",Id:\"the_vault:gear_rarity\"},{BaseValue:17,Id:\"the_vault:gear_model\"},{BaseValue:6.0d,Id:\"minecraft:armor\"},{BaseValue:0.9999999999999999d,Id:\"minecraft:armor_toughness\"},{BaseValue:0.07d,Id:\"minecraft:knockback_resistance\"},{BaseValue:1300,Id:\"the_vault:durability\"},{BaseValue:2,Id:\"the_vault:gear_max_level\"},{BaseValue:0,Id:\"the_vault:gear_modifiers_to_roll\"},{BaseValue:4,Id:\"the_vault:max_repairs\"},{BaseValue:29,Id:\"the_vault:min_vault_level\"},{BaseValue:0.0d,Id:\"forge:reach\"},{BaseValue:{Effects:[]},Id:\"the_vault:effect_immunity\"},{BaseValue:{EffectClouds:[]},Id:\"the_vault:effect_cloud\"},{BaseValue:0.0f,Id:\"the_vault:cooldown_reduction\"},{BaseValue:0b,Id:\"the_vault:soulbound\"},{BaseValue:1.0d,Id:\"minecraft:add_armor_2\"},{BaseValue:2.0f,Id:\"the_vault:gear_level\"},{BaseValue:0.02f,Id:\"the_vault:add_extra_resistance\"},{BaseValue:0.02f,Id:\"the_vault:extra_parry_chance\"}]},Damage:0}"
-    },
-    "HEAD": {
-      "itemKey": "the_vault:helmet",
-      "count": 1,
-      "nbt": "{RepairCost:3,\"quark:RuneAttached\":1b,Enchantments:[{lvl:1s,id:\"minecraft:aqua_affinity\"},{lvl:4s,id:\"minecraft:protection\"},{lvl:3s,id:\"minecraft:unbreaking\"}],\"quark:RuneColor\":{id:\"quark:blank_rune\",Count:1b},Vault:{Attributes:[{BaseValue:\"Scrappy+\",Id:\"the_vault:gear_roll_type\"},{BaseValue:7926069549297939315L,Id:\"the_vault:gear_random_seed\"},{BaseValue:\"IDENTIFIED\",Id:\"the_vault:gear_state\"},{BaseValue:0,Id:\"the_vault:gear_tier\"},{BaseValue:\"OMEGA\",Id:\"the_vault:gear_rarity\"},{BaseValue:28,Id:\"the_vault:gear_model\"},{BaseValue:-1,Id:\"the_vault:gear_color\"},{BaseValue:6.0d,Id:\"minecraft:armor\"},{BaseValue:1.2d,Id:\"minecraft:armor_toughness\"},{BaseValue:0.09d,Id:\"minecraft:knockback_resistance\"},{BaseValue:1200,Id:\"the_vault:durability\"},{BaseValue:0.5f,Id:\"the_vault:gear_level_chance\"},{BaseValue:3,Id:\"the_vault:gear_max_level\"},{BaseValue:0,Id:\"the_vault:gear_modifiers_to_roll\"},{BaseValue:4,Id:\"the_vault:max_repairs\"},{BaseValue:38,Id:\"the_vault:min_vault_level\"},{BaseValue:0.0d,Id:\"forge:reach\"},{BaseValue:{Effects:[]},Id:\"the_vault:effect_immunity\"},{BaseValue:{EffectClouds:[]},Id:\"the_vault:effect_cloud\"},{BaseValue:0.0f,Id:\"the_vault:cooldown_reduction\"},{BaseValue:0b,Id:\"the_vault:soulbound\"},{BaseValue:700,Id:\"the_vault:add_durability\"},{BaseValue:4.0f,Id:\"the_vault:extra_health\"},{BaseValue:3.0f,Id:\"the_vault:gear_level\"},{BaseValue:2.0f,Id:\"the_vault:add_extra_health\"},{BaseValue:1.0d,Id:\"minecraft:add_armor_2\"},{BaseValue:0.03f,Id:\"the_vault:add_cooldown_reduction\"}]},Damage:0}"
+    "MAINHAND": {
+      "itemKey": "minecraft:cooked_porkchop",
+      "count": 62
     }
   },
   "abilities": {
