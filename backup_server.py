@@ -73,16 +73,17 @@ def git_add(file: str) -> None:
 def git_change_branch(branch_name: str) -> None:
     os.system(f"git checkout {branch_name}")
     
-def save() -> None:
-    os.system("/home/mcserver/minecraft_tools/mcrcon/mcrcon -H 192.168.1.179 -P 25575 -p 	gremlincraft_rcon_ -w 1 \"say ---saving world---\" save-off save-all save-off")
+def save(ip: str) -> None:
+    os.system(f"/home/mcserver/minecraft_tools/mcrcon/mcrcon -H {ip} -P 25575 -p 	gremlincraft_rcon_ -w 1 \"say ---saving world---\" save-off save-all save-off")
 
 	
-def reenable_save() -> None:
-    os.system("/home/mcserver/minecraft_tools/mcrcon/mcrcon -H 192.168.1.179 -P 25575 -p 	gremlincraft_rcon_ -w 1 save-on \"say ---saving world complete---\"")
+def reenable_save(ip: str) -> None:
+    os.system(f"/home/mcserver/minecraft_tools/mcrcon/mcrcon -H {ip} -P 25575 -p 	gremlincraft_rcon_ -w 1 save-on \"say ---saving world complete---\"")
 
 
 if __name__ == "__main__":
-    save()
+    ip: str = "192.168.1.200"
+    save(ip)
     backup_to_github()
-    reenable_save()
+    reenable_save(ip)
     
