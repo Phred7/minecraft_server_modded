@@ -6,3 +6,28 @@
 [07Oct2022 11:40:38.418] [Thread-6410/INFO] [FTB Utilities Backups/]: Done compressing in 03:11 seconds (6.6GB)!
 [07Oct2022 11:40:38.419] [Thread-6410/INFO] [FTB Utilities Backups/]: Created /home/mcserver/repositories/minecraft_server_modded-main/backups/2022-10-07-11-37-26.zip from /home/mcserver/repositories/minecraft_server_modded-main/Vault-Hunters
 [07Oct2022 11:40:38.419] [Thread-6410/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 03:11! (6.6GB | 19.9GB)
+[07Oct2022 20:27:18.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[07Oct2022 20:27:18.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Oct2022 20:27:18.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Oct2022 20:27:18.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Oct2022 20:27:18.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:overworld
+[07Oct2022 20:27:19.552] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
+[07Oct2022 20:27:19.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_nether
+[07Oct2022 20:27:19.556] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Oct2022 20:27:19.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_end
+[07Oct2022 20:27:19.559] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Oct2022 20:27:19.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:the_other_side
+[07Oct2022 20:27:19.560] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[07Oct2022 20:27:19.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/appliedenergistics2:spatial_storage
+[07Oct2022 20:27:19.560] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[07Oct2022 20:27:19.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:vault
+[07Oct2022 20:27:19.565] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[07Oct2022 20:27:19.619] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
+[07Oct2022 20:27:19.910] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Oct2022 20:27:19.914] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Oct2022 20:27:19.915] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[07Oct2022 20:27:19.915] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[07Oct2022 20:27:19.918] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[07Oct2022 20:27:20.637] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
+[07Oct2022 20:27:20.652] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Listener stopped
+[07Oct2022 20:27:20.681] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread Query Listener stopped
