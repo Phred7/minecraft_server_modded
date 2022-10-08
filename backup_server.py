@@ -83,6 +83,7 @@ def reenable_save(ip: str) -> None:
 
 if __name__ == "__main__":
     ip: str = "192.168.1.200"
+    print(f"Using ip {ip}:25575")
     save(ip)
     backup_to_github()
     reenable_save(ip)
