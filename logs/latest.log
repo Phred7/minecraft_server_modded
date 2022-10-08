@@ -1060,3 +1060,12 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [08Oct2022 01:00:02.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [08Oct2022 01:00:03.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [08Oct2022 01:00:04.844] [RCON Client /192.168.1.200 #3/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[08Oct2022 01:00:19.815] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[08Oct2022 01:00:19.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[08Oct2022 01:00:20.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[08Oct2022 01:00:20.818] [RCON Client /192.168.1.200 #4/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[08Oct2022 05:00:01.920] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[08Oct2022 05:00:01.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[08Oct2022 05:00:02.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[08Oct2022 05:00:03.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[08Oct2022 05:00:04.967] [RCON Client /192.168.1.200 #5/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
