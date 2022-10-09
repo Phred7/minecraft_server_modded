@@ -1121,3 +1121,13 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [08Oct2022 19:00:02.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [08Oct2022 19:00:03.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [08Oct2022 19:00:04.980] [RCON Client /192.168.1.200 #18/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[08Oct2022 19:00:13.805] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[08Oct2022 19:00:13.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[08Oct2022 19:00:14.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[08Oct2022 19:00:14.807] [RCON Client /192.168.1.200 #19/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[08Oct2022 21:00:00.670] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[08Oct2022 22:00:01.861] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[08Oct2022 22:00:01.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[08Oct2022 22:00:02.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[08Oct2022 22:00:03.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[08Oct2022 22:00:04.907] [RCON Client /192.168.1.200 #20/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
