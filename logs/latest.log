@@ -22,3 +22,12 @@
 [11Oct2022 09:00:02.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [11Oct2022 09:00:03.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [11Oct2022 09:00:04.988] [RCON Client /192.168.1.200 #7/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[11Oct2022 09:00:16.254] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[11Oct2022 09:00:16.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[11Oct2022 09:00:17.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[11Oct2022 09:00:17.256] [RCON Client /192.168.1.200 #8/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[11Oct2022 12:00:01.310] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[11Oct2022 12:00:01.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[11Oct2022 12:00:02.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[11Oct2022 12:00:03.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[11Oct2022 12:00:04.358] [RCON Client /192.168.1.200 #9/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
