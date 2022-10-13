@@ -4,3 +4,14 @@
 [13Oct2022 01:00:02.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [13Oct2022 01:00:04.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [13Oct2022 01:00:05.069] [RCON Client /192.168.1.200 #31/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[13Oct2022 01:00:27.386] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[13Oct2022 01:00:27.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[13Oct2022 01:00:28.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[13Oct2022 01:00:28.389] [RCON Client /192.168.1.200 #32/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[13Oct2022 02:19:55.798] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/283340, l='ServerLevel[Vault-Hunters]', x=-648.47, y=70.00, z=-376.83]
+[13Oct2022 02:51:57.398] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/294259, l='ServerLevel[Vault-Hunters]', x=-648.47, y=70.00, z=-376.83]
+[13Oct2022 05:00:01.488] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[13Oct2022 05:00:01.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[13Oct2022 05:00:02.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[13Oct2022 05:00:03.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[13Oct2022 05:00:04.631] [RCON Client /192.168.1.200 #33/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
