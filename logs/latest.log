@@ -15,3 +15,20 @@
 [13Oct2022 05:00:02.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [13Oct2022 05:00:03.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [13Oct2022 05:00:04.631] [RCON Client /192.168.1.200 #33/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[13Oct2022 05:00:24.616] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[13Oct2022 05:00:24.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[13Oct2022 05:00:25.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[13Oct2022 05:00:25.619] [RCON Client /192.168.1.200 #34/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[13Oct2022 05:06:06.693] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/339490, l='ServerLevel[Vault-Hunters]', x=-648.50, y=70.00, z=-377.81]
+[13Oct2022 05:11:10.693] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/341224, l='ServerLevel[Vault-Hunters]', x=-648.23, y=70.00, z=-377.31]
+[13Oct2022 05:20:36.994] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/344811, l='ServerLevel[Vault-Hunters]', x=-832.20, y=16.50, z=-371.50]
+[13Oct2022 05:20:37.193] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/344814, l='ServerLevel[Vault-Hunters]', x=-833.20, y=16.50, z=-372.50]
+[13Oct2022 05:21:57.777] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 moved wrongly!
+[13Oct2022 05:50:30.256] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Disconnected
+[13Oct2022 05:50:30.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[13Oct2022 09:00:00.484] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[13Oct2022 09:00:01.701] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[13Oct2022 09:00:01.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[13Oct2022 09:00:02.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[13Oct2022 09:00:03.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[13Oct2022 09:00:04.745] [RCON Client /192.168.1.200 #35/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
