@@ -23720,9 +23720,33 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/acacia/acacia_pult_2": {
+    "criteria": {
+      "has_planks": "2022-10-12 20:17:13 -0600"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia/acacia_pult_3": {
+    "criteria": {
+      "has_planks": "2022-10-12 20:17:13 -0600"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia/acacia_pult_4": {
+    "criteria": {
+      "has_planks": "2022-10-12 20:17:13 -0600"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:50 -0600"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia/acacia_pult_1": {
+    "criteria": {
+      "has_planks": "2022-10-12 20:17:13 -0600"
     },
     "done": true
   },
@@ -25787,6 +25811,7 @@
       "minecraft:river": "2022-05-20 17:27:12 -0600",
       "minecraft:lukewarm_ocean": "2022-05-25 14:41:26 -0600",
       "minecraft:snowy_taiga": "2022-05-25 14:41:32 -0600",
+      "minecraft:birch_forest_hills": "2022-10-12 20:11:16 -0600",
       "minecraft:wooded_mountains": "2022-05-28 22:36:11 -0600",
       "minecraft:wooded_hills": "2022-05-22 17:21:26 -0600",
       "minecraft:giant_tree_taiga_hills": "2022-05-28 21:37:58 -0600",
