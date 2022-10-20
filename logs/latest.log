@@ -42,3 +42,15 @@
 [20Oct2022 12:00:02.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [20Oct2022 12:00:03.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [20Oct2022 12:00:04.706] [RCON Client /192.168.1.200 #69/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[20Oct2022 12:00:15.169] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[20Oct2022 12:00:15.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[20Oct2022 12:00:16.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[20Oct2022 12:00:16.170] [RCON Client /192.168.1.200 #70/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[20Oct2022 12:47:55.657] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 120 stacked items at position:BlockPos{x=-83, y=64, z=-80} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[20Oct2022 12:53:28.407] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 117 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[20Oct2022 13:40:51.607] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 115 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[20Oct2022 15:00:01.227] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[20Oct2022 15:00:01.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[20Oct2022 15:00:02.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[20Oct2022 15:00:03.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[20Oct2022 15:00:04.273] [RCON Client /192.168.1.200 #71/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
