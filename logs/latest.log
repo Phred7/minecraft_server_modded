@@ -18,3 +18,19 @@
 [21Oct2022 05:00:02.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [21Oct2022 05:00:03.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [21Oct2022 05:00:04.798] [RCON Client /192.168.1.200 #79/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[21Oct2022 05:00:15.657] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[21Oct2022 05:00:15.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[21Oct2022 05:00:16.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[21Oct2022 05:00:16.658] [RCON Client /192.168.1.200 #80/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[21Oct2022 05:17:59.057] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 105 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[21Oct2022 05:36:54.307] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 134 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[21Oct2022 05:44:18.257] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 125 stacked items at position:BlockPos{x=-83, y=64, z=-80} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[21Oct2022 06:02:21.908] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 118 stacked items at position:BlockPos{x=-83, y=64, z=-80} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[21Oct2022 06:15:51.757] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 123 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[21Oct2022 06:55:32.107] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 120 stacked items at position:BlockPos{x=-83, y=64, z=-80} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[21Oct2022 09:00:00.541] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
+[21Oct2022 09:00:01.721] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[21Oct2022 09:00:01.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[21Oct2022 09:00:02.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[21Oct2022 09:00:03.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[21Oct2022 09:00:04.767] [RCON Client /192.168.1.200 #81/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
