@@ -628,3 +628,8 @@ CommandLine flags: -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:G1HeapRegionSi
       [Free CSet: 0.3 ms]
    [Eden: 5536.0M(5536.0M)->0.0B(5536.0M) Survivors: 192.0M->192.0M Heap: 8386.1M(14336.0M)->3387.8M(14336.0M)]
  [Times: user=1.41 sys=0.01, real=0.11 secs] 
+Heap
+ garbage-first heap   total 14680064K, used 5205775K [0x0000000440000000, 0x0000000441001c00, 0x00000007c0000000)
+  region size 16384K, 119 young (1949696K), 12 survivors (196608K)
+ Metaspace       used 205863K, capacity 236597K, committed 236708K, reserved 1239040K
+  class space    used 37205K, capacity 46259K, committed 46276K, reserved 1048576K
