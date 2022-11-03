@@ -17437,3 +17437,134 @@ Caused by: java.io.FileNotFoundException: https://refinedmods.com/refined-storag
 [03Nov2022 09:00:03.743] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
 [03Nov2022 09:00:03.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [03Nov2022 09:00:04.779] [RCON Client /192.168.1.200 #53/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[03Nov2022 09:00:49.624] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[03Nov2022 09:00:49.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[03Nov2022 09:00:50.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[03Nov2022 09:00:50.625] [RCON Client /192.168.1.200 #54/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[03Nov2022 09:02:30.979] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 09:02:30.992] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 09:07:30.953] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 09:07:30.962] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 09:12:30.987] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 09:12:31.002] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 09:17:30.986] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 09:17:31.001] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 09:22:30.960] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 09:22:30.970] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 09:27:30.981] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 09:27:30.996] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 09:32:30.980] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 09:32:30.995] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 09:35:25.617] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-857, y=45, z=-368} changed running state to true, causing an invalidation of the node graph
+[03Nov2022 09:35:25.618] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.ExternalStorageNetworkNode/]: Connectivity state of external storage at BlockPos{x=-850, y=62, z=-389} changed to true due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[03Nov2022 09:35:25.618] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 09:35:25.619] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 09:35:25.619] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.diskdrive.DiskDriveNetworkNode/]: Connectivity state of disk drive at BlockPos{x=-851, y=102, z=-380} changed to true due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[03Nov2022 09:35:25.619] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 09:35:25.619] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 09:35:39.816] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-857, y=45, z=-368} changed running state to false, causing an invalidation of the node graph
+[03Nov2022 09:35:39.912] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.ExternalStorageNetworkNode/]: Connectivity state of external storage at BlockPos{x=-850, y=62, z=-389} changed to false due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[03Nov2022 09:35:39.912] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 09:35:39.912] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 09:35:39.912] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.diskdrive.DiskDriveNetworkNode/]: Connectivity state of disk drive at BlockPos{x=-851, y=102, z=-380} changed to false due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[03Nov2022 09:35:39.912] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 09:35:39.913] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 09:37:30.979] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 09:37:30.992] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 09:39:49.116] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-857, y=45, z=-368} changed running state to true, causing an invalidation of the node graph
+[03Nov2022 09:39:49.116] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.ExternalStorageNetworkNode/]: Connectivity state of external storage at BlockPos{x=-850, y=62, z=-389} changed to true due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[03Nov2022 09:39:49.116] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 09:39:49.117] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 09:39:49.117] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.diskdrive.DiskDriveNetworkNode/]: Connectivity state of disk drive at BlockPos{x=-851, y=102, z=-380} changed to true due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[03Nov2022 09:39:49.117] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 09:39:49.117] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 09:40:03.316] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-857, y=45, z=-368} changed running state to false, causing an invalidation of the node graph
+[03Nov2022 09:40:03.390] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.ExternalStorageNetworkNode/]: Connectivity state of external storage at BlockPos{x=-850, y=62, z=-389} changed to false due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[03Nov2022 09:40:03.390] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 09:40:03.390] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 09:40:03.391] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.diskdrive.DiskDriveNetworkNode/]: Connectivity state of disk drive at BlockPos{x=-851, y=102, z=-380} changed to false due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[03Nov2022 09:40:03.391] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 09:40:03.391] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 09:42:30.979] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 09:42:30.993] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 09:47:30.981] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 09:47:30.995] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 09:52:30.982] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 09:52:30.997] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 09:57:30.982] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 09:57:30.996] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 10:02:30.964] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 10:02:30.976] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 10:05:06.065] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 117 stacked items at position:BlockPos{x=-83, y=64, z=-80} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[03Nov2022 10:07:30.980] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 10:07:30.994] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 10:12:30.955] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 10:12:30.965] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 10:13:15.066] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-857, y=45, z=-368} changed running state to true, causing an invalidation of the node graph
+[03Nov2022 10:13:15.066] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.ExternalStorageNetworkNode/]: Connectivity state of external storage at BlockPos{x=-850, y=62, z=-389} changed to true due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[03Nov2022 10:13:15.066] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 10:13:15.067] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 10:13:15.067] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.diskdrive.DiskDriveNetworkNode/]: Connectivity state of disk drive at BlockPos{x=-851, y=102, z=-380} changed to true due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[03Nov2022 10:13:15.067] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 10:13:15.067] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 10:13:29.366] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-857, y=45, z=-368} changed running state to false, causing an invalidation of the node graph
+[03Nov2022 10:13:29.491] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.ExternalStorageNetworkNode/]: Connectivity state of external storage at BlockPos{x=-850, y=62, z=-389} changed to false due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[03Nov2022 10:13:29.491] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 10:13:29.491] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 10:13:29.491] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.diskdrive.DiskDriveNetworkNode/]: Connectivity state of disk drive at BlockPos{x=-851, y=102, z=-380} changed to false due to REDSTONE_MODE_OR_NETWORK_ENERGY_CHANGE
+[03Nov2022 10:13:29.491] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 10:13:29.492] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.FluidStorageCache/]: Invalidating fluid storage cache of network at position BlockPos{x=-857, y=45, z=-368} due to CONNECTED_STATE_CHANGED
+[03Nov2022 10:17:30.983] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 10:17:30.998] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 10:18:01.766] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 120 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[03Nov2022 10:22:30.958] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 10:22:30.968] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 10:27:17.316] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 128 stacked items at position:BlockPos{x=-83, y=64, z=-80} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[03Nov2022 10:27:30.953] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 10:27:30.963] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 10:32:30.984] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 10:32:30.999] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 10:37:30.983] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 10:37:30.998] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 10:42:30.956] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 10:42:30.965] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 10:47:30.953] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 10:47:30.963] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 10:52:31.019] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 10:52:31.033] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 10:57:30.966] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 10:57:30.978] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 11:01:07.867] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nave808 lost connection: Timed out
+[03Nov2022 11:01:07.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nave808 left the game
+[03Nov2022 11:02:30.929] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 11:02:30.942] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 11:07:30.927] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 11:07:30.937] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 11:12:30.925] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 11:12:30.934] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 11:17:30.928] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 11:17:30.937] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 11:22:30.927] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 11:22:30.936] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 11:27:30.921] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 11:27:30.931] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 11:32:30.926] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 11:32:30.940] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 11:37:30.927] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 11:37:30.937] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 11:42:30.929] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 11:42:30.943] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 11:47:30.927] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 11:47:30.941] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 11:52:30.927] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 11:52:30.937] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 11:57:30.927] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 11:57:30.941] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 11:57:43.515] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 137 stacked items at position:BlockPos{x=-83, y=64, z=-80} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[03Nov2022 12:00:01.690] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[03Nov2022 12:00:01.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[03Nov2022 12:00:02.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[03Nov2022 12:00:03.702] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Vault-Hunters
+[03Nov2022 12:00:03.716] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Vault-Hunters
+[03Nov2022 12:00:03.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[03Nov2022 12:00:04.749] [RCON Client /192.168.1.200 #55/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
