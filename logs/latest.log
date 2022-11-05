@@ -38,3 +38,41 @@
 [05Nov2022 09:00:02.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [05Nov2022 09:00:03.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [05Nov2022 09:00:04.831] [RCON Client /192.168.1.200 #81/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[05Nov2022 09:00:15.032] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[05Nov2022 09:00:15.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[05Nov2022 09:00:16.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[05Nov2022 09:00:16.033] [RCON Client /192.168.1.200 #82/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[05Nov2022 09:12:40.065] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 152 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[05Nov2022 09:37:24.365] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 157 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[05Nov2022 10:10:05.414] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 157 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[05Nov2022 10:18:23.665] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 158 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[05Nov2022 10:54:29.965] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 145 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[05Nov2022 11:06:14.165] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 155 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[05Nov2022 11:37:17.634] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
+[05Nov2022 11:37:24.572] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@47f01980[id=b8bed4fd-6c2f-4f4f-a216-118ed8719365,name=Phred7,properties={textures=[com.mojang.authlib.properties.Property@56a1ad91]},legacy=false] (/192.168.1.203:56130) lost connection: Disconnected
+[05Nov2022 11:40:14.115] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 147 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
+[05Nov2022 11:49:11.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[05Nov2022 11:49:11.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Nov2022 11:49:11.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Nov2022 11:49:11.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Nov2022 11:49:11.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:overworld
+[05Nov2022 11:49:11.988] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
+[05Nov2022 11:49:11.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_nether
+[05Nov2022 11:49:11.992] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Nov2022 11:49:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_end
+[05Nov2022 11:49:11.992] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Nov2022 11:49:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:the_other_side
+[05Nov2022 11:49:11.992] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[05Nov2022 11:49:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/appliedenergistics2:spatial_storage
+[05Nov2022 11:49:11.992] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[05Nov2022 11:49:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:vault
+[05Nov2022 11:49:11.996] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[05Nov2022 11:49:12.037] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
+[05Nov2022 11:49:12.117] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Nov2022 11:49:12.118] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Nov2022 11:49:12.118] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
+[05Nov2022 11:49:12.118] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[05Nov2022 11:49:12.119] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
+[05Nov2022 11:49:12.312] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
+[05Nov2022 11:49:12.320] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Listener stopped
+[05Nov2022 11:49:12.534] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread Query Listener stopped
