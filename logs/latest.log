@@ -1,78 +1,135 @@
-[05Nov2022 00:15:08.214] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 107 stacked items at position:BlockPos{x=-84, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 01:00:01.562] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
-[05Nov2022 01:00:01.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
-[05Nov2022 01:00:02.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
-[05Nov2022 01:00:03.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
-[05Nov2022 01:00:04.621] [RCON Client /192.168.1.200 #77/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
-[05Nov2022 01:00:14.781] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
-[05Nov2022 01:00:14.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
-[05Nov2022 01:00:15.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
-[05Nov2022 01:00:15.782] [RCON Client /192.168.1.200 #78/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
-[05Nov2022 01:00:20.415] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 112 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 01:06:05.864] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 130 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 01:20:47.365] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 153 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 01:36:14.415] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 142 stacked items at position:BlockPos{x=-83, y=64, z=-80} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 02:22:17.064] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 138 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 03:09:45.965] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 101 stacked items at position:BlockPos{x=-84, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 03:15:11.365] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 113 stacked items at position:BlockPos{x=-82, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 03:36:52.765] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 153 stacked items at position:BlockPos{x=-83, y=64, z=-80} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 03:55:31.465] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 145 stacked items at position:BlockPos{x=-83, y=64, z=-80} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 04:30:34.115] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 110 stacked items at position:BlockPos{x=-84, y=64, z=-80} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 05:00:01.838] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
-[05Nov2022 05:00:01.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
-[05Nov2022 05:00:02.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
-[05Nov2022 05:00:03.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
-[05Nov2022 05:00:04.874] [RCON Client /192.168.1.200 #79/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
-[05Nov2022 05:00:15.699] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
-[05Nov2022 05:00:15.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
-[05Nov2022 05:00:16.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
-[05Nov2022 05:00:16.700] [RCON Client /192.168.1.200 #80/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
-[05Nov2022 05:16:04.665] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 126 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 07:03:41.865] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 149 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 07:50:18.065] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 115 stacked items at position:BlockPos{x=-82, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 08:45:04.214] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 113 stacked items at position:BlockPos{x=-84, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 08:56:28.815] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 111 stacked items at position:BlockPos{x=-82, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 09:00:00.247] [Server thread/INFO] [iskallia.vault.Vault/]: Reset SoulShard Trades!
-[05Nov2022 09:00:01.773] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
-[05Nov2022 09:00:01.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
-[05Nov2022 09:00:02.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
-[05Nov2022 09:00:03.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
-[05Nov2022 09:00:04.831] [RCON Client /192.168.1.200 #81/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
-[05Nov2022 09:00:15.032] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
-[05Nov2022 09:00:15.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
-[05Nov2022 09:00:16.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
-[05Nov2022 09:00:16.033] [RCON Client /192.168.1.200 #82/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
-[05Nov2022 09:12:40.065] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 152 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 09:37:24.365] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 157 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 10:10:05.414] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 157 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 10:18:23.665] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 158 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 10:54:29.965] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 145 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 11:06:14.165] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 155 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 11:37:17.634] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Phred7 is b8bed4fd-6c2f-4f4f-a216-118ed8719365
-[05Nov2022 11:37:24.572] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@47f01980[id=b8bed4fd-6c2f-4f4f-a216-118ed8719365,name=Phred7,properties={textures=[com.mojang.authlib.properties.Property@56a1ad91]},legacy=false] (/192.168.1.203:56130) lost connection: Disconnected
-[05Nov2022 11:40:14.115] [Server thread/WARN] [com.performant.coremod.Performant/]: Found 147 stacked items at position:BlockPos{x=-83, y=64, z=-81} in minecraft:overworld , use the maxItems config to adjust the warning threshold.
-[05Nov2022 11:49:11.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[05Nov2022 11:49:11.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[05Nov2022 11:49:11.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[05Nov2022 11:49:11.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[05Nov2022 11:49:11.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:overworld
-[05Nov2022 11:49:11.988] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
-[05Nov2022 11:49:11.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_nether
-[05Nov2022 11:49:11.992] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05Nov2022 11:49:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/minecraft:the_end
-[05Nov2022 11:49:11.992] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05Nov2022 11:49:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:the_other_side
-[05Nov2022 11:49:11.992] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
-[05Nov2022 11:49:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/appliedenergistics2:spatial_storage
-[05Nov2022 11:49:11.992] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[05Nov2022 11:49:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Vault-Hunters]'/the_vault:vault
-[05Nov2022 11:49:11.996] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
-[05Nov2022 11:49:12.037] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Vault-Hunters): All chunks are saved
-[05Nov2022 11:49:12.117] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05Nov2022 11:49:12.118] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05Nov2022 11:49:12.118] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_other_side): All chunks are saved
-[05Nov2022 11:49:12.118] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[05Nov2022 11:49:12.119] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (vault): All chunks are saved
-[05Nov2022 11:49:12.312] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
-[05Nov2022 11:49:12.320] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Listener stopped
-[05Nov2022 11:49:12.534] [Server thread/INFO] [net.minecraft.network.rcon.RConThread/]: Thread Query Listener stopped
+[05Nov2022 11:51:02.360] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.34, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[05Nov2022 11:51:02.364] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_342 by Private Build
+[05Nov2022 11:51:02.636] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[05Nov2022 11:51:02.667] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/home/mcserver/repositories/minecraft_server_modded-main/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[05Nov2022 11:51:04.237] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
+[05Nov2022 11:51:04.828] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [shetiphian.core.mixins.MixinConnector]
+[05Nov2022 11:51:04.829] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
+[05Nov2022 11:51:04.830] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[05Nov2022 11:51:04.831] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[05Nov2022 11:51:04.831] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [eutros.framedcompactdrawers.MixinConnector]
+[05Nov2022 11:51:04.833] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.performant.coremod.mixin.Connector]
+[05Nov2022 11:51:04.834] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [iskallia.vault.MixinConnector]
+[05Nov2022 11:51:04.840] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[05Nov2022 11:51:04.937] [main/INFO] [com.performant.coremod.Performant/]: Performant configs loaded
+[05Nov2022 11:51:04.998] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
+[05Nov2022 11:51:05.248] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[05Nov2022 11:51:05.454] [main/INFO] [net.minecraftforge.coremod.CoreMod.the_vault/COREMODLOG]: Adding 'reach_set_server_entity_interact' ASM patch...
+[05Nov2022 11:51:05.459] [main/INFO] [net.minecraftforge.coremod.CoreMod.the_vault/COREMODLOG]: Added 'reach_set_server_entity_interact' ASM patch!
+[05Nov2022 11:51:05.680] [main/INFO] [com.performant.coremod.Performant/]: Not enabling mixin forcom.performant.coremod.mixin.forge.BasicEventHooksMixin as config disables it.
+[05Nov2022 11:51:05.682] [main/INFO] [com.performant.coremod.Performant/]: Not enabling mixin forcom.performant.coremod.mixin.world.WorldMixin as config disables it.
+[05Nov2022 11:51:05.696] [main/INFO] [com.performant.coremod.Performant/]: Not enabling mixin forcom.performant.coremod.mixin.entity.LivingEntityUpdateEventMixin as config disables it.
+[05Nov2022 11:51:06.753] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[05Nov2022 11:51:08.090] [main/WARN] [mixin/]: Mixin ispawner-common.mixins.json:MixinItemPlacementContext has multiple constructors, (Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;Lnet/minecraft/util/math/BlockRayTraceResult;)V was selected
+
+[05Nov2022 11:51:08.125] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
+[05Nov2022 11:51:09.992] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
+[05Nov2022 11:51:10.755] [main/INFO] [PluginManager/]: Scanning classes for titanium
+[05Nov2022 11:51:10.770] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class IndustrialForegoingResourcePlugin for plugin resources
+[05Nov2022 11:51:10.771] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class DefaultResourceRegistryPlugin for plugin resources
+[05Nov2022 11:51:10.878] [modloading-worker-4/INFO] [wile.rsgauges.ModRsGauges/]: Gauges and Switches GIT id #900a6ee.
+[05Nov2022 11:51:10.951] [modloading-worker-8/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
+[05Nov2022 11:51:10.979] [modloading-worker-1/INFO] [PluginManager/]: Scanning classes for industrialforegoing
+[05Nov2022 11:51:10.980] [modloading-worker-1/INFO] [PluginManager/]: Found FeaturePluginInstance for class ImmersiveEngineeringPlugin for plugin immersiveengineering
+[05Nov2022 11:51:10.980] [modloading-worker-1/INFO] [PluginManager/]: Found FeaturePluginInstance for class CuriosPlugin for plugin curios
+[05Nov2022 11:51:10.981] [modloading-worker-1/INFO] [PluginManager/]: Constructed class ImmersiveEngineeringPlugin for plugin immersiveengineering for mod industrialforegoing
+[05Nov2022 11:51:10.981] [modloading-worker-1/INFO] [PluginManager/]: Constructed class CuriosPlugin for plugin curios for mod industrialforegoing
+[05Nov2022 11:51:10.981] [modloading-worker-1/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class ImmersiveEngineeringPlugin
+[05Nov2022 11:51:10.986] [modloading-worker-30/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[05Nov2022 11:51:11.000] [modloading-worker-1/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class CuriosPlugin
+[05Nov2022 11:51:11.050] [modloading-worker-1/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class ImmersiveEngineeringPlugin
+[05Nov2022 11:51:11.050] [modloading-worker-1/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class CuriosPlugin
+[05Nov2022 11:51:11.089] [modloading-worker-19/INFO] [mod.pianomanu.blockcarpentry.BlockCarpentryMain/]: Registering all blocks and items from BlockCarpentry
+[05Nov2022 11:51:11.186] [modloading-worker-29/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[05Nov2022 11:51:11.202] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[05Nov2022 11:51:11.219] [modloading-worker-19/INFO] [mod.pianomanu.blockcarpentry.setup.Registration/]: Registering blocks from BlockCarpentry
+[05Nov2022 11:51:11.219] [modloading-worker-19/INFO] [mod.pianomanu.blockcarpentry.setup.Registration/]: Registering items from BlockCarpentry
+[05Nov2022 11:51:11.219] [modloading-worker-19/INFO] [mod.pianomanu.blockcarpentry.setup.Registration/]: Registering tiles from BlockCarpentry
+[05Nov2022 11:51:11.220] [modloading-worker-19/INFO] [mod.pianomanu.blockcarpentry.setup.Registration/]: Registering containers from BlockCarpentry
+[05Nov2022 11:51:11.220] [modloading-worker-19/INFO] [mod.pianomanu.blockcarpentry.setup.Registration/]: Registering points of interest from Blockcarpentry
+[05Nov2022 11:51:11.220] [modloading-worker-19/INFO] [mod.pianomanu.blockcarpentry.BlockCarpentryMain/]: Registered all blocks and items from BlockCarpentry
+[05Nov2022 11:51:11.404] [modloading-worker-11/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 1 RS API injection point
+[05Nov2022 11:51:11.405] [modloading-worker-11/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Injected RS API in com.refinedmods.refinedstorageaddons.RSAddons RSAPI
+[05Nov2022 11:51:11.457] [modloading-worker-4/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.34, for MC 1.16.5 with MCP 20210115.111550
+[05Nov2022 11:51:11.457] [modloading-worker-4/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.34 Initialized
+[05Nov2022 11:51:11.464] [modloading-worker-9/INFO] [net.minecraftforge.coremod.CoreMod.the_vault/COREMODLOG]: Adding 'reach_set_server_entity_interact' ASM patch...
+[05Nov2022 11:51:11.464] [modloading-worker-9/INFO] [net.minecraftforge.coremod.CoreMod.the_vault/COREMODLOG]: Added 'reach_set_server_entity_interact' ASM patch!
+[05Nov2022 11:51:11.485] [modloading-worker-25/WARN] [mixin/]: @Final field field_187234_c:Ljava/util/Map; in performant.mixins.json:entity.EntityDataManagerMixin should be final
+[05Nov2022 11:51:11.555] [modloading-worker-23/INFO] [PluginManager/]: Scanning classes for titanium
+[05Nov2022 11:51:11.560] [modloading-worker-16/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Disabled because not running on the client.
+[05Nov2022 11:51:11.619] [modloading-worker-23/INFO] [PluginManager/]: Constructed class IndustrialForegoingResourcePlugin for plugin resources for mod titanium
+[05Nov2022 11:51:11.619] [modloading-worker-23/INFO] [PluginManager/]: Constructed class DefaultResourceRegistryPlugin for plugin resources for mod titanium
+[05Nov2022 11:51:11.619] [modloading-worker-23/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class IndustrialForegoingResourcePlugin
+[05Nov2022 11:51:11.657] [modloading-worker-23/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class DefaultResourceRegistryPlugin
+[05Nov2022 11:51:11.682] [modloading-worker-4/INFO] [JarSignVerifier/]: Mod usefulrailroads is signed with a valid certificate.
+[05Nov2022 11:51:11.980] [modloading-worker-8/INFO] [wile.engineersdecor.ModEngineersDecor/]: Engineer's Decor GIT id #c213a42.
+[05Nov2022 11:51:12.037] [modloading-worker-22/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LootTableManager#apply
+[05Nov2022 11:51:12.035] [modloading-worker-19/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: storagedrawers, class com.jaquadro.minecraft.storagedrawers.StorageDrawers
+java.lang.NullPointerException: null
+	at net.minecraftforge.eventbus.ASMEventHandler.<init>(ASMEventHandler.java:50) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.register(EventBus.java:254) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.registerListener(EventBus.java:150) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$null$6(EventBus.java:98) ~[eventbus-4.0.0.jar:?]
+	at java.util.Optional.ifPresent(Optional.java:159) ~[?:1.8.0_342]
+	at net.minecraftforge.eventbus.EventBus.lambda$registerObject$7(EventBus.java:98) ~[eventbus-4.0.0.jar:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:1.8.0_342]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:175) ~[?:1.8.0_342]
+	at java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948) ~[?:1.8.0_342]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482) ~[?:1.8.0_342]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472) ~[?:1.8.0_342]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:1.8.0_342]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:1.8.0_342]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:1.8.0_342]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:485) ~[?:1.8.0_342]
+	at net.minecraftforge.eventbus.EventBus.registerObject(EventBus.java:94) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.register(EventBus.java:120) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.registries.DeferredRegister.register(DeferredRegister.java:158) ~[forge:?]
+	at com.jaquadro.minecraft.storagedrawers.StorageDrawers.<init>(StorageDrawers.java:66) ~[storagedrawers:1.16.3-8.5.0]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_342]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_342]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_342]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_342]
+	at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_342]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:81) ~[forge:36.2]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:120) ~[forge:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1640) [?:1.8.0_342]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1632) [?:1.8.0_342]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) [?:1.8.0_342]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) [?:1.8.0_342]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) [?:1.8.0_342]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175) [?:1.8.0_342]
+[05Nov2022 11:51:12.102] [modloading-worker-22/WARN] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Attempting to add a Lambda listener with computed generic type of Event. Are you sure this is what you meant? NOTE : there are complex lambda forms where the generic type information is erased and cannot be recovered at runtime.
+[05Nov2022 11:51:12.123] [modloading-worker-9/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[05Nov2022 11:51:12.411] [modloading-worker-1/INFO] [PluginManager/]: Executing phase INIT for plugin class ImmersiveEngineeringPlugin
+[05Nov2022 11:51:12.411] [modloading-worker-1/INFO] [PluginManager/]: Executing phase INIT for plugin class CuriosPlugin
+[05Nov2022 11:51:12.574] [modloading-worker-1/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class ImmersiveEngineeringPlugin
+[05Nov2022 11:51:12.574] [modloading-worker-1/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class CuriosPlugin
+[05Nov2022 11:51:13.051] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[05Nov2022 11:51:13.052] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[05Nov2022 11:51:13.937] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 1 errors found
+[05Nov2022 11:51:13.953] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID e3c3f204-10a3-4cdd-8b02-8d3f131f32ff
+[05Nov2022 11:51:13.954] [main/INFO] [STDOUT/]: [net.minecraft.crash.CrashReport:func_85057_a:196]: Negative index in crash report handler (16/18)
+[05Nov2022 11:51:13.958] [main/FATAL] [net.minecraftforge.fml.server.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2022-11-05_11.51.13-fml.txt
+[05Nov2022 11:51:13.960] [main/FATAL] [net.minecraft.server.Main/]: Failed to start the minecraft server
+net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
+	Storage Drawers (storagedrawers) has failed to load correctly
+§7java.lang.NullPointerException: null
+]
+	at net.minecraftforge.fml.ModLoader.waitForTransition(ModLoader.java:269) ~[forge:?]
+	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:236) ~[forge:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:194) ~[forge:?]
+	at net.minecraftforge.fml.server.ServerModLoader.load(ServerModLoader.java:44) ~[forge:?]
+	at net.minecraft.server.Main.main(Main.java:95) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_342]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_342]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_342]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_342]
+	at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:51) ~[forge-1.16.5-36.2.34.jar:36.2]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:63) [forge-1.16.5-36.2.34.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:60) [forge-1.16.5-36.2.34.jar:?]
+	at net.minecraftforge.server.ServerMain.main(ServerMain.java:57) [forge-1.16.5-36.2.34.jar:?]
