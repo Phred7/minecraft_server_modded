@@ -2193,6 +2193,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_warped": {
+    "criteria": {
+      "has_plank": "2022-11-13 21:19:03 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2022-05-21 23:37:48 -0600"
@@ -6003,6 +6009,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_the_recipe": "2022-05-20 16:03:50 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_warped": {
+    "criteria": {
+      "has_plank": "2022-11-13 21:19:03 -0700"
     },
     "done": true
   },
