@@ -40,3 +40,21 @@
 [18Nov2022 15:00:02.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
 [18Nov2022 15:00:03.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
 [18Nov2022 15:00:04.124] [RCON Client /192.168.1.200 #43/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[18Nov2022 15:00:12.584] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[18Nov2022 15:00:12.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now enabled]
+[18Nov2022 15:00:13.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world complete---
+[18Nov2022 15:00:13.585] [RCON Client /192.168.1.200 #44/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
+[18Nov2022 15:33:46.043] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[18Nov2022 15:33:46.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[18Nov2022 15:33:46.208] [Thread-1811/INFO] [FTB Utilities Backups/]: Deleting backup to free space: 2022-11-14-18-25-10.zip
+[18Nov2022 15:33:46.220] [Thread-1811/INFO] [FTB Utilities Backups/]: Deleting backup to free space: 2022-11-16-15-33-45.zip
+[18Nov2022 15:33:46.400] [Thread-1811/INFO] [FTB Utilities Backups/]: Backing up 9213 files...
+[18Nov2022 15:33:46.401] [Thread-1811/INFO] [FTB Utilities Backups/]: Compressing 9213 files...
+[18Nov2022 15:36:42.816] [Thread-1811/INFO] [FTB Utilities Backups/]: Done compressing in 02:56 seconds (7.0GB)!
+[18Nov2022 15:36:42.817] [Thread-1811/INFO] [FTB Utilities Backups/]: Created /home/mcserver/repositories/minecraft_server_modded-main/backups/2022-11-18-15-33-46.zip from /home/mcserver/repositories/minecraft_server_modded-main/Vault-Hunters
+[18Nov2022 15:36:42.817] [Thread-1811/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 02:56! (7.0GB | 14.0GB)
+[18Nov2022 19:00:01.678] [RCON Listener #2/INFO] [net.minecraft.network.rcon.RConThread/]: Thread RCON Client /192.168.1.200 started
+[18Nov2022 19:00:01.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] ---saving world---
+[18Nov2022 19:00:02.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Automatic saving is now disabled]
+[18Nov2022 19:00:03.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Saved the game]
+[18Nov2022 19:00:04.716] [RCON Client /192.168.1.200 #45/INFO] [net.minecraft.network.rcon.ClientThread/]: Thread RCON Client /192.168.1.200 shutting down
